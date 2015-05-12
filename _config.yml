@@ -6,7 +6,8 @@ description: Site officiel des HYPNoDINGUES
 logo: site-logo.png
 search: true
 # url: http://localhost:4000
-url: http://nichub.github.io/hypnodingues.org
+# url: http://nichub.github.io/hypnodingues.org
+url: http://hypnodingues.org
 
 # Jekyll configuration
 
