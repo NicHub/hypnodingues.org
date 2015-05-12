@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Hypnodingues
+title: HYPNoDINGUES
 locale: fr_FR
-description: Site officiel des Hypnodingues.
+description: Site officiel des HYPNoDINGUES
 logo: site-logo.png
 search: true
-# url: http://localhost:4000
-url: http://nichub.github.io/hypnodingues.org/
+url: http://localhost:4000
+# url: http://nichub.github.io/hypnodingues.org/
 
 # Jekyll configuration
 
@@ -32,11 +32,11 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: HYPNoDINGUES
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
-  twitter: #username
+  twitter: #coucou
   facebook: #username
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username

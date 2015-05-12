@@ -62,6 +62,7 @@ span + .entry-title {
 	font-weight: 400;
 	line-height: 1;
 	letter-spacing: -3px;
+	text-align: center;
 	a {
 		color: $black;
 		text-decoration: underline;
@@ -153,6 +154,8 @@ span + .entry-title {
 /* main content block */
 
 .entry-content {
+	width: 100% !important;
+	text-align: justify;
 	@include span-columns(12);
 	p:first-child {
 		margin-top: 0;
