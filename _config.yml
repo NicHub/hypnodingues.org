@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: Hypnodingues
+locale: fr_FR
+description: Site officiel des Hypnodingues.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+# url: http://localhost:4000
+url: http://nichub.github.io/hypnodingues.org/
 
 # Jekyll configuration
 
