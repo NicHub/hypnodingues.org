@@ -19,7 +19,7 @@ Si vous avez l’impression d’être trop petit pour pouvoir changer quelque ch
 [ *le Dalaï Lama* ]
 
 
-Il y a un exemple beaucoup moins métaphorique et beaucoup plus impressionant de cette citation du Dalaï Lama. C’est l’histoire de *Forest Man* que vous pouvez lire et voir ci-dessous :
+Il y a un exemple beaucoup moins métaphorique et beaucoup plus impressionant de cette citation du Dalaï Lama. C’est l’histoire de Jadav Payeng dit *Forest Man* que vous pouvez lire et voir ci-dessous :
 
 <http://www.toolito.com/bio/homme-plante-foret-30-ans-arbre-jadav-payeng/>
 
