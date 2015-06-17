@@ -24,6 +24,8 @@ Il y a un exemple beaucoup moins métaphorique et beaucoup plus impressionant de
 <http://www.toolito.com/bio/homme-plante-foret-30-ans-arbre-jadav-payeng/>
 
 
+Notez que vous pouvez activer les sous-titres en français si vous cliquez sur la roue-dentée “Paramètres”.
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HkZDSqyE1do" frameborder="0" allowfullscreen></iframe>
 
