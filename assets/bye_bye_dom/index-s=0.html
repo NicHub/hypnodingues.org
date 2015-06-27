@@ -1,0 +1,851 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>hypnodingues.org</title>
+  <link href='http://fonts.googleapis.com/css?family=Pinyon+Script' rel='stylesheet' type='text/css' />
+
+  <style type="text/css">/* +++ master +++ */
+/* html elements */
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    overflow:hidden;
+    background-color: #f2f2f2;
+    color: #3c3c3c;
+    font-size: 110%;
+    -webkit-font-smoothing: antialiased;
+    widows: 2;
+    orphans: 2;
+	text-align: center;
+}
+
+.first_letter {
+	color: black;
+	font-size: 1.5em;
+}
+
+.ornement {
+	width: 200px;
+	color: #3c3c3c;
+}
+
+a {
+    color: #308bd8;
+    text-decoration:none;
+}
+a:hover {
+    text-decoration: underline;
+}
+/* headings */
+h1, h2 {
+    line-height:1.2em;
+    margin-bottom:12px;
+}
+h1 {  padding: 2cm 0; font-size: 2em; font-weight: 100;}
+h2 {  margin: 0 0 -0.6cm; padding: 2cm 0 0; font-size: 1.2em; font-weight: 100;}
+h1:first-child {
+    margin-top:0;
+}
+h3, h4, h5, h6 {
+    margin-top:12px;
+    margin-bottom:6px;
+}
+h5, h6 {
+    font-size:0.9em;
+    line-height:1.0em;
+    margin-bottom:0;
+}
+/* end of headings */
+p {
+    margin:0 0 24px 0;
+}
+p:last-child {
+    margin-bottom:0;
+}
+hr {
+    width: 100%;
+    margin: 3em auto;
+    border: 0;
+    color: #eee;
+    background-color: #ccc;
+    height: 1px;
+    -webkit-box-shadow:0px 1px 0px rgba(255, 255, 255, 0.75);
+}
+/* lists */
+ol {
+    list-style: outside decimal;
+}
+ul {
+    list-style: outside disc;
+}
+ol, ul {
+    padding-left:0;
+    margin-bottom:24px;
+}
+ol li {
+    margin-bottom:16px;
+    margin-left:28px;
+}
+ul li {
+    margin-bottom:16px;
+    margin-left:16px;
+}
+li:last-child {
+    margin-bottom:0;
+}
+li > p {
+    margin-bottom:12px;
+}
+li > ol, li > ul {
+    margin-top: 16px !important;
+    padding-left:16px;
+}
+dl {
+    margin-bottom:24px;
+}
+dl dt {
+    font-weight:bold;
+    margin-bottom:8px;
+}
+dl dd {
+    margin-left:0;
+    margin-bottom:12px;
+}
+dl dd:last-child, dl:last-child {
+    margin-bottom:0;
+}
+/* end of lists */
+pre {
+    width: 96%;
+    overflow: hidden;
+    padding: 3px 20px;
+    -webkit-border-radius: 3px;
+    background-color: #eee;
+    border: 1px solid #ddd;
+    font-family: inherit;
+	text-align: justify;
+	white-space: pre-line;
+    widows: 2;
+    orphans: 2;
+    hyphens: auto;
+}
+
+code {
+    white-space: nowrap;
+    font-size: 1.1em;
+    padding: 2px;
+    -webkit-border-radius: 3px;
+    background-color: #eee;
+    border: 1px solid #ddd;
+}
+pre code {
+    white-space: pre-wrap;
+    border: none;
+    padding: 0;
+    background-color: transparent;
+    -webkit-border-radius: 0;
+}
+blockquote {
+    margin-left: 0;
+    margin-right: auto;
+    width: 96%;
+    padding: 0 10px;
+    border-left: 3px solid #ddd;
+    color: #777;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 24px;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-spacing: 0;
+}
+table th {
+    padding: 3px 10px;
+    background-color: #eee;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+}
+table tr {
+}
+table td {
+    padding: 3px 10px;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+}
+caption {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+figure {
+    display: block;
+    text-align: center;
+}
+img {
+    border: none;
+    margin: 1em auto 0;
+    max-width: 100%;
+}
+figcaption {
+    font-size: 0.8em;
+    font-style: italic;
+}
+mark {
+    background: #fefec0;
+    padding:1px 3px;
+}
+
+/* unique elements */
+
+#wrapper {
+    position: fixed;
+    width: 99.9%;
+    height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    font-size: 1.0em;
+}
+#content {
+    width: 850px;
+    margin: 0 auto 0 auto;
+    padding: 30px 0 30px 0;
+    font-family: Cochin, Palatino, Georgia, serif;
+    font-family: 'Pinyon Script', Zapfino, cursive;
+    font-size: 1.7em;
+    line-height: 1.400000em;
+}
+
+#wrapper::-webkit-scrollbar {
+    width: 8px;
+    height: 10px;
+    -webkit-transition: all .45s ease-in;
+    position: relative;
+}
+#wrapper::-webkit-scrollbar-button:start:decrement, #wrapper::-webkit-scrollbar-button:end:increment {
+    height: 0px;
+    display: block;
+    background-color: transparent;
+}
+#wrapper::-webkit-scrollbar-track-piece {
+    background-color:
+    transparent;
+    -webkit-border-radius: 6px;
+}
+#wrapper::-webkit-scrollbar-thumb:vertical {
+    height: 50px;
+    background-color: #c8c8c8;
+    -webkit-border-radius: 6px;
+    -webkit-transition: all .45s ease-in;
+}
+
+/* classes */
+
+.markdowncitation {
+}
+.footnote {
+    font-size: 0.8em;
+    vertical-align: super;
+}
+.footnotes ol {
+    font-weight: bold;
+}
+.footnotes ol li p {
+    font-weight: normal;
+}
+
+/* custom formatting classes */
+
+.shadow {
+    -webkit-box-shadow: 0 2px 4px #999;
+}
+
+.source {
+    text-align: center;
+    font-size: 0.8em;
+    color: #777;
+    margin: -40px;
+}
+/* --- master --- */
+/* +++ export overrides +++ */
+#wrapper {
+    width: 99.9%;
+}
+#content {
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Mobile support */
+@media only screen and (max-device-width:1024px) {
+    html {
+        overflow: auto;
+    }
+
+    #wrapper {
+        overflow: auto;
+        position: relative;
+    }
+}
+/* --- export overrides --- */
+/* Printing support (Print and export to PDF).
+ * Override all printing colors to match the Light theme.
+ */
+@media print {
+
+	body {
+	    font-size: 80%;
+	}
+	.no_print { display: none; }
+/* 	img { display: none;} */
+	h1 {  padding: 1cm 0 1cm; }
+	h2 {
+		page-break-before: always;
+		margin: 0;
+		padding: 0;
+	}
+	pre {
+		font-size: 70%;
+		line-height: 1.2em;
+		border: none;
+		margin: 0 auto;
+		padding:0 1em 1em;
+		width: 90%;
+	}
+	@page {
+		size: A5;
+		margin:  0.8cm;
+	}
+
+    img, blockquote, table, figure {
+        page-break-inside: avoid;
+    }
+    object { display: none; }
+    body {
+        background-color:#fff;
+    }
+    #wrapper {
+        position: static;
+        overflow: hidden;
+        color: #3c3c3c;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .footnotes {
+        page-break-before: always;
+    }
+    #content {
+        margin: 0 auto;
+        padding: 0;
+        width: 98%;
+    }
+    #top-fader, #bottom-fader {
+        display: none;
+    }
+    a {
+        color: #3c3c3c;
+    }
+    hr {
+        color:#ddd;
+        background-color:#ddd;
+        -webkit-box-shadow:0px 1px 0px #ddd;
+    }
+    pre {
+        background-color:transparent;
+
+    }
+    code {
+        background-color:transparent;
+        border: 1px solid #ddd;
+    }
+    blockquote {
+        border-left: 3px solid #ddd;
+        color: #3c3c3c;
+    }
+    table {
+        border-bottom: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+    }
+    table th {
+        background-color:transparent;
+        border-top: 1px solid #ddd;
+        border-left: 1px solid #ddd;
+    }
+    table td {
+        border-top: 1px solid #ddd;
+        border-left: 1px solid #ddd;
+    }
+    mark {
+        background:transparent;
+        color: #3c3c3c;
+    }
+    .source {
+        color: #3c3c3c;
+    }
+}
+  </style>
+</head>
+<body lang="fr">
+<div id="wrapper">
+<div id="content">
+
+
+
+<div style="page-break-inside: avoid">
+<h1>Bye bye Dom</h1>
+<!--
+<p>Tu nous manqueras</p>
+<p>Tu nous manques déjà</p>
+ -->
+<p>Tu nous manques</p>
+
+<p><img style="border:0px solid;" src="2011-05-08_hypnose_chez_cath_003.png" alt="Dom" width="300" /></p>
+
+<p style="margin-top:-0.5cm; page-break-after: avoid; padding:0">Les Hypnodingues</p>
+<img alt="" src="ornements/9.svg" style="margin-top:0.5cm; width:300px; page-break-before: avoid;"/>
+
+</div>
+
+
+
+<pre class="no_print" style="text-align:center; margin-top: 2cm;">
+
+♫♪♫
+
+Cette page d’hommages peut être parcourue avec plusieurs ambiances sonores. Par défaut, c’est l’ambiance que Dom a choisie qui est jouée. Il s’agit de Nathalie Carbonneau – Je me battrai pour moi.
+
+Sur iPad, il faut presser sur play en bas de la page pour entendre la musique.
+
+<a href="index-s=2.html">• Nathalie Carbonneau – Je me battrai pour moi</a>
+<a href="index-s=1.html">• Tiffany Poon – Chopin Nocturne in b-flat minor, Op.9 No.1</a>
+<a href="index-s=3.html">• Jeff Buckley – Hallelujah</a>
+<a href="index-s=0.html">• Sans musique</a>
+
+♫♪♫
+
+</pre>
+
+<pre class="no_print" style="text-align:center; margin-top: 2cm;">
+
+Ce site est disponible en format PDF pour l’impression papier.
+
+Pour télécharger les fichiers PDF ci-dessous, il suffit de cliquer avec le bouton de droite sur les liens et de choisir « Enregistrer sous... ».
+
+Version PDF pour l’impression A4<br /><a href="pdf/bye_bye_dom.pdf">Bye bye Dom</a>
+
+Version PDF pour l’impression d’une plaquette A5. Il y a un document pour le recto et un autre pour le verso. Cette version a été imprimée en quatre exemplaires que l’on a transmis le jour des obsèques : un pour elle, et les autres pour les trois « hommes de sa vie ».<br /><a href="pdf/bye_bye_dom_a.pdf">Bye bye Dom A (recto)</a><br /><a href="pdf/bye_bye_dom_b.pdf">Bye bye Dom B (verso)</a>
+
+</pre>
+
+
+<img alt="" src="ornements/1.svg" style="margin-top:4cm"/>
+
+
+
+
+
+<h2 id="dom_et_gilbert">Dom &amp; Gilbert</h2>
+<img class="ornement" src="ornements/0.svg" alt="" />
+<pre>
+
+– C’était une grande joie de vous avoir tous rencontrés, d’avoir partagé plein de choses et j’espère que vous allez tous aller au chalet ! J’espère... ce serait génial... parce qu’il se passerait plein de choses là haut...
+– Alors tu viendras !?
+– Ah oui !
+– Et quand on ira se balader, tu viendras aussi cette fois ?
+– Alors là, je pense qu’il n’y aura pas de souci !
+
+</pre>
+
+
+
+<img alt="" src="ornements/2.svg" />
+
+<h2 id="nicolas">Message de Nicolas</h2>
+<img class="ornement" src="ornements/0.svg" alt="" />
+<pre>
+
+Alors voilà, c’est aujourd’hui, vendredi 31 mai 2013, que tu as décidé d’aller rejoindre ton fils Damien dans l’au-delà. La vie est un mystère et la mort est peut-être ce qu’il y a de plus mystérieux dans la vie. Car tu le sais mieux que nous maintenant, la mort n’est pas l’opposé de la vie, l’opposé de la mort, c’est la naissance. La vie n’a pas contraire. Toi, tu continueras à vivre dans nos souvenirs et au ciel avec les anges.
+
+Quel choc ça a été quand tu nous as envoyé ton message pour nous avertir de ta décision de t’autolibérer. Beaucoup d’émotions, beaucoup de tristesse. Même si je respecte ton choix, je dois avouer que c’est dur de l’accepter.
+
+Le temps était maussade aujourd’hui, au propre, comme au figuré. Je suis allé faire une balade sous la pluie. Il n’y avait quasiment personne au bord du lac Léman. Ça m’a fait drôle de me sentir vivant. J’ai ressenti la vie comme étant quelque chose de spécial, à vivre maintenant et intensément. Après, c’est trop tard. Peut-être que les morts peuvent nous rendre plus vivants. Je l’espère en tout cas.
+
+Il paraît que tu es partie sereinement, que tout s’est parfaitement déroulé et que tu as été magnifique, comme le soir d’avant. Alors c’est cette image de toi que je garderai. Une Dom, sereine, sûre d’elle-même et qui va de l’avant dans la joie et la bonne humeur.
+
+En tout cas merci d’avoir été là. Sans toi, les Hypnodingues n’auraient peut-être pas existé et ça aurait été une grande perte pour nous toutes et nous tous.
+
+Plein de bises,
+
+Nicolas
+
+</pre>
+
+
+<img alt="" src="ornements/3.svg" />
+
+
+<h2 id="rumi">Citation de Rûmî</h2>
+<img class="ornement" src="ornements/0.svg" alt="" />
+<pre>
+
+Vous êtes né rempli de potentiel
+Vous êtes né rempli de bonté et d’assurance
+Vous êtes né plein de rêves et d’idéaux
+Vous êtes né revêtu de grandeur
+Vous êtes né avec des ailes
+Vous n’êtes pas né pour ramper
+Alors abstenez-vous.
+Vous avez des ailes. Apprenez à vous en servir et vous vous envolerez.
+
+[ <i>Djalâl ad-Dîn Rûmî, mystique persan du 13<sup>e</sup> siècle</i> ]
+
+</pre>
+
+<img alt="" src="ornements/4.svg" />
+
+
+
+
+<h2 id="christophe">Message de Christophe</h2>
+<img class="ornement" src="ornements/0.svg" alt="" />
+<pre>
+
+Regarde les oiseaux dans les cieux humides et argentés
+Écoute la brise marine, chargée de sel
+Le soleil est rouge au coucher
+Égoïste ! En moi, la brûlure, l’incendie
+Et ta voix limpide, sereine et détendue
+Toi qui braves les interdits
+Des gens bien portants, rien n’est dû !
+Quand la vie t’écharpe
+Alors, que la vie s’échappe !
+En bas, les mystères de la vie
+En bas, les mystères de la mort
+Toi dis-moi à quoi sert de mettre dans la vie
+Du sel, quand tombe le corps
+Quand la vie n’est qu’une plaie béante
+Quand les lames se font lancinantes
+Avaler des rasoirs
+Et des mots dérisoires
+Quand les maux sont silences
+Quand tes silences sont poèmes
+Quand les poèmes sont je t’aime
+Dis-moi avec quel breuvage
+As-tu célébré ton passage ?
+Toi qui ouvres la porte de tous les possibles
+Toi, ta voie ! Livide et reine et étendue
+Toi qui exhortes tes anges et l’invisible
+Toi à plus fort tu t’es rendue
+Là-bas, les mystères de la mort
+Là-bas, les mystères de la vie
+Toi qui ouvres les ailes du temps
+Toi tu as choisi les parfums du printemps
+Le besoin d’une escale
+D’un havre d’autre port
+Quand toi tu souffres en rafale
+Et que le vent te dévore
+Alors toi tu as le besoin paisible des bateaux
+Et les émotions se font sillages
+L’esprit et l’âme sont des oiseaux
+Toi, ta flamme magnifique, le plumage
+Fort est l’appel de la mer, et les cris des goélands
+Quand, toi tu seras loin du corps en tempêtes
+Alors loin des yeux humides, loin des tempêtes du cœur
+Alors dans le ciel limpide, les oiseaux chanteront en cœur
+Toi, soleil, flamme magnifique, ouvres l’horizon à tes âmes sœurs
+
+Christophe
+
+</pre>
+
+
+
+<img alt="" src="ornements/5.svg" style="margin-top:1cm;" />
+
+
+
+<h2 id="laetitia">Message de Laetitia</h2>
+<img class="ornement" src="ornements/0.svg" alt="" />
+<pre>
+
+<span class="first_letter">Dominique,</span>
+
+<span class="first_letter">D</span>ans mon cœur tu resteras
+<span class="first_letter">O</span>ù que tu sois.
+
+<span class="first_letter">M</span>erveilleux souvenirs
+<span class="first_letter">I</span>mprégné de nos rires.
+
+<span class="first_letter">N</span>ouvel envol pour toi
+<span class="first_letter">I</span>lluminé de joie.
+
+<span class="first_letter">Q</span>ue ce voyage t’offre
+<span class="first_letter">U</span>n nouveau départ
+<span class="first_letter">E</span>ternellement rempli d’Amour !
+
+Je t’admire d’avoir suivi ton cœur, d’avoir osé faire ce que tu désirais profondément faire pour toi ! Comme le dit Gilbert, tu es un Maître !
+
+Je t’aime fort Dominique !
+
+Laeti
+
+</pre>
+
+
+
+<img alt="" src="ornements/6.svg" style="height:650px" />
+
+
+
+
+
+<h2 id="monique">Message de Monique</h2>
+<img class="ornement" src="ornements/0.svg" alt="" />
+<pre>
+
+Durant toutes ces années de souffrances et privations, une formidable « Énergie de Vie » t’a poussée à te battre avec courage pour vivre et rayonner autour de toi.
+
+Tu as compris que tu avais atteint le bout du chemin sur cette terre et tu as choisi de suivre ton Guide pour une Nouvelle Aventure.
+
+Ton souvenir restera toujours dans mon cœur.
+
+Je te souhaite « Bon Voyage ».
+
+Au Revoir !
+
+Monique
+
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img alt="" src="ornements/7.svg" style="height:650px" />
+
+
+
+
+
+
+
+
+
+
+
+<h2 id="audrey">Message d’Audrey</h2>
+<img class="ornement" src="ornements/0.svg" alt="" />
+<pre>
+
+Dominique... merci. Merci infiniment pour tout ce que tu nous as appris à tous, merci pour cette belle énergie et ce rayonnement que tu as partagé.
+
+J’admire ton courage qui t’a poussé à entrer dans la suite du grand voyage, la tête haute, sereine, en Conscience. Et tout ça si bien préparé, avec amour.
+
+La mort est le couronnement de la vie et tu l’as couronnée d’une façon à la fois surprenante et magnifique. C’était le choc au début pour moi, et puis au fur et à mesure que j’en ai appris un peu plus sur ton histoire, j’ai fini par savoir du fond du cœur que tu as fait ce qu’il fallait, à tes yeux, et je t’accompagne en pensée, pour que la suite du voyage soit belle.
+
+Ton énergie sera toujours vivante parmi nous, nous apprendrons encore ensemble, au-delà de l’espace et du temps ; parce que l’amour n’appartient pas à une dimension... Lorsqu’il est, il est partout à la fois.
+
+Avec amour.
+
+Audrey
+
+<span class="no_print" style="text-align: center;"><a href="a_toi_dom_pour_le_grand_voyage.mp3">♫♪♫ À toi Dom pour le grand voyage ! ♫♪♫</a></span>
+
+</pre>
+
+
+
+
+
+<img alt="" src="ornements/10.svg" style="height:650px" />
+
+
+
+
+
+<h2 id="celine">Message de Céline</h2>
+<img class="ornement" src="ornements/0.svg" alt="" />
+<pre>
+
+Ma chère Dominique,
+
+Te connaître a été un véritable plaisir. La vie n’a pas toujours été un long fleuve tranquille pour toi, mais tu nous as prouvé maintes fois que tu étais forte et que dans la vie, il fallait se battre.
+
+Tes souffrances sont maintenant abrégées, tu as rejoint les étoiles et ton fils chéri Damien...
+
+Céline
+
+</pre>
+
+
+
+
+
+
+
+
+
+
+<p><img src="dominique_low_res.jpg" alt="Dom" /></p>
+<p><a href="index-s=1.html" class="no_print">♫♪♫ Musique pour continuer à méditer ensemble ♫♪♫ </a></p>
+
+
+<h2 id="genevieve">Message de Geneviève</h2>
+<img class="ornement" src="ornements/0.svg" alt="" />
+<pre>
+
+Dominique,
+
+Nous avions convenu d’escalader le Piton des neiges ensemble dans l’île de la Réunion à 3071 m, laissant ta chaise roulante dans un passé presque oublié. Ton destin en a décidé autrement et s’il s’agissait de prendre de la grandeur et de la hauteur pour admirer le sublime paysage, tu es partie avant moi.
+
+Pourtant avec toi, j’ai compris encore plus aujourd’hui que les plus beaux paysages sont encore ceux du partage et de l’expression de nos cœurs. Tu m’as accueilli sur le chemin, je t’ai invitée sur le mien, nous avons ri, nous avons fait des détours et emprunté parfois le sentier des écoliers, mais la destination était bien la réunion, nul besoin d’île en vérité. Merci Dominique pour ces magnifiques échanges, avec tout le groupe des Hypnodingues, tu resteras un joyau précieux au plus profond de nos âmes.
+
+Geneviève
+
+</pre>
+
+
+
+
+
+
+
+<img alt="" src="ornements/8.svg" style="height:650px" />
+
+
+
+<h2 id="gilbert">Message de Gilbert</h2>
+<img class="ornement" src="ornements/0.svg" alt="" />
+<pre>
+
+Dominique,
+
+Que dire... tu sais que je préfère la pratique à la théorie... Les actes au discours...
+
+Quel bel envol tu as fait lors de notre dernière hypnose... quel beau chemin tu m’as montré. Tu m’as choisi comme coach, et quel parcours, que d’émotions, d’expériences nous avons traversés... merci pour tout ce que j’ai appris à tes côtés... Merci aussi de nous avoir réunis...  sans toi, ma vie ne serait pas ce qu’elle est aujourd’hui, je n’aurais pas les amis que j’ai dans ma vie maintenant...
+
+Me reste qu’une seule chose à dire, Bravo ! Félicitation pour tout ce que tu as accompli, ce que tu as fait pour toi, ton combat, ton éveil, ta route, et tout cet Or que tu as su redistribuer aux autres... ton aide, ta présence...
+Et alors, tu peux simplement de là où tu es... laisser tout doucement et avec chaque partie de tout ton être... cette lumière peut-être violette encore qui t’entoure certainement peut-être déjà... tout en t’absorbant davantage dans ses changements qui s’opèrent maintenant ou juste après... comme un magnifique feu d’artifice... qui naît et grandit de ton cœur... vers ce qui subsiste... en nous de toi... pour un temps ou plus longtemps encore... et encore... comme un message qui reviens d’une partie de toi... intemporelle, vers cette partie de moi, de nous, de ce qui a fait ce nous... en toi... en moi... en tous... et peut-être comme une dernière danse... ou une transe... que tu danses... avec les étoiles ou toutes ces roses que tu as trouvées la dernière fois... dans ce champ qui t’a conduit à ce paradis blanc... où tu peux dormir tranquillement... que le silence pour respirer... recommencer là où le monde a commencé... comme dans un rêve d’enfant... comme notre dernier « voyage »... libre...
+
+Gilbert
+
+</pre>
+
+
+
+
+
+<img alt="" src="ornements/11.svg" style="height:650px" />
+
+<h2 id="sonia">Message de Sonia</h2>
+<img class="ornement" src="ornements/0.svg" alt="" />
+<pre>
+
+Dominique,
+
+Un grand merci à toi Dom !
+
+Tout d’abord de grâce à toi, il existe une bonne équipe d’amis.
+
+Je me souviens de notre première rencontre avec Dan, des repas partagés ensemble, puis de la toute première réunion chez toi.
+
+Ensuite des réunions tous les mois, du chalet... tant de chemin parcouru, d’émotions qui m’ont appris tant de choses.
+
+Tu as fait le choix de retrouver ta liberté et pour moi tu seras toujours présente dans mes pensées.
+
+Merci pour la conversation que nous avons eue jeudi avant que tu partes pour le grand voyage et comme tu me l’as dit je te dis encore à bientôt.
+
+Sonia
+
+</pre>
+
+
+
+<img alt="" src="ornements/12.svg" style="height:650px" />
+
+<h2 id="catherine">Message de Catherine</h2>
+<img class="ornement" src="ornements/0.svg" alt="" />
+<pre>
+
+Émotions & gratitude
+
+Plutôt que des mots, je préfère t’envoyer la chanson Hallelujah de Jeff Buckley.
+
+Je suis sûre que vous avez YouTube au paradis.
+
+Bye bye Dom
+
+<p><a href="index-s=3.html" class="no_print">♫♪♫ Hallelujah de Jeff Buckley ♫♪♫ </a></p>
+</pre>
+
+
+
+
+
+<!-- <p style="page-break-before:always;"> </p> -->
+<img alt="" src="ornements/13.svg" style="height:650px" />
+
+<img style="page-break-before:always; margin:0; padding:0" src="2012-09-14_hypnodingues_au_chalet_audrey_021_low_res.jpg" alt="chalet" />
+
+<h2 style="margin-top:4cm;">On t’aime Dom !</h2>
+<p style="margin-top:4cm; font-size:50pt; text-align:center;">♡</p>
+
+
+
+
+
+
+<h2 id="ajouts">Ajouts de dernière minute</h2>
+<pre>
+
+<a href="delires_avec_ma_coach_preferee.mp3">Délires avec ma coach préférée, de Geneviève</a>
+
+<a href="http://goo.gl/maps/29tyv">La dernière demeure de Dom au lac des Mongerons sur Google Maps</a>
+
+Dom a émis le souhait qu’on ne dépense pas d’argent pour des fleurs, mais que l’on fasse plutôt un don à
+Pro-Infirmis Fribourg,
+CCP 17-1278-9
+avec mention deuil Mme Dominique Doutaz.
+
+</pre>
+
+
+
+
+
+
+
+
+
+<!--
+https://developers.google.com/youtube/player_parameters
+https://developers.google.com/youtube/youtube_player_demo
+-->
+
+<!--
+<iframe width="280" height="157"  src="http://www.youtube.com/embed/hE8WMZUSs-g?autoplay=1&loop=1&playlist=hE8WMZUSs-g" frameborder="0"></iframe>
+-->
+
+
+
+</div>
+</div>
+
+</body>
+</html>
