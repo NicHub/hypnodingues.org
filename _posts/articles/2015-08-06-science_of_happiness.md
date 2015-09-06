@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dan Gilbert: The surprising science of happiness
+title: Dan Gilbert — The surprising science of happiness
 date: 2015-08-06 19:40:0.000000000 +01:00
 categories:
 - Divers
