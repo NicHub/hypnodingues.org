@@ -3,7 +3,7 @@ layout: post
 title: « Pourquoi sommes-nous heureux ? » demande Dan Gilbert.
 date: 2013-01-16 00:35:31.000000000 +01:00
 categories:
-- Conférences
+- conferences
 tags: []
 status: publish
 type: post
