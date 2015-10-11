@@ -74,6 +74,8 @@ Le « pourquoi » et le « comment » sont liés à notre cerveau limbique
 
 - **Martin Luther King**
 
+[En vidéo](https://www.youtube.com/watch?v=Wxc6iqRC-n8)
+
 > « I have a dream that one day this nation will rise up and live out the true meaning of its creed: “We hold these truths to be self-evident, that all men are created equal.” »
 
 > — « Je fais le rêve qu’un jour cette nation se lèvera et vivra le vrai sens de sa foi : “Nous tenons ces vérités comme allant de soi, que les hommes naissent égaux.” »
