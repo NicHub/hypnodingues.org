@@ -1,4 +1,9 @@
 # Site wide configuration
+# git update-index --assume-unchanged "_config.yml"
+# git update-index --no-assume-unchanged "_config.yml"
+# bundle exec jekyll build
+# bundle exec jekyll serve
+
 
 title: HYPNoDINGUES
 locale: fr_FR
