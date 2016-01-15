@@ -16,6 +16,19 @@ excerpt:
 
 > source : [axolot.info](http://www.axolot.info/?p=540)
 
+- [1. L’effet Forer](#leffet-forer)
+- [2. La dissonance cognitive](#la-dissonance-cognitive)
+- [3. Le conformisme](#le-conformisme)
+- [4. La paréidolie](#la-pareidolie)
+- [5. Les corrélations illusoires](#les-corrlations-illusoires)
+- [6. Les faux souvenirs](#les-faux-souvenirs)
+- [7. La cécité d’inattention](#la-ccit-dinattention)
+- [8. La croyance en la justice du monde](#la-croyance-en-la-justice-du-monde)
+- [9. Les prophéties autoréalisatrices](#les-prophties-autoralisatrices)
+- [10. La connaissance rétrospective](#la-connaissance-rtrospective)
+- [À lire aussi](#lire-aussi)
+
+
 # 1. L’effet Forer
 
 Également connu sous le nom d’effet « Barnum », célèbre homme de cirque américain qui disait que chaque minute nait un gogo, l’effet Forer désigne l’impression qu’une description vague s’applique spécifiquement à notre personnalité. Ce phénomène fut découvert en 1948 par le psychologue Bertram Forer, lorsqu’il fit passer un test de personnalité à ses étudiants. En guise de résultat, Forer rendit à chacun le même assemblage de phrases types qu’il avait recueilli dans divers horoscopes : « Vous avez besoin d’être aimé, mais pourtant vous êtes critique avec vous-même. Vous avez certains points faibles, mais vous savez généralement les compenser. Vous pouvez être bavard et sociable, mais à certains moments vous êtes plutôt réservé… » Quand Forer demanda à ses étudiants d’évaluer l’exactitude des analyses qu’ils avaient reçues sur une échelle de 1 à 5, la moyenne des notes fut de 4,26 ! La puissance de l’effet, jamais démentie, s’explique notamment par la tendance que nous avons à écarter les descriptions inexactes pour nous concentrer sur celles qui nous conviennent. Sans l’effet Forer, l’astrologie, la voyance, la numérologie et la plupart des pseudosciences n’auraient sans doute pas le même succès…
