@@ -8,8 +8,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '2'
 author:
   first_name: Nico
 excerpt:
@@ -21,4 +19,4 @@ excerpt:
 <h2>La Maîtrise de l'Intention</h2>
 <p>Les deux premières maîtrises nous conduisent à avoir un mental libéré du Parasite, ce qui correspond à la troisième maîtrise, la Maîtrise de l'Amour ou Maîtrise de l'Intention. Du point de vue toltèque, l'amour ou l'intention est l'aspect de la vie qui rend possible la transformation de l'énergie. C'est la Vie elle-même ; c'est l'Amour inconditionnel. Tout est fait d'amour car tout vient de Dieu ou de la Vie. Lorsque l'on maîtrise l'amour, on maîtrise le rêve de sa vie, et lorsque les trois maîtrises sont atteintes, on revendique à nouveau sa divinité et l'on devient un avec Dieu. Ensuite, chacune de nos actions est une expression de l'Être Unique. Voilà le but des Toltèques.</p>
 <p>[ <em>Don Miguel Ruiz</em> ]</p>
-<p>Voir aussi : <a href="http://hypnodingues.org/archives/1170">Les Quatre Accords Toltèques</a></p>
+<p>Voir aussi : <a href="/citations/les-quatre-accords-tolteques/">Les Quatre Accords Toltèques</a></p>

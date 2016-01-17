@@ -8,8 +8,6 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '2'
 author:
   first_name: Nico
 excerpt:
@@ -28,5 +26,5 @@ ou que vous rêvez de faire, faites-la.<br />
 L'audace a du génie, de la puissance et de la magie."<br />
 Johann Wolfgang von Goethe</p>
 <p>&nbsp;</p>
-<p><a href="http://hypnodingues.org/wp-content/uploads/2013/02/2013-01-31_medium_lausanne.pdf">2013-01-31_medium_lausanne (fichier PDF)</a></p>
-<p><a href="http://hypnodingues.org/wp-content/uploads/2013/02/2013-02-01_medium_geneve.pdf">2013-02-01_medium_geneve (fichier PDF)</a></p>
+<p><a href="/assets/2013-01-31_medium_lausanne.pdf">2013-01-31_medium_lausanne (fichier PDF)</a></p>
+<p><a href="/assets/2013-02-01_medium_geneve.pdf">2013-02-01_medium_geneve (fichier PDF)</a></p>

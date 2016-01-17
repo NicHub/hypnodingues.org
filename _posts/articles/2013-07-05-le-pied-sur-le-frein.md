@@ -8,13 +8,15 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '2'
 author:
   first_name: Nico
 excerpt:
 ---
-<p>Vous connaissez l’expression « Avoir le pied sur le frein et l’accélérateur en même temps » ? Et bien en voilà une variante en image :</p>
-<p>&nbsp;</p>
-<p><a href="http://hypnodingues.org/wp-content/uploads/2013/07/marsupilami.jpeg"><img class="aligncenter size-large wp-image-2598" alt="marsupilami" src="{{ site.url }}/assets/marsupilami-1024x322.jpeg" width="1024" /></a></p>
-<p>&nbsp;</p>
+
+Vous connaissez l’expression « Avoir le pied sur le frein et l’accélérateur en même temps » ? Et bien en voilà une variante en image :
+
+&nbsp;
+
+<a href="/assets/marsupilami.jpeg">
+<img class="aligncenter size-large wp-image-2598" alt="marsupilami" src="/assets/marsupilami-1024x322.jpeg" width="1024" />
+</a>

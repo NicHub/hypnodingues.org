@@ -137,7 +137,9 @@ Que la Joie et l'Abondance Vous Accompagnent !</p>
 <tbody>
 <tr>
 <td>Route de Chateauneuf-du-Pape, 84700 Sorgues, Vaucluse, FRANCE<a href="http://www.aweber.com/z/r/?zGycLEwctCyczJwsjBwMtEa0jOzsHGwsTMw="> </a></p>
-<p><img alt="" src="{{ site.url }}/assets/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj" width="1" height="1" /></td>
+<!-- <p><img alt="" src="{{ site.url }}/assets/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj" width="1" height="1" /> -->
+</td>
+
 </tr>
 </tbody>
 </table>

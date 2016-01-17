@@ -9,12 +9,11 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '2'
 author:
   first_name: Nico
 excerpt:
 ---
+
 <p>Bonjour,</p>
 <p>J’espère que vous allez bien par cette journée ensoleillée.</p>
 <p>Le mois de mai avance et dans quelques jours Janet Parker sera à nouveau parmi nous pour vous offrir deux soirées de démonstration publiques : une à Lausanne le jeudi 23 mai à 20h00 et une à Genève le 24 mai à 20h00 également. En attaché les adresses d’où elles auront lieu.</p>
@@ -30,6 +29,12 @@ Tél. 0041 22 700 3546</p>
 ou que vous rêvez de faire, faites-la.<br />
 L'audace a du génie, de la puissance et de la magie."<br />
 Johann Wolfgang von Goethe</p>
-<p><a href="http://hypnodingues.org/wp-content/uploads/2013/05/2013-05-23_medium_lausanne.pdf">2013-05-23_medium_lausanne (fichier PDF)</a></p>
-<p><a href="http://hypnodingues.org/wp-content/uploads/2013/05/2013-05-24_medium_geneve.pdf">2013-05-24_medium_geneve (fichier PDF)</a></p>
-<p>&nbsp;</p>
+
+<p>
+<a href="/assets/2013-05-23_medium_lausanne.pdf">2013-05-23_medium_lausanne (fichier PDF)</a>
+</p>
+
+<p>
+<a href="/assets/2013-05-24_medium_geneve.pdf">2013-05-24_medium_geneve (fichier PDF)</a>
+</p>
+

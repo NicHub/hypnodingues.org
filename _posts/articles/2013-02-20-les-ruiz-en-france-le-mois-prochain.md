@@ -9,12 +9,11 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '2'
 author:
   first_name: Nico
 excerpt:
 ---
+
 <blockquote><em>(voir affiche en pièce jointe)</em></p>
 <p><strong>Question</strong> : sur quel livre Guillaume Canet fait-il deux gros plans dans <em>Les petits moucho</em>irs ?<br />
 <strong>Réponse</strong> : <em>Les Quatre Accords Toltèques</em>, de Miguel Ruiz. Pas étonnant : en 14 ans, ce code de conduite pour vivre une vie meilleure a déjà conquis 7 millions de personnes dans près de 40 pays. Aujourd'hui, ces fameux accords sont même appliqués dans l'entreprise, aux États-Unis comme en France.</p>
@@ -36,4 +35,9 @@ excerpt:
 </div>
 </blockquote>
 <p>&nbsp;</p>
-<p style="text-align: center;"><a href="http://hypnodingues.org/wp-content/uploads/2013/02/RUIZ-MARS.jpg"><img class="aligncenter  wp-image-1807" alt="RUIZ MARS" src="{{ site.url }}/assets/RUIZ-MARS.jpg" width="476" height="674" /></a></p>
+<p style="text-align: center;">
+<a href="/assets/RUIZ-MARS.jpg">
+<img class="aligncenter  wp-image-1807" alt="RUIZ MARS" src="/assets/RUIZ-MARS.jpg" width="476" height="674" />
+</a>
+</p>
+
