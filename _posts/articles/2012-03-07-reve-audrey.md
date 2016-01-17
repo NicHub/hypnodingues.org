@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 'Rêve d’Audrey'
 date: 2012-03-07 13:43:26.000000000 +01:00
 categories:
 - Histoires et contes
@@ -8,14 +8,8 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '3'
 author:
-  login: Audrey
-  email: audrey.wyss@gmail.com
-  display_name: Audrey
   first_name: Audrey
-  last_name: Wyss
 excerpt:
 ---
 <p>Cette nuit, j'ai fait un des plus beaux rêves de ma vie.</p>
