@@ -1,24 +1,4 @@
---
---2016-01-17 10:53:37--  http://hypnodingues.org/wp-content/uploads/2015/04/m-de-amador1.jpg
-Reusing existing connection to hypnodingues.org:80.
-HTTP request sent, awaiting response... 404 Not Found
---
---2016-01-17 10:53:39--  http://hypnodingues.org/wp-content/uploads/2015/04/cropped-img_7685-e1321364963851.jpg
-Reusing existing connection to hypnodingues.org:80.
-HTTP request sent, awaiting response... 404 Not Found
---
---2016-01-17 10:53:45--  http://hypnodingues.org/wp-content/uploads/2014/10/message_annick_pour_martin.pdf
-Reusing existing connection to hypnodingues.org:80.
-HTTP request sent, awaiting response... 404 Not Found
---
---2016-01-17 10:53:46--  http://hypnodingues.org/wp-content/uploads/2014/10/messages_pour_martin.pdf
-Reusing existing connection to hypnodingues.org:80.
-HTTP request sent, awaiting response... 404 Not Found
---
---2016-01-17 10:53:47--  http://hypnodingues.org/wp-content/uploads/2014/09/2014-09-15_femina_infinity.pdf
-Reusing existing connection to hypnodingues.org:80.
-HTTP request sent, awaiting response... 404 Not Found
---
+
 --2016-01-17 10:53:48--  http://hypnodingues.org/wp-content/uploads/2014/07/CAM_0712.jpg
 Reusing existing connection to hypnodingues.org:80.
 HTTP request sent, awaiting response... 404 Not Found
