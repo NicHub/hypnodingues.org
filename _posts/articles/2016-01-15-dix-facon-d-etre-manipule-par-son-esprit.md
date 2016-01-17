@@ -78,6 +78,6 @@ Combien de fois avez-vous entendu des gens prétendre qu’ils connaissaient la 
 - [Les corrélations illusoires sur Charlatans.info](http://www.charlatans.info/correlations.shtml)
 - [Les faux souvenirs sur Wikipedia](http://fr.wikipedia.org/wiki/Faux_souvenirs_induits)
 - [La cécité d’inattention sur sur le Dictionnaire sceptique](http://www.sceptiques.qc.ca/dictionnaire/inattentionalblindness.html)
-- [La croyance en la justice du monde sur Cerveau&amp;Psycho]("http://www.cerveauetpsycho.fr/ewb_pages/f/fiche-article-dossier-morale-la-croyance-en-un-monde-juste-20735.php)
+- [La croyance en la justice du monde sur Cerveau&amp;Psycho](http://www.cerveauetpsycho.fr/ewb_pages/f/fiche-article-dossier-morale-la-croyance-en-un-monde-juste-20735.php)
 - [Les prophéties auto-réalisatrices sur Wikipedia](http://fr.wikipedia.org/wiki/Proph%C3%A9tie_autor%C3%A9alisatrice)
 - [Le biais de connaissance rétrospective sur Wikipedia (anglais)](http://en.wikipedia.org/wiki/Hindsight_bias)

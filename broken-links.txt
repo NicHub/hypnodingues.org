@@ -1,0 +1,404 @@
+--
+--2016-01-17 10:53:37--  http://hypnodingues.org/wp-content/uploads/2015/04/m-de-amador1.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:53:39--  http://hypnodingues.org/wp-content/uploads/2015/04/cropped-img_7685-e1321364963851.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:53:45--  http://hypnodingues.org/wp-content/uploads/2014/10/message_annick_pour_martin.pdf
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:53:46--  http://hypnodingues.org/wp-content/uploads/2014/10/messages_pour_martin.pdf
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:53:47--  http://hypnodingues.org/wp-content/uploads/2014/09/2014-09-15_femina_infinity.pdf
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:53:48--  http://hypnodingues.org/wp-content/uploads/2014/07/CAM_0712.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:53:50--  http://hypnodingues.org/wp-content/uploads/2014/07/CAM_0713.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:53:53--  http://hypnodingues.org/wp-content/uploads/2014/07/CAM_0714.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:53:56--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0695.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:53:58--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0696.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:01--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0697.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:03--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0700.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:05--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0702.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:07--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0703.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:10--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0649.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:12--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0656.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:14--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0658.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:16--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0664.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:19--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0665.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:21--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0670.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:23--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0671.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:25--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0685.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:28--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0613.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:30--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0616.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:32--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0629.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:34--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0618.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:37--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0635.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:39--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0624.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:41--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0637.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:43--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0638.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:46--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0276.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:48--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0331.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:50--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0409.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:53--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0411.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:55--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0494.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:57--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0505.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:54:59--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0507.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:02--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0516.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:04--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0517.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:06--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0518.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:08--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0536.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:11--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0547.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:13--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0504.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:15--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0277.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:17--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0297.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:20--  http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0558.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:22--  http://hypnodingues.org/wp-content/uploads/2014/05/CAM_0262.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:24--  http://hypnodingues.org/wp-content/uploads/2014/05/CAM_0263.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:26--  http://hypnodingues.org/wp-content/uploads/2014/05/CAM_0261.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:29--  http://hypnodingues.org/wp-content/uploads/2014/05/CAM_0228.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:31--  http://hypnodingues.org/wp-content/uploads/2014/05/CAM_0233.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:33--  http://hypnodingues.org/wp-content/uploads/2014/05/CAM_0234.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:35--  http://hypnodingues.org/wp-content/uploads/2014/05/CAM_0237.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:38--  http://hypnodingues.org/wp-content/uploads/2014/05/CAM_0238.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:40--  http://hypnodingues.org/wp-content/uploads/2014/05/CAM_0251.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:42--  http://hypnodingues.org/wp-content/uploads/2014/05/CAM_0260.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:44--  http://hypnodingues.org/wp-content/uploads/2014/05/CAM_0222.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:47--  http://hypnodingues.org/wp-content/uploads/2014/04/CAM_0156.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:49--  http://hypnodingues.org/wp-content/uploads/2014/04/CAM_0154.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:51--  http://hypnodingues.org/wp-content/uploads/2014/02/2014-02-19_cure_anxiety.pdf
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:52--  http://hypnodingues.org/wp-content/uploads/2013/10/domino_hypnotica.jpeg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:55--  http://hypnodingues.org/download/voir_clair/presentation_voir_clair.mp3
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:56--  http://hypnodingues.org/download/voir_clair/2013-09-15_hypnose_voir_clair.mp3
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:55:57--  http://hypnodingues.org/download/voir_clair/voir_de_mieux_en_mieux_exercices.pdf
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:00--  http://hypnodingues.org/wp-content/uploads/2013/07/marsupilami.jpeg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:18--  http://hypnodingues.org/wp-content/uploads/2013/06/AstucesPourGagnerDuTemps.pdf
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:22--  http://hypnodingues.org/wp-content/uploads/2013/05/2013-05-28_dc-formation-001.png
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:24--  http://hypnodingues.org/wp-content/uploads/2013/05/2013-05-28_dc-formation-002.png
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:26--  http://hypnodingues.org/wp-content/uploads/2013/05/2013-05-28_dc-formation-003.png
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:29--  http://hypnodingues.org/wp-content/uploads/2013/05/2013-05-28_dc-formation-004.png
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:31--  http://hypnodingues.org/wp-content/uploads/2013/05/MorgesSuisse-juin-2013.pdf
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:33--  http://hypnodingues.org/wp-content/uploads/2013/05/chautems_bressou_mailing2.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:35--  http://hypnodingues.org/wp-content/uploads/2013/05/2013-05-23_medium_lausanne.pdf
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:36--  http://hypnodingues.org/wp-content/uploads/2013/05/2013-05-24_medium_geneve.pdf
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:39--  http://hypnodingues.org/wp-content/uploads/2013/04/ruiz-Fr.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:43--  http://hypnodingues.org/assets/?l=OBp4V&m=Jcn_KWyEwMFhlj
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:44--  http://hypnodingues.org/archives/960
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:45--  http://hypnodingues.org/archives/953
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:47--  http://hypnodingues.org/wp-content/uploads/2013/03/image001.gif
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:49--  http://hypnodingues.org/wp-content/uploads/2013/02/RUIZ-MARS.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:52--  http://hypnodingues.org/wp-content/uploads/2013/02/2013-01-31_medium_lausanne.pdf
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:53--  http://hypnodingues.org/wp-content/uploads/2013/02/2013-02-01_medium_geneve.pdf
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:54--  http://hypnodingues.org/assets/jeucomplet.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:56--  http://hypnodingues.org/assets/quatuor.jpeg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:57--  http://hypnodingues.org/wp-content/uploads/2012/10/power_of_love.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:56:59--  http://hypnodingues.org/wp-content/uploads/2012/09/metaphore_kerouac.gif
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:03--  http://hypnodingues.org/wp-content/uploads/2012/09/mediter_jour_apres_jour.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:06--  http://hypnodingues.org/wp-content/uploads/2012/09/thumbnail_sennheiser_hd25-1ii-1-z.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:08--  http://hypnodingues.org/wp-content/uploads/2012/09/ZOOM-H4N.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:10--  http://hypnodingues.org/archives/1170
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:11--  http://hypnodingues.org/wp-content/uploads/2012/08/le_palais_des_illusions.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:14--  http://hypnodingues.org/download/DonMiguel-projet%20affiche.pdf
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:15--  http://hypnodingues.org/archives/754
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:16--  http://hypnodingues.org/archives/756
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:17--  http://hypnodingues.org/archives/758
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:18--  http://hypnodingues.org/archives/762
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:19--  http://hypnodingues.org/archives/764
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:20--  http://hypnodingues.org/archives/766
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:22--  http://hypnodingues.org/archives/768
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:23--  http://hypnodingues.org/wp-content/uploads/2012/05/zone_de_confort-zone_de_magie.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+--
+--2016-01-17 10:57:25--  http://hypnodingues.org/wp-content/uploads/2012/04/Hypnose.jpg
+Reusing existing connection to hypnodingues.org:80.
+HTTP request sent, awaiting response... 404 Not Found

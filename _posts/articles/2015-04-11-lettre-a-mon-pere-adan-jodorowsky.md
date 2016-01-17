@@ -8,14 +8,12 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '2'
 author:
   first_name: Nico
 excerpt:
 ---
 <p>Texte original : <a href="https://plancreateur.wordpress.com/2015/04/07/2101/" target="_blank">https://plancreateur.wordpress.com/2015/04/07/2101/</a><br />
-<a href="http://hypnodingues.org/wp-content/uploads/2015/04/m-de-amador1.jpg"><img class="aligncenter size-full wp-image-3721" src="{{ site.url }}/assets/m-de-amador1.jpg" alt="m-de-amador1" width="640" height="636" /></a></p>
+<a href="/assets/m-de-amador1.jpg"><img class="aligncenter size-full wp-image-3721" src="/assets/m-de-amador1.jpg" alt="m-de-amador1" width="640" height="636" /></a></p>
 <p>Adan Jodorowsky à posté le texte suivant sur son compte Facebook quelques jours avant l’anniversaire de son père Alejandro :</p>
 <p>Il y a quelques mois, j’ai écrit une lettre à mon père. Puis une femme que je ne connais pas, émue, m’a proposé de la traduire pour que les personnes qui parlent français puissent la lire. La voici.</p>
 <p>Traduction: Mélanie Skriabine</p>
@@ -56,4 +54,4 @@ Tu m’as parlé de ce qu’est vieillir comme de quelque chose de beau et grâc
 <p>Ton fils Adan qui t’aime. »</p>
 <p>Photo : Alejandra Vilchis pour « La mort d’Amador » Mars 2012</p>
 <p>&nbsp;</p>
-<p><a href="http://hypnodingues.org/wp-content/uploads/2015/04/cropped-img_7685-e1321364963851.jpg"><img class="aligncenter size-full wp-image-3722" src="{{ site.url }}/assets/cropped-img_7685-e1321364963851.jpg" alt="cropped-img_7685-e1321364963851" width="1152" height="2048" /></a></p>
+<p><a href="/assets/cropped-img_7685-e1321364963851.jpg"><img class="aligncenter size-full wp-image-3722" src="/assets/cropped-img_7685-e1321364963851.jpg" alt="cropped-img_7685-e1321364963851" width="1152" height="2048" /></a></p>
