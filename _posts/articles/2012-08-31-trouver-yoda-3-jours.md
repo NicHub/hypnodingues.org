@@ -8,8 +8,6 @@ tags: []
 status: private
 type: post
 published: false
-meta:
-  _edit_last: '2'
 author:
   first_name: Nico
 excerpt:
