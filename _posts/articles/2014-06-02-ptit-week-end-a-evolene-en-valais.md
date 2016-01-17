@@ -8,11 +8,39 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '10'
 author:
   first_name: Laeti
 excerpt:
 ---
-<p>&nbsp;</p>
-<p><a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0276.jpg"><img class="alignleft size-thumbnail wp-image-3463" src="{{ site.url }}/assets/CAM_0276-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0331.jpg"><img class="alignleft size-thumbnail wp-image-3464" src="{{ site.url }}/assets/CAM_0331-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0409.jpg"><img class="alignleft size-thumbnail wp-image-3465" src="{{ site.url }}/assets/CAM_0409-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0411.jpg"><img class="alignleft size-thumbnail wp-image-3466" src="{{ site.url }}/assets/CAM_0411-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0494.jpg"><img class="alignleft size-thumbnail wp-image-3467" src="{{ site.url }}/assets/CAM_0494-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0505.jpg"><img class="alignleft size-thumbnail wp-image-3468" src="{{ site.url }}/assets/CAM_0505-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0507.jpg"><img class="alignleft size-thumbnail wp-image-3469" src="{{ site.url }}/assets/CAM_0507-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0516.jpg"><img class="alignleft size-thumbnail wp-image-3470" src="{{ site.url }}/assets/CAM_0516-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0517.jpg"><img class="alignleft size-thumbnail wp-image-3471" src="{{ site.url }}/assets/CAM_0517-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0518.jpg"><img class="alignleft size-thumbnail wp-image-3472" src="{{ site.url }}/assets/CAM_0518-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0536.jpg"><img class="alignleft size-thumbnail wp-image-3473" src="{{ site.url }}/assets/CAM_0536-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0547.jpg"><img class="alignleft size-thumbnail wp-image-3474" src="{{ site.url }}/assets/CAM_0547-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0504.jpg"><img class="alignleft size-thumbnail wp-image-3475" src="{{ site.url }}/assets/CAM_0504-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0277.jpg"><img class="alignleft size-thumbnail wp-image-3477" src="{{ site.url }}/assets/CAM_0277-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a> <a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0297.jpg"><img class="alignleft size-thumbnail wp-image-3478" src="{{ site.url }}/assets/CAM_0297-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a><a href="http://hypnodingues.org/wp-content/uploads/2014/06/CAM_0558.jpg"><img class="alignleft size-thumbnail wp-image-3481" src="{{ site.url }}/assets/CAM_0558-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" /></a></p>
+
+<img class="alignleft size-thumbnail wp-image-3463" src="/assets/CAM_0276-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3464" src="/assets/CAM_0331-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3465" src="/assets/CAM_0409-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3466" src="/assets/CAM_0411-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3467" src="/assets/CAM_0494-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3468" src="/assets/CAM_0505-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3469" src="/assets/CAM_0507-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3470" src="/assets/CAM_0516-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3471" src="/assets/CAM_0517-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3472" src="/assets/CAM_0518-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3473" src="/assets/CAM_0536-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3474" src="/assets/CAM_0547-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3475" src="/assets/CAM_0504-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3477" src="/assets/CAM_0277-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3478" src="/assets/CAM_0297-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
+
+<img class="alignleft size-thumbnail wp-image-3481" src="/assets/CAM_0558-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />
