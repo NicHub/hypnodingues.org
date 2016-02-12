@@ -3,7 +3,7 @@ layout: post
 title: 'Rêve d’Audrey'
 date: 2012-03-07 13:43:26.000000000 +01:00
 categories:
-- Histoires et contes
+- Histoires-et-contes
 tags: []
 status: publish
 type: post

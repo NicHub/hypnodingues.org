@@ -3,7 +3,7 @@ layout: post
 title: Le mendiant
 date: 2013-06-05 18:03:00.000000000 +02:00
 categories:
-- Histoires et contes
+- Histoires-et-contes
 tags: []
 status: publish
 type: post

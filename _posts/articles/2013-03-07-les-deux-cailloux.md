@@ -3,7 +3,7 @@ layout: post
 title: Les deux cailloux
 date: 2013-03-07 14:59:24.000000000 +01:00
 categories:
-- Histoires et contes
+- Histoires-et-contes
 tags: []
 status: publish
 type: post
