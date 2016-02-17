@@ -58,7 +58,7 @@ en passant par **Arthur Rimbaud** dans son poème <a href="https://upload.wik
 
 « *A noir, E blanc, I rouge, U vert, O bleu : voyelles,<br/>Je dirai quelque jour vos naissances latentes... »*
 
-Pour en revenir à la discipline musicale, on a pour témoignages ceux d’**Arnold Schoenberg**, d’**Olivier Messiaen** et plus particulièrement celui du compositeur synesthète **Alexander Scriabine**, qui inventa même le clavier à lumières ou “Luce”.L’instrument est un clavier dont chaque note correspond à une couleur selon le propre système de **Scriabine**, que celui-ci destinait à l’exécution de son oeuvre *Prométhée ou le Poème du feu* (1910) :
+Pour en revenir à la discipline musicale, on a pour témoignages ceux d’**Arnold Schoenberg**, d’**Olivier Messiaen** et plus particulièrement celui du compositeur synesthète **Alexander Scriabine**, qui inventa même le clavier à lumières ou “Luce”. L’instrument est un clavier dont chaque note correspond à une couleur selon le propre système de **Scriabine**, que celui-ci destinait à l’exécution de son oeuvre *Prométhée ou le Poème du feu* (1910) :
 
 <p style="text-align:center;"><img width="414" height="198" src="/assets/piano.png"></p>
 
