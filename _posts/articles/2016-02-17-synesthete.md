@@ -30,11 +30,11 @@ A l’une de ses questions : « Voyez-vous des **couleurs** quand vous pensez 
 
 Et là, mon interlocuteur de m’expliquer que j’étais atteint de **synesthésie**, phénomène voire **“trouble”** neurologique rare par lequel deux ou plusieurs sens sont associés.
 
-Quelque peu **déstabilisé** par ses propos et ses premières explications, j’effectuai, à peine rentré à l’hôtel, des recherches qui me confontèrent à cette nouvelle réalité. Il me faudrait dorénavant admettre que ce qui me paraissait jusque-là une **évidence ****banale** se révélait en réalité une **particularité étonnante**. Je devais dès lors me résigner à accepter que voir des sons et écouter des couleurs était tout à fait singulier.
+Quelque peu **déstabilisé** par ses propos et ses premières explications, j’effectuai, à peine rentré à l’hôtel, des recherches qui me confontèrent à cette nouvelle réalité. Il me faudrait dorénavant admettre que ce qui me paraissait jusque-là une **évidence banale** se révélait en réalité une **particularité étonnante**. Je devais dès lors me résigner à accepter que voir des sons et écouter des couleurs était tout à fait singulier.
 
-En quête urgente d’être rassuré, je pris connaissance, après quelques explications médicales et neurologiques sommaires, qu’au-delà de la **musique** un certain nombre d’autres disciplines comme la **physique, **la **peinture** ou encore la **littérature** étaient également concernées et que quelques-uns de leurs plus illustres représentants avaient pu en témoigner.
+En quête urgente d’être rassuré, je pris connaissance, après quelques explications médicales et neurologiques sommaires, qu’au-delà de la **musique** un certain nombre d’autres disciplines comme la **physique**, la **peinture** ou encore la **littérature** étaient également concernées et que quelques-uns de leurs plus illustres représentants avaient pu en témoigner.
 
-Pour premier exemple, le co-lauréat du prix Nobel de physique 1965, **Richard Feynman**, lui-même **synesthète, **s’interrogeait :
+Pour premier exemple, le co-lauréat du prix Nobel de physique 1965, **Richard Feynman**, lui-même **synesthète**, s’interrogeait :
 
 « *Quand je vois des équations, je vois les lettres en couleur, je ne sais pas pourquoi. Quand je pense aux fonctions de Bessel par exemple, je vois un J brun-roux, un N d’un bleu légèrement violacé et un X marron sombre qui vole autour. Et je me demande bien à quoi cela peut bien ressembler pour les étudiants!* »
 
@@ -50,15 +50,15 @@ La littérature française dans son ensemble est d’ailleurs jonchée de réf�
 
 « *Ne penserait-on pas que les voyelles existent pour le regard presque autant que pour l’oreille et qu’elles peignent des couleurs ? On le voit. A et I sont des voyelles blanches et brillantes. O est une voyelle rouge. E et EU sont des voyelles bleues. U est la voyelle noire. »*
 
-à **Marcel Proust ***Du côté de chez Swann *(1913)* *dans* La Recherche du Temps Perdu** :***
+à **Marcel Proust** *Du côté de chez Swann* (1913) dans *La Recherche du Temps Perdu* :
 
 *« Bayeux si haute dans sa noble dentelle rougeâtre et dont le faîte était illuminé par le vieil or de sa dernière syllabe ; Vitré dont l’accent aigu losangeait de bois noir le vitrage ancien... »*
 
-en passant par **Arthur Rimbaud**** **dans son poème <a href="https://upload.wikimedia.org/wikipedia/commons/1/10/Rimbaud_manuscrit_Voyelles.jpg" target="_blank">*Voyelles* (1883)</a> :
+en passant par **Arthur Rimbaud** dans son poème <a href="https://upload.wikimedia.org/wikipedia/commons/1/10/Rimbaud_manuscrit_Voyelles.jpg" target="_blank">*Voyelles* (1883)</a> :
 
-« *A noir, E blanc, I rouge, U vert, O bleu : voyelles,*<br>*Je dirai quelque jour vos naissances latentes... »*
+« *A noir, E blanc, I rouge, U vert, O bleu : voyelles,<br/>Je dirai quelque jour vos naissances latentes... »*
 
-Pour en revenir à la discipline musicale, on a pour témoignages ceux d’**Arnold Schoenberg**, d’**Olivier Messiaen **et plus particulièrement celui du compositeur synesthète **Alexander Scriabine**, qui inventa même le clavier à lumières ou “Luce”.* *L’instrument est un clavier dont chaque note correspond à une couleur selon le propre système de **Scriabine**, que celui-ci destinait à l’exécution de son oeuvre *Prométhée ou le Poème du feu* (1910) :
+Pour en revenir à la discipline musicale, on a pour témoignages ceux d’**Arnold Schoenberg**, d’**Olivier Messiaen** et plus particulièrement celui du compositeur synesthète **Alexander Scriabine**, qui inventa même le clavier à lumières ou “Luce”.L’instrument est un clavier dont chaque note correspond à une couleur selon le propre système de **Scriabine**, que celui-ci destinait à l’exécution de son oeuvre *Prométhée ou le Poème du feu* (1910) :
 
 <p style="text-align:center;"><img width="414" height="198" src="/assets/piano.png"></p>
 
