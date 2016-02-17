@@ -10,10 +10,12 @@ author:
 excerpt:
 ---
 
-source : <https://www.linkedin.com/pulse/jai-d%C3%A9couvert-que-j%C3%A9tais-synesth%C3%A8te-cest-grave-docteur-pr%C3%A9vert>
+source : [LinkedIn][1]
 
-Auteur : Alexandre Prévert
+Auteur : Alexandre Prévert<br/>
 *Conservatoire de Musique de Paris (Piano) - Université Paris La Sorbonne*
+
+<hr style="display: block; width: 50px;" />
 
 <p>Depuis l’âge de <strong>4 ans</strong>&nbsp;je joue du piano et il aura fallu attendre&nbsp;mes <strong>19 ans</strong> pour apprendre que j’étais <strong>synesthète</strong>.</p>
 <p>C’est en effet tout récemment, à l’issue d’un <a href="https://www.youtube.com/watch?v=RSZI1GPMCTM" target="_blank">concert&nbsp;en Ecosse</a>, qu’en échangeant avec un spectateur, cette nouvelle m’a été <strong>révélée</strong>.</p>
@@ -38,3 +40,6 @@ Auteur : Alexandre Prévert
 <p>Si vous voyez donc des <strong>couleurs</strong> quand vous écoutez de la musique, si pour vous les mots ont un <strong>goût</strong> ou les sons ont une <strong>odeur</strong>, alors vous êtes peut-être synesthète.</p>
 <p>J’ai choisi pour ma part de ne pas m’en inquiéter. Ce qu’on nomme un <strong>trouble</strong> neurologique m’apparaît finalement être tout simplement une <strong>particularité</strong>. Les neurobiologistes considèrent même qu’être&nbsp;synesthète amène certains avantages comme une meilleure <strong>capacité d’analyse</strong> et une meilleure <strong>mémoire</strong>. Je ne demande qu’à les croire.</p>
 <p>Alors merci Docteur, tout va bien !</p>
+
+
+[1]: https://www.linkedin.com/pulse/jai-d%C3%A9couvert-que-j%C3%A9tais-synesth%C3%A8te-cest-grave-docteur-pr%C3%A9vert
