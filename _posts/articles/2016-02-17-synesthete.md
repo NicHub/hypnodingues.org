@@ -17,6 +17,8 @@ Auteur : Alexandre Prévert<br/>
 
 <hr style="display: block; width: 50px;" />
 
+![cerveau][assets/cerveau.png]
+
 <p>Depuis l’âge de <strong>4 ans</strong>&nbsp;je joue du piano et il aura fallu attendre&nbsp;mes <strong>19 ans</strong> pour apprendre que j’étais <strong>synesthète</strong>.</p>
 <p>C’est en effet tout récemment, à l’issue d’un <a href="https://www.youtube.com/watch?v=RSZI1GPMCTM" target="_blank">concert&nbsp;en Ecosse</a>, qu’en échangeant avec un spectateur, cette nouvelle m’a été <strong>révélée</strong>.</p>
 <p class="left">A l’une de ses questions : "Voyez-vous des <strong>couleurs</strong> quand vous pensez aux différentes notes de musique ?" Je répondis tout <strong>naturellement</strong> : "Oui bien évidemment, le "do" est noir, le "ré" est jaune, le "mi" est vert, le "fa" est rouge, le "sol" est bleu, le "la" est orange et le "si" est gris."</p>
@@ -36,7 +38,7 @@ Auteur : Alexandre Prévert<br/>
 <p>en passant par&nbsp;<strong>Arthur&nbsp;Rimbaud</strong><strong>&nbsp;</strong>dans&nbsp;son poème <a href="https://upload.wikimedia.org/wikipedia/commons/1/10/Rimbaud_manuscrit_Voyelles.jpg" target="_blank"><em>Voyelles </em>(1883)</a> :</p>
 <p>"<em>A noir, E blanc, I rouge, U vert, O bleu : voyelles,</em><br><em>Je dirai quelque jour vos naissances latentes..."</em></p>
 <p>Pour en revenir à la discipline musicale, on a pour témoignages ceux d’<strong>Arnold Schoenberg</strong>, d’<strong>Olivier Messiaen </strong>et plus particulièrement celui du compositeur synesthète&nbsp;<strong>Alexander Scriabine</strong>, qui inventa même le clavier à lumières ou "Luce".<em>&nbsp;</em>L’instrument est un clavier dont chaque&nbsp;note correspond à une&nbsp;couleur selon le propre système de <strong>Scriabine</strong>, que celui-ci destinait à&nbsp;l’exécution de son oeuvre <em>Prométhée ou le Poème du feu </em>(1910)&nbsp;:</p>
-<p><img class="center" src="//:0" width="414" height="198" data-li-src="https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAcOAAAAJDViMjYxM2YxLWNmYTYtNDEyOS04ZGVkLWFlZjFiOTgyNzBlZg.png"></p>
+<p><img class="center" width="414" height="198" src="assets/piano.png"></p>
 <p>Si vous voyez donc des <strong>couleurs</strong> quand vous écoutez de la musique, si pour vous les mots ont un <strong>goût</strong> ou les sons ont une <strong>odeur</strong>, alors vous êtes peut-être synesthète.</p>
 <p>J’ai choisi pour ma part de ne pas m’en inquiéter. Ce qu’on nomme un <strong>trouble</strong> neurologique m’apparaît finalement être tout simplement une <strong>particularité</strong>. Les neurobiologistes considèrent même qu’être&nbsp;synesthète amène certains avantages comme une meilleure <strong>capacité d’analyse</strong> et une meilleure <strong>mémoire</strong>. Je ne demande qu’à les croire.</p>
 <p>Alors merci Docteur, tout va bien !</p>
