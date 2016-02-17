@@ -17,7 +17,7 @@ Auteur : Alexandre Prévert<br/>
 
 <hr style="display: block; width: 50px;" />
 
-![cerveau][/assets/cerveau.png]
+![cerveau](/assets/cerveau.png)
 
 <p>Depuis l’âge de <strong>4 ans</strong>&nbsp;je joue du piano et il aura fallu attendre&nbsp;mes <strong>19 ans</strong> pour apprendre que j’étais <strong>synesthète</strong>.</p>
 <p>C’est en effet tout récemment, à l’issue d’un <a href="https://www.youtube.com/watch?v=RSZI1GPMCTM" target="_blank">concert&nbsp;en Ecosse</a>, qu’en échangeant avec un spectateur, cette nouvelle m’a été <strong>révélée</strong>.</p>
