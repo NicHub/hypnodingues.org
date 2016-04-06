@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Semaine du cerveau du 14 au 18 mars 2016
-date: 2016-04-06 21:52:0.000000000 +01:00
+date: 2016-04-06 21:52:0.000000000 +02:00
 status: publish
 type: post
 published: true
