@@ -10,5 +10,7 @@ author:
 excerpt:
 ---
 
+Vous ne regarderez plus jamais votre penderie de la même façon ;-)
+
 <iframe width="908" height="511" src="https://www.youtube.com/embed/ksB80XYiYzI" frameborder="0" allowfullscreen></iframe>
 
