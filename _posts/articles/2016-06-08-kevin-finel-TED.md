@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ca donnerait quoi si on prenait des cours de cerveau ? | Kevin Finel | TEDxVaugirardRoad"
+title: "Kevin Finel<br/>Ca donnerait quoi si on prenait des cours de cerveau ?"
 date: 2016-06-08 18:44:0.000000000 +02:00
 status: publish
 type: post
