@@ -35,4 +35,4 @@ Quelque temps plus tard, l’armée du seigneur du pays arrive dans le village, 
 
 Le vieil homme répond « Chance, malchance, qui peut le dire ? ».
 
-Le futur nous est livré par fragments. Nous ne savons jamais ce qu’il nous réserve. Ce qui apparait comme une malchance aujourd’hui peut devenir une chance demain. Les épreuves peuvent cacher des leçons précieuses de la vie, qui nous serviront plus tard. L’important c’est de continuer à avancer en ayant des pensées positives et avoir la bonne attitude.
+*Le futur nous est livré par fragments. Nous ne savons jamais ce qu’il nous réserve. Ce qui apparait comme une malchance aujourd’hui peut devenir une chance demain. Les épreuves peuvent cacher des leçons précieuses de la vie, qui nous serviront plus tard. L’important c’est de continuer à avancer en ayant des pensées positives et avoir la bonne attitude.*
