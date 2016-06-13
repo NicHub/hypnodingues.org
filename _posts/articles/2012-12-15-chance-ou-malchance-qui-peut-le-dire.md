@@ -21,7 +21,7 @@ Un matin, il se rend à l’étable et le cheval n’est plus là. Tous les vill
 
 Tout le monde se moque de lui. Mais quinze jours plus tard, le cheval revient, avec une horde de chevaux sauvages. Il s’était échappé, avait séduit une belle jument et rentrait avec le reste de la horde. « Quelle chance ! » disent les villageois.
 
-Le vieil homme et son fils se mettent au dressage des chevaux sauvages. Mais une semaine plus tard, son fils se casse une jambe à l’entraînement.
+Le vieil homme et son fils se mettent au dressage des chevaux sauvages. Mais une semaine plus tard, son fils se casse une jambe à l’entrainement.
 
 – « Quelle malchance ! » disent ses amis.
 
@@ -31,7 +31,7 @@ Le vieil homme répond « Chance, malchance, qui peut le dire ? ».
 
 Quelque temps plus tard, l’armée du seigneur du pays arrive dans le village, et enrôle de force tous les jeunes gens disponibles. Tous... sauf le fils du vieil homme, qui a sa jambe cassée.
 
-– « Quelle chance tu as, tous nos enfants sont partis à la guerre, et toi tu es le seul à garder avec toi ton fils. Les nôtres vont peut-être se faire tuer... »
+– « Quelle chance tu as, tous nos enfants sont partis à la guerre, et toi, tu es le seul à garder ton fils avec toi. Les nôtres vont peut-être se faire tuer... »
 
 Le vieil homme répond « Chance, malchance, qui peut le dire ? ».
 
