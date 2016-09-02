@@ -52,10 +52,14 @@
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
       {% if page.previous %}
-        <a href="{{ site.url }}{{ page.previous.url }}" class="btn btn_prev_next" title="{{ page.previous.title }}">Précédent</a>
+        <a href="{{ site.url }}{{ page.previous.url }}" class="btn btn_prev_next bouton-prec" title="{{ page.previous.title }}">← Précédent</a>
+      {% else %}
+        <a href="{{ site.url }}{{ page.first.url }}" class="btn btn_prev_next bouton-prec" title="{{ page.first.title }}">← Retour à l’accueil</a>
       {% endif %}
       {% if page.next %}
-        <a href="{{ site.url }}{{ page.next.url }}" class="btn btn_prev_next" title="{{ page.next.title }}">Suivant</a>
+        <a href="{{ site.url }}{{ page.next.url }}" class="btn btn_prev_next bouton-suiv" title="{{ page.next.title }}">Suivant →</a>
+      {% else %}
+        <a href="{{ site.url }}{{ page.first.url }}" class="btn btn_prev_next bouton-suiv" title="{{ page.first.title }}">Retour à l’accueil →</a>
       {% endif %}
     </nav><!-- /.pagination -->
   </article>

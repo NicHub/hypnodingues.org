@@ -155,7 +155,8 @@ span + .entry-title {
 
 .entry-content {
 	width: 100% !important;
-	text-align: justify;
+	// text-align: justify;
+	text-align: center;
 	@include span-columns(12);
 	p:first-child {
 		margin-top: 0;

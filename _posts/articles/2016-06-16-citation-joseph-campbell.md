@@ -15,7 +15,7 @@ excerpt:
 
 [ *Joseph Campbell* ]
 
-[Citation découverte dans la conférence : *The big secret nobody wants to tell | Bruce Muzik | TEDxSinCity*](https://www.youtube.com/watch?v=lkbWIfP3mLw)
+[Citation découverte dans la conférence : *The big secret nobody wants to tell \| Bruce Muzik \| TEDxSinCity*](https://www.youtube.com/watch?v=lkbWIfP3mLw)
 
 ---
 

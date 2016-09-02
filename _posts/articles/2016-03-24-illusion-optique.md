@@ -13,7 +13,7 @@ excerpt:
 ## À voir aussi :
 
 ### Shigeo Fukuda, sculptures d’ombre
-<https://www.google.ch/search?q=shigeo+fukuda+sculpture+d%E2%80%99ombre&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiT8rrK1dnLAhWC0RQKHWMvDQYQ_AUIBygB&biw=2560&bih=1345#newwindow=1&tbm=isch&q=shigeo+fukuda+sculptures+d%E2%80%99ombre>
+<http://goo.gl/3Upzyl>
 
 ### Tableau “Les ambassadeurs”
 <https://fr.wikipedia.org/wiki/Les_Ambassadeurs>
