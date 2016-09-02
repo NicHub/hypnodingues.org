@@ -29,3 +29,9 @@ http://www.enneagramme.com/Theorie/9_minisemi_Quoi.htm
 
 <http://www.enneagramme.com/Livres/9edce.pdf>
 
+## Ennéascope
+
+L’ennéascope permet de comparer les types deux à deux
+
+<http://hypnodingues.org/assets/enneascope/index.html>
+
