@@ -16,3 +16,12 @@ excerpt:
 Vidéo complète de la conférence de l’alchimiste Patrick BURENSTEINAS le 18 Octobre 2014 à Montréal, pour la Première des événements “NAISSANCE & RENAISSANCE” de l'agence SUNEVA [suneva.ca](http://suneva.ca/).
 
 <https://youtu.be/UBgAefDqLt0>
+
+---
+
+©IL ÉTAIT UNE FOIS LES POSSIBLES - La Série: PATRICK BURENSTEINAS #DE LA MATIÈRE À LA LUMIÈRE - 1h20
+
+SOANDUS PRODUCTIONS
+
+<https://www.youtube.com/watch?v=95FC-YfLtnE>
+
