@@ -88,3 +88,25 @@ Le « pourquoi » et le « comment » sont liés à notre cerveau limbique
 - Tivo
 - Samuel Pierpont Langley
 
+
+---
+
+## CHALLENGE YOUR THINKING
+
+<http://drlindatucker.com/together-better-simon-sinek/>
+
+Most of us live our lives by accident
+
+My sense of purpose is to inspire people to do what inspire them so together we can change our world.
+
+<https://www.startwithwhy.com/>
+
+Why are we friends?
+
+The WHY is the value you offer others. That’s the value you have in their lives.
+
+There is always a “self help” section in libraries, but no “help others” sections.
+
+How do I help others to be at their natural best?
+
+Be the leader you wish you had
