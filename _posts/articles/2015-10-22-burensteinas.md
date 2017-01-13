@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conférence intégrale “NAISSANCE & RENAISSANCE” de l’alchimiste Patrick Burensteinas
+title: Conférence de l’alchimiste Patrick Burensteinas
 date: 2015-11-03 12:00:0.000000000 +01:00
 categories:
 - Divers
@@ -25,3 +25,48 @@ SOANDUS PRODUCTIONS
 
 <https://www.youtube.com/watch?v=95FC-YfLtnE>
 
+---
+
+### LE SENS DES LETTRES SELON PATRICK BURENSTEINAS
+
+
+    A – RÈGLE
+    B – PASSAGE
+    C – CORPS
+    D – VENIR DE
+    E – MONDE
+    F – FEU
+    G – CHERCHER à l’INTÉRIEUR DE
+    H – ÉQUILIBRE
+    I – UNITÉ
+    J – UNITÉ FIXE
+    K – CASSER
+    L – MOUVEMENT DIRIGÉ
+    M – CRÉATION
+    N – RETOURNEMENT
+    O – CORPS & ESPRIT
+    P – TRANSMISSION – PÈRE
+    Q – SÉPARER CORPS & ESPRIT
+    R – SOUFFLE
+    S – MOUVEMENT dans tous les SENS
+    T – TERRE
+    U – REMPLIR DE
+    V – RAMENER à un POINT
+    W – –
+    X – AXE
+    Y – SYNTHÈSE
+    Z – RETOURNEMENT de la TERRE
+
+---
+
+**ANAËL**
+
+    A – RÈGLE
+    N – RETOURNEMENT
+    A – RÈGLE
+    Ë – MONDE
+    L – MOUVEMENT DIRIGÉ
+
+    - juriste
+    - incrédule
+    - inertie
