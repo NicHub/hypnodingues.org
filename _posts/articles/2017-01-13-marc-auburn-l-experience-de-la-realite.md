@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marc Auburn : L’expérience de la réalité
+title: "Marc Auburn : L’expérience de la réalité"
 date: 2017-01-13 14:38:00.000000000 +01:00
 categories:
 tags: []
