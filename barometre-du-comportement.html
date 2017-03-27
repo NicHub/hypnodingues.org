@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Le baromètre du comportement</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+		<style type="text/css" media="all">
+
+			body *           { font-family: Helvetica Neue, Geneva, sans-serif; font-size: 8pt; text-align: center; cursor: default; }
+
+			div.content      { width: 20cm; display: box; margin: 1cm auto 0; }
+			div.content h1   { text-transform: uppercase; font-size:1.3em; margin: 0; }
+			div.content h2   { text-transform: uppercase; font-size:1.0em; margin: 1em 0 0; }
+
+			table            { /*border-collapse: collapse;*/ width: 100%; table-layout: fixed; margin-top: 1em; }*/
+			table.titre      { margin-top: 1.5em; }
+
+			td               { width: 25%; text-align: right; padding: 0.2em 0.2em 0.2em 0;     }
+			td+td            { width: 25%; text-align:  left; padding: 0.2em 0     0.2em 0.2em; }
+			td+td+td         { width: 25%; text-align: right; padding: 0.2em 0.2em 0.2em 0;     }
+			td+td+td+td      { width: 25%; text-align:  left; padding: 0.2em 0     0.2em 0.2em; }
+
+			tr.titre_1 th    { text-transform: uppercase; }
+			tr.titre_2 td    { font-variant:small-caps; text-align: center; }
+			tr.titre_3 td    { font-variant:small-caps; }
+
+			.corps.niveau_1 th { padding: 1em;}
+
+			table tr:last-child td { padding-bottom: 0.5em; }
+			table tr:first-child th { padding-top: 0.3em; }
+			table tr.titre_3 td { padding-bottom: 0em; margin-bottom: 0em; }
+
+
+/*  À tester */
+/* background-image: -moz-linear-gradient(bottom, rgb(218,219,114) 24%, rgb(255,255,149) 62%, rgb(255,255,179) 81%); */
+
+			.niveau_3
+			{
+				background-image: -moz-linear-gradient(top, #FFDEDE, #C54244);
+				background-image: -webkit-gradient(linear, left top, left bottom, from(#FFDEDE), to(#C54244));
+				filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFDEDE,endColorstr=#C54244);
+				-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFDEDE,endColorstr=#C54244)";
+
+				/* offset left, top, thickness, color with alpha */
+				-webkit-box-shadow: 10px 10px 10px rgba(120, 0, 0, 0.2);
+				-moz-box-shadow: 10px 10px 10px rgba(120, 0, 0, 0.2);
+				box-shadow: 10px 10px 10px rgba(120, 0, 0, 0.2);
+				/* IE */
+				filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=5, OffY=5, Color='gray');
+				/* slightly different syntax for IE8 */
+				-ms-filter:"progid:DXImageTransform.Microsoft.dropshadow(OffX=5, OffY=5, Color='gray')";
+			}
+			.niveau_2
+			{
+			background-image: -moz-linear-gradient(top, #EEFFFF, #05FFFF);
+				background-image: -webkit-gradient(linear, left top, left bottom, from(#EEFFFF), to(#05FFFF));
+				filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#EEFFFF,endColorstr=#05FFFF);
+				-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#EEFFFF,endColorstr=#05FFFF)";
+
+				/* offset left, top, thickness, color with alpha */
+				-webkit-box-shadow: 10px 10px 10px rgba(0, 120, 120, 0.2);
+				-moz-box-shadow: 10px 10px 10px rgba(0, 120, 120, 0.2);
+				box-shadow: 10px 10px 10px rgba(0, 120, 120, 0.2);
+				/* IE */
+				filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=5, OffY=5, Color='gray');
+				/* slightly different syntax for IE8 */
+				-ms-filter:"progid:DXImageTransform.Microsoft.dropshadow(OffX=5, OffY=5, Color='gray')";
+			}
+			.niveau_1
+			{
+				background-image: -moz-linear-gradient(top, #FAFAFF, #FAFA00);
+				background-image: -webkit-gradient(linear, left top, left bottom, from(#FAFAFF), to(#FAFA00));
+				filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#FAFAFF,endColorstr=#FAFA00);
+				-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#FAFAFF,endColorstr=#FAFA00)";
+
+				/* offset left, top, thickness, color with alpha */
+				-webkit-box-shadow: 10px 10px 10px rgba(120, 120, 0, 0.2);
+				-moz-box-shadow: 10px 10px 10px rgba(120, 120, 0, 0.2);
+				box-shadow: 10px 10px 10px rgba(120, 120, 0, 0.2);
+				/* IE */
+				filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=5, OffY=5, Color='gray');
+				/* slightly different syntax for IE8 */
+				-ms-filter:"progid:DXImageTransform.Microsoft.dropshadow(OffX=5, OffY=5, Color='gray')";
+			}
+
+			.unSelectedClass {
+				/*border: 1px solid transparent;*/
+				font-weight: normal;
+			}
+			th.unSelectedClass {
+				font-weight: bold;
+			}
+			.baroTerm:hover {
+				font-weight: bold;
+			}
+			.selectedClass {
+				border: 2px solid black;
+				border-radius: 2px;
+				font-weight: bold;
+			}
+
+		@media print
+		{
+			@page
+			{
+				size: A4 portrait;
+				margin: 0.1cm;
+			}
+
+			.niveau_1 { background-color: #FAFA00; }
+			.niveau_2 { background-color: #05FFFF; }
+			.niveau_3 { background-color: #C54244; }
+
+		}
+		</style>
+<script type="text/javascript">
+
+// <![CDATA[
+
+const oldAdd = (element, className) => {
+  let classes = element.className.split(' ')
+  if (classes.indexOf(className) < 0) {
+    classes.push(className)
+  }
+  element.className = classes.join(' ')
+}
+
+const oldRemove = (element, className) => {
+  let classes = element.className.split(' ')
+  const idx = classes.indexOf(className)
+  if (idx > -1) {
+    classes.splice(idx, 1)
+  }
+  element.className = classes.join(' ')
+}
+
+const addClass = (element, className) => {
+  if (element.classList) {
+    element.classList.add(className)
+  } else {
+    oldAdd(element, className)
+  }
+}
+
+const removeClass = (element, className) => {
+  if (element.classList) {
+    element.classList.remove(className)
+  } else {
+    oldRemove(element, className)
+  }
+}
+
+function itemOnClick( itemClass ) {
+	unselect();
+	select( itemClass );
+}
+
+function select( itemClass ) {
+	var baroTermsWithClass = document.getElementsByClassName( itemClass );
+	for( var i=0; i<baroTermsWithClass.length; i++ ) {
+	    addClass( baroTermsWithClass[ i ], "selectedClass" );
+	    removeClass( baroTermsWithClass[ i ], "unSelectedClass" );
+	}
+}
+
+function unselect() {
+	var baroTerms= document.getElementsByClassName( 'baroTerm' );
+	for( var i=0; i<baroTerms.length; i++ ) {
+	    removeClass( baroTerms[ i ], "selectedClass" );
+	    addClass( baroTerms[ i ], "unSelectedClass" );
+	}
+}
+
+window.addEventListener( "load", unselect, false );
+
+// ]]>
+
+</script>
+
+	</head>
+	<body>
+
+
+		<p style="display:none;"><a href="http://nice-kinesiologie.com/one_brain/barometre_comportement.html">http://nice-kinesiologie.com/one_brain/barometre_comportement.html</a></p>
+
+		<div class="content">
+			<h1>Le baromètre du comportement</h1>
+			<h2>Choix supraconscients</h2>
+
+
+			<table class="conscient titre">
+				<tr class="titre_1"><th colspan="4">Conscient</th></tr>
+				<tr class="titre_2"><td colspan="2">État émotionnel désiré</td><td colspan="2">État émotionnel ressenti</td></tr>
+				<tr class="titre_3"><td>intériorisé</td><td>extériorisé</td><td>intériorisé</td><td>extériorisé</td></tr>
+			</table>
+
+			<table class="conscient niveau_3">
+				<tr><th class="baroTerm a1" colspan="2">Acceptation</th><th class="baroTerm a2" colspan="2">Antagonisme</th></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g1'  )" class="baroTerm g1" >Choisissant de</td>               <td onclick="javascript:itemOnClick( 'd1'  )" class="baroTerm d1" >Approchable</td>                  <td onclick="javascript:itemOnClick( 'g1'  )" class="baroTerm g1" >Attaqué</td>                     <td onclick="javascript:itemOnClick( 'd1'  )" class="baroTerm d1" >Ennuyé / Agacé</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g2'  )" class="baroTerm g2" >Optimiste</td>                    <td onclick="javascript:itemOnClick( 'd2'  )" class="baroTerm d2" >Acceptable</td>                   <td onclick="javascript:itemOnClick( 'g2'  )" class="baroTerm g2" >Contesté</td>                    <td onclick="javascript:itemOnClick( 'd2'  )" class="baroTerm d2" >Accablé / Surchargé</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g3'  )" class="baroTerm g3" >Adaptable</td>                    <td onclick="javascript:itemOnClick( 'd3'  )" class="baroTerm d3" >Valable</td>                      <td onclick="javascript:itemOnClick( 'g3'  )" class="baroTerm g3" >Irrité / Contrarié</td>          <td onclick="javascript:itemOnClick( 'd3'  )" class="baroTerm d3" >Indigné</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g4'  )" class="baroTerm g4" >Méritant</td>                     <td onclick="javascript:itemOnClick( 'd4'  )" class="baroTerm d4" >Ouvert</td>                       <td onclick="javascript:itemOnClick( 'g4'  )" class="baroTerm g4" >Résistant / Opposant</td>        <td onclick="javascript:itemOnClick( 'd4'  )" class="baroTerm d4" >Inadéquat</td></tr>
+			</table>
+
+			<table class="conscient niveau_2">
+				<tr><th class="baroTerm a19" colspan="2">Disposition / Vouloir</th><th class="baroTerm a20" colspan="2">Colère</th></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g5'  )" class="baroTerm g5" >Réceptif</td>                     <td onclick="javascript:itemOnClick( 'd5'  )" class="baroTerm d5" >Adéquat</td>                      <td onclick="javascript:itemOnClick( 'g5'  )" class="baroTerm g5" >Exaspéré / Courroucé</td>        <td onclick="javascript:itemOnClick( 'd5'  )" class="baroTerm d5" >Furieux</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g6'  )" class="baroTerm g6" >Prêt / Préparé</td>               <td onclick="javascript:itemOnClick( 'd6'  )" class="baroTerm d6" >Responsable</td>                  <td onclick="javascript:itemOnClick( 'g6'  )" class="baroTerm g6" >Excédé</td>                      <td onclick="javascript:itemOnClick( 'd6'  )" class="baroTerm d6" >Fulminant</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g7'  )" class="baroTerm g7" >Encourageant</td>                 <td onclick="javascript:itemOnClick( 'd7'  )" class="baroTerm d7" >Rafraîchi / Plein de vigueur</td> <td onclick="javascript:itemOnClick( 'g7'  )" class="baroTerm g7" >Bouillonnant</td>                <td onclick="javascript:itemOnClick( 'd7'  )" class="baroTerm d7" >Rageant</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g8'  )" class="baroTerm g8" >Vivifié / Revigoré</td>           <td onclick="javascript:itemOnClick( 'd8'  )" class="baroTerm d8" >Conscient</td>                    <td onclick="javascript:itemOnClick( 'g8'  )" class="baroTerm g8" >Agressif / Belligérant</td>      <td onclick="javascript:itemOnClick( 'd8'  )" class="baroTerm d8" >Irrationnel / Hystérique</td></tr>
+			</table>
+
+			<table class="conscient niveau_1">
+				<tr><th class="baroTerm a37" colspan="2">Intérêt</th><th class="baroTerm a38" colspan="2">Ressentiment</th></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g9'  )" class="baroTerm g9" >Émerveillé / Fasciné</td>         <td onclick="javascript:itemOnClick( 'd9'  )" class="baroTerm d9" >Accordé / Même longueur</td>      <td onclick="javascript:itemOnClick( 'g9'  )" class="baroTerm g9" >Blessé</td>                      <td onclick="javascript:itemOnClick( 'd9'  )" class="baroTerm d9" >Embarrassé</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g10' )" class="baroTerm g10">Nécessaire</td>                   <td onclick="javascript:itemOnClick( 'd10' )" class="baroTerm d10">Bienvenue / Accueilli</td>        <td onclick="javascript:itemOnClick( 'g10' )" class="baroTerm g10">Meurtri</td>                     <td onclick="javascript:itemOnClick( 'd10' )" class="baroTerm d10">Utilisé / Abusé / Confus</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g11' )" class="baroTerm g11">Comprenant / Compréhensif</td>    <td onclick="javascript:itemOnClick( 'd11' )" class="baroTerm d11">Apprécié</td>                     <td onclick="javascript:itemOnClick( 'g11' )" class="baroTerm g11">Inapprécié</td>                  <td onclick="javascript:itemOnClick( 'd11' )" class="baroTerm d11">Rejeté</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g12' )" class="baroTerm g12">Essentiel</td>                    <td onclick="javascript:itemOnClick( 'd12' )" class="baroTerm d12">Aimant / Attentionné</td>         <td onclick="javascript:itemOnClick( 'g12' )" class="baroTerm g12">Muet de stupeur / Hébété</td>    <td onclick="javascript:itemOnClick( 'd12' )" class="baroTerm d12">Offensé</td></tr>
+			</table>
+
+			<table class="subconscient titre">
+				<tr class="titre_1"><th colspan="4">Subconscient</th></tr>
+				<tr class="titre_2"><td colspan="2">État émotionnel désiré</td><td colspan="2">État émotionnel ressenti</td></tr>
+				<tr class="titre_3"><td>intériorisé</td><td>extériorisé</td><td>intériorisé</td><td>extériorisé</td></tr>
+			</table>
+
+			<table class="subconscient niveau_3">
+				<tr><th class="baroTerm a1" colspan="2">Enthousiasme</th><th class="baroTerm a2" colspan="2">Hostilité</th></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g1'  )" class="baroTerm g1" >Diverti / Amusé</td>              <td onclick="javascript:itemOnClick( 'd1'  )" class="baroTerm d1" >Jubilant</td>                     <td onclick="javascript:itemOnClick( 'g1'  )" class="baroTerm g1" >Piégé</td>                       <td onclick="javascript:itemOnClick( 'd1'  )" class="baroTerm d1" >Harcelé</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g2'  )" class="baroTerm g2" >Admirable</td>                    <td onclick="javascript:itemOnClick( 'd2'  )" class="baroTerm d2" >Séduisant / Attirant</td>         <td onclick="javascript:itemOnClick( 'g2'  )" class="baroTerm g2" >Exploité</td>                    <td onclick="javascript:itemOnClick( 'd2'  )" class="baroTerm d2" >Frustré</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g3'  )" class="baroTerm g3" >Ravi / Enchanté</td>              <td onclick="javascript:itemOnClick( 'd3'  )" class="baroTerm d3" >Stimulé / Excité / Emballé</td>   <td onclick="javascript:itemOnClick( 'g3'  )" class="baroTerm g3" >Privé / Dépossédé</td>           <td onclick="javascript:itemOnClick( 'd3'  )" class="baroTerm d3" >Sarcastique</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g4'  )" class="baroTerm g4" >Vibrant / Plein de vie</td>       <td onclick="javascript:itemOnClick( 'd4'  )" class="baroTerm d4" >Confiant</td>                     <td onclick="javascript:itemOnClick( 'g4'  )" class="baroTerm g4" >Vengeur / Vindicatif</td>        <td onclick="javascript:itemOnClick( 'd4'  )" class="baroTerm d4" >Rancunier / Renfermé</td></tr>
+			</table>
+
+			<table class="subconscient niveau_2">
+				<tr><th class="baroTerm a19" colspan="2">Assurance</th><th class="baroTerm a20" colspan="2">Peur de perdre</th></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g5'  )" class="baroTerm g5" >Motivé</td>                       <td onclick="javascript:itemOnClick( 'd5'  )" class="baroTerm d5" >Audacieux</td>                    <td onclick="javascript:itemOnClick( 'g5'  )" class="baroTerm g5" >Lâché / Délaissé</td>            <td onclick="javascript:itemOnClick( 'd5'  )" class="baroTerm d5" >Non entendu</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g6'  )" class="baroTerm g6" >Protégé</td>                      <td onclick="javascript:itemOnClick( 'd6'  )" class="baroTerm d6" >Intrépide</td>                    <td onclick="javascript:itemOnClick( 'g6'  )" class="baroTerm g6" >Amer</td>                        <td onclick="javascript:itemOnClick( 'd6'  )" class="baroTerm d6" >Désappointé / Déçu</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g7'  )" class="baroTerm g7" >Courageux / Brave</td>            <td onclick="javascript:itemOnClick( 'd7'  )" class="baroTerm d7" >Considéré</td>                    <td onclick="javascript:itemOnClick( 'g7'  )" class="baroTerm g7" >Menacé</td>                      <td onclick="javascript:itemOnClick( 'd7'  )" class="baroTerm d7" >Ignoré / Laissé pour compte</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g8'  )" class="baroTerm g8" >Affectueux</td>                   <td onclick="javascript:itemOnClick( 'd8'  )" class="baroTerm d8" >Fier</td>                         <td onclick="javascript:itemOnClick( 'g8'  )" class="baroTerm g8" >Effrayé</td>                     <td onclick="javascript:itemOnClick( 'd8'  )" class="baroTerm d8" >Malvenu / Indésirable</td></tr>
+			</table>
+
+			<table class="subconscient niveau_1">
+				<tr><th class="baroTerm a37" colspan="2">Égalité / À la hauteur</th><th class="baroTerm a38" colspan="2">Chagrin et culpabilité</th></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g9'  )" class="baroTerm g9" >Chanceux</td>                     <td onclick="javascript:itemOnClick( 'd9'  )" class="baroTerm d9" >Coopératif</td>                   <td onclick="javascript:itemOnClick( 'g9'  )" class="baroTerm g9" >Trahi</td>                       <td onclick="javascript:itemOnClick( 'd9'  )" class="baroTerm d9" >Conquis / Vaincu</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g10' )" class="baroTerm g10">Impliqué</td>                     <td onclick="javascript:itemOnClick( 'd10' )" class="baroTerm d10">Résolu / Déterminé</td>           <td onclick="javascript:itemOnClick( 'g10' )" class="baroTerm g10">Découragé</td>                   <td onclick="javascript:itemOnClick( 'd10' )" class="baroTerm d10">Inacceptable</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g11' )" class="baroTerm g11">Fiable</td>                       <td onclick="javascript:itemOnClick( 'd11' )" class="baroTerm d11">Concerné</td>                     <td onclick="javascript:itemOnClick( 'g11' )" class="baroTerm g11">Auto-punissant</td>              <td onclick="javascript:itemOnClick( 'd11' )" class="baroTerm d11">Abattu / Démoralisé / Cœur brisé</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g12' )" class="baroTerm g12">Sincère</td>                      <td onclick="javascript:itemOnClick( 'd12' )" class="baroTerm d12">Productif</td>                    <td onclick="javascript:itemOnClick( 'g12' )" class="baroTerm g12">Battu / Défait</td>              <td onclick="javascript:itemOnClick( 'd12' )" class="baroTerm d12">Ruiné / Anéanti / À bout de ressource</td></tr>
+			</table>
+
+			<table class="corps titre">
+				<tr class="titre_1"><th colspan="4">Corps</th></tr>
+				<tr class="titre_2"><td colspan="2">État émotionnel désiré</td><td colspan="2">État émotionnel ressenti</td></tr>
+				<tr class="titre_3"><td>intériorisé</td><td>extériorisé</td><td>intériorisé</td><td>extériorisé</td></tr>
+			</table>
+
+			<table class="corps niveau_3">
+				<tr><th class="baroTerm a1" colspan="2">Accord / Harmonie</th><th class="baroTerm a2" colspan="2">Indifférence</th></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g1'  )" class="baroTerm g1" >En accord avec</td>               <td onclick="javascript:itemOnClick( 'd1'  )" class="baroTerm d1" >Congruent</td>                     <td onclick="javascript:itemOnClick( 'g1'  )" class="baroTerm g1" >Pessimiste</td>                 <td onclick="javascript:itemOnClick( 'd1'  )" class="baroTerm d1" >Immobilisé</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g2'  )" class="baroTerm g2" >En équilibre / Équilibré</td>     <td onclick="javascript:itemOnClick( 'd2'  )" class="baroTerm d2" >Créatif</td>                       <td onclick="javascript:itemOnClick( 'g2'  )" class="baroTerm g2" >Rigide</td>                     <td onclick="javascript:itemOnClick( 'd2'  )" class="baroTerm d2" >Engourdi</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g3'  )" class="baroTerm g3" >Sensible / Percep. / Perspi.</td> <td onclick="javascript:itemOnClick( 'd3'  )" class="baroTerm d3" >Appréciatif</td>                   <td onclick="javascript:itemOnClick( 'g3'  )" class="baroTerm g3" >Stagnant</td>                   <td onclick="javascript:itemOnClick( 'd3'  )" class="baroTerm d3" >Insensible</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g4'  )" class="baroTerm g4" >Tendre</td>                       <td onclick="javascript:itemOnClick( 'd4'  )" class="baroTerm d4" >Doux / Gentil</td>                 <td onclick="javascript:itemOnClick( 'g4'  )" class="baroTerm g4" >Destructif</td>                 <td onclick="javascript:itemOnClick( 'd4'  )" class="baroTerm d4" >Déconnecté</td></tr>
+			</table>
+
+			<table class="corps niveau_2">
+				<tr><th class="baroTerm a19" colspan="2">Unité</th><th class="baroTerm a20" colspan="2">Séparation</th></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g5'  )" class="baroTerm g5" >Tranquille</td>                   <td onclick="javascript:itemOnClick( 'd5'  )" class="baroTerm d5" >Sauf / En sécurité</td>            <td onclick="javascript:itemOnClick( 'g5'  )" class="baroTerm g5" >Négligé</td>                    <td onclick="javascript:itemOnClick( 'd5'  )" class="baroTerm d5" >Non aimé</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g6'  )" class="baroTerm g6" >Calme</td>                        <td onclick="javascript:itemOnClick( 'd6'  )" class="baroTerm d6" >En paix</td>                       <td onclick="javascript:itemOnClick( 'g6'  )" class="baroTerm g6" >Inacceptable</td>               <td onclick="javascript:itemOnClick( 'd6'  )" class="baroTerm d6" >Sans amour / Non aimable</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g7'  )" class="baroTerm g7" >Unifié</td>                       <td onclick="javascript:itemOnClick( 'd7'  )" class="baroTerm d7" >Complété / Achevé</td>             <td onclick="javascript:itemOnClick( 'g7'  )" class="baroTerm g7" >Insignifiant</td>               <td onclick="javascript:itemOnClick( 'd7'  )" class="baroTerm d7" >Déprimé / Mélancolique</td></tr>
+				<tr><td onclick="javascript:itemOnClick( 'g8'  )" class="baroTerm g8" >Comblé / Satisfait</td>           <td onclick="javascript:itemOnClick( 'd8'  )" class="baroTerm d8" >À l'unisson</td>                   <td onclick="javascript:itemOnClick( 'g8'  )" class="baroTerm g8" >Morbide / Sans vie</td>         <td onclick="javascript:itemOnClick( 'd8'  )" class="baroTerm d8" >Abandonné / Déserté</td></tr>
+			</table>
+
+			<table class="corps niveau_1">
+				<tr><th onclick="javascript:itemOnClick( 'g9'  )" class="baroTerm g9 g10 g11 g12 d9 d10 d11 d12" colspan="2">Choix</th><th onclick="javascript:itemOnClick( 'd9' )" class="baroTerm g9 g10 g11 g12 d9 d10 d11 d12" colspan="2">Non-choix</th></tr>
+			</table>
+
+		</div>
+
+
+
+	</body>
+</html>
