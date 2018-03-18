@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Épreuve du bac
+title: Épreuves du bac
 date: 2018-03-18 17:53:00 +01:00
 categories:
 tags: []
