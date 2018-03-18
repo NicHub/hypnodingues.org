@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Influence de la largeur du cul des chevaux sur la navette spatiale étatsunienne
+title: Influence de la largeur du cul des chevaux sur la navette spatiale états-unienne
 date: 2018-03-18 17:32:00 +01:00
 categories:
 tags: []
@@ -37,6 +37,6 @@ Nous avons donc maintenant la réponse à notre question d’origine. L’espace
 
 Mais il y a une extension intéressante à cette histoire concernant l’espacement des rails et l’arrière-train des chevaux. Quand nous regardons la navette spatiale américaine sur son pas de tir, nous pouvons remarquer les deux réservoirs additionnels attachés au réservoir principal. La société THIOKOL fabrique ces réservoirs additionnels dans leur usine de l’Utah. Les ingénieurs qui les ont conçus auraient bien aimé les faire un peu plus larges, mais ces réservoirs devaient être expédiés par train jusqu’au site de lancement. La ligne de chemin de fer entre l’usine et Cap Canaveral emprunte un tunnel sous les montagnes Rocheuses. Les réservoirs additionnels devaient pouvoir passer sous ce tunnel. Le tunnel est légèrement plus large que la voie de chemin de fer, et la voie de chemin de fer est à peu près aussi large que les arrière-trains de deux chevaux.
 
-*Conclusion : Lors de la construction de la navette spatiale américaine, que l’on peut considérer comme le moyen de transport le plus sophistiqué de notre planète, les ingénieurs ont dû respecter une contrainte de conception qui était la largeur du cul de deux chevaux côte à côte.*
+***Conclusion : Lors de la construction de la navette spatiale américaine, que l’on peut considérer comme le moyen de transport le plus sophistiqué de notre planète, les ingénieurs ont dû respecter une contrainte de conception qui était la largeur du cul de deux chevaux côte à côte.***
 
 Les spécifications et la bureaucratie existeront toujours. Ainsi, la prochaine fois que vous aurez des spécifications entre les mains et que vous vous demanderez quel trou du cul les a inventées, vous vous poserez peut-être la bonne question.
