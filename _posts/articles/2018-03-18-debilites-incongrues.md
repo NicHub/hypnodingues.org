@@ -28,13 +28,13 @@ excerpt:
 
 **Musique :** Écrivez un concerto pour piano. Jouez-le avec une flûte et un tambour. Vous trouverez un piano sous votre banc.
 
-**Psychologie :** En vous basant sur les connaissances de vos travaux, évaluez la stabilité émotionnelle, le degré d’ajustement et les frustrations refoulées de chacun de ces personnages :** Alexandre le Grand, Ramsès II, Hammou-rapi. Agrémentez votre travail des citations de ces personnages pour prouver vos résultats. Vous n’êtes pas obligé de traduire les citations.
+**Psychologie :** En vous basant sur les connaissances de vos travaux, évaluez la stabilité émotionnelle, le degré d’ajustement et les frustrations refoulées de chacun de ces personnages : Alexandre le Grand, Ramsès II, Hammou-rapi. Agrémentez votre travail des citations de ces personnages pour prouver vos résultats. Vous n’êtes pas obligé de traduire les citations.
 
 **Sociologie :** Évaluez les problèmes sociologiques qui pourraient survenir lors de la fin du monde. Faites un modèle pour prouver votre théorie.
 
 **Ingénierie :** Une mitraillette désassemblée de très haut calibre a été placée sur votre bureau. Vous y trouverez les instructions imprimées en Swahili. Dans 10 minutes, un tigre du Bengale sera admis dans la salle. Prenez toute décision que vous jugerez nécessaire. Soyez prêt à les justifier.
 
-**Économie :** Développez un plan réaliste pour refinancer la dette nationale. Décrivez les principaux impacts de votre plan sur les secteurs suivants :** le cubisme, l’affaire du Watergate et la théorie de la lumière. Donnez des solutions pour prévenir les effets négatifs sur ces secteurs. Critiquez ces solutions de tous les points de vue possibles. Dénoncez vos propres erreurs de jugement dans les critiques de la dernière réponse.
+**Économie :** Développez un plan réaliste pour refinancer la dette nationale. Décrivez les principaux impacts de votre plan sur les secteurs suivants : le cubisme, l’affaire du Watergate et la théorie de la lumière. Donnez des solutions pour prévenir les effets négatifs sur ces secteurs. Critiquez ces solutions de tous les points de vue possibles. Dénoncez vos propres erreurs de jugement dans les critiques de la dernière réponse.
 
 **Science politique :** Il y a un téléphone rouge sur le coin de votre bureau. Déclenchez la Troisième Guerre mondiale. Reporter tout effet sociopolitique que cette action pourrait engendrer (s’il y en a).
 
