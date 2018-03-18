@@ -12,9 +12,9 @@ author:
 excerpt:
 ---
 
-**Instructions :**  Lisez attentivement toutes les questions. Répondez à toutes les questions.
+**Instructions :** Lisez attentivement toutes les questions. Répondez à toutes les questions.
 
-**Temps limite :**  2 heures. Commencez immédiatement.
+**Temps limite :** 2 heures. Commencez immédiatement.
 
 ---
 
@@ -28,7 +28,7 @@ excerpt:
 
 **Musique :** Écrivez un concerto pour piano. Jouez-le avec une flûte et un tambour. Vous trouverez un piano sous votre banc.
 
-**Psychologie :** En vous basant sur les connaissances de vos travaux, évaluez la stabilité émotionnelle, le degré d’ajustement et les frustrations refoulées de chacun de ces personnages : Alexandre le Grand, Ramsès II, Hammou-rapi. Agrémentez votre travail des citations de ces personnages pour prouver vos résultats. Vous n’êtes pas obligé de traduire les citations.
+**Psychologie :** En vous basant sur les connaissances de vos travaux, évaluez la stabilité émotionnelle, le degré d’ajustement et les frustrations refoulées de chacun de ces personnages : Alexandre le Grand, Ramsès II, Hammourapi. Agrémentez votre travail des citations de ces personnages pour prouver vos résultats. Vous n’êtes pas obligé de traduire les citations.
 
 **Sociologie :** Évaluez les problèmes sociologiques qui pourraient survenir lors de la fin du monde. Faites un modèle pour prouver votre théorie.
 
