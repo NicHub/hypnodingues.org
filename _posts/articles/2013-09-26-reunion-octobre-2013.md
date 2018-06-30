@@ -14,7 +14,7 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p>Cet article fait doublon avec celui-ci : <a href="http://hypnodingues.org/archives/2893">http://hypnodingues.org/archives/2893</a></p>
+<p>Cet article fait doublon avec celui-ci : <a href="https://hypnodingues.org/archives/2893">https://hypnodingues.org/archives/2893</a></p>
 <div style="display: none;">
 <h1>Date et lieux</h1>
 <p>Selon le doodle ici : <a href="http://doodle.com/g4xd6qb6fwbdp9v3">http://doodle.com/g4xd6qb6fwbdp9v3</a></p>

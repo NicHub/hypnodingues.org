@@ -15,6 +15,6 @@ author:
 excerpt:
 ---
 <p style="text-align: center;">24 heures du 25 juillet 2013</p>
-<p><a href="http://hypnodingues.org/wp-content/uploads/2013/07/2013-07-25_24heures_taximen.jpg"><img class="aligncenter size-medium wp-image-2719" alt="2013-07-25_24heures_taximen" src="{{ site.url }}/assets/2013-07-25_24heures_taximen-300x255.jpg" width="300" height="255" /></a></p>
+<p><a href="https://hypnodingues.org/wp-content/uploads/2013/07/2013-07-25_24heures_taximen.jpg"><img class="aligncenter size-medium wp-image-2719" alt="2013-07-25_24heures_taximen" src="{{ site.url }}/assets/2013-07-25_24heures_taximen-300x255.jpg" width="300" height="255" /></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

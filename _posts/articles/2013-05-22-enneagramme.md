@@ -36,5 +36,5 @@ excerpt:
 
 L’ennéascope permet de comparer les types deux à deux
 
-<http://hypnodingues.org/assets/enneascope/index.html>
+<https://hypnodingues.org/assets/enneascope/index.html>
 

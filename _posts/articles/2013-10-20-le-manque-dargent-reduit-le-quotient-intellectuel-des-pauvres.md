@@ -14,6 +14,6 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><a href="http://hypnodingues.org/wp-content/uploads/2013/10/2013-10-17_24heures_qi_des_pauvres.pdf">2013-10-17_24heures_qi_des_pauvres (PDF, 1.3 Mo)</a></p>
+<p><a href="https://hypnodingues.org/wp-content/uploads/2013/10/2013-10-17_24heures_qi_des_pauvres.pdf">2013-10-17_24heures_qi_des_pauvres (PDF, 1.3 Mo)</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

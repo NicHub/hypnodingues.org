@@ -15,4 +15,4 @@ author:
 excerpt:
 ---
 <p>Qui a dit que les avis de décès étaient mortellement convenus ?</p>
-<p style="text-align: center;"><a href="http://hypnodingues.org/wp-content/uploads/2012/04/deces.jpg"><img class="size-full wp-image-527 aligncenter" title="deces" src="{{ site.url }}/assets/deces.jpg" alt="" width="372" height="720" /></a></p>
+<p style="text-align: center;"><a href="https://hypnodingues.org/wp-content/uploads/2012/04/deces.jpg"><img class="size-full wp-image-527 aligncenter" title="deces" src="{{ site.url }}/assets/deces.jpg" alt="" width="372" height="720" /></a></p>

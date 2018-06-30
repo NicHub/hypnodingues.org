@@ -16,7 +16,7 @@ author:
 excerpt:
 ---
 <p>Vous pouvez télécharger toutes les photos d’un coup ici :<br />
-<a href="http://hypnodingues.org/wp-content/uploads/2013/06/2013-06-15_marche_sur_le_feu.zip">2013-06-15_marche_sur_le_feu.zip</a></p>
+<a href="https://hypnodingues.org/wp-content/uploads/2013/06/2013-06-15_marche_sur_le_feu.zip">2013-06-15_marche_sur_le_feu.zip</a></p>
 <p>[nggallery id=7]</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

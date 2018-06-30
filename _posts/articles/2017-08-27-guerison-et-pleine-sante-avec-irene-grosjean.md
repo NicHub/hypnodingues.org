@@ -19,4 +19,4 @@ excerpt:
 
 ## À voir aussi
 
-<http://hypnodingues.org/nutrition/le-temoignage-de-mon-parcours-et-de-mon-retour-a-la-sante-segolene-quenin/>
+<https://hypnodingues.org/nutrition/le-temoignage-de-mon-parcours-et-de-mon-retour-a-la-sante-segolene-quenin/>

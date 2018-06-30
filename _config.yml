@@ -5,7 +5,7 @@ locale: fr_FR
 description: Site officiel des HYPNoDINGUES
 logo: site-logo.png
 search: true
-url: http://hypnodingues.org
+url: https://hypnodingues.org
 
 # Jekyll configuration
 

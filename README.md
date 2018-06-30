@@ -2,5 +2,5 @@
 
 Site web des Hypnodingues
 
-<http://hypnodingues.org>
+<https://hypnodingues.org>
 

@@ -44,7 +44,7 @@ excerpt:
 <p>En plus, pour un informaticien, Win = Windows. C’était bien vu de la part de Microsoft. Mais c’est déjà pris.</p>
 <p>Pour ce qui est de l’amalgame entre Step et station d’épuration, je pense que le risque est nul. Sinon tous les magasins qui affichent en grand SALE pourraient fermer boutique. Dans la même veine, l’école de l’ARCHE ferait fuir toute personne parlant l’allemand, puisque Arsch, en allemand, veut dire <em>trou du cul</em>. Il me semble en plus que l’acronyme STEP pour STation d’EPuration n’est pas utilisé en France. Vous confirmez Sonia et Christophe ?</p>
 <p>Et en plus, un Step permet de rester en forme. Ça devrait te plaire ça Gilbert. À moins que tes clients aient l’impression de faire fonctionner les pompes d’une station d’épuration quand ils s’époumonent sur cet engin ;-)</p>
-<p><a href="http://hypnodingues.org/wp-content/uploads/2013/07/step.jpg"><img alt="step" src="{{ site.url }}/assets/step-150x150.jpg" width="150" height="150" /></a></p>
+<p><a href="https://hypnodingues.org/wp-content/uploads/2013/07/step.jpg"><img alt="step" src="{{ site.url }}/assets/step-150x150.jpg" width="150" height="150" /></a></p>
 <p>Pour ce qui est de l’ambigramme, on peut y trouver plusieurs sens. Le premier qui me vient à l’esprit est la maxime « ce qui est à l’intérieur est aussi à l’extérieur ». Ou alors, ce qui revient au même, que notre vie n’est que le reflet du contenu de notre inconscient. Et l’aspect ludique est un avantage indéniable.</p>
 <h3 id="remarques_gilbert">Gilbert</h3>
 <p>Win Step ... J'aimais bien avant de me rendre compte que "Step" a aussi une signification en français... Peu enviable, et peu souhaitable. Je pense qu'il faille éviter le nom a double signification dans des langues différentes pour éviter tout jeux de mots ou mauvaises interprétations fâcheuses. L'"étape"ou la "marche" manque selon moi aussi l'idée de relation, de retrouvailles avec une partie de soi, un potentiel, sens qui se trouve dans tous nos projets. Quelque chose qui rassemble et moins individuel aussi.</p>
@@ -53,29 +53,29 @@ excerpt:
 <p>Le nom est l'identité, ce que nous sommes Et le second, facultatif, doit évoquer ce que nous proposons au gens. Or donc "one Step" est plus de l'ordre de la maxime. Et cela me conviendrait assez bien.</p>
 <h2>Les logos proposés</h2>
 <h3>Logo de Gilbert</h3>
-<p><a href="http://hypnodingues.org/wp-content/uploads/2013/07/2013-07-29_logo_win_connection_gilbert.png"><img alt="2013-07-29_logo_win_connection_gilbert" src="{{ site.url }}/assets/2013-07-29_logo_win_connection_gilbert-150x150.png" width="150" height="150" /></a></p>
+<p><a href="https://hypnodingues.org/wp-content/uploads/2013/07/2013-07-29_logo_win_connection_gilbert.png"><img alt="2013-07-29_logo_win_connection_gilbert" src="{{ site.url }}/assets/2013-07-29_logo_win_connection_gilbert-150x150.png" width="150" height="150" /></a></p>
 <p>&nbsp;</p>
 <h3>Logo de Nicolas</h3>
 <p>Avec le nom "ONE STEP", je trouverais cool qu’on ait un logo sous forme d’ambigramme.</p>
-<p>Pour voir un exemple d’ambigramme, c’est ici : <a href="http://hypnodingues.org/archives/1755">http://hypnodingues.org/archives/1755</a></p>
+<p>Pour voir un exemple d’ambigramme, c’est ici : <a href="https://hypnodingues.org/archives/1755">https://hypnodingues.org/archives/1755</a></p>
 <p>D’ailleurs, c’est sûrement un hasard que le numéro de cet article (2662) soit un ambigramme...</p>
 <p>Bon, c’est vachement dur de faire un bon ambigramme. Mais pour se donner une idée, voici une démo :</p>
-<p><a href="http://hypnodingues.org/wp-content/uploads/2013/07/ambigramme_one_step.jpg"><img alt="ambigramme_one_step" src="{{ site.url }}/assets/ambigramme_one_step-150x150.jpg" width="150" height="150" /></a></p>
+<p><a href="https://hypnodingues.org/wp-content/uploads/2013/07/ambigramme_one_step.jpg"><img alt="ambigramme_one_step" src="{{ site.url }}/assets/ambigramme_one_step-150x150.jpg" width="150" height="150" /></a></p>
 <h3>Logo Laetitia</h3>
 <p>Logo fleur: Ce logo est un prototype très mal fait...... je le vois plus stylisé et épuré.... je suis en trais de voir si j'arrive à le faire sur ilustrator ou photoshop mais je pence que quelque soit le logo il sera peut être obligatoire de le faire faire par un graphiste..... je vais l'envoyé à une copine peut être qu'elle peut en faire qqch de mieux...  Mais voici l'idée: Il représente les étapes pour atteindre un objectif ainsi que la réussite d'avoir atteint l'objectif. Chaque étapes sont liée  et indispensable les une aux autres. "Le bourgeon devient fleur" Et nous pouvons aussi imaginé qu'il soit dans certains cas animé ou on voit le bourgeon fleurir... Si vous trouvez l'idée "fleur" trop gnangnan on peut trouver autre chose, un autre objet qui pourrais représenter la même chose.</p>
 <p>Logo soleil: Il y a 2 logo différent sur le même image pour le soleil... le principe est le même ma préférence va pour le logo du dessus soleil "triple soleil" le plus petit des 2 logos soleils</p>
-<h2><a href="http://hypnodingues.org/wp-content/uploads/2013/07/logo-fleurs-petit.png"><img alt="logo fleurs petit" src="{{ site.url }}/assets/logo-fleurs-petit-150x150.png" width="150" height="150" /></a></h2>
+<h2><a href="https://hypnodingues.org/wp-content/uploads/2013/07/logo-fleurs-petit.png"><img alt="logo fleurs petit" src="{{ site.url }}/assets/logo-fleurs-petit-150x150.png" width="150" height="150" /></a></h2>
 <h2></h2>
 <h2></h2>
 <h2></h2>
-<h2>  <a href="http://hypnodingues.org/wp-content/uploads/2013/07/logo-soleil-copie.png"><img alt="logo soleil copie" src="{{ site.url }}/assets/logo-soleil-copie-150x150.png" width="150" height="150" /></a></h2>
+<h2>  <a href="https://hypnodingues.org/wp-content/uploads/2013/07/logo-soleil-copie.png"><img alt="logo soleil copie" src="{{ site.url }}/assets/logo-soleil-copie-150x150.png" width="150" height="150" /></a></h2>
 <p>Nouveau logo de laeti:</p>
 <p>Le logo à été coupé je sais pas pourquoi... C'est écrit "Shining your life". il est dessiné à la main, je pence qu'avec des rayons plus fin ce serait mieux...</p>
 <h2></h2>
-<h2><a href="http://hypnodingues.org/wp-content/uploads/2013/07/logo-shining.png"><img alt="logo shining" src="{{ site.url }}/assets/logo-shining-150x150.png" width="150" height="150" /></a></h2>
+<h2><a href="https://hypnodingues.org/wp-content/uploads/2013/07/logo-shining.png"><img alt="logo shining" src="{{ site.url }}/assets/logo-shining-150x150.png" width="150" height="150" /></a></h2>
 <p>Logo pour la proposition  "All Dreams"</p>
 <p>qui ferait en partie la composition du logo</p>
-<p><a href="http://hypnodingues.org/wp-content/uploads/2013/07/1212559324.jpg"><img alt="1212559324" src="{{ site.url }}/assets/1212559324-176x300.jpg" width="106" height="180" /></a></p>
+<p><a href="https://hypnodingues.org/wp-content/uploads/2013/07/1212559324.jpg"><img alt="1212559324" src="{{ site.url }}/assets/1212559324-176x300.jpg" width="106" height="180" /></a></p>
 <h2></h2>
 <h2> Les maximes proposées:</h2>
 <ul>

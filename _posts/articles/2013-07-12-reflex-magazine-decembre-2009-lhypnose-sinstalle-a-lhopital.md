@@ -14,6 +14,6 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><a href="http://hypnodingues.org/wp-content/uploads/2013/07/reflex_magazine_12_2009_hypnose_hopital.pdf">reflex_magazine_12_2009_hypnose_hopital (pdf, 438 ko)</a></p>
+<p><a href="https://hypnodingues.org/wp-content/uploads/2013/07/reflex_magazine_12_2009_hypnose_hopital.pdf">reflex_magazine_12_2009_hypnose_hopital (pdf, 438 ko)</a></p>
 <p>Voir aussi <a href="http://reflexmagazine.ch">http://reflexmagazine.ch</a></p>
 <p>&nbsp;</p>

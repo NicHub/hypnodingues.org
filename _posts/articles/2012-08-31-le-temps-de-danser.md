@@ -16,8 +16,8 @@ excerpt:
 ---
 <p><em>Source : La semaine de quatre heures (p. 262)</em><br />
 <em>Auteur : Tim Ferriss</em></p>
-<p><a href="http://hypnodingues.org/archives/1147">Citation de Sénèque</a><br />
-<a href="http://hypnodingues.org/archives/1149">Citation de Steve Jobs</a></p>
+<p><a href="https://hypnodingues.org/archives/1147">Citation de Sénèque</a><br />
+<a href="https://hypnodingues.org/archives/1149">Citation de Steve Jobs</a></p>
 <p>Si vous ne savez pas très bien où vous en êtes avec la vie, consolez-vous, nous ne sommes pas loin de sept milliards dans le même cas. Et tout deviens beaucoup plus facile une fois que vous avez compris que la vie n’est ni un problème à résoudre ni un jeu qu’il faut gagner.</p>
 <p>Si vous êtes trop déterminé à emboîter les unes dans les autres les pièces d’un puzzle qui n’existe pas, vous passez à côté du vrai sel de la vie. Dès lors que vous admettez qu’il n’y a de règles et de limites que celles que nous nous fixons nous-mêmes, la quête encombrante de la réussite disparaît au profit d’une légèreté sensible.</p>
 <p>Alors, osez et ne vous préoccupez pas de ce que pensent les autres. De toute façon, cela ne leur arrive pas aussi souvent que vous le croyez.</p>

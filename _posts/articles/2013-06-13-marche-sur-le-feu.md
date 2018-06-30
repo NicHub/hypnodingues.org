@@ -15,7 +15,7 @@ author:
 excerpt:
 ---
 <p>Salut les dinguelets,</p>
-<p>Alors pour l’organisation de <a href="http://hypnodingues.org/archives/2285">notre weekend de oufs !</a>, qui aura lieu les 15 et 16 juin 2013 à Chapelle-sur-Moudon.</p>
+<p>Alors pour l’organisation de <a href="https://hypnodingues.org/archives/2285">notre weekend de oufs !</a>, qui aura lieu les 15 et 16 juin 2013 à Chapelle-sur-Moudon.</p>
 <h1>Participants au cours</h1>
 <ol>
 <li>Lætitia</li>

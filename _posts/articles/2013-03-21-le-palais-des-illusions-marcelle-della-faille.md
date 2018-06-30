@@ -13,7 +13,7 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p>Voir aussi l’article <a href="http://hypnodingues.org/bibliographie/1022/">Le palais des illusions</a></p>
+<p>Voir aussi l’article <a href="https://hypnodingues.org/bibliographie/1022/">Le palais des illusions</a></p>
 <p>&nbsp;</p>
 <p>Vous pouvez écouter les audios ci-dessous de deux façons différentes :</p>
 <ol>

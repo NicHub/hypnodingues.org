@@ -14,7 +14,7 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><a href="http://hypnodingues.org/wp-content/uploads/2012/10/2012-10-29_24_heures_page25.pdf">2012-10-29_24_heures_page25</a></p>
+<p><a href="https://hypnodingues.org/wp-content/uploads/2012/10/2012-10-29_24_heures_page25.pdf">2012-10-29_24_heures_page25</a></p>
 <p><a href="http://www.mentalisme.ch/">http://www.mentalisme.ch (Georges-André Gessler)</a></p>
 <p><a href="http://www.pascaldeclermont.com">http://www.pascaldeclermont.com</a></p>
 <p><a href="http://fr.wikipedia.org/wiki/Marcello_Truzzi">http://fr.wikipedia.org/wiki/Marcello_Truzzi</a></p>

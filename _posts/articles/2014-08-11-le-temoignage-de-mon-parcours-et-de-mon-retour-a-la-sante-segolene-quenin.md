@@ -17,6 +17,6 @@ excerpt:
 
 ## À voir aussi
 
-<http://hypnodingues.org/nutrition/guerison-et-pleine-sante-avec-irene-grosjean/>
+<https://hypnodingues.org/nutrition/guerison-et-pleine-sante-avec-irene-grosjean/>
 
 
