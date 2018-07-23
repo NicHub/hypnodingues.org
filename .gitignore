@@ -27,3 +27,4 @@ pkg/
 site/_site/
 test/dest
 tmp/*
+_config_dev.yml
