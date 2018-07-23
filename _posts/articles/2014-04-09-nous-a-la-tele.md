@@ -16,6 +16,6 @@ excerpt:
 ---
 <p>Hello !</p>
 <p>Je vous laisse découvrir !</p>
-<p><a href="http://www.youtube.com/watch?v=higBNHyRqPY&amp;feature=youtu.be">http://www.youtube.com/watch?v=higBNHyRqPY&amp;feature=youtu.be</a></p>
+<p><a href="https://www.youtube.com/watch?v=higBNHyRqPY&amp;feature=youtu.be">https://www.youtube.com/watch?v=higBNHyRqPY&amp;feature=youtu.be</a></p>
 <p>Biiiisous !</p>
 <p>Laeti</p>

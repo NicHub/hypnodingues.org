@@ -24,6 +24,6 @@ excerpt:
 <p>Dans la même veine, voir aussi : <a href="http://lentreprise.lexpress.fr/etre-efficace/la-meditation-au-secours-des-managers-stresses_35529.html">La méditation au secours des managers stressés</a> et le <a href="http://www.amazon.fr/dp/B007I7FYB8/">livre correspondant sur Amazon</a></p>
 <p>&nbsp;</p>
 <p>Il a donné une conférence sur TED.com avec sous-titres en français :</p>
-<p><iframe src="http://embed.ted.com/talks/lang/fr/chade_meng_tan_everyday_compassion_at_google.html" height="259" width="460" allowfullscreen="" frameborder="0" scrolling="no"></iframe></p>
+<p><iframe src="https://embed.ted.com/talks/lang/fr/chade_meng_tan_everyday_compassion_at_google.html" height="259" width="460" allowfullscreen="" frameborder="0" scrolling="no"></iframe></p>
 <p>Et une autre conférence chez Google, en anglais uniquement.</p>
-<p><iframe src="http://www.youtube.com/embed/r8fcqrNO7so" height="259" width="460" allowfullscreen="" frameborder="0"></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/r8fcqrNO7so" height="259" width="460" allowfullscreen="" frameborder="0"></iframe></p>

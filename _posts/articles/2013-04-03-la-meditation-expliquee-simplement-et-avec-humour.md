@@ -15,4 +15,4 @@ author:
 excerpt:
 ---
 <p>Voir aussi le site : <a href="http://whatmeditationreallyis.com/">http://whatmeditationreallyis.com/</a></p>
-<p><iframe src="http://player.vimeo.com/video/43451623" height="300" width="400" allowfullscreen="" frameborder="0"></iframe></p>
+<p><iframe src="https://player.vimeo.com/video/43451623" height="300" width="400" allowfullscreen="" frameborder="0"></iframe></p>

@@ -17,7 +17,7 @@ excerpt:
 <p>349 Frs chez Dupertuis : <a href="http://bit.ly/UfA2mt">http://bit.ly/UfA2mt</a></p>
 <p>Le manuel : <a href="http://www.zoom.co.jp/download/F_H4n.pdf">F_H4n.pdf</a></p>
 <p>Le site officiel : <a href="http://www.zoom.co.jp/products/h4n">http://www.zoom.co.jp/products/h4n</a></p>
-<p>Une vidéo de présentation en anglais : <a href="http://www.youtube.com/watch?v=RXQDsptXHr0">http://www.youtube.com/watch?v=RXQDsptXHr0</a></p>
+<p>Une vidéo de présentation en anglais : <a href="https://www.youtube.com/watch?v=RXQDsptXHr0">https://www.youtube.com/watch?v=RXQDsptXHr0</a></p>
 <p>Quelques infos : <a href="http://www.samsontech.com/zoom/products/handheld-audio-recorders/h4n/">http://www.samsontech.com/zoom/products/handheld-audio-recorders/h4n/</a></p>
 <p>Quelques truc en anglais : <a href="http://itp.nyu.edu/help/Audio/Field">http://itp.nyu.edu/help/Audio/Field</a></p>
 <p>&nbsp;</p>

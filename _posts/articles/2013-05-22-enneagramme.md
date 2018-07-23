@@ -16,7 +16,7 @@ excerpt:
 
 **Une introduction à l’ennéagramme par Pascal Ischer de DC Formation**
 
-<p><iframe width="460" height="345" src="http://www.youtube.com/embed/6skJbYBv_k8" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="460" height="345" src="https://www.youtube.com/embed/6skJbYBv_k8" frameborder="0" allowfullscreen></iframe></p>
 
 ---
 

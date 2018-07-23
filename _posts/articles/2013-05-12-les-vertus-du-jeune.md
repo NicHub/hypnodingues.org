@@ -16,6 +16,6 @@ excerpt:
 ---
 <p>Salut les Dinguelets!</p>
 <p>Voici un reportage extra sur le jeûne et ses vertus!</p>
-<p><a href="http://www.youtube.com/watch?v=g3Abu6fKkT8">http://www.youtube.com/watch?v=g3Abu6fKkT8</a></p>
+<p><a href="https://www.youtube.com/watch?v=g3Abu6fKkT8">https://www.youtube.com/watch?v=g3Abu6fKkT8</a></p>
 <p>Bisous à tous!</p>
 <p>Laeti</p>

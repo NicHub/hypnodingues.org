@@ -14,4 +14,5 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><iframe width="460" height="259" src="http://www.rts.ch/embed/KDhW" frameborder="0"></iframe></p>
+<p><iframe width="460" height="259" src="https://tp.srgssr.ch/p/rts/embed?urn=urn:rts:video:4819230" frameborder="0"></iframe></p>
+

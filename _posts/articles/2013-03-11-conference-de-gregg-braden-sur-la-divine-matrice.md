@@ -21,10 +21,10 @@ excerpt:
 <p>Conférence donnée à Milan, le 30 mai 2007.</p>
 <p>Voir aussi : <a href="http://etoileblue.wordpress.com/2011/10/31/la-divine-matrice-gregg-braden/">http://etoileblue.wordpress.com/2011/10/31/la-divine-matrice-gregg-braden/</a></p>
 <h2>1 / 4</h2>
-<p><iframe src="http://www.youtube.com/embed/1xCss_ck_Hk" height="345" width="460" allowfullscreen="" frameborder="0"></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/1xCss_ck_Hk" height="345" width="460" allowfullscreen="" frameborder="0"></iframe></p>
 <h2>2 / 4</h2>
-<p><iframe src="http://www.youtube.com/embed/EUaYRByW_eM" height="345" width="460" allowfullscreen="" frameborder="0"></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/EUaYRByW_eM" height="345" width="460" allowfullscreen="" frameborder="0"></iframe></p>
 <h2>3 / 4</h2>
-<p><iframe src="http://www.youtube.com/embed/SFPMVw-LCaM" height="345" width="460" allowfullscreen="" frameborder="0"></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/SFPMVw-LCaM" height="345" width="460" allowfullscreen="" frameborder="0"></iframe></p>
 <h2>4 / 4</h2>
-<p><iframe src="http://www.youtube.com/embed/nLWQlkjXCR0" height="345" width="460" allowfullscreen="" frameborder="0"></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/nLWQlkjXCR0" height="345" width="460" allowfullscreen="" frameborder="0"></iframe></p>

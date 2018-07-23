@@ -16,5 +16,5 @@ excerpt:
 ---
 <p>Se servant de trois illusions saisissantes comme exemples, Vilayanur Ramachandran nous explique ce que des lésions cérébrales peuvent nous apprendre sur les rapports entre les tissus cérébraux et l'esprit.</p>
 <p>&nbsp;</p>
-<p><iframe src="http://embed.ted.com/talks/lang/fr/vilayanur_ramachandran_on_your_mind.html" height="315" width="560" allowfullscreen="" frameborder="0" scrolling="no"></iframe></p>
+<p><iframe src="https://embed.ted.com/talks/lang/fr/vilayanur_ramachandran_on_your_mind.html" height="315" width="560" allowfullscreen="" frameborder="0" scrolling="no"></iframe></p>
 <p>&nbsp;</p>

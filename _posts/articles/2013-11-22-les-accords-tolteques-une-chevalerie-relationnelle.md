@@ -16,7 +16,7 @@ excerpt:
 ---
 <p>Conférence d'Olivier Clerc, donnée le 3 octobre 2013 à Bruxelles, dans le cadre de l'association DELTAE.</p>
 <p>Les images sont de Aurian de Wouters : qu'il en soit remercié !</p>
-<p><a href="http://www.youtube.com/watch?v=geVI5Cxgh5s&amp;list=PL_FkVS_r7ODlkGZWtsdFcvQ3pJ6k45wFa">http://www.youtube.com/watch?v=geVI5Cxgh5s&amp;list=PL_FkVS_r7ODlkGZWtsdFcvQ3pJ6k45wFa</a></p>
+<p><a href="https://www.youtube.com/watch?v=geVI5Cxgh5s&amp;list=PL_FkVS_r7ODlkGZWtsdFcvQ3pJ6k45wFa">https://www.youtube.com/watch?v=geVI5Cxgh5s&amp;list=PL_FkVS_r7ODlkGZWtsdFcvQ3pJ6k45wFa</a></p>
 <p>Pour en savoir plus : <a href="http://www.olivierclerc.com">www.olivierclerc.com</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

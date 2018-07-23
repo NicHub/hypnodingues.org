@@ -82,7 +82,7 @@ excerpt:
 <li>Gilbert : "<strong>Take the World</strong>"  (Cette phrase, Nico, Audrey et Laeti la sente un peu brutale) ou "<strong>Take your Life</strong>" ou " <strong>Eat the World</strong>" (croquer le monde) ou "<strong>Rise your Life</strong>" (Nicolas dit que "Raise your Life" (élevez votre vie) serait plus correct. "Rise your Life" = grimpe sur ta vie.) "<strong>Live your Dreams" / "don't dream your life, live your dreams"</strong></li>
 <li>Audrey : "<strong>Make your Life</strong>" ou "<strong>Grow your Life</strong>" (développe ta vie! ou grandis ta vie! à noter que toutes les significations de grow sont: croître, grandir, cultiver, augmenter, s'accroître, devenir, produire, agrandir, planter)</li>
 <li>Geneviève : "<strong>Smile to Live</strong>" ou "<strong>Mice with Life</strong>" (Note de Nicolas : Mice = souris au pluriel (l’animal, pas les sourires...))</li>
-<li>Nicolas : "<strong>One Step Beyond</strong>" (Un pas de plus ou Un pas au delà). <a href="http://www.youtube.com/watch?v=N-uyWAe0NhQ">Avec "One Step Beyond", il y a une chanson archi-célèbre de Madness pour mettre la pêche.</a></li>
+<li>Nicolas : "<strong>One Step Beyond</strong>" (Un pas de plus ou Un pas au delà). <a href="https://www.youtube.com/watch?v=N-uyWAe0NhQ">Avec "One Step Beyond", il y a une chanson archi-célèbre de Madness pour mettre la pêche.</a></li>
 <li>Laetitia:<strong> "Shining Your Life"</strong> // Laeti//</li>
 </ul>
 <p>Merci de traduire en français !!!</p>

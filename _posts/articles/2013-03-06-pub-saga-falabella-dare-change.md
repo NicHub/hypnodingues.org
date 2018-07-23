@@ -22,4 +22,4 @@ excerpt:
 <li><a href="https://hypnodingues.org/textes/les-regles-pour-etre-humain/">Les règles pour être humain</a></li>
 </ul>
 <p>&nbsp;</p>
-<p><iframe src="http://www.youtube.com/embed/DflZi_lLSo8" height="259" width="460" allowfullscreen="" frameborder="0"></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/DflZi_lLSo8" height="259" width="460" allowfullscreen="" frameborder="0"></iframe></p>

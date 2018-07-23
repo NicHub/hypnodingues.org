@@ -24,4 +24,4 @@ excerpt:
 <p><a href="http://mieux-vivre.ch/mieux-vivre-bien-etre/salon-du-mieux-exposants-saignelegier-halle-marche-concours-centre-de-loisir/entretiens#Pascal-Hastir" target="_blank">http://mieux-vivre.ch/mieux-vivre-bien-etre/salon-du-mieux-exposants-saignelegier-halle-marche-concours-centre-de-loisir/entretiens#Pascal-Hastir</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><a href="http://www.youtube.com/watch?v=U3Ezfjz0xvA">http://www.youtube.com/watch?v=U3Ezfjz0xvA</a></p>
+<p><a href="https://www.youtube.com/watch?v=U3Ezfjz0xvA">https://www.youtube.com/watch?v=U3Ezfjz0xvA</a></p>
