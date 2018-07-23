@@ -15,4 +15,6 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><iframe width="560" height="315" src="http://www.rts.ch/embed/J0DU" frameborder="0"></iframe></p>
+
+<p><iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:rts:video:4529068&start=' allowfullscreen width='624' height='351' frameborder='0' name='Le marketing olfactif est une pratique en plein essor qui aurait une incidence directe sur le chiffre d'affaires'></iframe></p>
+

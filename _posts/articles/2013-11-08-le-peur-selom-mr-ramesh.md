@@ -14,12 +14,19 @@ author:
   first_name: Laeti
 excerpt:
 ---
+
 <p>Salut les Dinguelets!</p>
+
 <p>Voici une vidéo extra sur les peurs!</p>
+
 <p>Enjoy!</p>
-<p><a href="https://www.youtube.com/watch?v=An18wQ3asMw">https://www.youtube.com/watch?v=An18wQ3asMw</a></p>
+
 <p><strong>Bisous!</strong></p>
+
 <p>Laeti</p>
-<p><iframe src="//www.youtube.com/embed/An18wQ3asMw" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/Muin_AeXzV8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+
 <p>&nbsp;</p>
+
 <p>&nbsp;</p>

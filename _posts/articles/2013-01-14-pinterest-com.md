@@ -19,5 +19,6 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><a href="http://pinterest.com/kreestal/fun-and-miscellaneous-stuff/">http://pinterest.com/kreestal/fun-and-miscellaneous-stuff/</p>
-<p></a></p>
+
+<https://www.pinterest.ch/kreestal/>
+
