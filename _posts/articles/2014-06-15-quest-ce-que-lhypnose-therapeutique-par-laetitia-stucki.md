@@ -7,14 +7,19 @@ categories:
 tags: []
 status: publish
 type: post
-published: true
+published: false
 meta:
   _edit_last: '2'
 author:
   first_name: Laeti
 excerpt:
 ---
-<p style="text-align: center; margin: 100px 0 0;"><a href="http://hypnose-stucki.ch/videos/" target="_blank">http://hypnose-stucki.ch/videos/</a></p>
-<p style="text-align: center; margin: 50px 0 50px;"><a href="https://www.youtube.com/user/hypnosestucki" target="_blank">Abonnez-vous à ma chaîne <em>You Tube</em> !</a></p>
+
+
+<p><a href="http://hypnose-stucki.ch/videos/" target="_blank">http://hypnose-stucki.ch/videos/</a></p>
+
+<p><a href="https://www.youtube.com/user/hypnosestucki" target="_blank">Abonnez-vous à ma chaîne <em>You Tube</em> !</a></p>
+
 <p><iframe src="//www.youtube.com/embed/KihFdzYAopI" width="681" height="383" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-<p style="text-align: center; margin: 100px 0 100px;">
+
+
