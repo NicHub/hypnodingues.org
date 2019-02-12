@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs: Stanford Commencement
+title: "Steve Jobs: Stanford Commencement"
 date: 2018-08-12 19:39:00 +02:00
 categories:
 tags: []
