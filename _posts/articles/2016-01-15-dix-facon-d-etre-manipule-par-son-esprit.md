@@ -16,17 +16,17 @@ excerpt:
 
 > source : [axolot.info](http://www.axolot.info/?p=540)
 
-- [1. L’effet Forer](#leffet-forer)
-- [2. La dissonance cognitive](#la-dissonance-cognitive)
-- [3. Le conformisme](#le-conformisme)
-- [4. La paréidolie](#la-pareidolie)
-- [5. Les corrélations illusoires](#les-corrlations-illusoires)
-- [6. Les faux souvenirs](#les-faux-souvenirs)
-- [7. La cécité d’inattention](#la-ccit-dinattention)
-- [8. La croyance en la justice du monde](#la-croyance-en-la-justice-du-monde)
-- [9. Les prophéties autoréalisatrices](#les-prophties-autoralisatrices)
-- [10. La connaissance rétrospective](#la-connaissance-rtrospective)
-- [À lire aussi](#lire-aussi)
+- [1. L’effet Forer](#1-leffet-forer)
+- [2. La dissonance cognitive](#2-la-dissonance-cognitive)
+- [3. Le conformisme](#3-le-conformisme)
+- [4. La paréidolie](#4-la-par%C3%A9idolie)
+- [5. Les corrélations illusoires](#5-les-corr%C3%A9lations-illusoires)
+- [6. Les faux souvenirs](#6-les-faux-souvenirs)
+- [7. La cécité d’inattention](#7-la-c%C3%A9cit%C3%A9-dinattention)
+- [8. La croyance en la justice du monde](#8-la-croyance-en-la-justice-du-monde)
+- [9. Les prophéties autoréalisatrices](#9-les-proph%C3%A9ties-autor%C3%A9alisatrices)
+- [10. La connaissance rétrospective](#10-la-connaissance-r%C3%A9trospective)
+- [À lire aussi](#%C3%A0-lire-aussi)
 
 
 # 1. L’effet Forer
@@ -78,6 +78,7 @@ Combien de fois avez-vous entendu des gens prétendre qu’ils connaissaient la 
 - [Les corrélations illusoires sur Charlatans.info](http://www.charlatans.info/correlations.shtml)
 - [Les faux souvenirs sur Wikipedia](http://fr.wikipedia.org/wiki/Faux_souvenirs_induits)
 - [La cécité d’inattention sur sur le Dictionnaire sceptique](http://www.sceptiques.qc.ca/dictionnaire/inattentionalblindness.html)
-- [La croyance en la justice du monde sur Cerveau&amp;Psycho](http://www.cerveauetpsycho.fr/ewb_pages/f/fiche-article-dossier-morale-la-croyance-en-un-monde-juste-20735.php)
 - [Les prophéties auto-réalisatrices sur Wikipedia](http://fr.wikipedia.org/wiki/Proph%C3%A9tie_autor%C3%A9alisatrice)
 - [Le biais de connaissance rétrospective sur Wikipedia (anglais)](http://en.wikipedia.org/wiki/Hindsight_bias)
+
+~~- [La croyance en la justice du monde sur Cerveau&amp;Psycho](http://www.cerveauetpsycho.fr/ewb_pages/f/fiche-article-dossier-morale-la-croyance-en-un-monde-juste-20735.php)~~
