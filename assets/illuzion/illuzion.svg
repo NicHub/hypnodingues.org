@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink" width="500px" height="500px" viewBox="-2 -2 125 125" preserveAspectRatio="xMidYMid slice">
+   <title>
+      ILLUZION
+   </title>
+   <desc>
+      ILLUZION
+   </desc>
+   <style type="text/css">
+      circle, path {
+         /*vector-effect: non-scaling-stroke;*/ /* non-scaling-stroke is not understood the same in FF and Prince*/
+         stroke: black;
+         fill: none;
+         stroke-width: 0.7px;
+         stroke-linecap: round;
+         stroke-linejoin: round;
+         stroke-opacity: 1;
+         display: inline;
+      }
+      .trapeze1 path {
+         stroke: orange;
+         fill: orange;
+      }
+      .trapeze2 path {
+         stroke: #C60B1E;
+         fill: #C60B1E;
+      }
+      .outline path {
+         stroke: black;
+         <!-- fill: white; -->
+         fill-opacity: 0.5;
+      }
+      #cadre path {
+         fill: white;
+      }
+   </style>
+   <defs>
+      <g id="cadre" onclick="toggle_outline()">
+         <path d="M 0,0 h 117 v 117 h -117 Z"/>
+      </g>
+      <g id="trapeze1" class="trapeze1">
+         <path d="m 0,0 h 36 l 3,-4 h -36 Z"/>
+      </g>
+      <g id="trapeze2" class="trapeze2">
+         <path d="m 0,0 h 36 l 3,-4 h -36 Z"/>
+      </g>
+   </defs>
+   <g id="container">
+      <g transform="translate(0,0)">
+         <use xlink:href="#cadre"/>
+      </g>
+
+      <g id="z1">
+         <g transform="translate(6,94)">
+            <use xlink:href="#trapeze1"/>
+         </g>
+         <g transform="translate(40,90) rotate(126.869897645844) scale(-1, 1)">
+            <use xlink:href="#trapeze1"/>
+         </g>
+         <g transform="translate(61.6,61.2)">
+            <use xlink:href="#trapeze1"/>
+         </g>
+      </g>
+
+      <g id="z2">
+         <g transform="translate(72,54)">
+            <use xlink:href="#trapeze2"/>
+         </g>
+         <g transform="translate(67,54) rotate(126.869897645844) scale(-1, 1)">
+            <use xlink:href="#trapeze2"/>
+         </g>
+         <g transform="translate(57.6,25.2)">
+            <use xlink:href="#trapeze2"/>
+         </g>
+      </g>
+   </g>
+
+    <script type="text/javascript">
+    <![CDATA[
+      "use strict"
+
+      var toggle = true;
+      var trapeze1 = document.getElementById("trapeze1");
+      var trapeze2 = document.getElementById("trapeze2");
+
+      console.log("START");
+
+      function toggle_outline() {
+         if(toggle)
+         {
+            trapeze1.classList.add("outline");
+            trapeze2.classList.add("outline");
+         }
+         else
+         {
+            trapeze1.classList.remove("outline");
+            trapeze2.classList.remove("outline");
+         }
+         toggle = !toggle;
+      }
+    ]]>
+    </script>
+</svg>
