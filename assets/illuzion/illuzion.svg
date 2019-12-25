@@ -21,11 +21,11 @@
             fill: white;
             stroke: black;
         }
-        .cl_trapeze_1 {
+        .cl_figure_1 {
             fill: orange;
             stroke: orange;
         }
-        .cl_trapeze_2 {
+        .cl_figure_2 {
             fill: #C60B1E;
             stroke: #C60B1E;
         }
@@ -49,18 +49,18 @@
     </defs>
 
     <g id="container">
-        <g><use href="#def_cadre" class="cl_cadre"/></g>
+        <g id="c1" class="cl_cadre"><use href="#def_cadre"/></g>
 
-        <g id="z1" transform="translate(6,94)">
-            <g><use href="#def_trapeze" class="cl_trapeze_1"/></g>
-            <g><use href="#def_trapeze" class="cl_trapeze_1" transform="translate(34,-4) rotate(126.869897645844) scale(-1, 1)"/></g>
-            <g><use href="#def_trapeze" class="cl_trapeze_1" transform="translate(55.6,-32.8)"/></g>
+        <g id="z1" class="cl_figure_1" transform="translate(6,94)">
+            <g><use href="#def_trapeze"/></g>
+            <g><use href="#def_trapeze" transform="translate(34,-4) rotate(126.869897645844) scale(-1, 1)"/></g>
+            <g><use href="#def_trapeze" transform="translate(55.6,-32.8)"/></g>
         </g>
 
-        <g id="z2" transform="translate(72,54)">
-            <g><use href="#def_trapeze" class="cl_trapeze_2"/></g>
-            <g><use href="#def_trapeze" class="cl_trapeze_2" transform="translate(-5,0) rotate(126.869897645844) scale(-1, 1)"/></g>
-            <g><use href="#def_trapeze" class="cl_trapeze_2" transform="translate(-14.4,-28.8)"/></g>
+        <g id="z2" class="cl_figure_2" transform="translate(72,54)">
+            <g><use href="#def_trapeze"/></g>
+            <g><use href="#def_trapeze" transform="translate(-5,0) rotate(126.869897645844) scale(-1, 1)"/></g>
+            <g><use href="#def_trapeze" transform="translate(-14.4,-28.8)"/></g>
         </g>
     </g>
 
