@@ -135,7 +135,7 @@ La clé pour sortir d’un problème n’est pas de faire, mais de défaire. C�
 
 ### 5. l’*infusion* — le cuivre — le cul ivre = s’amuser = s’user l’âme
 
-Maintenant qu’il y a de la place, il y a des trucs qui rentrent. On a arrêté de faire pour se mettre en défusion et accueillir l’*infusion*.
+Maintenant qu’il y a de la place, il y a des trucs qui rentrent. On a arrêté de faire pour se mettre en *défusion* et accueillir l’*infusion*.
 
 #### carte de l’*infusion*
 
@@ -189,7 +189,11 @@ ouvert = vers où ? = verrou
 
 pèlerin = celui qui se pèle = action de retirer ses peaux
 
-transmutation = disparition de la forme — transformation = changement de forme
+connaitre = naitre avec
+savoir = voir ça (et rien d’autre)
+
+transmutation = disparition de la forme
+transformation = changement de forme
 
 Le but de l’alchimie n’est pas de faire, mais de défaire.
 
