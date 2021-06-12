@@ -206,3 +206,5 @@ Exercice de yoga des yeux contre la déprime : Fermer les yeux et regarder derr
 Le tarrot c’est pour ceux qui ne connaissent pas la tora.
 
 Une seule chose à dire : « Vivez joyeux ! C’est tellement simple, c’est pour ça qu’on trouve pas. Le philosophe cherche la perfection du moment présent, pour que chaque seconde il se passe des choses extraordinaires. Ne regrettez rien, n’espérez rien, mais goûtez, maintenant. »
+
+❧
