@@ -16,3 +16,7 @@ Si Jésus Christ revenait aujourd’hui, ce n’est pas les paralytiques qu’il
 
 
 <https://youtu.be/MzvF3OVWgZM?t=514>
+
+- soutien
+- entraide
+- reconnaissance mutuelle
