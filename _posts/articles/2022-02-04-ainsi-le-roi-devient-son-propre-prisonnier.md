@@ -16,4 +16,4 @@ Un roi, qui était aussi un astrologue, lut dans les étoiles qu’un certain jo
 
 Au bout de quelque temps, il réalisa qu’il voyait la lumière du jour et que cela signifiait qu’il y avait une ouverture par laquelle on pouvait entrer. Aussitôt, il la fit murer. Ainsi le roi devient son propre prisonnier. Et de cela il mourut.
 
-> Source : (L’ennéagramme : Dynamique de connaissance et d’évolution)[https://enneagramme.com/Livres/9_livre.htm#lsm1_1]
+> Source : [L’ennéagramme : Dynamique de connaissance et d’évolution](https://enneagramme.com/Livres/9_livre.htm#lsm1_1)
