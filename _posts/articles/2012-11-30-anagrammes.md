@@ -25,7 +25,7 @@ Voici quelques anagrammes saisissantes. Si vous aimez ça, vous pouvez lire :
 -   Ce vagin où goutte l’ombre d’un désir.
 
 et vous pouvez voir le tableau en question ici :<br>
-http://fr.wikipedia.org/wiki/L'Origine_du_monde
+<http://fr.wikipedia.org/wiki/L'Origine_du_monde>
 
 ---
 
@@ -57,3 +57,14 @@ http://fr.wikipedia.org/wiki/L'Origine_du_monde
 
 -   Pascal Obispo
 -   Pablo Picasso
+
+---
+
+-   Chien
+-   Niche
+
+
+# Anagrammes partielles
+
+-   Dior Homme
+-   Hémorroïde
