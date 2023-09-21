@@ -53,7 +53,7 @@ _Fabien Delcourt - Epanessence_
 - [Type 8 Ennéagramme : Pourquoi il te déteste](https://www.youtube.com/watch?v=RB485O0llXI)
 - [Type 9 ennéagramme : pourquoi tout le monde l'apprécie](https://www.youtube.com/watch?v=EWJ8RYuDT1Q)
 
-_+_
+_extras_
 
 - [Type 9 ennéagramme à coeur ouvert - Discussion avec Jérémy Barreau](https://www.youtube.com/watch?v=AtmHNIrw5O8)
 - [Enneagramme Danger : 8 pièges qui condamnent à l'errance](https://www.youtube.com/watch?v=L9CMUVwWrIg)
