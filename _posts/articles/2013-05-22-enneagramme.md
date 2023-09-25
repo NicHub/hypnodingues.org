@@ -35,8 +35,6 @@ _Ennéascope_
 
 L’ennéascope permet de comparer les types deux à deux
 
-<https://hypnodingues.org/assets/enneascope/index.html>
-
 <https://nichub.github.io/enneascope/>
 
 ---
