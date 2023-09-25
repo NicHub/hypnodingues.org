@@ -42,8 +42,8 @@ L’ennéascope permet de comparer les types deux à deux
 _Fabien Delcourt - Epanessence_
 
 - [Type 1 de l'Ennéagramme : pourquoi tu l'énerves !](https://www.youtube.com/watch?v=2SObEp6AWqI)
-- [Type 2 ennéagramme à coeur ouvert avec Michael Abitbol](https://www.youtube.com/watch?v=JA--MY6nzXM)
-- [Type 3 ennéagramme à cœur ouvert avec Mademoiselle M](https://www.youtube.com/watch?v=-xsa3OkU_Cc)
+- [Type 2 de l'Ennéagramme : à ton service !](https://www.youtube.com/watch?v=hnbgp4_ySK0)
+- [Type 3 de l'Ennéagramme : pourquoi il t'énerve](https://www.youtube.com/watch?v=R63r_IVdcFg)
 - [Type 4 de l'Ennéagramme : pourquoi tu ne le comprends pas](https://www.youtube.com/watch?v=OAhfo8k9jkk)
 - [Les Petits Secrets du Type 5 Ennéagramme](https://www.youtube.com/watch?v=OF2MmUJ1jtA&t=219s)
 - [Type 6 ennéagramme : à la recherche de LA Vérité absolue](https://www.youtube.com/watch?v=WJbR4uMLjWw)
