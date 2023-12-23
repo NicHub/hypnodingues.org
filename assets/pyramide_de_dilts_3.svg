@@ -12,6 +12,14 @@
 	<desc>Pyramide de Dilts</desc>
 
 	<style type="text/css">
+		@font-face {
+			/* http://atipofoundry.com/fonts/noway-round */
+			font-family: "Noway Round";
+			src: url("./fonts/nowayround-regular-webfont.woff2") format("woff2");
+			font-weight: normal;
+			font-style: normal;
+		}
+
 		path
 		{
 			fill:none;
@@ -24,10 +32,11 @@
 		{
 			line-height:160%;
 			text-anchor:middle;
-			font-size:14pt;
+			font-size:13pt;
 			text-align:center;
 			fill:#000000;
-			font-family:Open Sans;
+			text-transform: uppercase;
+			font-family:"Noway Round", monospace;
 		}
 	</style>
 
@@ -97,4 +106,3 @@
 	<g><use xlink:href='#pyramide'/></g>
 
 </svg>
-
