@@ -11,3 +11,5 @@ _site
 codekit-config.json
 Gemfile.lock
 Thumbs.db
+vendor/*
+.bundle/config

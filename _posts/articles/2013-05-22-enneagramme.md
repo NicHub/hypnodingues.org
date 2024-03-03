@@ -37,6 +37,8 @@ L’ennéascope permet de comparer les types deux à deux
 
 <https://nichub.github.io/enneascope/>
 
+<iframe width="300" height="570" src="https://nichub.github.io/enneascope/" frameborder="0"></iframe>
+
 ---
 
 _Fabien Delcourt - Epanessence_
@@ -55,3 +57,8 @@ _extras_
 
 - [Type 9 ennéagramme à coeur ouvert - Discussion avec Jérémy Barreau](https://www.youtube.com/watch?v=AtmHNIrw5O8)
 - [Enneagramme Danger : 8 pièges qui condamnent à l'errance](https://www.youtube.com/watch?v=L9CMUVwWrIg)
+
+_Ennéagramme: Un Chemin vers l'Eveil_
+
+- [Ennéagramme: Un chemin vers l’Éveil](https://www.youtube.com/@EnneagrammeUnCheminversl-eveil)
+- [B - 09 LE TYPE 9 : L' INERTIE ET L' INDOLENCE (DESCRIPTION GÉNÉRALE)](https://www.youtube.com/watch?v=5FaOSVDz5_4)
