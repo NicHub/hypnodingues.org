@@ -25,7 +25,7 @@ Tu dois abandonner la vie que tu as planifiée pour pouvoir vivre la vie qui t�
 
 ---
 
-Le labyrinthe est parfaitement connu ; il nous suffit de suivre le fil sur les pas du héros. Et là où nous pensions trouver un monstre, nous trouverons un dieu ; là où nous pensions tuer l’autre, c’est notre propre égo que nous sacrifierons ; là où nous pensions cheminer vers un monde exterieur, nous atteindrons le centre de notre propre existence ; là où nous pensions être seuls, nous serons avec le monde tout entier.
+Le labyrinthe est parfaitement connu ; il nous suffit de suivre le fil sur les pas du héros. Et là où nous pensions trouver un monstre, nous trouverons un dieu ; là où nous pensions tuer l’autre, c’est notre propre égo que nous sacrifierons ; là où nous pensions cheminer vers un monde extérieur, nous atteindrons le centre de notre propre existence ; là où nous pensions être seuls, nous serons avec le monde tout entier.
 
 [ Le Héros aux mille et un visages, *Joseph Campbell* ]
 
