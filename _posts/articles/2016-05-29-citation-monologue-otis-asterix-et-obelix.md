@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Citation d’Otis dans Astérix et Obélix : Mission Cléopâtre"
+title: "Monologue d’Otis dans Astérix et Obélix : Mission Cléopâtre"
 date: 2016-05-29 10:22:0.000000000 +02:00
 status: publish
 type: post
