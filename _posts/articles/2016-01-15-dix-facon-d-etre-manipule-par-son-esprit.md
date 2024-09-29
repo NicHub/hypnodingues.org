@@ -71,13 +71,13 @@ Combien de fois avez-vous entendu des gens prétendre qu’ils connaissaient la 
 
 # À lire aussi
 
-- [L’effet Forer sur le Dictionnaire Sceptique](http://www.sceptiques.qc.ca/dictionnaire/forer.html)
-- [La dissonance cognitive sur Wikipedia](http://fr.wikipedia.org/wiki/Dissonance_cognitive)
-- [L’experience de Asch sur Wikipedia](http://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Asch)
+- [L’effet Forer sur le Dictionnaire Sceptique](https://www.sceptiques.qc.ca/dictionnaire/forer.html){:rel="nofollow"}
+- [La dissonance cognitive sur Wikipedia](https://fr.wikipedia.org/wiki/Dissonance_cognitive)
+- [L’experience de Asch sur Wikipedia](https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Asch)
 - [La paréidolie sur Wikipedia](https://fr.wikipedia.org/wiki/Paréidolie)
 - [Les corrélations illusoires sur Charlatans.info](http://www.charlatans.info/correlations.shtml)
 - [Les faux souvenirs sur Wikipedia](http://fr.wikipedia.org/wiki/Faux_souvenirs_induits)
-- [La cécité d’inattention sur sur le Dictionnaire sceptique](http://www.sceptiques.qc.ca/dictionnaire/inattentionalblindness.html)
+- [La cécité d’inattention sur sur le Dictionnaire sceptique](http://www.sceptiques.qc.ca/dictionnaire/inattentionalblindness.html){:rel="nofollow"}
 - [Les prophéties auto-réalisatrices sur Wikipedia](http://fr.wikipedia.org/wiki/Proph%C3%A9tie_autor%C3%A9alisatrice)
 - [Le biais de connaissance rétrospective sur Wikipedia (anglais)](http://en.wikipedia.org/wiki/Hindsight_bias)
 

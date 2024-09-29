@@ -28,11 +28,11 @@ Et de nombreux outils dont : la radiesthésie, le EFT...</p>
 <p>Conférencière et formatrice : Sonia Pasqualetto<br />
 De la biologie au spirituel en passant par l’émotionnel l’intellectuel l’énergétique j’ai exploré de nombreuses sphères de connaissances expérimenté et développé mes potentiels et dans une grande simplicité je vous offre ce que j’ai intégré<br />
 <a href="http://hooponopono.over-blog.com">http://hooponopono.over-blog.com</a><br />
-<a href="http://hooponopono.over-blog.com/pages/Chemin_de_Vie_de_Sonia-3729628.html">http://hooponopono.over-blog.com/pages/Chemin_de_Vie_de_Sonia-3729628.html</a></p>
+<a rel="nofollow" href="http://hooponopono.over-blog.com/pages/Chemin_de_Vie_de_Sonia-3729628.html">http://hooponopono.over-blog.com/pages/Chemin_de_Vie_de_Sonia-3729628.html</a></p>
 <p>Morges 2013<br />
 Atelier 1et 2 juin<br />
 Conférence Morges 28 mai Indigo Espace santé Chemin de la Brume 9<br />
-Réservation auprès de : Anne-Lise Desarzens Tél. 079 410 56 14 - <a href="http://www.indigo-espace-sante.ch">www.indigo-espace-sante.ch</a></p>
+Réservation auprès de : Anne-Lise Desarzens Tél. 079 410 56 14 - <a rel="nofollow" href="http://www.indigo-espace-sante.ch">www.indigo-espace-sante.ch</a></p>
 <p>Sonia Pasqualetto</p>
 <p>« Soyez le changement que vous voulez voir dans le monde » Gandhi<br />
 « Aime ton prochain, comme toi-même » Jésus<br />

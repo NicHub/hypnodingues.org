@@ -31,7 +31,7 @@ excerpt:
 
 
 <p>&nbsp;</p>
-<p>Source : <a href="http://www.collective-evolution.com/2014/01/07/this-is-what-happens-when-a-kid-leaves-traditional-education">http://www.collective-evolution.com/2014/01/07/this-is-what-happens-when-a-kid-leaves-traditional-education</a></p>
+<p>Source : <a rel="nofollow" href="http://www.collective-evolution.com/2014/01/07/this-is-what-happens-when-a-kid-leaves-traditional-education">http://www.collective-evolution.com/2014/01/07/this-is-what-happens-when-a-kid-leaves-traditional-education</a></p>
 <p>&nbsp;</p>
 <p>Pour activer les sous-titres, démarrer la vidéo et cliquer sur l’icône en bas à droite.</p>
 <p>&nbsp;</p>

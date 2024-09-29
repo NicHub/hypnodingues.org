@@ -14,5 +14,5 @@ author:
 excerpt:
 ---
 
-<p><a href="http://bigbrowser.blog.lemonde.fr/2013/08/22/psychosoma-guerir-des-maladies-mentales-en-soignant-lintestin-ce-deuxieme-cerveau/">http://bigbrowser.blog.lemonde.fr/2013/08/22/psychosoma-guerir-des-maladies-mentales-en-soignant-lintestin-ce-deuxieme-cerveau/</a></p>
+<p><a rel="nofollow" href="http://bigbrowser.blog.lemonde.fr/2013/08/22/psychosoma-guerir-des-maladies-mentales-en-soignant-lintestin-ce-deuxieme-cerveau/">http://bigbrowser.blog.lemonde.fr/2013/08/22/psychosoma-guerir-des-maladies-mentales-en-soignant-lintestin-ce-deuxieme-cerveau/</a></p>
 

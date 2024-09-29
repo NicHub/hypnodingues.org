@@ -23,4 +23,4 @@ excerpt:
 <li>Un CD au format MP3 pour pratiquer</li>
 </ul>
 <div>Chapitre 1 du CD :</div>
-<p><a href="http://www.editions-iconoclaste.fr/IMG/mp3/03_Suivre_sa_respiration_1.mp3">http://www.editions-iconoclaste.fr/IMG/mp3/03_Suivre_sa_respiration_1.mp3</a></p>
+<p><a rel="nofollow" href="http://www.editions-iconoclaste.fr/IMG/mp3/03_Suivre_sa_respiration_1.mp3">http://www.editions-iconoclaste.fr/IMG/mp3/03_Suivre_sa_respiration_1.mp3</a></p>

@@ -93,7 +93,7 @@ Le « pourquoi » et le « comment » sont liés à notre cerveau limbique
 
 ## CHALLENGE YOUR THINKING
 
-<http://drlindatucker.com/together-better-simon-sinek/>
+<http://drlindatucker.com/together-better-simon-sinek/>{:rel="nofollow"}
 
 Most of us live our lives by accident
 

@@ -15,4 +15,4 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><a href="http://www.therapyforyoursoul.com/the-ghost-in-your-genes.html">http://www.therapyforyoursoul.com/the-ghost-in-your-genes.html</a></p>
+<p><a rel="nofollow" href="http://www.therapyforyoursoul.com/the-ghost-in-your-genes.html">http://www.therapyforyoursoul.com/the-ghost-in-your-genes.html</a></p>

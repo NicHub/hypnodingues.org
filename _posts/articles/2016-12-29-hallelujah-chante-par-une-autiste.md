@@ -23,7 +23,7 @@ excerpt:
 	id="fitvid162173"></iframe>
 
 
-[Source: ipnoze.com](http://www.ipnoze.com/2016/12/21/fille-autiste-chante-hallelujah/)
+[Source: ipnoze.com](http://www.ipnoze.com/2016/12/21/fille-autiste-chante-hallelujah/){:rel="nofollow"}
 
 
 [Version de Jeff Buckley](https://www.youtube.com/watch?v=cQG7dZUnNLs)

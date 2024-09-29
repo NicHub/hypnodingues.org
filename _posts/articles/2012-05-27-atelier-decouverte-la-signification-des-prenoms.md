@@ -28,4 +28,4 @@ excerpt:
 <p>Au plaisir de partager encore et encore.<br />
 Belle journée à tous et à toutes.<br />
 Micheline</p>
-<p><a href="http://www.racine.homepage.bluewin.ch">http://www.racine.homepage.bluewin.ch</a></p>
+<p><a rel="nofollow"s href="http://www.racine.homepage.bluewin.ch">http://www.racine.homepage.bluewin.ch</a></p>

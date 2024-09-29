@@ -14,7 +14,7 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p>source : <a href="http://www.hirnliga.ch/index.php?id=113&amp;L=1">http://www.hirnliga.ch/index.php?id=113&amp;L=1</a></p>
+<p>source : <a rel="nofollow" href="http://www.hirnliga.ch/index.php?id=113&amp;L=1">http://www.hirnliga.ch/index.php?id=113&amp;L=1</a></p>
 <p>&nbsp;</p>
 <p>Un musicien de trente ans écrivait à son ami: «Ma vie est triste, je suis fâché avec la nature et son créateur.» A l’origine de cette lettre, une surdité qui allait s’aggravant, le poussant à se couper peu à peu de toute vie sociale. L’idée du suicide était toujours plus présente à son esprit. Un an plus tard, il faisait son testament: «Quelle humiliation pour moi de me trouver à côté de quelqu’un qui entend de loin le son de la flûte, moi qui n’entends plus rien! C’est avec joie que je vais à la rencontre de la mort.» Vingt-cinq ans plus tard, il était toujours en vie. Agé de 53 ans, il dirigeait l’orchestre du théâtre de la cour de Vienne. Complètement sourd, Ludwig van Beethoven faisait un triomphe avec l’Hymne à la joie de Schiller dans la Neuvième symphonie.</p>
 <h2>Les crises de la vie: comment continuer?</h2>

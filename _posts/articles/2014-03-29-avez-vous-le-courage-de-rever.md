@@ -16,7 +16,7 @@ author:
 excerpt:
 ---
 <p>&nbsp;</p>
-<p><a href="http://inknowation.com/en/">inknowation.com</a></p>
+<p><a rel="nofollow" href="http://inknowation.com/en/">inknowation.com</a></p>
 <p>Vous pouvez activer les sous-titres en français en bas à droite de la vidéo, mais uniquement quand elle a démarré.</p>
 <p>&nbsp;</p>
 <p><iframe width="680" height="383" src="//www.youtube.com/embed/f6uOABlKJeg?rel=0" frameborder="0" allowfullscreen></iframe></p>

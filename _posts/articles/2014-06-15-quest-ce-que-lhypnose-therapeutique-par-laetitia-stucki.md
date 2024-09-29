@@ -16,7 +16,7 @@ excerpt:
 ---
 
 
-<p><a href="http://hypnose-stucki.ch/videos/" target="_blank">http://hypnose-stucki.ch/videos/</a></p>
+<p><a rel="nofollow" href="http://hypnose-stucki.ch/videos/" target="_blank">http://hypnose-stucki.ch/videos/</a></p>
 
 <p><a href="https://www.youtube.com/user/hypnosestucki" target="_blank">Abonnez-vous à ma chaîne <em>You Tube</em> !</a></p>
 

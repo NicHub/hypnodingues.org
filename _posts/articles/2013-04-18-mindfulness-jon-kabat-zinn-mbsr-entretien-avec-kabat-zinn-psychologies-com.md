@@ -14,4 +14,4 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><a href="http://www.psychologies.com/Bien-etre/Medecines-douces/Se-soigner-autrement/Articles-et-Dossiers/Mediter-guerit-le-corps/La-meditation-renforce-l-immunite-selon-Jon-Kabat-Zinn">Mindfulness - Jon Kabat-Zinn - MBSR - Entretien avec Kabat-Zinn | Psychologies.com</a>.</p>
+<p><a rel="nofollow" href="http://www.psychologies.com/Bien-etre/Medecines-douces/Se-soigner-autrement/Articles-et-Dossiers/Mediter-guerit-le-corps/La-meditation-renforce-l-immunite-selon-Jon-Kabat-Zinn">Mindfulness - Jon Kabat-Zinn - MBSR - Entretien avec Kabat-Zinn | Psychologies.com</a>.</p>

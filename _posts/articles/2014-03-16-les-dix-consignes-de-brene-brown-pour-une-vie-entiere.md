@@ -14,7 +14,7 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><em>Source :</em> <a href="http://issuu.com/magazine_nexus/docs/nexus_91_liseuse_a" target="_blank">Nexus, mars–avril 2014</a></p>
+<p><em>Source :</em> <a rel="nofollow" href="http://issuu.com/magazine_nexus/docs/nexus_91_liseuse_a" target="_blank">Nexus, mars–avril 2014</a></p>
 <ol>
 <li><strong>Cultiver l’authenticité</strong><br />
 <em style="margin-left: 2em; margin-right: 2em; width: 30em; color: grey; display: block;">Abandonner ce que pensent les gens.</em></li>

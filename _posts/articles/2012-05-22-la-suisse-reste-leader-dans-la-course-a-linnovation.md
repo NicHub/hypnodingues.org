@@ -22,5 +22,5 @@ excerpt:
 <p>Auteur:</p>
 <p>Office fédéral de la formation professionnelle et de la technologie</p>
 <p>Internet: <a href="http://www.news.admin.ch/message/index.html?lang=fr&amp;amp;msg-id=43344">http://www.news.admin.ch/message/index.html?lang=fr&amp;msg-id=43344</a></p>
-<p>Rapport UE complet (PDF) - <a href="http://ec.europa.eu/enterprise/policies/innovation/files/ius-2011_en.pdf">http://ec.europa.eu/enterprise/policies/innovation/files/ius-2011_en.pdf</a> (15 05 2012)<br />
+<p>Rapport UE complet (PDF) - <a rel="nofollow" href="http://ec.europa.eu/enterprise/policies/innovation/files/ius-2011_en.pdf">http://ec.europa.eu/enterprise/policies/innovation/files/ius-2011_en.pdf</a> (15 05 2012)<br />
 (22 05 2012)</p>

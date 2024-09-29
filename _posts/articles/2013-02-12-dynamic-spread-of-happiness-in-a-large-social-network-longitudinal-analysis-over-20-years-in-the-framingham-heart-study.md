@@ -15,4 +15,4 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><a href="http://jhfowler.ucsd.edu/dynamic_spread_of_happiness.pdf">http://jhfowler.ucsd.edu/dynamic_spread_of_happiness.pdf</a></p>
+<p><a rel="nofollow" href="http://jhfowler.ucsd.edu/dynamic_spread_of_happiness.pdf">http://jhfowler.ucsd.edu/dynamic_spread_of_happiness.pdf</a></p>

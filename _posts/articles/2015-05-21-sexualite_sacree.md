@@ -21,6 +21,6 @@ excerpt:
 
 ## Le pouvoir alchimique du sang menstruel et de l’union sexuelle
 
-<a target="_blank" href="http://www.spirit-science.fr/doc_humain/sexualitealchimique.html">http://www.spirit-science.fr/doc_humain/sexualitealchimique.html</a>
+<http://www.spirit-science.fr/doc_humain/sexualitealchimique.html>{:rel="nofollow"}
 
 

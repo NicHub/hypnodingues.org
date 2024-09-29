@@ -19,7 +19,7 @@ excerpt:
 <p>Et il a aussi écrit un e-book :</p>
 <p><a href="http://street-hypnose.fr/la-voix-de-linconscient.pdf">http://street-hypnose.fr/la-voix-de-linconscient.pdf</a></p>
 <p>Je l'ai découvert sur une page <a href="http://www.scoop.it">scoop.it</a> :</p>
-<p><a href="http://www.scoop.it/t/hypnose-de-rue">http://www.scoop.it/t/hypnose-de-rue</a></p>
+<p><a rel="nofollow" href="http://www.scoop.it/t/hypnose-de-rue">http://www.scoop.it/t/hypnose-de-rue</a></p>
 <p>Sur le même thème :</p>
-<p><a href="http://www.street-hypnosis.fr">http://www.street-hypnosis.fr</a></p>
+<p><a rel="nofollow" href="http://www.street-hypnosis.fr">http://www.street-hypnosis.fr</a></p>
 <p>&nbsp;</p>

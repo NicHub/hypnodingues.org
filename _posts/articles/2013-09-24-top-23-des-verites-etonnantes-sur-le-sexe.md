@@ -14,6 +14,6 @@ author:
   first_name: Laeti
 excerpt:
 ---
-<p><a href="http://www.gentside.com/sexe/top-23-des-verites-etonnantes-sur-le-sexe_art54788.html">http://www.gentside.com/sexe/top-23-des-verites-etonnantes-sur-le-sexe_art54788.html</a></p>
+<p><a rel="nofollow" href="http://www.gentside.com/sexe/top-23-des-verites-etonnantes-sur-le-sexe_art54788.html">http://www.gentside.com/sexe/top-23-des-verites-etonnantes-sur-le-sexe_art54788.html</a></p>
 <p>Biiiiiiiisous ;-)!</p>
 <p>Laeti</p>

@@ -15,7 +15,7 @@ excerpt:
 
 <p>Du 26 au 30 juin 2013, atelier de Don Miguel Ruiz et de son fils José au <a href="http://goo.gl/maps/RKJr9">Val de Consolation</a>.</p>
 
-<p><a href="http://www.artisansdepaix-valdeconsolation.org">http://www.artisansdepaix-valdeconsolation.org/</a></p>
+<p><a rel="nofollow" href="http://www.artisansdepaix-valdeconsolation.org">http://www.artisansdepaix-valdeconsolation.org/</a></p>
 
 <p>&nbsp;</p>
 

@@ -19,5 +19,5 @@ excerpt:
 Un super casque très solide, qui ne sature jamais. Toutes les parties peuvent être achetées séparément, c’est donc un casque pour la vie.
 </p>
 
-<p>169 Frs chez Dupertuis : <a href="https://www.dupertuis.com/sennheiser-hd-25-1-ii-basic-edition-3575-.html">https://www.dupertuis.com/sennheiser-hd-25-1-ii-basic-edition-3575-.html</a></p>
+<p>169 Frs chez Dupertuis : <a rel="nofollow" href="https://www.dupertuis.com/sennheiser-hd-25-1-ii-basic-edition-3575-.html">https://www.dupertuis.com/sennheiser-hd-25-1-ii-basic-edition-3575-.html</a></p>
 

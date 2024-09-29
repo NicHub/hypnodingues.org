@@ -95,6 +95,6 @@ Anything can be healed</p>
 <p>Powered by: <a href="https://app.getresponse.com/referral.html?x=a62b&amp;u=By&amp;y=y&amp;">https://app.getresponse.com/referral.html?x=a62b&amp;u=By&amp;y=y&amp;</a></p>
 <p>Brofman Foundation, 3, Place de la Riponne, Lausanne,  CH-1005, Switzerland</p>
 <p>To unsubscribe visit:<br />
-<a href="https://app.getresponse.com/me.html?x=a62b&amp;m=xlc4&amp;s=GiBQj&amp;y=P&amp;">https://app.getresponse.com/me.html?x=a62b&amp;m=xlc4&amp;s=GiBQj&amp;y=P&amp;</a><br />
+<a rel="nofollow" href="https://app.getresponse.com/me.html?x=a62b&amp;m=xlc4&amp;s=GiBQj&amp;y=P&amp;">https://app.getresponse.com/me.html?x=a62b&amp;m=xlc4&amp;s=GiBQj&amp;y=P&amp;</a><br />
 To change your contact details visit:<br />
-<a href="https://app.getresponse.com/me.html?x=a62b&amp;m=xlc4&amp;s=GiBQj&amp;y=P&amp;">https://app.getresponse.com/me.html?x=a62b&amp;m=xlc4&amp;s=GiBQj&amp;y=P&amp;</a></p>
+<a rel="nofollow" href="https://app.getresponse.com/me.html?x=a62b&amp;m=xlc4&amp;s=GiBQj&amp;y=P&amp;">https://app.getresponse.com/me.html?x=a62b&amp;m=xlc4&amp;s=GiBQj&amp;y=P&amp;</a></p>

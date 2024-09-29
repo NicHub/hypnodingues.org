@@ -100,11 +100,11 @@ excerpt:
                     </a>
                 </li>
 <li>
-                    <a href="http://www.hypnose-humaniste.com/audio/Lockert-La-Conscience.mp3"><span class="c2">La Conscience (récit)</span><span class="c3"> – 39mn</span><br />
+                    <a rel="nofollow" href="http://www.hypnose-humaniste.com/audio/Lockert-La-Conscience.mp3"><span class="c2">La Conscience (récit)</span><span class="c3"> – 39mn</span><br />
                     </a>
                 </li>
 <li>
-                    <a href="http://www.hypnose-humaniste.com/audio/Lockert-Histoire-de-la-Vie.mp3"><span class="c2">La Grande Histoire de la Vie (récit)</span><span class="c3"> – 46mn</span><br />
+                    <a rel="nofollow" href="http://www.hypnose-humaniste.com/audio/Lockert-Histoire-de-la-Vie.mp3"><span class="c2">La Grande Histoire de la Vie (récit)</span><span class="c3"> – 46mn</span><br />
                     </a>
                 </li>
 </ol>

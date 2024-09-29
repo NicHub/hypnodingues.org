@@ -45,7 +45,7 @@ excerpt:
 <tbody>
 <tr>
 <td valign="middle" width="33%">
-<div><a href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=oTE2DE2Hr1AKtG15Xf8Z_g"><img alt="Image" src="{{ site.url }}/assets/50c73b8b84c49f40a300febe.png" width="460px" height="199px" border="0" /></a></div>
+<div><a rel="nofollow" href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=oTE2DE2Hr1AKtG15Xf8Z_g"><img alt="Image" src="{{ site.url }}/assets/50c73b8b84c49f40a300febe.png" width="460px" height="199px" border="0" /></a></div>
 </td>
 </tr>
 </tbody>
@@ -73,7 +73,7 @@ AAA - Amour, Attraction, Argent</p>
 <div>
 <div>
 <div><b>Informez vos ami(e)s</b>. Envoyez cet email à un ami !<br />
-<b>Pas encore inscrit(e).</b> <b>?</b> <a href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=kcNAUd8A4naQSQ_0DvomCw">Ne manquez aucun exemplaire</a></p>
+<b>Pas encore inscrit(e).</b> <b>?</b> <a rel="nofollow" href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=kcNAUd8A4naQSQ_0DvomCw">Ne manquez aucun exemplaire</a></p>
 <div align="right">Le 8 mars 2013</div>
 </div>
 </div>
@@ -95,25 +95,25 @@ AAA - Amour, Attraction, Argent</p>
 <div>
 <div>
 <p>&nbsp;</p>
-<p align="center"><a href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=0sCSCo1bmHs9TqEwESjBLQ">&lt;&lt; Oui Marcelle, je veux créer ma réussite financière &gt;&gt; &lt;&lt;&lt;</a></p>
+<p align="center"><a rel="nofollow" href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=0sCSCo1bmHs9TqEwESjBLQ">&lt;&lt; Oui Marcelle, je veux créer ma réussite financière &gt;&gt; &lt;&lt;&lt;</a></p>
 <p>Anticipez-la joyeusement parce que je vais, entre autres choses, vous révéler VOTRE type financier propre et comment l'utiliser pour transformer votre <b>revenu</b>, tirer parti de votre temps et bien plus encore.</p>
 <p>De PLUS, je vais vous montrer comment offrir ce système prêt-à-l'emploi à VOS clients sous la<i><b></b></i>forme de courants de revenus variés, tels qu'en séances individuelles, dans des ateliers, des groupes, des téléséminaires et plus encore.</p>
-<div align="center"><a href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=0sCSCo1bmHs9TqEwESjBLQ">&gt;&gt; &lt;&lt; Oui Marcelle, je veux créer ma réussite financière&gt;&gt; &lt;&lt;&lt;</a></div>
+<div align="center"><a rel="nofollow" href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=0sCSCo1bmHs9TqEwESjBLQ">&gt;&gt; &lt;&lt; Oui Marcelle, je veux créer ma réussite financière&gt;&gt; &lt;&lt;&lt;</a></div>
 <p>C'est ce qui rend ce programme si intéressant pour vous, que vous vouliez l'appliquer à votre situation propre, que vous commenciez seulement à offrir du coaching ou que vous soyez un coach chevronné prêt à développer son activité.</p>
 <p>Nous enseignons ce que nous devons apprendre, ce qui signifie que vous n'avez pas besoin d'être financièrement &lt;&lt; parfait &gt;&gt; pour coacher les autres avec ce système puissant.</p>
-<p align="center"><a href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=0sCSCo1bmHs9TqEwESjBLQ">&gt;&gt;&gt; &lt;&lt; Oui Marcelle, je veux créer ma réussite financière&gt;&gt; &lt;&lt;&lt;</a></p>
+<p align="center"><a rel="nofollow" href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=0sCSCo1bmHs9TqEwESjBLQ">&gt;&gt;&gt; &lt;&lt; Oui Marcelle, je veux créer ma réussite financière&gt;&gt; &lt;&lt;&lt;</a></p>
 <p>Il vous faut juste avoir le désir de vivre VOTRE vie en exprimant votre plein potentiel... et de vouloir voir les autres entrer dans LEUR pouvoir.</p>
 <p>Maintenant, pour être honnête, je dois vous rappeler qu'en vous inscrivant avant LUNDI 10 MARS, vous économiserez 1 500€.</p>
 <p>La formation commence début avril, donc vous avez le temps de vous préparer à une transformation MAJEURE et POSITIVE.</p>
 <p>C'est la meilleure transformation qui soit :-))</p>
 <p>Examinez cela, d'accord?</p>
-<p><a href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=0sCSCo1bmHs9TqEwESjBLQ">Formation d'Abondance Financière</a><br />
+<p><a rel="nofollow" href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=0sCSCo1bmHs9TqEwESjBLQ">Formation d'Abondance Financière</a><br />
 Que la Joie et l'Abondance Vous Accompagnent !</p>
 <p>Marcelle</p>
 <p>PS : N'oubliez pas qu'il s'agit d'un programme complet, &lt;&lt; prêt à l'emploi &gt;&gt;, que vous pouvez proposer à vos clients en toute confiance pour créer en eux une profonde et durable transformation personnelle.</p>
 <p>Et la cerise sur le gâteau, c'est que TOUT ce que vous apprendrez, VOUS devrez l'appliquer d'abord à VOTRE vie et à VOTRE entreprise !</p>
 <p>Curieux d'en savoir plus ?</p>
-<p><a href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=0sCSCo1bmHs9TqEwESjBLQ">Cliquez ici pour plus de détails</a>
+<p><a rel="nofollow" href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=0sCSCo1bmHs9TqEwESjBLQ">Cliquez ici pour plus de détails</a>
 </div>
 </div>
 </div>

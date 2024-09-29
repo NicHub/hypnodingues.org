@@ -20,5 +20,5 @@ excerpt:
 <p><a href="http://www.dalailama2013.ch/index.php/fr/">http://www.dalailama2013.ch/index.php/fr/</p>
 <p></a></p>
 <p>Sa Sainteté Sakya Trizin Rinpoche sera au Casino de Montbenon à Lausanne les 9 et 10 mars :</p>
-<p><a href="http://www.rigdzin.ch/tickets/category.php?id_category=6">http://www.rigdzin.ch/tickets/category.php?id_category=6</p>
+<p><a rel="nofollow" href="http://www.rigdzin.ch/tickets/category.php?id_category=6">http://www.rigdzin.ch/tickets/category.php?id_category=6</p>
 <p></a></p>

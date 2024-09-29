@@ -14,4 +14,4 @@ author:
   first_name: Laeti
 excerpt:
 ---
-<p><a href="http://www.mentalisme.ch/">http://www.mentalisme.ch/</a></p>
+<p><a rel="nofollow" href="http://www.mentalisme.ch/">http://www.mentalisme.ch/</a></p>

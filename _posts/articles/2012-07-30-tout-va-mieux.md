@@ -14,4 +14,4 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><a title="http://www.tout-va-mieux.com/" href="http://www.tout-va-mieux.com/">http://www.tout-va-mieux.com/</a></p>
+<p><a rel="nofollow" title="http://www.tout-va-mieux.com/" href="http://www.tout-va-mieux.com/">http://www.tout-va-mieux.com/</a></p>

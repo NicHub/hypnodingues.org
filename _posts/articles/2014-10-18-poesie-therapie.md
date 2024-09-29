@@ -17,7 +17,7 @@ excerpt:
 ---
 <p style="text-align: center;">
 <p style="text-align: center;">
-<p style="text-align: center;"><a title="Jacques de Coulon / Soyez poète de votre vie" href="http://www.poesie-therapie.com" target="_blank">http://www.poesie-therapie.com</a></p>
+<p style="text-align: center;"><a rel="nofollow" title="Jacques de Coulon / Soyez poète de votre vie" href="http://www.poesie-therapie.com" target="_blank">http://www.poesie-therapie.com</a></p>
 <p style="text-align: center;">
 <p style="text-align: center;">
 <p style="text-align: center;">

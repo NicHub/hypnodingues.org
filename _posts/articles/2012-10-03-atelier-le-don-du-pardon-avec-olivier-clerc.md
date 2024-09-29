@@ -17,5 +17,5 @@ excerpt:
 <h2>Libérer son coeur et réapprendre à aimer</h2>
 <h4>13-14 Octobre 2012 / Salle Ste.-Claire<code></code>, Vevey<br />
 Samedi 14h à 18h et Dimanche 9h30 à 17h30</h4>
-<p><a href="http://www.cestecrit.ch/oclerc/">http://www.cestecrit.ch/oclerc/</a></p>
+<p><a rel="nofollow" href="http://www.cestecrit.ch/oclerc/">http://www.cestecrit.ch/oclerc/</a></p>
 <p>&nbsp;</p>

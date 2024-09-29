@@ -15,4 +15,4 @@ author:
 excerpt:
 ---
 <p>Bon c’est de la pub, mais c’est bien fait :</p>
-<p><a href="http://www.arreter-de-fumer.com/cn/video.php?no_sta=1">http://www.arreter-de-fumer.com/cn/video.php?no_sta=1</a></p>
+<p><a rel="nofollow" href="http://www.arreter-de-fumer.com/cn/video.php?no_sta=1">http://www.arreter-de-fumer.com/cn/video.php?no_sta=1</a></p>

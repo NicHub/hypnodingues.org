@@ -15,10 +15,10 @@ author:
 excerpt:
 ---
 <ul>
-<li><a href="http://cnl-naturopathie.ch/coin-philosophique-les-trois-corps.php">Les trois corps</a></li>
-<li><a href="http://cnl-naturopathie.ch/coin-philosophique-l-amour.php">L'amour</a></li>
-<li><a href="http://cnl-naturopathie.ch/coin-philosophique-l-information.php">L'information</a></li>
-<li><a href="http://cnl-naturopathie.ch/coin-philosophique-lier-delier-allier.php">Lier, délier, allier</a></li>
-<li><a href="http://cnl-naturopathie.ch/coin-philosophique-le-reproche-l-offense.php">Le reproche, l'offense</a></li>
-<li><a href="http://cnl-naturopathie.ch/coin-philosophique-le-chemin-vers-l-acceptation.php">Le chemin vers l'acceptation</a></li>
+<li><a rel="nofollow" href="http://cnl-naturopathie.ch/coin-philosophique-les-trois-corps.php">Les trois corps</a></li>
+<li><a rel="nofollow" href="http://cnl-naturopathie.ch/coin-philosophique-l-amour.php">L'amour</a></li>
+<li><a rel="nofollow" href="http://cnl-naturopathie.ch/coin-philosophique-l-information.php">L'information</a></li>
+<li><a rel="nofollow" href="http://cnl-naturopathie.ch/coin-philosophique-lier-delier-allier.php">Lier, délier, allier</a></li>
+<li><a rel="nofollow" href="http://cnl-naturopathie.ch/coin-philosophique-le-reproche-l-offense.php">Le reproche, l'offense</a></li>
+<li><a rel="nofollow" href="http://cnl-naturopathie.ch/coin-philosophique-le-chemin-vers-l-acceptation.php">Le chemin vers l'acceptation</a></li>
 </ul>

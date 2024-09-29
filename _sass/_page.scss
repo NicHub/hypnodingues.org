@@ -297,3 +297,30 @@ span + .entry-title {
 		vertical-align: middle;
 	}
 }
+
+
+// Indique que le lien est cassé.
+[rel="nofollow"] {
+	text-decoration: line-through;
+	color:grey;
+}
+
+.red, .red * {
+	color: red !important;
+}
+
+// Nico
+kbd {
+	border: 1px solid #AAA;
+	border-radius: 10%;
+	padding: 0 3px !important;
+	margin: 0;
+	min-width: 40px;
+	display: inline-block;
+	text-align: center;
+	font-size: 0.9em;
+}
+
+.nowrap {
+	white-space: nowrap;
+}

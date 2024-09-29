@@ -19,5 +19,5 @@ excerpt:
 <p>Site original :</p>
 <p><a href="http://theforgivenessproject.com">http://theforgivenessproject.com</a></p>
 <p>En français :</p>
-<p><a href="http://www.olivierclerc.com/le-don-du-pardon/temoignages-de-pardon-du/">http://www.olivierclerc.com/le-don-du-pardon/temoignages-de-pardon-du/</a></p>
+<p><a rel="nofollow" href="http://www.olivierclerc.com/le-don-du-pardon/temoignages-de-pardon-du/">http://www.olivierclerc.com/le-don-du-pardon/temoignages-de-pardon-du/</a></p>
 <p>&nbsp;</p>

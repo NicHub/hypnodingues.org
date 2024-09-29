@@ -17,4 +17,4 @@ excerpt:
 <p>Pour celles et ceux qui ont suivi le cours de morphopsycho et... qui comprennent l’anglais.</p>
 <p><a href="http://www.aafp.org/afp/2005/0715/p279.html">http://www.aafp.org/afp/2005/0715/p279.html</a></p>
 <p>Sur le même sujet et en français :</p>
-<p><a href="http://www.saffrance.com/syndrome-dalcoolisation-foetale/">http://www.saffrance.com/syndrome-dalcoolisation-foetale/</a></p>
+<p><a rel="nofollow" href="http://www.saffrance.com/syndrome-dalcoolisation-foetale/">http://www.saffrance.com/syndrome-dalcoolisation-foetale/</a></p>

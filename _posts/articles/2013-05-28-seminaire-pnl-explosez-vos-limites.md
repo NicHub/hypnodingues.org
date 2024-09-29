@@ -45,7 +45,7 @@ excerpt:
 </p>
 
 <p>
-<a href="http://www.dc-formation.ch/formation/pnl-explosez-vos-limites-1/index.php">Inscription
+<a rel="nofollow" href="http://www.dc-formation.ch/formation/pnl-explosez-vos-limites-1/index.php">Inscription
 </a>
 </p>
 

@@ -62,7 +62,7 @@ excerpt:
 <h2>Vidéo du 09.12.2013</h2>
 <p>Motivation: <a href="https://www.youtube.com/watch?v=U0FlMrAxySo">https://www.youtube.com/watch?v=U0FlMrAxySo</a></p>
 <h2>Vidéo du 10.12.2013</h2>
-<p>Maître fromagère au Sechey: <a href="http://www.sevj.ch/societe_electrique/videoplayer.html?idShow=807">http://www.sevj.ch/societe_electrique/videoplayer.html?idShow=807</a></p>
+<p>Maître fromagère au Sechey: <a rel="nofollow" href="http://www.sevj.ch/societe_electrique/videoplayer.html?idShow=807">http://www.sevj.ch/societe_electrique/videoplayer.html?idShow=807</a></p>
 <h2>Vidéo du 11.12.2013</h2>
 <p>Comment tenir vos bonnes résolutions?: <a href="https://www.youtube.com/watch?v=6BeynmnmSXA">https://www.youtube.com/watch?v=6BeynmnmSXA</a></p>
 <h2>Vidéo du 12.12.2013</h2>

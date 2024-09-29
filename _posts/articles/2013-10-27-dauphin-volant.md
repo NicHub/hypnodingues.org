@@ -14,4 +14,4 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><a href="http://dauphinvolant.tv">http://dauphinvolant.tv</a></p>
+<p><a rel="nofollow" href="http://dauphinvolant.tv">http://dauphinvolant.tv</a></p>

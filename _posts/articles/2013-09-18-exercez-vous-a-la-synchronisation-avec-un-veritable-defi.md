@@ -14,6 +14,6 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><a href="http://www.sixiemesens-lemag.fr/boite-a-outils/exercez-vous-a-la-synchronisation-avec-un-veritable-defi">http://www.sixiemesens-lemag.fr/boite-a-outils/exercez-vous-a-la-synchronisation-avec-un-veritable-defi</a></p>
+<p><a rel="nofollow" href="http://www.sixiemesens-lemag.fr/boite-a-outils/exercez-vous-a-la-synchronisation-avec-un-veritable-defi">http://www.sixiemesens-lemag.fr/boite-a-outils/exercez-vous-a-la-synchronisation-avec-un-veritable-defi</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

@@ -17,6 +17,6 @@ excerpt:
 <p>Salut les Dinguelets!</p>
 <p>Voici de quoi vous divertir et surtout rigoler un bon coup!<br />
 <a href="http://www.vadeker.net/articles/humour/lois_stupides.html">http://www.vadeker.net/articles/humour/lois_stupides.html</a>  et<br />
-<a href="http://www.jeanbamin.com/2008/08/26/lois-americaines-stupides-sur-le-sexe/">http://www.jeanbamin.com/2008/08/26/lois-americaines-stupides-sur-le-sexe/</a></p>
+<a rel="nofollow" href="http://www.jeanbamin.com/2008/08/26/lois-americaines-stupides-sur-le-sexe/">http://www.jeanbamin.com/2008/08/26/lois-americaines-stupides-sur-le-sexe/</a></p>
 <p>Gros becs!</p>
 <p>Laeti</p>

@@ -14,4 +14,4 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><a href="http://www.maidermaider.com/agenda/2010lesautres/2010secrets.pdf">http://www.maidermaider.com/agenda/2010lesautres/2010secrets.pdf</a></p>
+<p><a rel="nofollow" href="http://www.maidermaider.com/agenda/2010lesautres/2010secrets.pdf">http://www.maidermaider.com/agenda/2010lesautres/2010secrets.pdf</a></p>

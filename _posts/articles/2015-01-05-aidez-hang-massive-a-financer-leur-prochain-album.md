@@ -16,7 +16,7 @@ author:
 excerpt:
 ---
 <p>Si vous êtes fan de Hang Massive, vous pouvez les aider à financer leur prochain album. Ça se passe ici :</p>
-<p><a href="http://www.pledgemusic.com/projects/hangmassive">http://www.pledgemusic.com/projects/hangmassive</a></p>
+<p><a rel="nofollow" href="http://www.pledgemusic.com/projects/hangmassive">http://www.pledgemusic.com/projects/hangmassive</a></p>
 <p>&nbsp;</p>
 <p>Si vous ne les connaissez pas, c’est eux :</p>
 <p>&nbsp;</p>
