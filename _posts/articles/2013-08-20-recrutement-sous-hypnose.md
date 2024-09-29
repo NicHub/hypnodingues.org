@@ -14,4 +14,4 @@ author:
   first_name: Nico
 excerpt:
 ---
-<p><a href="http://actualites.cadremploi.fr/editorial/actualites/edito/detail/article/a-quand-une-fiction-sur-le-recrutement-sous-hypnose.html">http://actualites.cadremploi.fr/editorial/actualites/edito/detail/article/a-quand-une-fiction-sur-le-recrutement-sous-hypnose.html</a></p>
+<p><a rel="nofollow" href="http://actualites.cadremploi.fr/editorial/actualites/edito/detail/article/a-quand-une-fiction-sur-le-recrutement-sous-hypnose.html">http://actualites.cadremploi.fr/editorial/actualites/edito/detail/article/a-quand-une-fiction-sur-le-recrutement-sous-hypnose.html</a></p>

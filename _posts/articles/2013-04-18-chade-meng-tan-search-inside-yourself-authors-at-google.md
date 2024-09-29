@@ -19,7 +19,7 @@ excerpt:
 <p>Il a aussi créé le Search Inside Yourself Leadership Institute :</p>
 <p><a href="http://www.siyli.org">http://www.siyli.org</a></p>
 <p>Le site du livre :<br />
-<a href="http://www.siybook.com/resources/">http://www.siybook.com/resources/</a></p>
+<a rel="nofollow" href="http://www.siybook.com/resources/">http://www.siybook.com/resources/</a></p>
 <p>&nbsp;</p>
 <p>Dans la même veine, voir aussi : <a href="http://lentreprise.lexpress.fr/etre-efficace/la-meditation-au-secours-des-managers-stresses_35529.html">La méditation au secours des managers stressés</a> et le <a href="http://www.amazon.fr/dp/B007I7FYB8/">livre correspondant sur Amazon</a></p>
 <p>&nbsp;</p>

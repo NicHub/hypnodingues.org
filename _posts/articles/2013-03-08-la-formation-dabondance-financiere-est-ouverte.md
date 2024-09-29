@@ -90,7 +90,7 @@ AAA - Amour, Attraction, Argent</p>
 </div>
 </div>
 </div>
-<div><a href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=oTE2DE2Hr1AKtG15Xf8Z_g"><img alt="Image" src="{{ site.url }}/assets/5137911d84c49f25a18c3311.png" width="381px" height="200px" border="0" /></a></div>
+<div><a rel="nofollow" href="http://clicks.aweber.com/y/ct/?l=OBp4V&amp;m=Jcn_KWyEwMFhlj&amp;b=oTE2DE2Hr1AKtG15Xf8Z_g"><img alt="Image" src="{{ site.url }}/assets/5137911d84c49f25a18c3311.png" width="381px" height="200px" border="0" /></a></div>
 <div>
 <div>
 <div>

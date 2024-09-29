@@ -14,4 +14,4 @@ author:
   first_name: Laeti
 excerpt:
 ---
-<p><a href="http://www.aquarienne.net/fete-du-wesak-2010.php">http://www.aquarienne.net/fete-du-wesak-2010.php</a></p>
+<p><a rel="nofollow" href="http://www.aquarienne.net/fete-du-wesak-2010.php">http://www.aquarienne.net/fete-du-wesak-2010.php</a></p>

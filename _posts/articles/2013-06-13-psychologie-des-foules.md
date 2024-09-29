@@ -15,7 +15,7 @@ author:
 excerpt:
 ---
 <h1>Passages sélectionnés d’un livre écrit en 1895…</h1>
-<p><a href="http://www.rolover.com/iem/link.php?M=233909&amp;A=151&amp;L=160&amp;F=H">Télécharger le livre entier</a></p>
+<p><a rel="nofollow" href="http://www.rolover.com/iem/link.php?M=233909&amp;A=151&amp;L=160&amp;F=H">Télécharger le livre entier</a></p>
 <p>&nbsp;</p>
 <h3>Page 10 :</h3>
 <p>« L'époque actuelle constitue un des moments critiques où la pensée humaine est en voie de transformation.</p>
