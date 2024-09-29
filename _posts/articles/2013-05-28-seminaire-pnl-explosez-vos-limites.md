@@ -51,9 +51,9 @@ excerpt:
 
 **DC Formation**
 
-<a href="mailto:office@dc-formation.ch">office@dc-formation.ch</a>
+<a rel="nofollow" href="mailto:office@dc-formation.ch">office@dc-formation.ch</a>
 
-<a href="http://www.dc-formation.ch">www.dc-formation.ch</a>
+<a rel="nofollow" href="http://www.dc-formation.ch">www.dc-formation.ch</a>
 
 <a href="https://www.facebook.com/pages/DC-Formation/236520643159912">Page Facebook</a>
 
