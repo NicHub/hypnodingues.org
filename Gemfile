@@ -1,8 +1,10 @@
 source "https://rubygems.org"
 
-gem "github-pages"
-# gem "jekyll"
+gem "jekyll", "~> 4.3"
 gem "jekyll-sitemap"
 gem "jekyll-redirect-from"
+gem "logger"
 
+gem "csv"
+gem "bigdecimal"
 gem "webrick", "~> 1.8"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Chronique linguiste de Laélia Veron"
+title: "La Chronique linguiste de Laélia Véron"
 date: 2022-05-29 19:50:00 +01:00
 categories:
 tags: []
