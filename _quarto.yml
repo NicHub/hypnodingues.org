@@ -9,6 +9,7 @@ website:
     left:
       - href: posts/index.qmd
         text: Articles
+  favicon: assets/favicon.ico
 
 format:
   html:
