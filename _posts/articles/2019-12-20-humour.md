@@ -8,7 +8,7 @@ status: publish
 type: post
 published: true
 author:
-first_name: Nico
+  first_name: Nico
 excerpt:
 ---
 
