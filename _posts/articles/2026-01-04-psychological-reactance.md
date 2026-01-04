@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Psychological Reactance"
-date: 2022-05-29 19:50:00 +01:00
+date: 2026-01-04 16:15:00 +01:00
 categories:
 tags: []
 status: publish
 type: post
-published: false
+published: true
 author:
     first_name: Nico
 excerpt:

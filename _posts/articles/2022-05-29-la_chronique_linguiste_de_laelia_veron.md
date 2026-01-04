@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "La Chronique linguiste de Laélia Véron"
+title: "La Chronique linguistique de Laélia Véron"
 date: 2022-05-29 19:50:00 +01:00
 categories:
 tags: []
 status: publish
 type: post
-published: false
+published: true
 author:
   first_name: Nico
 excerpt:
