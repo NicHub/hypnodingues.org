@@ -1,0 +1,9 @@
+---
+title: "Articles"
+listing:
+  contents: .
+  sort: "date desc"
+  categories: true
+  feed: true
+  page-size: 10000
+---

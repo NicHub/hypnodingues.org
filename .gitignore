@@ -1,15 +1,26 @@
-*.bak
-*.kicad_pcb-bak
-*.sublime-project
-*.sublime-workspace
-*nogit*
+# ---- Quarto ----
+/_site/
+.quarto/
+.quarto-render/
+
+# ---- OS ----
 .DS_Store
-.jekyll-metadata
-.sass-cache
-_config_dev.yml
-_site
-codekit-config.json
-Gemfile.lock
-Thumbs.db
-vendor/*
-.bundle/config
+.AppleDouble
+.LSOverride
+
+# ---- Editor / IDE ----
+.vscode/
+.idea/
+
+# ---- Logs / temp ----
+*.log
+*.tmp
+*.swp
+
+# ---- Node / tooling (au cas où) ----
+node_modules/
+
+# ---- Python (au cas où) ----
+__pycache__/
+*.py[cod]
+.venv/

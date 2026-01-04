@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Hypnodingues"
+  site-path: "/hypnodingues.org-quarto/"
+  navbar:
+    left:
+      - href: posts/index.qmd
+        text: Articles
+
+format:
+  html:
+    theme: cyborg
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-after-body:
+      - text: |
+          <script src="{{< meta site-path >}}/assets/js/prev_next_buttons.js"></script>
+          <script src="{{< meta site-path >}}/assets/js/target_blank.js"></script>
+          <!-- <script src="{{< meta site-path >}}/assets/js/file_list.js"></script> -->
+
