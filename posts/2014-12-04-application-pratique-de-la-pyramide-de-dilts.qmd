@@ -17,9 +17,9 @@ excerpt:
 
 [![Pyramide de Dilts][Pyramide de Dilts]][Pyramide de Dilts]
 
-[Pyramide de Dilts]: {{ site.url }}/assets/pyramide_de_dilts_3.svg
+[Pyramide de Dilts]: ../assets/pyramide_de_dilts_3_bisque.svg
 
-> Aucun problème ne peut être résolu sans changer le niveau de conscience qui l’a engendré.
+> Aucun problème ne peut être résolu sans changer le niveau de conscience qui l’a engendré.<br>
 > _[ Albert Einstein ]_
 
 ## Histoire vraie
