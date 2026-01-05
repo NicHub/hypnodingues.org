@@ -27,3 +27,8 @@ __pycache__/
 
 /.quarto/
 **/*.quarto_ipynb
+
+# ---- Caches d'exécution (Quarto / Jupyter / knitr) ----
+**/.quarto_cache/
+**/_freeze/
+**/.ipynb_checkpoints/
