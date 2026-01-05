@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Psychological Reactance"
+title: "The Secret Psychology of People Who Hate Being Told What To Do"
 date: 2026-01-04 16:15:00 +01:00
 categories:
 tags: []
@@ -12,7 +12,7 @@ author:
 excerpt:
 ---
 
-## The Secret Psychology of People Who Hate Being Told What To Do
+## Psychological Reactance
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2fv_x5Xs6hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
