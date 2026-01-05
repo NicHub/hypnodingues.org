@@ -12,7 +12,7 @@ author:
 excerpt:
 ---
 
-# The Secret Psychology of People Who Hate Being Told What To Do
+## The Secret Psychology of People Who Hate Being Told What To Do
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2fv_x5Xs6hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -24,7 +24,7 @@ It sounds petty when you say it out loud, doesn’t it? But this is one of the m
 
 If this resistance feels built into your DNA, you aren’t just being difficult. There is a fascinating and slightly chaotic psychology behind the people who hate being told what to do.
 
-## The Freedom Fighter
+### The Freedom Fighter
 
 > _The Freedom Fighters Protect Their Autonomy_
 
@@ -32,7 +32,7 @@ Let’s start by looking at the profile of **the freedom fighter**. This isn’t
 
 For the freedom fighter, an unsolicited piece of advice feels like a reduction of their world. If they follow your instruction, they have lost a degree of freedom. So to regain that lost ground, they do the opposite. It’s a way of saying, “I exist and I am the captain of this ship.” The tragedy here is self-sabotage. These people will often skip doing things that would actually benefit them, like studying, eating well, or sleeping early, solely because society or experts told them they should. They choose suffering over submission just to prove that the choice was theirs.
 
-## The Logic Seeker
+### The Logic Seeker
 
 > _The Logic Seekers Demand Sense_
 
@@ -40,7 +40,7 @@ But then there is a quieter, more analytical version of this trait found in **th
 
 If an instruction doesn’t make logical sense, their brain rejects it like a bad organ transplant. They need the context before they can commit to the content. They aren’t trying to slow things down. They are trying to ensure that the action is actually worth taking. But because they refuse to move until they understand the map, they often clash with people who just want to get things done.
 
-## The Demand Avoider — Pathological Demand Avoidance (PDA)
+### The Demand Avoider — Pathological Demand Avoidance (PDA)
 
 > _The Demand Avoiders Manage Anxiety_
 
@@ -48,7 +48,7 @@ Then we have to talk about a more complex internal struggle, **the demand avoide
 
 The demand avoider experiences a sudden, crushing paralysis when faced with an expectation. It’s not that they won’t do it. It’s that they physically feel like they can’t. The pressure creates a wall of anxiety that makes simple tasks feel like climbing Everest. To the outside observer, they look lazy or procrastinating, but internally they are fighting a high-stakes battle against their own adrenaline just to answer an email or take a shower. It is a state of constant negotiation with one’s own energy, where the only way to get things done is to trick the brain into thinking it wasn’t a demand in the first place.
 
-## The Counterdependent
+### The Counterdependent
 
 > _The Counterdependents Guard Their Heart_
 
@@ -56,7 +56,7 @@ Finally, there is **the counterdependent**. This is the person whose independenc
 
 When you tell a counterdependent what to do, they don’t hear guidance. They hear condescension. They hear you saying, “I don’t think you are capable of handling this.” They interpret help as interference and direction as control. They have built a fortress of “I don’t need you.” And every time you give them an order, it’s like you’re tapping on the glass of that fortress. It just reminds them to lock the door tighter. They protect their agency fiercely because, to them, it’s the only thing keeping them safe.
 
-## Conclusion
+### Conclusion
 
 It is strange how much of our identity is wrapped up in who we let influence us. For some, following orders is easy. It’s a relief not to have to choose. But for the people we’ve talked about today, the command-resistant, every instruction is a tiny battle for the soul. Whether it’s the freedom fighter protecting their autonomy, the logic seeker demanding sense, the demand avoider managing anxiety, or the counterdependent guarding their heart, the mechanism is the same: the need to feel like the author of one’s own life.
 
