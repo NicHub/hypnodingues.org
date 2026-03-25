@@ -764,6 +764,10 @@ p.home-hero-button a:focus-visible {
     padding-bottom: 6rem;
   }
 
+  .home-hero-content h1 {
+    font-size: clamp(2.35rem, 13vw, 3.8rem);
+  }
+
   .page-nav-list {
     grid-template-columns: 1fr;
   }

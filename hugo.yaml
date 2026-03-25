@@ -27,7 +27,7 @@ params:
   theme:
     variant: poetic-dark
   home:
-    eyebrow: Archives sensibles
+    eyebrow: Il etait une fois...
     bgImage: /assets/nuweiba.jpg
 
 outputs:
