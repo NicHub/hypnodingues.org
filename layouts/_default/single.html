@@ -1,0 +1,67 @@
+{{ define "main" }}
+  {{ $posts := where site.RegularPages "Section" "posts" }}
+  {{ $prev := "" }}
+  {{ $next := "" }}
+  {{ range $i, $p := $posts }}
+    {{ if eq $p.RelPermalink $.RelPermalink }}
+      {{ if gt $i 0 }}{{ $next = index $posts (sub $i 1) }}{{ end }}
+      {{ if lt $i (sub (len $posts) 1) }}{{ $prev = index $posts (add $i 1) }}{{ end }}
+    {{ end }}
+  {{ end }}
+
+  <article class="page article">
+    <header class="page-header article-header">
+      <p class="eyebrow">{{ with .Params.categories }}{{ delimit . " · " }}{{ else }}Article{{ end }}</p>
+      <h1>{{ .Title | safeHTML }}</h1>
+      <div class="article-meta">
+        <time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format "02.01.2006" }}</time>
+        {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
+      </div>
+      <nav class="page-nav" aria-label="Navigation de l'article">
+        <ul class="page-nav-list">
+          <li>
+            {{ if $prev }}
+              <a class="page-nav-link is-prev" data-page-nav="prev" href="{{ $prev.RelPermalink }}">
+                <span class="page-nav-kicker">Billet précédent</span>
+                <span class="page-nav-title">{{ $prev.Title }}</span>
+              </a>
+            {{ else }}
+              <a class="page-nav-link is-prev" data-page-nav="home" href="{{ site.Home.RelPermalink }}">
+                <span class="page-nav-kicker">Accueil</span>
+                <span class="page-nav-title">Revenir à l'entrée du site</span>
+              </a>
+            {{ end }}
+          </li>
+          <li>
+            {{ if $next }}
+              <a class="page-nav-link is-next" data-page-nav="next" href="{{ $next.RelPermalink }}">
+                <span class="page-nav-kicker">Billet suivant</span>
+                <span class="page-nav-title">{{ $next.Title }}</span>
+              </a>
+            {{ else }}
+              <a class="page-nav-link is-next" data-page-nav="home" href="{{ site.Home.RelPermalink }}">
+                <span class="page-nav-kicker">Accueil</span>
+                <span class="page-nav-title">Revenir à l'entrée du site</span>
+              </a>
+            {{ end }}
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <div class="article-body prose">
+      {{ .Content }}
+    </div>
+
+    {{ if or .Params.tags .Params.categories }}
+      <footer class="article-taxonomies">
+        {{ with .Params.categories }}
+          <p><strong>Catégories:</strong> {{ range $index, $item := . }}{{ if $index }}, {{ end }}<a href="{{ `/categories/` | relURL }}{{ $item | urlize }}/">{{ $item }}</a>{{ end }}</p>
+        {{ end }}
+        {{ with .Params.tags }}
+          <p><strong>Mots-clés:</strong> {{ range $index, $item := . }}{{ if $index }}, {{ end }}<a href="{{ `/tags/` | relURL }}{{ $item | urlize }}/">{{ $item }}</a>{{ end }}</p>
+        {{ end }}
+      </footer>
+    {{ end }}
+  </article>
+{{ end }}

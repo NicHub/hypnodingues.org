@@ -1,0 +1,23 @@
+---
+title: Reflex magazine, décembre 2009, L’hypnose s’installe à l’hôpital
+date: '2013-07-12T12:30:49+02:00'
+categories:
+- Articles
+author: Nico
+draft: true
+---
+
+<p>
+
+<a href="https://hypnodingues.org/wp-content/uploads/2013/07/reflex_magazine_12_2009_hypnose_hopital.pdf">reflex_magazine_12_2009_hypnose_hopital (pdf, 438 ko)</a>
+</p>
+
+<p>
+
+Voir aussi <a href="http://reflexmagazine.ch">http://reflexmagazine.ch</a>
+</p>
+
+<p>
+
+ 
+</p>

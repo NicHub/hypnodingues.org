@@ -1,0 +1,17 @@
+<article class="post-card">
+  <p class="post-card-date">
+    <time datetime="{{ .Date.Format `2006-01-02` }}">{{ .Date.Format "02.01.2006" }}</time>
+  </p>
+  <h2><a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a></h2>
+  {{ with .Params.categories }}
+    <p class="post-card-taxonomy">{{ delimit . " · " }}</p>
+  {{ end }}
+  <div class="post-card-summary">
+    {{ if .Summary }}
+      <p>{{ .Summary | plainify | truncate 220 }}</p>
+    {{ else }}
+      <p>{{ .Plain | truncate 220 }}</p>
+    {{ end }}
+  </div>
+  <a class="post-card-link" href="{{ .RelPermalink }}">Continuer</a>
+</article>

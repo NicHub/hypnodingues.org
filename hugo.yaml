@@ -1,0 +1,44 @@
+baseURL: https://hypnodingues.org/
+languageCode: fr-CH
+title: Hypnodingues
+enableRobotsTXT: true
+
+pagination:
+  pagerSize: 10000
+
+permalinks:
+  posts: /posts/:contentbasename/
+
+taxonomies:
+  category: categories
+  tag: tags
+
+menu:
+  main:
+    - name: Accueil
+      pageRef: /
+      weight: 10
+    - name: Articles
+      pageRef: /posts
+      weight: 20
+
+params:
+  description: Hypnodingues, archives de textes, d'hypnose, de conscience et de traversées intérieures.
+  theme:
+    variant: poetic-dark
+  home:
+    eyebrow: Archives sensibles
+    bgImage: /assets/nuweiba.jpg
+
+outputs:
+  home:
+    - HTML
+    - RSS
+  section:
+    - HTML
+    - RSS
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

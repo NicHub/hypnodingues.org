@@ -3,6 +3,11 @@
 .quarto/
 .quarto-render/
 
+# ---- Hugo ----
+/public/
+/resources/
+/.hugo_build.lock
+
 # ---- OS ----
 .DS_Store
 .AppleDouble

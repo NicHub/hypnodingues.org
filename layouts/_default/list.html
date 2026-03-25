@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <section class="page">
+    <header class="page-header">
+      <p class="eyebrow">{{ if .IsSection }}Archives{{ else }}Collection{{ end }}</p>
+      <h1>{{ if and .IsSection (eq .Section "posts") }}<span class="page-count">{{ len .RegularPages }}</span> Articles{{ else }}{{ .Title | safeHTML }}{{ end }}</h1>
+      {{ with .Content }}
+        <div class="dek prose">{{ . }}</div>
+      {{ end }}
+    </header>
+
+    <section class="post-feed">
+      <div class="post-grid">
+        {{ range .Paginator.Pages }}
+          {{ partial "post-card.html" . }}
+        {{ end }}
+      </div>
+    </section>
+
+    {{ template "_internal/pagination.html" . }}
+  </section>
+{{ end }}

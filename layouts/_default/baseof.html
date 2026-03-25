@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode | default `fr-CH` }}">
+  {{ $pageTitle := .Title | plainify }}
+  {{ if and .IsSection (eq .Section "posts") }}
+    {{ $pageTitle = printf "%d Articles" (len .RegularPages) }}
+  {{ end }}
+  {{ $title := site.Title }}
+  {{ if not .IsHome }}{{ $title = printf "%s | %s" $pageTitle site.Title }}{{ end }}
+  {{ $description := or .Description .Params.description site.Params.description }}
+  {{ $heroImage := site.Params.home.bgImage | default "/assets/Hypnose.jpg" }}
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ $title }}</title>
+    {{ with $description }}<meta name="description" content="{{ . }}">{{ end }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    <meta property="og:title" content="{{ $title }}">
+    <meta property="og:description" content="{{ $description }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+    <meta property="og:image" content="{{ $heroImage | absURL }}">
+    <meta property="og:site_name" content="{{ site.Title }}">
+    <meta property="og:locale" content="fr_CH">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ $title }}">
+    <meta name="twitter:description" content="{{ $description }}">
+    <meta name="twitter:image" content="{{ $heroImage | absURL }}">
+    <link rel="icon" href="/assets/favicon.ico">
+    <script>
+      if (sessionStorage.getItem('hd-nav')) {
+        sessionStorage.removeItem('hd-nav');
+        document.documentElement.classList.add('no-entry-motion');
+      }
+    </script>
+    {{ with resources.Get "scss/main.scss" | toCSS (dict "targetPath" "css/main.css" "transpiler" "dartsass") | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
+    {{ end }}
+    {{ with resources.Get "js/site.js" | minify | fingerprint }}
+      <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
+    {{ end }}
+    {{ if .IsHome }}
+      <script src="/assets/js/TweenLite.min.js" defer></script>
+      <script src="/assets/js/spiders.js" defer></script>
+    {{ end }}
+    {{ with .OutputFormats.Get "rss" }}
+      <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">
+    {{ end }}
+  </head>
+  <body class="{{ if .IsHome }}is-home{{ else if .IsSection }}is-section{{ else }}is-page{{ end }} theme-{{ site.Params.theme.variant | default `poetic-dark` }}">
+    <div class="site-shell">
+      <div class="site-aura site-aura-one"></div>
+      <div class="site-aura site-aura-two"></div>
+      {{ if not .IsHome }}
+        <header class="site-header">
+          <a class="site-brand" href="{{ site.Home.RelPermalink }}">
+            <span class="site-brand-mark">Hypnodingues</span>
+            <span class="site-brand-sub">archives 2012-2026</span>
+          </a>
+          <nav class="site-nav" aria-label="Navigation principale">
+            {{ range site.Menus.main }}
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            {{ end }}
+          </nav>
+        </header>
+      {{ end }}
+      <main class="site-main">
+        {{ block "main" . }}{{ end }}
+      </main>
+      <footer class="site-footer{{ if .IsHome }} home-footer{{ end }}">
+        <a href="https://jeanmonod.net" target="_blank" rel="noopener noreferrer" aria-label="jeanmonod.net">
+          <span class="footer-mark" aria-hidden="true">❧</span>
+        </a>
+      </footer>
+    </div>
+  </body>
+</html>

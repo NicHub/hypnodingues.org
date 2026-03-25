@@ -1,0 +1,25 @@
+{{ define "main" }}
+  {{ $posts := where site.RegularPages "Section" "posts" }}
+  {{ $latest := index $posts 0 }}
+  {{ $oldest := index $posts (sub (len $posts) 1) }}
+  {{ if $latest }}<a data-page-nav="next" href="{{ $latest.RelPermalink }}" hidden></a>{{ end }}
+  {{ if $oldest }}<a data-page-nav="prev" href="{{ $oldest.RelPermalink }}" hidden></a>{{ end }}
+  <section class="page home">
+    <header class="home-hero">
+      <canvas id="spiders" class="home-hero-canvas" aria-hidden="true"></canvas>
+      <img class="home-hero-image" src="{{ site.Params.home.bgImage | default `/assets/Hypnose.jpg` }}" alt="Visage et lumiere dans une atmosphere hypnotique">
+      <div class="home-hero-overlay"></div>
+      <div class="home-hero-content">
+        <a class="home-hero-brand" href="{{ site.Home.RelPermalink }}">
+          <span class="brand-copy">
+            <span class="brand-kicker">Archives</span>
+            <span class="brand-name">{{ site.Title }}</span>
+          </span>
+        </a>
+        <p class="eyebrow">{{ site.Params.home.eyebrow }}</p>
+        <h1>{{ .Title }}</h1>
+        <div class="home-hero-text">{{ .Content }}</div>
+      </div>
+    </header>
+  </section>
+{{ end }}
