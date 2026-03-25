@@ -127,6 +127,12 @@ object {
   max-width: 100%;
 }
 
+.prose img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 iframe {
   display: block;
   width: 100%;
@@ -428,7 +434,7 @@ p.home-hero-button a:focus-visible {
   z-index: 1;
   margin: 0;
   font-size: clamp(2.5rem, 6vw, 4.9rem);
-  line-height: 0.98;
+  line-height: 1.03;
   overflow-wrap: anywhere;
 }
 
