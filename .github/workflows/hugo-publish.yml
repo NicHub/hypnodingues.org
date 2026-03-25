@@ -34,13 +34,21 @@ jobs:
           hugo-version: "0.159.0"
           extended: true
 
-      - name: Setup Node
+      - name: Setup Dart Sass
         uses: actions/setup-node@v4
         with:
           node-version: "22"
 
-      - name: Install Dart Sass
-        run: npm install --global sass
+      - name: Install official Dart Sass binary
+        run: |
+          SASS_VERSION="1.93.2"
+          curl -fsSL "https://github.com/sass/dart-sass/releases/download/${SASS_VERSION}/dart-sass-${SASS_VERSION}-linux-x64.tar.gz" -o dart-sass.tar.gz
+          tar -xzf dart-sass.tar.gz
+          mkdir -p "$HOME/.local/bin"
+          cp dart-sass/sass "$HOME/.local/bin/sass"
+          chmod a+rx "$HOME/.local/bin/sass"
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+          "$HOME/.local/bin/sass" --version
 
       - name: Build
         run: hugo --config hugo.yaml --gc --minify
