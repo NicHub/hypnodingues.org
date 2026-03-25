@@ -6,7 +6,7 @@ categories:
 author: Nico
 ---
 
-[![Pyramide de Dilts](../assets/pyramide_de_dilts_3_bisque.svg)](../assets/pyramide_de_dilts_3_bisque.svg)
+[![Pyramide de Dilts](/assets/pyramide_de_dilts_3_bisque.svg)](/assets/pyramide_de_dilts_3_bisque.svg)
 
 > Aucun problème ne peut être résolu sans changer le niveau de conscience qui l’a engendré.<br> *\[ Albert Einstein \]*
 
