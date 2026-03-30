@@ -7,7 +7,7 @@ author: Nico
 draft: false
 ---
 
-*DALIA est une matrice open source en constante évolution, conçue pour quantifier et qualifier le degré d'intervention de l'intelligence artificielle dans les processus créatifs.*
+*L’échelle DALIA est une matrice open source en constante évolution, conçue pour quantifier et qualifier le degré d'intervention de l'intelligence artificielle dans les processus créatifs.*
 
 
 | Niveau | Nom                                   | Qui est aux commandes                                                                                                                                                       |
