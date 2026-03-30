@@ -1,14 +1,15 @@
 ---
 title: L’échelle Dalia
-date: '2026-03-30T09:11:40+02:00'
+date: '2026-03-30T09:40:00+02:00'
 categories:
     - IA
 author: Nico
 draft: false
 ---
 
-*L’échelle DALIA est une matrice open source en constante évolution, conçue pour quantifier et qualifier le degré d'intervention de l'intelligence artificielle dans les processus créatifs.*
-
+>L’échelle DALIA est une matrice open source en constante évolution, conçue pour quantifier et qualifier le degré d’intervention de l’intelligence artificielle dans les processus créatifs.
+>
+> À mesure que l’IA brouille la frontière entre l’action humaine et l’exécution computationnelle, les métriques traditionnelles, comme le pourcentage de pixels ou de mots générés par l’IA, ne suffisent plus. DALIA évalue le processus créatif selon le locus de contrôle, l’idéation, l’exécution et le raffinement.
 
 | Niveau | Nom                                   | Qui est aux commandes                                                                                                                                                       |
 | :----: | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
