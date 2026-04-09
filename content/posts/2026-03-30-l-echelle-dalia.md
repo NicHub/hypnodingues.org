@@ -25,10 +25,13 @@ draft: false
 -   [DALIA sur GitHub]
 -   [*Un thermomètre pour mesurer la part de l’IA dans l’industrie créative* (30 mars 2026, Grégoire Barbey, *Le Temps*).][Lire l’article sur PressReader]
 
-## À écouter aussi
+## À écouter et voir aussi
 
-[Podcast « IA, qu’à m’expliquer »]
+[letemps.ch — Podcast « IA, qu’à m’expliquer »]
+
+[rts.ch — Le premier thermomètre de l’IA est Suisse]
 
 [DALIA sur GitHub]: https://github.com/DALIAscale
 [Lire l’article sur PressReader]: https://pressreader.com/article/281715506157475
-[Podcast « IA, qu’à m’expliquer »]: https://www.letemps.ch/podcasts/ia-qu-a-m-expliquer
+[letemps.ch — Podcast « IA, qu’à m’expliquer »]: https://www.letemps.ch/podcasts/ia-qu-a-m-expliquer
+[rts.ch — Le premier thermomètre de l’IA est Suisse]: https://www.rts.ch/play/tv/decryptage-culture/video/le-premier-thermometre-de-lia-est-suisse?urn=urn:rts:video:15a0174c-c9e1-38d4-9cf0-ac278580d67d
