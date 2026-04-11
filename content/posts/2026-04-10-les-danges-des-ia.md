@@ -61,6 +61,7 @@ draft: false
 -   ELLES PEUVENT ORIENTER LES CHOIX
 
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
+    -   [Attention : Votre assistant d’écriture change votre façon de penser](https://www.youtube.com/watch?v=osOWroq6jaM)
 
 -   ELLES PEUVENT INDUIRE EN ERREUR
 
