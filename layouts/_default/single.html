@@ -1,13 +1,13 @@
-{{ define "main" }}
-  {{ $posts := where site.RegularPages "Section" "posts" }}
-  {{ $prev := "" }}
-  {{ $next := "" }}
-  {{ range $i, $p := $posts }}
-    {{ if eq $p.RelPermalink $.RelPermalink }}
-      {{ if gt $i 0 }}{{ $next = index $posts (sub $i 1) }}{{ end }}
-      {{ if lt $i (sub (len $posts) 1) }}{{ $prev = index $posts (add $i 1) }}{{ end }}
-    {{ end }}
-  {{ end }}
+{{- define "main" -}}
+  {{- $posts := where site.RegularPages "Section" "posts" -}}
+  {{- $prev := "" -}}
+  {{- $next := "" -}}
+  {{- range $i, $p := $posts -}}
+    {{- if eq $p.RelPermalink $.RelPermalink -}}
+      {{- if gt $i 0 -}}{{- $next = index $posts (sub $i 1) -}}{{- end -}}
+      {{- if lt $i (sub (len $posts) 1) -}}{{- $prev = index $posts (add $i 1) -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
 
   <article class="page article">
     <header class="page-header article-header">
@@ -20,48 +20,48 @@
       <nav class="page-nav" aria-label="Navigation de l'article">
         <ul class="page-nav-list">
           <li>
-            {{ if $prev }}
+            {{- if $prev }}
               <a class="page-nav-link is-prev" data-page-nav="prev" href="{{ $prev.RelPermalink }}">
                 <span class="page-nav-kicker">Billet précédent</span>
                 <span class="page-nav-title">{{ $prev.Title }}</span>
               </a>
-            {{ else }}
+            {{- else }}
               <a class="page-nav-link is-prev" data-page-nav="home" href="{{ site.Home.RelPermalink }}">
                 <span class="page-nav-kicker">Accueil</span>
                 <span class="page-nav-title">Revenir à l'entrée du site</span>
               </a>
-            {{ end }}
+            {{- end }}
           </li>
           <li>
-            {{ if $next }}
+            {{- if $next }}
               <a class="page-nav-link is-next" data-page-nav="next" href="{{ $next.RelPermalink }}">
                 <span class="page-nav-kicker">Billet suivant</span>
                 <span class="page-nav-title">{{ $next.Title }}</span>
               </a>
-            {{ else }}
+            {{- else }}
               <a class="page-nav-link is-next" data-page-nav="home" href="{{ site.Home.RelPermalink }}">
                 <span class="page-nav-kicker">Accueil</span>
                 <span class="page-nav-title">Revenir à l'entrée du site</span>
               </a>
-            {{ end }}
+            {{- end }}
           </li>
         </ul>
       </nav>
     </header>
 
     <div class="article-body prose">
-      {{ .Content }}
+      {{- .Content -}}
     </div>
 
-    {{ if or .Params.tags .Params.categories }}
+    {{- if or .Params.tags .Params.categories }}
       <footer class="article-taxonomies">
-        {{ with .Params.categories }}
+        {{- with .Params.categories }}
           <p><strong>Catégories:</strong> {{ range $index, $item := . }}{{ if $index }}, {{ end }}<a href="{{ `/categories/` | relURL }}{{ $item | urlize }}/">{{ $item }}</a>{{ end }}</p>
-        {{ end }}
-        {{ with .Params.tags }}
+        {{- end }}
+        {{- with .Params.tags }}
           <p><strong>Mots-clés:</strong> {{ range $index, $item := . }}{{ if $index }}, {{ end }}<a href="{{ `/tags/` | relURL }}{{ $item | urlize }}/">{{ $item }}</a>{{ end }}</p>
-        {{ end }}
+        {{- end }}
       </footer>
-    {{ end }}
+    {{- end }}
   </article>
-{{ end }}
+{{- end -}}
