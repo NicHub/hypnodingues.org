@@ -105,6 +105,9 @@ Enfin, certains alertent sur une cannibalisation du web: en fournissant des rép
 
 -   [monsieurphi.com: Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs. les déclarations de Luc Julia]
 
+### Trends
+
+-   [Vibe coding]
 
 {{< comment >}}
 
@@ -121,3 +124,4 @@ LIENS
 [RTS: l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari]: https://www.rts.ch/info/sciences-tech/2025/article/l-ia-revolutionne-les-navigateurs-web-comet-defie-chrome-et-safari-29020257.html
 [Mediapart: IA générative, le guide ultime du hater anti-ChatGPT]: https://blogs.mediapart.fr/lonesome-cowboy/blog/241225/ia-generative-le-guide-ultime-du-hater-anti-chatgpt
 [monsieurphi.com: Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs. les déclarations de Luc Julia]: https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/
+[Vibe coding]: https://fr.wikipedia.org/wiki/Vibe_coding
