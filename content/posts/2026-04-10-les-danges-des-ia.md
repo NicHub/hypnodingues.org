@@ -54,7 +54,8 @@ draft: false
     -   Avec des _deep fakes_ très réalistes.
 
 1.  ELLES PEUVENT DÉSTABILISER LE TISSU SOCIAL
-    -   Le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
+    -   Anthropomorphisme : Le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
+    -   [Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)]
 
 1.  ELLES PEUVENT ÊTRE UTILISÉES DE MANIÈRE INTRUSIVE OU OPAQUE
     -   Système de reconnaissance vocale
@@ -125,3 +126,4 @@ LIENS
 [Mediapart: IA générative, le guide ultime du hater anti-ChatGPT]: https://blogs.mediapart.fr/lonesome-cowboy/blog/241225/ia-generative-le-guide-ultime-du-hater-anti-chatgpt
 [monsieurphi.com: Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs. les déclarations de Luc Julia]: https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/
 [Vibe coding]: https://fr.wikipedia.org/wiki/Vibe_coding
+[Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)]: https://www.youtube.com/watch?v=q0afqpj0mtw
