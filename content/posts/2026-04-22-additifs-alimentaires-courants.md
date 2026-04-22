@@ -29,10 +29,6 @@ draft: false
     color: var(--ink);
   }
 
-  .additifs__intro {
-    margin-bottom: 1.5rem;
-  }
-
   .additifs__panel {
     position: sticky;
     top: 0.5rem;
@@ -195,16 +191,7 @@ draft: false
   }
 </style>
 
-<section class="additifs" aria-labelledby="additifs-title">
-  <div class="additifs__intro">
-    <h2 id="additifs-title">Retrouver un additif alimentaire en un clin d’œil</h2>
-    <p>
-      Saisissez un numéro (ex. <code>E250</code>) ou un nom (ex. <code>aspartame</code>),
-      puis validez&nbsp;: le tableau défile jusqu’à la ligne correspondante et la met en évidence.
-      Les risques et les sources proviennent d’<a href="https://fr.openfoodfacts.org/additifs" target="_blank" rel="noopener noreferrer">Open Food Facts</a>.
-    </p>
-  </div>
-
+<section class="additifs">
   <div class="additifs__panel" role="search">
     <form class="additifs__form" id="additifs-search-form">
       <input
@@ -219,7 +206,7 @@ draft: false
       <button class="additifs__button" type="submit">Rechercher</button>
     </form>
     <p class="additifs__hint" id="additifs-search-summary">
-      Saisissez un numéro E ou un nom, puis validez pour mettre la ligne en évidence.
+      Saisissez un numéro E ou un nom&nbsp;: la recherche se fait au fur et à mesure. Les caractères sont cherchés dans l’ordre (par ex. «&nbsp;25&nbsp;» correspond à E205 comme à E250).
     </p>
   </div>
 
@@ -319,7 +306,16 @@ draft: false
       return String(value)
         .toLowerCase()
         .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "");
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/\s+/g, "");
+    }
+
+    function isSubsequence(needle, haystack) {
+      let i = 0;
+      for (let j = 0; j < haystack.length && i < needle.length; j++) {
+        if (needle[i] === haystack[j]) i++;
+      }
+      return i === needle.length;
     }
 
     function slugifyCode(code) {
@@ -357,12 +353,22 @@ draft: false
       });
     }
 
+    function scrollRowToTop(row) {
+      const panel = document.querySelector(".additifs__panel");
+      const panelBottom = panel ? panel.getBoundingClientRect().bottom : 0;
+      const rowTop = row.getBoundingClientRect().top;
+      const padding = 16;
+      const delta = rowTop - panelBottom - padding;
+      if (Math.abs(delta) < 2) return;
+      window.scrollBy({ top: delta, behavior: "smooth" });
+    }
+
     function runSearch(rawQuery) {
       const query = rawQuery.trim();
       clearHighlight();
 
       if (!query) {
-        summary.textContent = "Saisissez un numéro E ou un nom, puis validez pour mettre la ligne en évidence.";
+        summary.innerHTML = "Saisissez un numéro E ou un nom&nbsp;: la recherche se fait au fur et à mesure. Les caractères sont cherchés dans l’ordre (par ex. «&nbsp;25&nbsp;» correspond à E205 comme à E250).";
         const url = new URL(window.location.href);
         url.searchParams.delete("q");
         window.history.replaceState({}, "", url);
@@ -371,9 +377,11 @@ draft: false
 
       const needle = normalize(query);
       const rows = Array.from(body.querySelectorAll(".additifs__row"));
-      const matches = rows.filter(function (row) {
-        return normalize(row.dataset.searchable).includes(needle);
-      });
+      const matches = needle
+        ? rows.filter(function (row) {
+            return isSubsequence(needle, normalize(row.dataset.searchable));
+          })
+        : [];
 
       const safeQuery = escapeHtml(query);
 
@@ -383,7 +391,7 @@ draft: false
         matches.forEach(function (row) {
           row.classList.add("additifs__row--highlight");
         });
-        matches[0].scrollIntoView({ behavior: "smooth", block: "center" });
+        scrollRowToTop(matches[0]);
         const plural = matches.length > 1 ? "s" : "";
         summary.innerHTML = matches.length + " correspondance" + plural +
           ' pour "<strong>' + safeQuery + '</strong>".';
@@ -398,6 +406,10 @@ draft: false
 
     form.addEventListener("submit", function (event) {
       event.preventDefault();
+      runSearch(input.value);
+    });
+
+    input.addEventListener("input", function () {
       runSearch(input.value);
     });
 
