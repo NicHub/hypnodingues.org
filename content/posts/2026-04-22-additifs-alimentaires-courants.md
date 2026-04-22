@@ -86,7 +86,6 @@ draft: false
     margin-top: 1.5rem;
     overflow-x: auto;
     border-radius: 16px;
-    border: 1px solid var(--line);
     background: #fffdf8;
   }
 
@@ -97,12 +96,16 @@ draft: false
     font-size: 0.97rem;
   }
 
+  .additifs__table th,
+  .additifs__table td {
+    border: 0;
+  }
+
   .additifs__table thead th {
     background: var(--panel-strong);
     color: var(--ink);
     text-align: left;
     padding: 0.75rem 0.9rem;
-    border-bottom: 1px solid var(--line);
     font-weight: 700;
     position: sticky;
     top: 0;
@@ -110,13 +113,8 @@ draft: false
 
   .additifs__table tbody td {
     padding: 0.9rem;
-    border-bottom: 1px solid #efe7d6;
     vertical-align: top;
     transition: background-color 0.3s ease;
-  }
-
-  .additifs__table tbody tr:last-child td {
-    border-bottom: 0;
   }
 
   .additifs__code {
@@ -187,6 +185,60 @@ draft: false
   @media (max-width: 640px) {
     .additifs__form {
       grid-template-columns: 1fr;
+    }
+
+    .additifs__table-wrap {
+      overflow-x: visible;
+      border: 0;
+      background: transparent;
+      border-radius: 0;
+    }
+
+    .additifs__table {
+      min-width: 0;
+    }
+
+    .additifs__table thead {
+      display: none;
+    }
+
+    .additifs__table,
+    .additifs__table tbody,
+    .additifs__table tr,
+    .additifs__table td {
+      display: block;
+      width: 100%;
+    }
+
+    .additifs__table tbody tr {
+      background: #fffdf8;
+      border-radius: 14px;
+      margin-bottom: 0.75rem;
+      padding: 0.25rem 0;
+    }
+
+    .additifs__table tbody td {
+      border-bottom: 0;
+      padding: 0.5rem 0.9rem;
+    }
+
+    .additifs__code {
+      width: auto;
+      padding-top: 0.75rem;
+      font-size: 1.1rem;
+    }
+
+    .additifs__row--highlight td {
+      background: transparent !important;
+    }
+
+    .additifs__row--highlight {
+      background: var(--highlight);
+      box-shadow: inset 4px 0 0 var(--accent);
+    }
+
+    .additifs__row--highlight td:first-child {
+      box-shadow: none;
     }
   }
 </style>
