@@ -6,32 +6,10 @@ categories:
 author: Nico
 ---
 
-<p>
-
 Vendredi 31 mai 2013 fut un jour de deuil pour les Hypnodingues. Dominique nous a quittés.
-</p>
-
-<p>
 
 Pendant la période entre son départ et ses obsèques, ce site internet a été remplacé par une page d’hommages.
-</p>
 
-<p>
+Aujourd’hui, cette page peut être consultée ici : [Bye bye Dom]
 
-Aujourd’hui, cette page peut être consultée ici :
-</p>
-
-<p>
-
-<a href="docs/bye_bye_dom/">docs/bye_bye_dom/</a>
-</p>
-
-<p>
-
- 
-</p>
-
-<p>
-
- 
-</p>
+[Bye bye Dom]: /assets/bye_bye_dom/index.html

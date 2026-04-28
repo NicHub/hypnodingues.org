@@ -43,5 +43,5 @@ Les deux premières maîtrises nous conduisent à avoir un mental libéré du Pa
 
 <p>
 
-Voir aussi : <a href="/citations/les-quatre-accords-tolteques/">Les Quatre Accords Toltèques</a>
+Voir aussi : <a href="../2012-09-04-les-quatre-accords-tolteques/">Les Quatre Accords Toltèques</a>
 </p>
