@@ -4,8 +4,13 @@ date: 2026-04-28
 categories:
     - Société
 description: "Liste non exhaustive de nos travers sociétaux"
-tags: ["travers"]
+tags: ["fausse bonne idée"]
 author: Nico
-draft: true
+draft: false
 ---
 
+## Défécation accroupie
+
+![défécation accroupie]
+
+[défécation accroupie]: images/defecation-accroupie.png
