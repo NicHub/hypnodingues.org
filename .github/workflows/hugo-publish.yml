@@ -51,7 +51,7 @@ jobs:
           "$HOME/.local/lib/dart-sass/sass" --version
 
       - name: Build
-        run: hugo --config hugo.yaml --gc --minify
+        run: hugo --config hugo.yaml --gc
 
       - name: Sanity check public
         run: |
