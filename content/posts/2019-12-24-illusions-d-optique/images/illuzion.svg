@@ -27,13 +27,13 @@
             stroke: #C60B1E;
         }
         .cl_outline {
-            fill-opacity: 0.5;
-            stroke: black;
+            fill-opacity: 1;
+            stroke: #936a6a;
         }
     </style>
 
     <defs>
-        <g id="def_cadre" onclick="toggle_outline()">
+        <g id="def_cadre">
             <path
                 style="fill: inherit; stroke: inherit;"
                 d="M 0,0 h 117 v 117 h -117 Z"/>
@@ -65,18 +65,12 @@
     <![CDATA[
     "use strict"
 
-    var toggle = true;
-    var def_trapeze = document.getElementById("def_trapeze");
+    const def_trapeze = document.querySelector("#def_trapeze");
 
-    function toggle_outline() {
-        if(toggle) {
-            def_trapeze.classList.add("cl_outline");
-        }
-        else {
-            def_trapeze.classList.remove("cl_outline");
-        }
-        toggle = !toggle;
-    }
+    document.querySelector("svg").addEventListener("click", () => {
+        def_trapeze.classList.toggle("cl_outline");
+    });
+
     ]]>
     </script>
 </svg>

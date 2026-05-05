@@ -5,7 +5,7 @@ author: Nico
 ---
 
 <style>
-    object, img {
+    object, img, svg {
         display: block;
         margin: 0 auto;
         width: 100%;
@@ -17,7 +17,10 @@ author: Nico
 Quelle figure a la plus grande aire, la rouge ou l’orange ?
 <br>Cliquez sur l’image pour voir un indice.
 
-<object data="./images/illuzion.svg"></object>
+<!--
+Le SVG doit être injecté directement dans le HTML pour que ses scripts soient activés.
+ -->
+{{< inline-svg src="images/illuzion.svg" >}}
 
 ## L’échiquier d’Adelson
 

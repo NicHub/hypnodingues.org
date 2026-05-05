@@ -1,0 +1,6 @@
+{{- $src := .Get "src" -}}
+{{- with .Page.Resources.GetMatch $src -}}
+  {{- .Content | replaceRE `^<\?xml[^>]*\?>` "" | safeHTML -}}
+{{- else -}}
+  {{- errorf "inline-svg shortcode: resource %q not found for page %q" $src .Page.File.Path -}}
+{{- end -}}
