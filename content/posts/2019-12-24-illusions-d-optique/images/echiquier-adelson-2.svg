@@ -124,4 +124,44 @@
 
 
 
+
+
+    <style type="text/css">
+        .wh { fill:#cdcdcd; }
+    </style>
+    <defs>
+        <path
+            id="sq"
+            d="m
+                288 145
+                90 19
+                -48 51
+                -90 -19z" />
+    </defs>
+<g class="wh" transform="translate(0,0)"><use xlink:href="#sq" /></g>
+<g class="bk" transform="translate(-48,51)"><use xlink:href="#sq" /></g>
+<g class="wh" transform="translate(-96,102)"><use xlink:href="#sq" /></g>
+<g class="bk" transform="translate(-144,153)"><use xlink:href="#sq" /></g>
+<g class="wh" transform="translate(-192,204)"><use xlink:href="#sq" /></g>
+<g class="bk" transform="translate(90,19)"><use xlink:href="#sq" /></g>
+<g class="wh" transform="translate(42,70)"><use xlink:href="#sq" /></g>
+<g class="bk" transform="translate(-6,121)"><use xlink:href="#sq" /></g>
+<g class="wh" transform="translate(-54,172)"><use xlink:href="#sq" /></g>
+<g class="bk" transform="translate(-102,223)"><use xlink:href="#sq" /></g>
+<g class="wh" transform="translate(180,38)"><use xlink:href="#sq" /></g>
+<g class="bk" transform="translate(132,89)"><use xlink:href="#sq" /></g>
+<g class="wh" transform="translate(84,140)"><use xlink:href="#sq" /></g>
+<g class="bk" transform="translate(36,191)"><use xlink:href="#sq" /></g>
+<g class="wh" transform="translate(-12,242)"><use xlink:href="#sq" /></g>
+<g class="bk" transform="translate(270,57)"><use xlink:href="#sq" /></g>
+<g class="wh" transform="translate(222,108)"><use xlink:href="#sq" /></g>
+<g class="bk" transform="translate(174,159)"><use xlink:href="#sq" /></g>
+<g class="wh" transform="translate(126,210)"><use xlink:href="#sq" /></g>
+<g class="bk" transform="translate(78,261)"><use xlink:href="#sq" /></g>
+<g class="wh" transform="translate(360,76)"><use xlink:href="#sq" /></g>
+<g class="bk" transform="translate(312,127)"><use xlink:href="#sq" /></g>
+<g class="wh" transform="translate(264,178)"><use xlink:href="#sq" /></g>
+<g class="bk" transform="translate(216,229)"><use xlink:href="#sq" /></g>
+<g class="wh" transform="translate(168,280)"><use xlink:href="#sq" /></g>
+
 </svg>
