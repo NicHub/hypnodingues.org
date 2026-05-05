@@ -1,5 +1,5 @@
 baseURL: https://hypnodingues.org/
-languageCode: fr-CH
+locale: fr-CH
 title: Hypnodingues
 enableRobotsTXT: true
 

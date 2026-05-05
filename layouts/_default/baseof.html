@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.Language.LanguageCode | default `fr-CH` }}">
+<html lang="{{ site.Language.Locale | default `fr-CH` }}">
   {{ $pageTitle := .Title | plainify }}
   {{ if and .IsSection (eq .Section "posts") }}
     {{ $pageTitle = printf "%d Articles" (len .RegularPages) }}
