@@ -22,7 +22,7 @@ draft: false
     -   Les fournisseurs d’IA contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteurs, mais celle de l’utilisateur final.
 
 1.  ELLES NE RESPECTENT PAS LES RÉGULATIONS
-    -   Par exemple, elles ne respectent pas ou pas complètement le RGPD.
+    -   Par exemple, elles ne respectent pas, ou pas complètement, le RGPD.
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
 
 1.  ELLES VONT REMPLACER LES HUMAINS
@@ -31,7 +31,7 @@ draft: false
     -   *“AI Won’t Replace Humans — But Humans With AI Will Replace Humans Without AI.*<br>*— Karim Lakhani, Harvard Business School Professor”*
 
 1.  ELLES SONT ÉNERGIVORES
-    -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête Google.
+    -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
     -   En conséquence, les fournisseurs d’IA sont en train de s’équiper de moyens de production d’énergie comme des centrales nucléaires, ce qui pose le problème connexe de la souveraineté énergétique des États.
     -   [Science étonnante — Combien consomme une requête à ChatGPT ?]
 
@@ -81,10 +81,19 @@ draft: false
     -   [Micode — La Fabrique à Idiots]
 
 1.  ELLES NE GARANTISSENT PAS LE DROIT À L’OUBLI
-1.  ELLES SONT DES SOURCES D’INFORMATIONS DE CHOIX POUR L’INGÉNIERIE SOCIALE <!-- (à reformuler) -->
+    -    
+
+1.  ELLES SONT DES SOURCES D’INFORMATIONS DE CHOIX POUR L’INGÉNIERIE SOCIALE ET L’OSINT <!-- (à reformuler) -->
+    -    
+
 1.  ELLES VONT DONNER DU TRAVAIL QUALIFIÉ À DES EMPLOYÉS DONT CE N’EST PAS LA QUALIFICATION <!-- (à reformuler) -->
+    -    
+
+1.  ELLES CRÉENT UN APPEL D’AIR DE TÂCHES À EXÉCUTER
+    -   (Source : newsletter par mail de Marc Menson “Why your to-do list will never end”)
+
 1.  ELLES SATURENT NOS CAPACITÉS COGNITIVES
-    - [franceinfo — L’IA sature nos capacités cognitives]
+    -   [franceinfo — L’IA sature nos capacités cognitives]
 
 ---
 
@@ -106,6 +115,7 @@ Enfin, certains alertent sur une cannibalisation du web: en fournissant des rép
 ### Controverses
 
 -   [Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs. les déclarations de Luc Julia]
+-   [Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025]
 
 ### Trends
 
@@ -126,6 +136,7 @@ LIENS
 [RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari]: https://www.rts.ch/info/sciences-tech/2025/article/l-ia-revolutionne-les-navigateurs-web-comet-defie-chrome-et-safari-29020257.html
 [Mediapart — IA générative, le guide ultime du hater anti-ChatGPT]: https://blogs.mediapart.fr/lonesome-cowboy/blog/241225/ia-generative-le-guide-ultime-du-hater-anti-chatgpt
 [Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs. les déclarations de Luc Julia]: https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/
+[Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025](https://www.youtube.com/watch?v=xKeFsOceT44)
 [Wikipedia — Vibe coding]: https://fr.wikipedia.org/wiki/Vibe_coding
 [Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)]: https://www.youtube.com/watch?v=q0afqpj0mtw
 [Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»]: https://pressreader.com/article/281831470324422
