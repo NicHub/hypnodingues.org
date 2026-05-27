@@ -12,87 +12,90 @@ draft: false
     -   Ce qui nécessite des procédures de vérification qui ne sont pas toujours mises en place.
     -   De plus, si les adultes d’aujourd’hui qui ont été formés sans les IA peuvent potentiellement détecter leurs erreurs, est-ce que ce sera le cas des adultes de demain qui se forment aujourd’hui avec elles ?
 
-1.  ELLES SONT BIAISÉES
+2.  ELLES SONT BIAISÉES
     -   Il faut vérifier qu’elles ne préfèrent pas une catégorie à une autre, par exemple une catégorie raciale ou de genre.
 
-1.  ELLES NE RESPECTENT PAS LA PROTECTION DES DONNÉES
+3.  ELLES NE RESPECTENT PAS LA PROTECTION DES DONNÉES
     -   Les IA sont entraînées avec des sources qui peuvent contenir des informations sensibles, privées ou secrètes.
 
-1.  ELLES NE RESPECTENT PAS LES DROITS D’AUTEUR
+4.  ELLES NE RESPECTENT PAS LES DROITS D’AUTEUR
     -   Les fournisseurs d’IA contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteurs, mais celle de l’utilisateur final.
 
-1.  ELLES NE RESPECTENT PAS LES RÉGULATIONS
+5.  ELLES NE RESPECTENT PAS LES RÉGULATIONS
     -   Par exemple, elles ne respectent pas, ou pas complètement, le RGPD.
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
 
-1.  ELLES VONT REMPLACER LES HUMAINS
-    -   Plusieurs métiers vont disparaitre ou être profondément transformés.
-    -   Mais les humains qui ne maitriseront pas l’usage de l’IA seront les plus impactés.
-    -   *“AI Won’t Replace Humans — But Humans With AI Will Replace Humans Without AI.*<br>*— Karim Lakhani, Harvard Business School Professor”*
+6.  ELLES REMPLACENT LES HUMAINS
+    -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
+    -   Les humains qui ne maitriseront pas l’usage de l’IA seront très impactés.
+        -   *“AI Won’t Replace Humans — But Humans With AI Will Replace Humans Without AI.*<br>*— Karim Lakhani, Harvard Business School Professor”*
 
-1.  ELLES SONT ÉNERGIVORES
+7.  ELLES SONT ÉNERGIVORES
     -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
     -   En conséquence, les fournisseurs d’IA sont en train de s’équiper de moyens de production d’énergie comme des centrales nucléaires, ce qui pose le problème connexe de la souveraineté énergétique des États.
     -   [Science étonnante — Combien consomme une requête à ChatGPT ?]
 
-1.  ELLES SONT TRÈS VULNÉRABLES AUX DÉFAILLANCES DES SYSTÈMES DONT ELLES DÉPENDENT ET PEUVENT DONC FACILEMENT TOMBER EN PANNE
+8.  ELLES SONT TRÈS VULNÉRABLES AUX DÉFAILLANCES DES SYSTÈMES DONT ELLES DÉPENDENT ET PEUVENT DONC FACILEMENT TOMBER EN PANNE
     -   D’où la nécessité de prévoir des systèmes de secours.
     -   [LeHuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech]
 
-1.  LEURS FOURNISSEURS PEUVENT BANNIR LES UTILISATEURS
+9.  LEURS FOURNISSEURS PEUVENT BANNIR LES UTILISATEURS
     -   D’où la nécessité de prévoir des alternatives.
 
-1.  ELLES COÛTENT TRÈS CHER
+10. ELLES COÛTENT TRÈS CHER
     -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs coûts sur les tarifs de leurs abonnements.
         Ce sont donc les informations partagées par les utilisateurs qui sont monétisées.
 
-1.  ELLES PEUVENT ORIENTER LES CHOIX
+11. ELLES PEUVENT ORIENTER LES CHOIX
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
     -   [Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser]
+    -   Elles sont sycophantes (flatterie hypocrite pour obtenir un avantage)
+        -   [Le biais cognitif que tout le monde a (sans le savoir)]
+        -   [Wikipedia — Sycophante]
 
-1.  ELLES PEUVENT INDUIRE EN ERREUR
+12. ELLES PEUVENT INDUIRE EN ERREUR
     -   Avec des _deep fakes_ très réalistes.
 
-1.  ELLES PEUVENT DÉSTABILISER LE TISSU SOCIAL
+13. ELLES PEUVENT DÉSTABILISER LE TISSU SOCIAL
     -   Anthropomorphisme : Le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
     -   [Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)]
     -   [Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»]
 
-1.  ELLES PEUVENT ÊTRE UTILISÉES DE MANIÈRE INTRUSIVE OU OPAQUE
+14. ELLES PEUVENT ÊTRE UTILISÉES DE MANIÈRE INTRUSIVE OU OPAQUE
     -   Système de reconnaissance vocale
     -   Détection de visages dans les lieux publics
     -   Surveillance étatique
     -   Évaluation des employés à leur insu
 
-1.  ELLES PEUVENT ÊTRE HACKÉES
+15. ELLES PEUVENT ÊTRE HACKÉES
     -   Requêtes DAN (Do Anything Now)
     -   Requêtes UTS (Universal Transferable Suffix)
         -   [Christophe Pauly — Le MOT interdit qui fait dérailler les IA]
             `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
     -   Prompts cachés (texte de la même couleur que le fond, invisible aux humains, mais pas aux IA)
 
-1.  ELLES PEUVENT ASSÉCHER LE VIVIER DE PERSONNES COMPÉTENTES
+16. ELLES PEUVENT ASSÉCHER LE VIVIER DE PERSONNES COMPÉTENTES
     -   Si seuls les experts sont sollicités alors les novices ne pourront jamais acquérir l’expérience nécessaire pour être experts.
 
-1.  ELLES VONT ASSÉCHER LES CONNAISSANCES <!-- (à reformuler) -->
+17. ELLES VONT ASSÉCHER LES CONNAISSANCES <!-- (à reformuler) -->
     -   En ingurgitant des données existantes, les erreurs vont polluer à l’excès les corpus (elles vont manger leur caca).
 
-1.  ELLES VONT NOUS RENDRE DÉPENDANTS À LEURS SERVICES AU POINT DE NOUS RENDRE INCAPABLES D’ACCOMPLIR LES TÂCHES QUI NOUS INCOMBAIENT AVANT LEUR ESSOR
+18. ELLES VONT NOUS RENDRE DÉPENDANTS À LEURS SERVICES AU POINT DE NOUS RENDRE INCAPABLES D’ACCOMPLIR LES TÂCHES QUI NOUS INCOMBAIENT AVANT LEUR ESSOR
     -   [Micode — La Fabrique à Idiots]
 
-1.  ELLES NE GARANTISSENT PAS LE DROIT À L’OUBLI
+19. ELLES NE GARANTISSENT PAS LE DROIT À L’OUBLI
     -    
 
-1.  ELLES SONT DES SOURCES D’INFORMATIONS DE CHOIX POUR L’INGÉNIERIE SOCIALE ET L’OSINT <!-- (à reformuler) -->
+20. ELLES SONT DES SOURCES D’INFORMATIONS DE CHOIX POUR L’INGÉNIERIE SOCIALE ET L’OSINT <!-- (à reformuler) -->
     -    
 
-1.  ELLES VONT DONNER DU TRAVAIL QUALIFIÉ À DES EMPLOYÉS DONT CE N’EST PAS LA QUALIFICATION <!-- (à reformuler) -->
+21. ELLES VONT DONNER DU TRAVAIL QUALIFIÉ À DES EMPLOYÉS DONT CE N’EST PAS LA QUALIFICATION <!-- (à reformuler) -->
     -    
 
-1.  ELLES CRÉENT UN APPEL D’AIR DE TÂCHES À EXÉCUTER
+22. ELLES CRÉENT UN APPEL D’AIR DE TÂCHES À EXÉCUTER
     -   (Source : newsletter par mail de Marc Menson “Why your to-do list will never end”)
 
-1.  ELLES SATURENT NOS CAPACITÉS COGNITIVES
+23. ELLES SATURENT NOS CAPACITÉS COGNITIVES
     -   [franceinfo — L’IA sature nos capacités cognitives]
 
 ---
@@ -140,3 +143,5 @@ LIENS
 [Wikipedia — Vibe coding]: https://fr.wikipedia.org/wiki/Vibe_coding
 [Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)]: https://www.youtube.com/watch?v=q0afqpj0mtw
 [Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»]: https://pressreader.com/article/281831470324422
+[Le biais cognitif que tout le monde a (sans le savoir)]: https://youtu.be/g8p7MxmuOsQ?si=VREp5bO3pKgY8UtV&t=653
+[Wikipedia — Sycophante]: https://fr.wikipedia.org/wiki/Sycophante
