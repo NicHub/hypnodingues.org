@@ -1,8 +1,3 @@
-# ---- Quarto ----
-/_site/
-.quarto/
-.quarto-render/
-
 # ---- Hugo ----
 /public/
 /resources/
@@ -10,30 +5,3 @@
 
 # ---- OS ----
 .DS_Store
-.AppleDouble
-.LSOverride
-
-# ---- Editor / IDE ----
-.vscode/
-.idea/
-
-# ---- Logs / temp ----
-*.log
-*.tmp
-*.swp
-
-# ---- Node / tooling (au cas où) ----
-node_modules/
-
-# ---- Python (au cas où) ----
-__pycache__/
-*.py[cod]
-.venv/
-
-/.quarto/
-**/*.quarto_ipynb
-
-# ---- Caches d'exécution (Quarto / Jupyter / knitr) ----
-**/.quarto_cache/
-**/_freeze/
-**/.ipynb_checkpoints/

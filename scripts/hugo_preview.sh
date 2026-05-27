@@ -16,6 +16,7 @@ PROJECT_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 IP="$(bash "$SCRIPT_DIR/get_ip_of_default_interface.sh")"
 
 rm -rf "$PROJECT_DIR/public"
+rm -rf "$PROJECT_DIR/resources"
 
 PORT="1313"
 BASE_URL="http://$IP"
@@ -29,14 +30,16 @@ fi
 
 echo -e "\n\n$FULL_URL\n\n"
 
-hugo server                 \
-    --environment dev-local \
-    --watch                 \
-    -D                      \
-    --gc                    \
-    --disableFastRender     \
-    --baseURL=$BASE_URL     \
-    --bind=$IP              \
-    --port=$PORT            \
-    --appendPort=true       \
-    --openBrowser
+OPT=""
+OPT+=" --environment dev-local"
+OPT+=" --watch"
+OPT+=" --buildDrafts"
+OPT+=" --gc"  #  run some cleanup tasks after the build
+OPT+=" --disableFastRender"
+OPT+=" --baseURL=$BASE_URL"
+OPT+=" --bind=$IP"
+OPT+=" --port=$PORT"
+OPT+=" --appendPort=true"
+OPT+=" --openBrowser"
+
+hugo server $OPT
