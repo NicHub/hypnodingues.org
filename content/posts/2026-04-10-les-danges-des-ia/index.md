@@ -52,6 +52,7 @@ draft: false
     -   Elles sont sycophantes (flatterie hypocrite pour obtenir un avantage)
         -   [Le biais cognitif que tout le monde a (sans le savoir)]
         -   [Wikipedia — Sycophante]
+    -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais)  <!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
 
 12. ELLES PEUVENT INDUIRE EN ERREUR
     -   Avec des _deep fakes_ très réalistes.
