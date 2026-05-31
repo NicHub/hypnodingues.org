@@ -658,6 +658,15 @@ p.home-hero-button a:focus-visible {
     0 0 3.2rem var(--footer-glow-3);
 }
 
+.has-footnote-ref {
+  margin-left: 0.1em;
+  font-style: italic;
+}
+
+.has-footnote-ref > a.footnote-ref {
+  text-decoration: none;
+}
+
 .pagination {
   margin-top: 2rem;
 }

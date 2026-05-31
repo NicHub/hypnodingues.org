@@ -42,3 +42,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      footnote:
+        backlinkHTML: '↩︎'
