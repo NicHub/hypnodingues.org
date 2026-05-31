@@ -12,4 +12,4 @@ author: Nico
 
 ## À voir aussi
 
-<https://hypnodingues.org/nutrition/guerison-et-pleine-sante-avec-irene-grosjean/>
+[Guérison et pleine santé avec Irène Grosjean](../2017-08-27-guerison-et-pleine-sante-avec-irene-grosjean)

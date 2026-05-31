@@ -10,4 +10,4 @@ author: Nico
 
 \[ *Frédéric Lenoir* \]
 
-Voir aussi : [Notre peur la plus profonde de Marianne Williamson](https://hypnodingues.org/citations/notre-peur-la-plus-profonde/)
+Voir aussi : [Notre peur la plus profonde de Marianne Williamson](../2012-08-04-notre-peur-la-plus-profonde)

@@ -14,4 +14,4 @@ author: Nico
 
 ## À voir aussi
 
-<https://hypnodingues.org/nutrition/le-temoignage-de-mon-parcours-et-de-mon-retour-a-la-sante-segolene-quenin/>
+[Le témoignage de mon parcours et de mon retour à la santé – Ségolène Quenin](../2014-08-11-le-temoignage-de-mon-parcours-et-de-mon-retour-a-la-sante-segolene-quenin)
