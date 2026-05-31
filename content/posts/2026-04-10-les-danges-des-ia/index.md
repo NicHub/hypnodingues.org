@@ -98,6 +98,8 @@ draft: false
 
 23. ELLES SATURENT NOS CAPACITÉS COGNITIVES
     -   [franceinfo — L’IA sature nos capacités cognitives]
+    -   Fatigue décisionnelle
+        -   [Pourquoi choisir est devenu une torture Psychologique]
 
 ---
 
@@ -146,3 +148,4 @@ LIENS
 [Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»]: https://pressreader.com/article/281831470324422
 [Le biais cognitif que tout le monde a (sans le savoir)]: https://youtu.be/g8p7MxmuOsQ?si=VREp5bO3pKgY8UtV&t=653
 [Wikipedia — Sycophante]: https://fr.wikipedia.org/wiki/Sycophante
+[Pourquoi choisir est devenu une torture Psychologique]: https://www.youtube.com/watch?v=IoyNTMrZFsg
