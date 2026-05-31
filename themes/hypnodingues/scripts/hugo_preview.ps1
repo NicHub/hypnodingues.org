@@ -121,8 +121,8 @@ $hugo = Get-HugoExecutable
 
 & $hugo server `
     --environment dev-local `
+    --config hugo.yaml,hugo.dev-local.yaml `
     --watch `
-    -D `
     --gc `
     --disableFastRender `
     --baseURL=$baseUrl `
