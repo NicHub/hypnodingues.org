@@ -54,12 +54,6 @@ function decorateExternalLinks() {
     });
 }
 
-function decorateFootnoteReferences() {
-    document.querySelectorAll("a.footnote-ref").forEach(a => {
-        a.parentElement?.parentElement?.classList.add("has-footnote-ref");
-    });
-}
-
 function getPageNavHref(kind) {
     const link = document.querySelector(`[data-page-nav="${kind}"]`);
     return link ? link.getAttribute("href") : "";
@@ -86,36 +80,35 @@ document.addEventListener("keydown", (event) => {
     if (event.repeat || shouldIgnoreKeyNavigation(event)) return;
 
     if (event.key === "ArrowLeft") {
-        const href = getPageNavHref("prev");
-        if (href) {
-            event.preventDefault();
-            navigateTo(href);
-        }
-        return;
+      const href = getPageNavHref("prev");
+      if (href) {
+        event.preventDefault();
+        navigateTo(href);
+      }
+      return;
     }
 
     if (event.key === "ArrowRight") {
-        const href = getPageNavHref("next");
-        if (href) {
-            event.preventDefault();
-            navigateTo(href);
-        }
-        return;
+      const href = getPageNavHref("next");
+      if (href) {
+        event.preventDefault();
+        navigateTo(href);
+      }
+      return;
     }
 
     if (event.key === "ArrowUp" && event.shiftKey) {
-        const href = getPageNavHref("home") || "/";
-        event.preventDefault();
-        navigateTo(href);
-        return;
+      const href = getPageNavHref("home") || "/";
+      event.preventDefault();
+      navigateTo(href);
+      return;
     }
 
     if (event.key === "Escape") {
-        const href = getPageNavHref("home") || "/";
-        event.preventDefault();
-        navigateTo(href);
+      const href = getPageNavHref("home") || "/";
+      event.preventDefault();
+      navigateTo(href);
     }
 });
 
 decorateExternalLinks();
-decorateFootnoteReferences();
