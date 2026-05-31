@@ -9,4 +9,4 @@ aliases:
 
 <p class="home-hero-curiosity">On y entre pour lire sur l'hypnose, la santé, les évènements, les citations, les exercices, et sur toutes ces bifurcations qui finissent par dessiner une constellation.</p>
 
-<p class="home-hero-button"><a href="/posts/">Parcourir les archives</a></p>
+<p class="home-hero-button"><a href="/posts/">Parcourir le blog</a></p>

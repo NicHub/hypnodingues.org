@@ -1,6 +1,7 @@
 baseURL: https://hypnodingues.org/
 locale: fr-CH
 title: Hypnodingues
+theme: hypnodingues
 enableRobotsTXT: true
 
 pagination:
