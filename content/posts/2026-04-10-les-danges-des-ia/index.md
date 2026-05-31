@@ -7,7 +7,6 @@ author: Nico
 draft: false
 ---
 
-
 1.  ELLES SONT FAILLIBLES
     -   Ce qui nécessite des procédures de vérification qui ne sont pas toujours mises en place.
     -   De plus, si les adultes d’aujourd’hui qui ont été formés sans les IA peuvent potentiellement détecter leurs erreurs, est-ce que ce sera le cas des adultes de demain qui se forment aujourd’hui avec elles ?
@@ -33,77 +32,72 @@ draft: false
 7.  ELLES SONT ÉNERGIVORES
     -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
     -   En conséquence, les fournisseurs d’IA sont en train de s’équiper de moyens de production d’énergie comme des centrales nucléaires, ce qui pose le problème connexe de la souveraineté énergétique des États.
-    -   Science étonnante — Combien consomme une requête à ChatGPT ?[^1]
+    -   _Science étonnante — Combien consomme une requête à ChatGPT ?_[^1]
 
-8.  ELLES SONT TRÈS VULNÉRABLES AUX DÉFAILLANCES DES SYSTÈMES DONT ELLES DÉPENDENT ET PEUVENT DONC FACILEMENT TOMBER EN PANNE
-    -   D’où la nécessité de prévoir des systèmes de secours.
-    -   LeHuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech[^2]
+8.  ELLES SONT FRAGILES
+    -   Elles sont vulnérables aux défaillances des systèmes dont elles dépendent et peuvent donc tomber en panne.
+        D’où la nécessité de prévoir des systèmes de secours.
+    -   _LeHuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech_[^2]
 
-9.  LEURS FOURNISSEURS PEUVENT BANNIR LES UTILISATEURS
-    -   D’où la nécessité de prévoir des alternatives.
+9.  L’ACCÈS À LEURS SERVICES EST RÉVOQUABLE UNILATÉRALEMENT PAR LEURS FOURNISSEURS
+    -   Les utlisateurs peuvent être bannis contractuellement d’où la nécessité de prévoir des alternatives.
 
 10. ELLES COÛTENT TRÈS CHER
     -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs coûts sur les tarifs de leurs abonnements.
         Ce sont donc les informations partagées par les utilisateurs qui sont monétisées.
 
-11. ELLES PEUVENT ORIENTER LES CHOIX
+11. ELLES ORIENTENT LES CHOIX
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
-    -   Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser[^3]
+    -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
     -   Elles sont sycophantes (flatterie hypocrite pour obtenir un avantage)
-        -   Le biais cognitif que tout le monde a (sans le savoir)[^4]
-        -   Wikipedia — Sycophante[^5]
+        -   _Le biais cognitif que tout le monde a (sans le savoir)_[^4]
+        -   _Wikipedia — Sycophante_[^5]
     -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais)  <!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
 
-12. ELLES PEUVENT INDUIRE EN ERREUR
+12. ELLES INDUISENT EN ERREUR
     -   Avec des _deep fakes_ très réalistes.
 
-13. ELLES PEUVENT DÉSTABILISER LE TISSU SOCIAL
+13. ELLES DÉSTABILISENT LE TISSU SOCIAL
     -   Anthropomorphisme : Le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
-    -   Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)[^6]
-    -   Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»[^7]
+    -   _Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)_[^6]
+    -   _Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»_[^7]
 
-14. ELLES PEUVENT ÊTRE UTILISÉES DE MANIÈRE INTRUSIVE OU OPAQUE
+14. ELLES SONT UTILISÉES DE MANIÈRES INTRUSIVES OU OPAQUES
+    -   Elles favorisent un développement non éthique de l’_OSINT_[^17] et de l’_ingénierie sociale_[^18].
     -   Système de reconnaissance vocale
     -   Détection de visages dans les lieux publics
     -   Surveillance étatique
     -   Évaluation des employés à leur insu
 
-15. ELLES PEUVENT ÊTRE HACKÉES
+15. ELLES SONT HACKÉES
     -   Requêtes DAN (Do Anything Now)
     -   Requêtes UTS (Universal Transferable Suffix)
-        -   Christophe Pauly — Le MOT interdit qui fait dérailler les IA[^8]
+        -   _Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
             `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
     -   Prompts cachés (texte de la même couleur que le fond, invisible aux humains, mais pas aux IA)
 
-16. ELLES PEUVENT ASSÉCHER LE VIVIER DE PERSONNES COMPÉTENTES
+16. ELLES NOUS RENDENT DÉPENDANTS·ES ET INCOMPÉTENTS·ES
     -   Si seuls les experts sont sollicités alors les novices ne pourront jamais acquérir l’expérience nécessaire pour être experts.
+    -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
+    -   _Micode — La Fabrique à Idiots_[^9]
 
-17. ELLES VONT ASSÉCHER LES CONNAISSANCES <!-- (à reformuler) -->
-    -   En ingurgitant des données existantes, les erreurs vont polluer à l’excès les corpus (elles vont manger leur caca).
+17. ELLES POLLUENT LES CORPUS CONNAISSANCES
+    -   En ajoutant leurs erreurs à celles des humains et en les réinjectant dans les corpus existants.
+        Autrement dit, elles vont manger en boucle leur caca et le notre.
 
-18. ELLES VONT NOUS RENDRE DÉPENDANTS À LEURS SERVICES AU POINT DE NOUS RENDRE INCAPABLES D’ACCOMPLIR LES TÂCHES QUI NOUS INCOMBAIENT AVANT LEUR ESSOR
-    -   Micode — La Fabrique à Idiots[^9]
+18. ELLES NE RESPECTENT PAS LE DROIT À L’OUBLI
+    -
 
-19. ELLES NE GARANTISSENT PAS LE DROIT À L’OUBLI
-    -    
+19. ELLES CRÉENT UN APPEL D’AIR DE TÂCHES À EXÉCUTER
+    -   Source : newsletter par mail de Marc Menson “Why your to-do list will never end”
 
-20. ELLES SONT DES SOURCES D’INFORMATIONS DE CHOIX POUR L’INGÉNIERIE SOCIALE ET L’OSINT <!-- (à reformuler) -->
-    -    
-
-21. ELLES VONT DONNER DU TRAVAIL QUALIFIÉ À DES EMPLOYÉS DONT CE N’EST PAS LA QUALIFICATION <!-- (à reformuler) -->
-    -    
-
-22. ELLES CRÉENT UN APPEL D’AIR DE TÂCHES À EXÉCUTER
-    -   (Source : newsletter par mail de Marc Menson “Why your to-do list will never end”)
-
-23. ELLES SATURENT NOS CAPACITÉS COGNITIVES
-    -   franceinfo — L’IA sature nos capacités cognitives[^10]
-        -   En facilitant la production de contenu, elle augmente la quantité d’informations à traiter plutôt que de la réduire.
-        -   Les agents IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
-
-24. ELLE INDUISENT UNE FATIGUE DÉCISIONNELLE
-    -   Pourquoi choisir est devenu une torture Psychologique[^11]
-        -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
+20. ELLES SATURENT NOS CAPACITÉS COGNITIVES
+    -   _franceinfo — L’IA sature nos capacités cognitives_[^10]
+        -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
+        -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
+    -   Elle induisent une fatigue décisionnelle
+        -   _Pourquoi choisir est devenu une torture Psychologique_[^11]
+            -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
 ---
 
@@ -113,23 +107,31 @@ draft: false
 
 ## Notes de bas de page
 
-RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari[^12]
+_RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari_[^12]
 
 Enfin, certains alertent sur une cannibalisation du web: en fournissant des réponses directes, l’IA détourne les internautes des sites d’information, des médias ou des plateformes spécialisées. A long terme, cela menace la diversité des contenus en ligne.
 
 ### IA générative : le guide ultime du hater anti-chatGPT
 
-Mediapart — IA générative, le guide ultime du hater anti-ChatGPT[^13]
-
+_Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 ### Controverses
 
--   Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs. les déclarations de Luc Julia[^14]
--   Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025[^15]
+-   _Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs. les déclarations de Luc Julia_[^14]
+-   _Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025_[^15]
 
 ### Trends
 
--   Wikipedia — Vibe coding[^16]
+-   _Wikipedia — Vibe coding_[^16]
+
+{{< comment >}}
+
+!!! ORDRE D’APPARITION DES LIENS EN PIED DE PAGE !!!
+
+L’ordre d’apparition des liens est différent dans les pieds de page du document Markdown et du document HTML.
+Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre d’apparition dans le texte.
+
+{{< /comment >}}
 
 [^1]: [Science étonnante — Combien consomme une requête à ChatGPT ?](https://scienceetonnante.substack.com/p/combien-consomme-une-requete-a-chatgpt)
 [^2]: [LeHuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech](https://www.youtube.com/watch?v=ScPYHbx_3gU)
@@ -147,3 +149,5 @@ Mediapart — IA générative, le guide ultime du hater anti-ChatGPT[^13]
 [^14]: [Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs. les déclarations de Luc Julia](https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/)
 [^15]: [Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025](https://www.youtube.com/watch?v=xKeFsOceT44)
 [^16]: [Wikipedia — Vibe coding](https://fr.wikipedia.org/wiki/Vibe_coding)
+[^17]: [Wikipedia — OSINT](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes)
+[^18]: [Wikipedia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l'information))
