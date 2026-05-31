@@ -12,4 +12,4 @@ Pendant la période entre son départ et ses obsèques, ce site internet a été
 
 Aujourd’hui, cette page peut être consultée ici : [Bye bye Dom]
 
-[Bye bye Dom]: /assets/bye_bye_dom/index.html
+[Bye bye Dom]: /bye-bye-dom/

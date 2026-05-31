@@ -46,3 +46,15 @@ markup:
     extensions:
       footnote:
         backlinkHTML: '↩︎'
+
+security:
+  allowContent:
+    - text/markdown
+    - text/html
+
+contentTypes:
+  text/asciidoc: {}
+  text/markdown: {}
+  text/org: {}
+  text/pandoc: {}
+  text/rst: {}

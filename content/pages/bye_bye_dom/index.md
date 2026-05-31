@@ -1,3 +1,9 @@
+---
+title: Bye bye Dom
+layout: bare
+url: /bye-bye-dom/
+---
+
 <!DOCTYPE html>
 
 <html>
@@ -409,7 +415,7 @@ mark {
 <p><img style="border:0px solid;" src="2011-05-08_hypnose_chez_cath_003.png" alt="Dom" width="300" /></p>
 
 <p style="margin-top:-0.5cm; page-break-after: avoid; padding:0">Les Hypnodingues</p>
-<img alt="" src="ornements/9.svg" style="margin-top:0.5cm; width:300px; page-break-before: avoid;"/>
+<img alt="" src="/bye-bye-dom/ornements/9.svg" style="margin-top:0.5cm; width:300px; page-break-before: avoid;"/>
 
 </div>
 
@@ -423,10 +429,10 @@ Cette page d’hommages peut être parcourue avec plusieurs ambiances sonores. P
 
 Sur iPad, il faut presser sur play en bas de la page pour entendre la musique.
 
-<a href="index-s=2.html">• Nathalie Carbonneau – Je me battrai pour moi</a>
-<a href="index-s=1.html">• Tiffany Poon – Chopin Nocturne in b-flat minor, Op.9 No.1</a>
-<a href="index-s=3.html">• Jeff Buckley – Hallelujah</a>
-<a href="index-s=0.html">• Sans musique</a>
+<a href="/bye-bye-dom/variants/index-s=2.html">• Nathalie Carbonneau – Je me battrai pour moi</a>
+<a href="/bye-bye-dom/variants/index-s=1.html">• Tiffany Poon – Chopin Nocturne in b-flat minor, Op.9 No.1</a>
+<a href="/bye-bye-dom/variants/index-s=3.html">• Jeff Buckley – Hallelujah</a>
+<a href="/bye-bye-dom/variants/index-s=0.html">• Sans musique</a>
 
 ♫♪♫
 
@@ -438,21 +444,21 @@ Ce site est disponible en format PDF pour l’impression papier.
 
 Pour télécharger les fichiers PDF ci-dessous, il suffit de cliquer avec le bouton de droite sur les liens et de choisir « Enregistrer sous... ».
 
-Version PDF pour l’impression A4<br /><a href="pdf/bye_bye_dom.pdf">Bye bye Dom</a>
+Version PDF pour l’impression A4<br /><a href="/bye-bye-dom/pdf/bye_bye_dom.pdf">Bye bye Dom</a>
 
-Version PDF pour l’impression d’une plaquette A5. Il y a un document pour le recto et un autre pour le verso. Cette version a été imprimée en quatre exemplaires que l’on a transmis le jour des obsèques : un pour elle, et les autres pour les trois « hommes de sa vie ».<br /><a href="pdf/bye_bye_dom_a.pdf">Bye bye Dom A (recto)</a><br /><a href="pdf/bye_bye_dom_b.pdf">Bye bye Dom B (verso)</a>
+Version PDF pour l’impression d’une plaquette A5. Il y a un document pour le recto et un autre pour le verso. Cette version a été imprimée en quatre exemplaires que l’on a transmis le jour des obsèques : un pour elle, et les autres pour les trois « hommes de sa vie ».<br /><a href="/bye-bye-dom/pdf/bye_bye_dom_a.pdf">Bye bye Dom A (recto)</a><br /><a href="/bye-bye-dom/pdf/bye_bye_dom_b.pdf">Bye bye Dom B (verso)</a>
 
 </pre>
 
 
-<img alt="" src="ornements/1.svg" style="margin-top:4cm"/>
+<img alt="" src="/bye-bye-dom/ornements/1.svg" style="margin-top:4cm"/>
 
 
 
 
 
 <h2 id="dom_et_gilbert">Dom &amp; Gilbert</h2>
-<img class="ornement" src="ornements/0.svg" alt="" />
+<img class="ornement" src="/bye-bye-dom/ornements/0.svg" alt="" />
 <pre>
 
 – C’était une grande joie de vous avoir tous rencontrés, d’avoir partagé plein de choses et j’espère que vous allez tous aller au chalet ! J’espère... ce serait génial... parce qu’il se passerait plein de choses là haut...
@@ -465,10 +471,10 @@ Version PDF pour l’impression d’une plaquette A5. Il y a un document pour le
 
 
 
-<img alt="" src="ornements/2.svg" />
+<img alt="" src="/bye-bye-dom/ornements/2.svg" />
 
 <h2 id="nicolas">Message de Nicolas</h2>
-<img class="ornement" src="ornements/0.svg" alt="" />
+<img class="ornement" src="/bye-bye-dom/ornements/0.svg" alt="" />
 <pre>
 
 Alors voilà, c’est aujourd’hui, vendredi 31 mai 2013, que tu as décidé d’aller rejoindre ton fils Damien dans l’au-delà. La vie est un mystère et la mort est peut-être ce qu’il y a de plus mystérieux dans la vie. Car tu le sais mieux que nous maintenant, la mort n’est pas l’opposé de la vie, l’opposé de la mort, c’est la naissance. La vie n’a pas contraire. Toi, tu continueras à vivre dans nos souvenirs et au ciel avec les anges.
@@ -488,11 +494,11 @@ Nicolas
 </pre>
 
 
-<img alt="" src="ornements/3.svg" />
+<img alt="" src="/bye-bye-dom/ornements/3.svg" />
 
 
 <h2 id="rumi">Citation de Rûmî</h2>
-<img class="ornement" src="ornements/0.svg" alt="" />
+<img class="ornement" src="/bye-bye-dom/ornements/0.svg" alt="" />
 <pre>
 
 Vous êtes né rempli de potentiel
@@ -508,13 +514,13 @@ Vous avez des ailes. Apprenez à vous en servir et vous vous envolerez.
 
 </pre>
 
-<img alt="" src="ornements/4.svg" />
+<img alt="" src="/bye-bye-dom/ornements/4.svg" />
 
 
 
 
 <h2 id="christophe">Message de Christophe</h2>
-<img class="ornement" src="ornements/0.svg" alt="" />
+<img class="ornement" src="/bye-bye-dom/ornements/0.svg" alt="" />
 <pre>
 
 Regarde les oiseaux dans les cieux humides et argentés
@@ -567,12 +573,12 @@ Christophe
 
 
 
-<img alt="" src="ornements/5.svg" style="margin-top:1cm;" />
+<img alt="" src="/bye-bye-dom/ornements/5.svg" style="margin-top:1cm;" />
 
 
 
 <h2 id="laetitia">Message de Laetitia</h2>
-<img class="ornement" src="ornements/0.svg" alt="" />
+<img class="ornement" src="/bye-bye-dom/ornements/0.svg" alt="" />
 <pre>
 
 <span class="first_letter">Dominique,</span>
@@ -600,14 +606,14 @@ Laeti
 
 
 
-<img alt="" src="ornements/6.svg" style="height:650px" />
+<img alt="" src="/bye-bye-dom/ornements/6.svg" style="height:650px" />
 
 
 
 
 
 <h2 id="monique">Message de Monique</h2>
-<img class="ornement" src="ornements/0.svg" alt="" />
+<img class="ornement" src="/bye-bye-dom/ornements/0.svg" alt="" />
 <pre>
 
 Durant toutes ces années de souffrances et privations, une formidable « Énergie de Vie » t’a poussée à te battre avec courage pour vivre et rayonner autour de toi.
@@ -637,7 +643,7 @@ Monique
 
 
 
-<img alt="" src="ornements/7.svg" style="height:650px" />
+<img alt="" src="/bye-bye-dom/ornements/7.svg" style="height:650px" />
 
 
 
@@ -650,7 +656,7 @@ Monique
 
 
 <h2 id="audrey">Message d’Audrey</h2>
-<img class="ornement" src="ornements/0.svg" alt="" />
+<img class="ornement" src="/bye-bye-dom/ornements/0.svg" alt="" />
 <pre>
 
 Dominique... merci. Merci infiniment pour tout ce que tu nous as appris à tous, merci pour cette belle énergie et ce rayonnement que tu as partagé.
@@ -665,7 +671,7 @@ Avec amour.
 
 Audrey
 
-<span class="no_print" style="text-align: center;"><a href="a_toi_dom_pour_le_grand_voyage.mp3">♫♪♫ À toi Dom pour le grand voyage ! ♫♪♫</a></span>
+<span class="no_print" style="text-align: center;"><a href="/bye-bye-dom/a_toi_dom_pour_le_grand_voyage.mp3">♫♪♫ À toi Dom pour le grand voyage ! ♫♪♫</a></span>
 
 </pre>
 
@@ -673,14 +679,14 @@ Audrey
 
 
 
-<img alt="" src="ornements/10.svg" style="height:650px" />
+<img alt="" src="/bye-bye-dom/ornements/10.svg" style="height:650px" />
 
 
 
 
 
 <h2 id="celine">Message de Céline</h2>
-<img class="ornement" src="ornements/0.svg" alt="" />
+<img class="ornement" src="/bye-bye-dom/ornements/0.svg" alt="" />
 <pre>
 
 Ma chère Dominique,
@@ -702,12 +708,12 @@ Céline
 
 
 
-<p><img src="dominique_low_res.jpg" alt="Dom" /></p>
-<p><a href="index-s=1.html" class="no_print">♫♪♫ Musique pour continuer à méditer ensemble ♫♪♫ </a></p>
+<p><img src="/bye-bye-dom/dominique_low_res.jpg" alt="Dom" /></p>
+<p><a href="/bye-bye-dom/variants/index-s=1.html" class="no_print">♫♪♫ Musique pour continuer à méditer ensemble ♫♪♫ </a></p>
 
 
 <h2 id="genevieve">Message de Geneviève</h2>
-<img class="ornement" src="ornements/0.svg" alt="" />
+<img class="ornement" src="/bye-bye-dom/ornements/0.svg" alt="" />
 <pre>
 
 Dominique,
@@ -726,12 +732,12 @@ Geneviève
 
 
 
-<img alt="" src="ornements/8.svg" style="height:650px" />
+<img alt="" src="/bye-bye-dom/ornements/8.svg" style="height:650px" />
 
 
 
 <h2 id="gilbert">Message de Gilbert</h2>
-<img class="ornement" src="ornements/0.svg" alt="" />
+<img class="ornement" src="/bye-bye-dom/ornements/0.svg" alt="" />
 <pre>
 
 Dominique,
@@ -751,10 +757,10 @@ Gilbert
 
 
 
-<img alt="" src="ornements/11.svg" style="height:650px" />
+<img alt="" src="/bye-bye-dom/ornements/11.svg" style="height:650px" />
 
 <h2 id="sonia">Message de Sonia</h2>
-<img class="ornement" src="ornements/0.svg" alt="" />
+<img class="ornement" src="/bye-bye-dom/ornements/0.svg" alt="" />
 <pre>
 
 Dominique,
@@ -777,10 +783,10 @@ Sonia
 
 
 
-<img alt="" src="ornements/12.svg" style="height:650px" />
+<img alt="" src="/bye-bye-dom/ornements/12.svg" style="height:650px" />
 
 <h2 id="catherine">Message de Catherine</h2>
-<img class="ornement" src="ornements/0.svg" alt="" />
+<img class="ornement" src="/bye-bye-dom/ornements/0.svg" alt="" />
 <pre>
 
 Émotions & gratitude
@@ -791,7 +797,7 @@ Je suis sûre que vous avez YouTube au paradis.
 
 Bye bye Dom
 
-<p><a href="index-s=3.html" class="no_print">♫♪♫ Hallelujah de Jeff Buckley ♫♪♫ </a></p>
+<p><a href="/bye-bye-dom/variants/index-s=3.html" class="no_print">♫♪♫ Hallelujah de Jeff Buckley ♫♪♫ </a></p>
 </pre>
 
 
@@ -799,9 +805,9 @@ Bye bye Dom
 
 
 <!-- <p style="page-break-before:always;"> </p> -->
-<img alt="" src="ornements/13.svg" style="height:650px" />
+<img alt="" src="/bye-bye-dom/ornements/13.svg" style="height:650px" />
 
-<img style="page-break-before:always; margin:0; padding:0" src="2012-09-14_hypnodingues_au_chalet_audrey_021_low_res.jpg" alt="chalet" />
+<img style="page-break-before:always; margin:0; padding:0" src="/bye-bye-dom/2012-09-14_hypnodingues_au_chalet_audrey_021_low_res.jpg" alt="chalet" />
 
 <h2 style="margin-top:4cm;">On t’aime Dom !</h2>
 <p style="margin-top:4cm; font-size:50pt; text-align:center;">♡</p>
@@ -814,7 +820,7 @@ Bye bye Dom
 <h2 id="ajouts">Ajouts de dernière minute</h2>
 <pre>
 
-<a href="delires_avec_ma_coach_preferee.mp3">Délires avec ma coach préférée, de Geneviève</a>
+<a href="/bye-bye-dom/delires_avec_ma_coach_preferee.mp3">Délires avec ma coach préférée, de Geneviève</a>
 
 <a href="http://goo.gl/maps/29tyv">La dernière demeure de Dom au lac des Mongerons sur Google Maps</a>
 
@@ -853,7 +859,7 @@ https://developers.google.com/youtube/youtube_player_demo
 		 width="0" height="1"></embed>
 </object>-->
 <video controls="" width="0" height="1">
-	<source rel="nofollow" src="http://r3---sn-nfpnnjvh-1gis.googlevideo.com/videoplayback?mime=video/mp4&signature=6839CFECE14FAB8F0183C489E6D6446B6F7A3B89.C79E9C41E5C7F97556CABBD41F9706452683D876&pl=34&ipbits=0&mm=31&mt=1431276821&sparams=dur,id,initcwndbps,ip,ipbits,itag,mime,mm,ms,mv,pl,ratebypass,source,upn,expire&sver=3&fexp=907263,913444,934954,9408142,9408582,9408705,9408715,9408737,9408883,9413043,9414631,948124,948605,952612,952637,952642&id=o-AP6UPmB1LTVKzsGof7fO50ov6zbGiLv2ek1qM2O9BL-0&key=yt5&upn=B7q71lDhyq8&expire=1431298463&initcwndbps=2140000&ip=2a02:1205:5013:a470:c9da:da49:9faf:304b&itag=18&ms=au&source=youtube&ratebypass=yes&mv=m&dur=225.140&name=aFru-PNkaBg" type="video/mp4">
+	<source rel="nofollow" src="http://r3---sn-nfpnnjvh-1gis.googlevideo.com/videoplayback?sver=3&mm=31&ipbits=0&itag=18&ip=2a02:1205:5013:a470:c9da:da49:9faf:304b&sparams=dur,id,initcwndbps,ip,ipbits,itag,mime,mm,ms,mv,pl,ratebypass,source,upn,expire&fexp=907263,913444,934954,9408142,9408582,9408705,9408715,9408737,9408883,9413043,9414631,948124,948605,952612,952637,952642&upn=YRbaYfMu-p4&expire=1431298353&pl=34&key=yt5&initcwndbps=2240000&id=o-AA7OCkUscYSUNrktDvjHyUXX1us2vfZkWkwEyUk5urjp&dur=225.140&ms=au&signature=A7ACA3FDFF351B67DCA2B725E98EA9CF189B03.070F07FB42284D65C6401D380A6EB3381728E832&mime=video/mp4&mt=1431276708&mv=m&ratebypass=yes&source=youtube&name=aFru-PNkaBg" type="video/mp4">
 </video>
 
 
