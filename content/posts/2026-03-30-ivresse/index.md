@@ -13,7 +13,7 @@ Gabriel Gledhill le fondeur ivre.
 
 Ça me rappelle que notre civilisation a commencé un peu comme ça :
 
-https://www.bible.com/fr/bible/104/GEN.9.21.NBS
+[Genèse, chapitre 9, verset 21](https://www.bible.com/fr/bible/104/GEN.9.21.NBS)
 
 <!--
 https://www.la-bible.ch/des-bibles-pour-tous/bible-en-ligne/
@@ -24,3 +24,4 @@ https://lire.la-bible.net/bible/TOB/GEN.9.21
 [Watson : Le skieur ivre est dans la panade]: https://www.watson.ch/fr/sport/ski-nordique/575223688-ski-le-fondeur-ivre-gabriel-gledhill-est-dans-la-panade
 
  -->
+
