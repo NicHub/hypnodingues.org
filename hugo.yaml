@@ -53,6 +53,7 @@ security:
     - text/html
 
 contentTypes:
+  text/html: {}
   text/asciidoc: {}
   text/markdown: {}
   text/org: {}
