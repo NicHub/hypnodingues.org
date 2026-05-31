@@ -1,6 +1,6 @@
 ---
-title: Les dangers des IA
-date: '2026-04-10T11:12:00+02:00'
+title: "Les dangers des IA"
+date: 2026-04-10T11:12:00+02:00
 categories:
     - IA
 author: Nico
@@ -98,8 +98,12 @@ draft: false
 
 23. ELLES SATURENT NOS CAPACITÉS COGNITIVES
     -   [franceinfo — L’IA sature nos capacités cognitives]
-    -   Fatigue décisionnelle
-        -   [Pourquoi choisir est devenu une torture Psychologique]
+        -   En facilitant la production de contenu, elle augmente la quantité d’informations à traiter plutôt que de la réduire.
+        -   Les agents IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
+
+24. ELLE INDUISENT UNE FATIGUE DÉCISIONNELLE
+    -   [Pourquoi choisir est devenu une torture Psychologique]
+        -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
 ---
 
