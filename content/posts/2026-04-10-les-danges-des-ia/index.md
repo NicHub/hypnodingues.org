@@ -28,7 +28,7 @@ draft: false
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
 
 7.  ELLES NOUS RENDENT INCOMPÉTENTS·ES ET DÉPENDANTS·ES À LEURS SERVICES
-    -   Si seuls les experts sont sollicités alors les novices ne pourront jamais acquérir l’expérience nécessaire pour être experts.
+    -   Si seuls les experts sont sollicités alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
     -   _Micode — La Fabrique à Idiots_[^9]
 
@@ -43,7 +43,7 @@ draft: false
     -   _Science étonnante — Combien consomme une requête à ChatGPT ?_[^1]
 
 10. ELLES ONT UN IMPACT ENVIRONNEMENTAL CONSÉQUENT
-    -   Mitage des territoires
+    -   Mitage
     -   Pollution
     -   Bruit
     -   Consommation d’eau
