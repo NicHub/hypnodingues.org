@@ -89,7 +89,7 @@ draft: false
 18. ELLES SONT HACKÉES
     -   Requêtes DAN (Do Anything Now).
     -   Requêtes UTS (Universal Transferable Suffix).
-        -   _Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
+        -   _Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]<br>
             `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
     -   Prompts cachés (texte de la même couleur que le fond, invisible aux humains, mais pas aux IA).
 
@@ -98,7 +98,7 @@ draft: false
         Autrement dit, elles mangent en boucle leur caca et le nôtre.
 
 20. ELLES NE RESPECTENT PAS LE DROIT À L’OUBLI
-    -
+    -   ...
 
 21. ELLES CRÉENT UN APPEL D’AIR DE TÂCHES À EXÉCUTER
     -   Source : newsletter par mail de Marc Menson “Why your to-do list will never end”
