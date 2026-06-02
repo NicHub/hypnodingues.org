@@ -14,88 +14,100 @@ draft: false
 2.  ELLES SONT BIAISÉES
     -   Il faut vérifier qu’elles ne préfèrent pas une catégorie à une autre, par exemple une catégorie raciale ou de genre.
 
-3.  ELLES NE RESPECTENT PAS LA PROTECTION DES DONNÉES
-    -   Les IA sont entraînées avec des sources qui peuvent contenir des informations sensibles, privées ou secrètes.
-
-4.  ELLES NE RESPECTENT PAS LES DROITS D’AUTEUR
-    -   Les fournisseurs d’IA contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteurs, mais celle de l’utilisateur final.
-
-5.  ELLES NE RESPECTENT PAS LES RÉGULATIONS
-    -   Par exemple, elles ne respectent pas, ou pas complètement, le RGPD.
-    -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
-
-6.  ELLES REMPLACENT LES HUMAINS
-    -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
-    -   Les humains qui ne maitriseront pas l’usage de l’IA seront très impactés.
-        -   *“AI Won’t Replace Humans — But Humans With AI Will Replace Humans Without AI.*<br>*— Karim Lakhani, Harvard Business School Professor”*
-
-7.  ELLES SONT ÉNERGIVORES
-    -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
-    -   En conséquence, les fournisseurs d’IA sont en train de s’équiper de moyens de production d’énergie comme des centrales nucléaires, ce qui pose le problème connexe de la souveraineté énergétique des États.
-    -   _Science étonnante — Combien consomme une requête à ChatGPT ?_[^1]
-
-8.  ELLES SONT FRAGILES
-    -   Elles sont vulnérables aux défaillances des systèmes dont elles dépendent et peuvent donc tomber en panne.
-        D’où la nécessité de prévoir des systèmes de secours.
-    -   _LeHuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech_[^2]
-
-9.  L’ACCÈS À LEURS SERVICES EST RÉVOQUABLE UNILATÉRALEMENT PAR LEURS FOURNISSEURS
-    -   Les utlisateurs peuvent être bannis contractuellement d’où la nécessité de prévoir des alternatives.
-
-10. ELLES COÛTENT TRÈS CHER
-    -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs coûts sur les tarifs de leurs abonnements.
-        Ce sont donc les informations partagées par les utilisateurs qui sont monétisées.
-
-11. ELLES ORIENTENT LES CHOIX
-    -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
-    -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
-    -   Elles sont sycophantes (flatterie hypocrite pour obtenir un avantage)
-        -   _Le biais cognitif que tout le monde a (sans le savoir)_[^4]
-        -   _Wikipedia — Sycophante_[^5]
-    -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais)  <!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
-
-12. ELLES INDUISENT EN ERREUR
+3.  ELLES INDUISENT EN ERREUR
     -   Avec des _deep fakes_ très réalistes.
 
-13. ELLES DÉSTABILISENT LE TISSU SOCIAL
-    -   Anthropomorphisme : Le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
-    -   _Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)_[^6]
-    -   _Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»_[^7]
+4.  ELLES NE RESPECTENT PAS LA PROTECTION DES DONNÉES
+    -   Les IA sont entraînées avec des sources qui peuvent contenir des informations sensibles, privées ou secrètes.
 
-14. ELLES SONT UTILISÉES DE MANIÈRES INTRUSIVES OU OPAQUES
-    -   Elles favorisent un développement non éthique de l’_OSINT_[^17] et de l’_ingénierie sociale_[^18].
-    -   Système de reconnaissance vocale
-    -   Détection de visages dans les lieux publics
-    -   Surveillance étatique
-    -   Évaluation des employés à leur insu
+5.  ELLES NE RESPECTENT PAS LES DROITS D’AUTEUR
+    -   Les fournisseurs d’IA contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteurs, mais celle de l’utilisateur final.
 
-15. ELLES SONT HACKÉES
-    -   Requêtes DAN (Do Anything Now)
-    -   Requêtes UTS (Universal Transferable Suffix)
-        -   _Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
-            `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
-    -   Prompts cachés (texte de la même couleur que le fond, invisible aux humains, mais pas aux IA)
+6.  ELLES NE RESPECTENT PAS LES RÉGULATIONS
+    -   Elles ne respectent pas ou peu le RGPD.
+    -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
 
-16. ELLES NOUS RENDENT DÉPENDANTS·ES ET INCOMPÉTENTS·ES
+7.  ELLES NOUS RENDENT INCOMPÉTENTS·ES ET DÉPENDANTS·ES À LEURS SERVICES
     -   Si seuls les experts sont sollicités alors les novices ne pourront jamais acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
     -   _Micode — La Fabrique à Idiots_[^9]
 
-17. ELLES POLLUENT LES CORPUS CONNAISSANCES
-    -   En ajoutant leurs erreurs à celles des humains et en les réinjectant dans les corpus existants.
-        Autrement dit, elles vont manger en boucle leur caca et le notre.
+8.  ELLES REMPLACENT LES HUMAINS
+    -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
+    -   Les humains qui ne maitriseront pas l’usage de l’IA seront très impactés.
+        -   *“AI Won’t Replace Humans — But Humans With AI Will Replace Humans Without AI.*<br>*— Karim Lakhani, Harvard Business School Professor”*
 
-18. ELLES NE RESPECTENT PAS LE DROIT À L’OUBLI
+9.  ELLES SONT ÉNERGIVORES
+    -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
+    -   En conséquence, les fournisseurs d’IA sont en train de s’équiper de moyens de production d’énergie comme des centrales nucléaires, ce qui pose le problème connexe de la souveraineté énergétique des États.
+    -   _Science étonnante — Combien consomme une requête à ChatGPT ?_[^1]
+
+10. ELLES ONT UN IMPACT ENVIRONNEMENTAL CONSÉQUENT
+    -   Mitage des territoires
+    -   Pollution
+    -   Bruit
+    -   Consommation d’eau
+
+11. ELLES SONT VULNÉRABLES
+    -   Car elles dépendent de composants logiciels et matériels nombreux et complexes.
+    -   _LeHuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech_[^2]
+
+12. LEUR ACCÈS N’EST PAS GARANTI
+    -   L’accès à leurs services est révocable unilatéralement par leurs fournisseurs.
+
+13. ELLES FRAGILISENT LES DÉMOCRATIES
+    -   Elles sont détenues par des intérêts privés et leur vitesse de développement est des ordres de grandeur plus rapide que celui des institutions démocratiques publiques.
+
+14. ELLES COÛTENT TRÈS CHER
+    -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs coûts sur les tarifs de leurs abonnements.
+        Ce sont donc les informations partagées par les utilisateurs qui sont monétisées.
+
+15. ELLES ORIENTENT LES CHOIX
+    -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
+    -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
+    -   Elles sont sycophantes (flatterie hypocrite pour obtenir un avantage).
+        -   _Le biais cognitif que tout le monde a (sans le savoir)_[^4]
+        -   _Wikipedia — Sycophante_[^5]
+    -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais)  <!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
+
+16. ELLES DÉSTABILISENT LE TISSU SOCIAL
+    -   Anthropomorphisme : Le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
+    -   _Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)_[^6]
+    -   _Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»_[^7]
+
+17. ELLES SONT INTRUSIVES
+    -   Elles sont utilisées à des fins de surveillance sans possibilité d’opposition (sans possibilité d’exprimer le non-consentement, la désapprobation).
+    -   Elles favorisent un développement non éthique de l’_OSINT_[^17] et de l’_ingénierie sociale_[^18].
+    -   Système de reconnaissance vocale.
+    -   Détection de visages dans les lieux publics.
+    -   Surveillance étatique (impôts, police,...).
+    -   Évaluation des employés à leur insu.
+    -   Évaluation de profils clients par des acteurs privés.
+        -   assurances (maladie, immobilières...)
+        -   prestataires financiers (banques, créanciers, crédit...)
+
+18. ELLES SONT HACKÉES
+    -   Requêtes DAN (Do Anything Now).
+    -   Requêtes UTS (Universal Transferable Suffix).
+        -   _Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
+            `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
+    -   Prompts cachés (texte de la même couleur que le fond, invisible aux humains, mais pas aux IA).
+
+19. ELLES POLLUENT LES CORPUS CONNAISSANCES
+    -   Elles ajoutent leurs erreurs à celles des humains et les réinjectent dans les corpus existants.
+        Autrement dit, elles mangent en boucle leur caca et le nôtre.
+
+20. ELLES NE RESPECTENT PAS LE DROIT À L’OUBLI
     -
 
-19. ELLES CRÉENT UN APPEL D’AIR DE TÂCHES À EXÉCUTER
+21. ELLES CRÉENT UN APPEL D’AIR DE TÂCHES À EXÉCUTER
     -   Source : newsletter par mail de Marc Menson “Why your to-do list will never end”
 
-20. ELLES SATURENT NOS CAPACITÉS COGNITIVES
+22. ELLES SATURENT NOS CAPACITÉS COGNITIVES
     -   _franceinfo — L’IA sature nos capacités cognitives_[^10]
         -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
         -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
-    -   Elle induisent une fatigue décisionnelle
+    -   Elles induisent une fatigue décisionnelle
         -   _Pourquoi choisir est devenu une torture Psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
@@ -109,7 +121,7 @@ draft: false
 
 _RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari_[^12]
 
-Enfin, certains alertent sur une cannibalisation du web: en fournissant des réponses directes, l’IA détourne les internautes des sites d’information, des médias ou des plateformes spécialisées. A long terme, cela menace la diversité des contenus en ligne.
+Enfin, certains alertent sur une cannibalisation du web: en fournissant des réponses directes, l’IA détourne les internautes des sites d’information, des médias ou des plateformes spécialisées. À long terme, cela menace la diversité des contenus en ligne.
 
 ### IA générative : le guide ultime du hater anti-chatGPT
 
