@@ -117,7 +117,7 @@ draft: false
 
 ---
 
-## Notes de bas de page
+## Notes
 
 _RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari_[^12]
 
