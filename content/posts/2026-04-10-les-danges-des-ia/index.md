@@ -103,7 +103,7 @@ draft: false
 21. ELLES CRÉENT UN APPEL D’AIR DE TÂCHES À EXÉCUTER
     -   Source : newsletter par mail de Marc Menson “Why your to-do list will never end”
 
-22. ELLES SATURENT NOS CAPACITÉS COGNITIVES
+22. ELLES SATURENT LES CAPACITÉS COGNITIVES
     -   _franceinfo — L’IA sature nos capacités cognitives_[^10]
         -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
         -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
