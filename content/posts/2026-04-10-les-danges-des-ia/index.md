@@ -36,6 +36,7 @@ draft: false
     -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
     -   Les humains qui ne maitriseront pas l’usage de l’IA seront très impactés.
         -   *“AI Won’t Replace Humans — But Humans With AI Will Replace Humans Without AI.*<br>*— Karim Lakhani, Harvard Business School Professor”*
+    -   _L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans._[^19]
 
 9.  ELLES SONT ÉNERGIVORES
     -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
@@ -162,4 +163,5 @@ Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre
 [^15]: [Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025](https://www.youtube.com/watch?v=xKeFsOceT44)
 [^16]: [Wikipedia — Vibe coding](https://fr.wikipedia.org/wiki/Vibe_coding)
 [^17]: [Wikipedia — OSINT](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes)
-[^18]: [Wikipedia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l'information))
+[^18]: [Wikipedia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l’information))
+[^19]: [L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans.](https://www.rts.ch/play/tv/-/video/-?urn=urn:rts:video:05195471-4c48-3f4a-bb2b-1a51139a8ca1)
