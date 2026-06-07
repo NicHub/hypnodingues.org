@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="fr" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.240" end="00:00:03.320" style="s2">Combien même on gagne une élection, ça</p>
+<p begin="00:00:01.800" end="00:00:04.920" style="s2">suffit pas. C&#39;est la raison pour</p>
+<p begin="00:00:03.320" end="00:00:06.440" style="s2">laquelle le président de la République,</p>
+<p begin="00:00:04.920" end="00:00:07.480" style="s2">je vous donne un petit, vous avez</p>
+<p begin="00:00:06.440" end="00:00:08.400" style="s2">peut-être dû voir dans les réseaux</p>
+<p begin="00:00:07.480" end="00:00:12.445" style="s2">sociaux à un moment donné où il y a une</p>
+<p begin="00:00:08.400" end="00:00:12.840" style="s2">photo où je suis au Stade de France.</p>
+<p begin="00:00:12.445" end="00:00:15.360" style="s2">[rires]</p>
+<p begin="00:00:12.840" end="00:00:16.480" style="s2">Je suis au Stade de France et vous avez</p>
+<p begin="00:00:15.360" end="00:00:17.560" style="s2">vous avez le président de la République</p>
+<p begin="00:00:16.480" end="00:00:18.800" style="s2">donc qui vient à un moment donné, on se</p>
+<p begin="00:00:17.560" end="00:00:20.480" style="s2">sert et vous avez les grands sourires de</p>
+<p begin="00:00:18.800" end="00:00:21.400" style="s2">par d&#39;autres. Mais je vais vous</p>
+<p begin="00:00:20.480" end="00:00:23.160" style="s2">expliquer ce qui se passe à ce</p>
+<p begin="00:00:21.400" end="00:00:24.400" style="s2">moment-là. J&#39;avais adressé un courrier</p>
+<p begin="00:00:23.160" end="00:00:25.720" style="s2">au président de la PI pour lui dire un</p>
+<p begin="00:00:24.400" end="00:00:27.840" style="s2">certain nombre de choses attendues par</p>
+<p begin="00:00:25.720" end="00:00:28.960" style="s2">la population 45 jours après, mais je</p>
+<p begin="00:00:27.840" end="00:00:30.880" style="s2">savais que le président de la publicit</p>
+<p begin="00:00:28.960" end="00:00:34.060" style="s2">venir puisque au Stade de France et donc</p>
+<p begin="00:00:30.880" end="00:00:34.715" style="s2">je fais un petit poste</p>
+<p begin="00:00:34.060" end="00:00:36.735" style="s2">[musique]</p>
+<p begin="00:00:34.715" end="00:00:36.735" style="s2">[chant]</p>
+<p begin="00:00:36.920" end="00:00:41.960" style="s2">avant donc son arrivée 5h 6h avant je</p>
+<p begin="00:00:40.320" end="00:00:42.840" style="s2">reçois en fait une réponse du président</p>
+<p begin="00:00:41.960" end="00:00:44.320" style="s2">de la République. Ah</p>
+<p begin="00:00:42.840" end="00:00:45.160" style="s2">ce qui est bien très bien.</p>
+<p begin="00:00:44.320" end="00:00:46.640" style="s2">Mieux vaut tard que jamais.</p>
+<p begin="00:00:45.160" end="00:00:49.120" style="s2">Mieux tard que jamais. Il dit &quot;Monsieur</p>
+<p begin="00:00:46.640" end="00:00:51.520" style="s2">le maire, je vous ai répondu mais</p>
+<p begin="00:00:49.120" end="00:00:54.160" style="s2">monsieur le maire</p>
+<p begin="00:00:51.520" end="00:00:57.359" style="s2">avec moi ça va pas le faire.</p>
+<p begin="00:00:54.160" end="00:00:57.359" style="s2">Wouh !</p>
+<p begin="00:00:59.039" end="00:01:02.120" style="s2">Soit vous êtes maire et on va travailler</p>
+<p begin="00:01:01.039" end="00:01:03.879" style="s2">ensemble,</p>
+<p begin="00:01:02.120" end="00:01:04.640" style="s2">soit vous êtes un influenceur et ça va</p>
+<p begin="00:01:03.879" end="00:01:05.880" style="s2">pas le faire.</p>
+<p begin="00:01:04.640" end="00:01:07.840" style="s2">Oh là là là là !</p>
+<p begin="00:01:05.880" end="00:01:08.840" style="s2">Donc ça veut dire reste sage. Ça veut</p>
+<p begin="00:01:07.840" end="00:01:11.080" style="s2">dire reste sage.</p>
+<p begin="00:01:08.840" end="00:01:12.840" style="s2">Et c&#39;est à ce moment-là que je lui dis</p>
+<p begin="00:01:11.080" end="00:01:15.980" style="s2">&quot;Monsieur le président de la République,</p>
+<p begin="00:01:12.840" end="00:01:18.000" style="s2">ces propos sont indignes d&#39;un président.</p>
+<p begin="00:01:15.980" end="00:01:18.000" style="s2">[applaudissements]</p>
+<p begin="00:01:18.240" end="00:01:22.560" style="s2">Et je lui [acclamation] dis et je lui</p>
+<p begin="00:01:20.000" end="00:01:23.680" style="s2">dis [applaudissements] vous avez affaire</p>
+<p begin="00:01:22.560" end="00:01:25.520" style="s2">au maire de Saint-Inis président</p>
+<p begin="00:01:23.680" end="00:01:27.799" style="s2">d&#39;établis emploie territorial donc on va</p>
+<p begin="00:01:25.520" end="00:01:29.600" style="s2">travailler ensemble. [cri]</p>
+<p begin="00:01:27.799" end="00:01:31.320" style="s2">Et donc</p>
+<p begin="00:01:29.600" end="00:01:33.079" style="s2">la [acclamation] classe la classe</p>
+<p begin="00:01:31.320" end="00:01:36.079" style="s2">ça tout ça pour vous dire tout ça pour</p>
+<p begin="00:01:33.079" end="00:01:37.360" style="s2">vous dire vous voyez parfois le niveau</p>
+<p begin="00:01:36.079" end="00:01:40.840" style="s2">de violence</p>
+<p begin="00:01:37.360" end="00:01:40.840" style="s2">auquel nous avons affaire Ah.</p>
+</div>
+</body>
+</tt>
