@@ -7,6 +7,8 @@ author: Nico
 draft: false
 ---
 
+![Calvin and Hobbes: Leave Math to the Machines](./images/calvin-and-hobbes-leave-math-to-the-machines.png)
+
 1.  ELLES SONT FAILLIBLES
     -   Ce qui nécessite des procédures de vérification qui ne sont pas toujours mises en place.
     -   De plus, si les adultes d’aujourd’hui qui ont été formés sans les IA peuvent potentiellement détecter leurs erreurs, est-ce que ce sera le cas des adultes de demain qui se forment aujourd’hui avec elles ?
@@ -109,7 +111,7 @@ draft: false
         -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
         -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
     -   Elles induisent une fatigue décisionnelle
-        -   _Pourquoi choisir est devenu une torture Psychologique_[^11]
+        -   _Damien Maya — Pourquoi choisir est devenu une torture Psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
 ---
@@ -156,7 +158,7 @@ Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre
 [^8]: [Christophe Pauly — Le MOT interdit qui fait dérailler les IA](https://youtu.be/H-807b9W1Us?t=383)
 [^9]: [Micode — La Fabrique à Idiots](https://www.youtube.com/watch?v=4xq6bVbS-Pw)
 [^10]: [franceinfo — L’IA sature nos capacités cognitives](https://www.youtube.com/watch?v=Lhm_EUcHy9k)
-[^11]: [Pourquoi choisir est devenu une torture Psychologique](https://www.youtube.com/watch?v=IoyNTMrZFsg)
+[^11]: [Damien Maya — Pourquoi choisir est devenu une torture Psychologique](https://www.youtube.com/watch?v=IoyNTMrZFsg)
 [^12]: [RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari](https://www.rts.ch/info/sciences-tech/2025/article/l-ia-revolutionne-les-navigateurs-web-comet-defie-chrome-et-safari-29020257.html)
 [^13]: [Mediapart — IA générative, le guide ultime du hater anti-ChatGPT](https://blogs.mediapart.fr/lonesome-cowboy/blog/241225/ia-generative-le-guide-ultime-du-hater-anti-chatgpt)
 [^14]: [Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs. les déclarations de Luc Julia](https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/)
