@@ -114,6 +114,10 @@ draft: false
         -   _Damien Maya — Pourquoi choisir est devenu une torture Psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
+23. ELLES SONT ÉLITISTES
+    -   Leurs potentiels ne seront accessibles qu’à celles et ceux qui disposent des moyens financiers, du temps et des compétences nécessaires.
+
+
 ---
 
 ---
@@ -167,3 +171,4 @@ Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre
 [^17]: [Wikipedia — OSINT](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes)
 [^18]: [Wikipedia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l’information))
 [^19]: [L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans.](https://www.rts.ch/play/tv/-/video/-?urn=urn:rts:video:05195471-4c48-3f4a-bb2b-1a51139a8ca1)
+[^20]: [Monsieur Phi — Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline](https://www.youtube.com/watch?v=AYPQIntoJeE)
