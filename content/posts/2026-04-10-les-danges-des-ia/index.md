@@ -96,7 +96,7 @@ draft: false
             `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
     -   Prompts cachés (texte de la même couleur que le fond, invisible aux humains, mais pas aux IA).
 
-19. ELLES POLLUENT LES CORPUS CONNAISSANCES
+19. ELLES POLLUENT LES CORPUS DE CONNAISSANCES  <!-- polluer, dégrader, altérer, contaminer -->
     -   Elles ajoutent leurs erreurs à celles des humains et les réinjectent dans les corpus existants.
         Autrement dit, elles mangent en boucle leur caca et le nôtre.
 
@@ -116,7 +116,6 @@ draft: false
 
 23. ELLES SONT ÉLITISTES
     -   Leurs potentiels ne seront accessibles qu’à celles et ceux qui disposent des moyens financiers, du temps et des compétences nécessaires.
-
 
 ---
 
