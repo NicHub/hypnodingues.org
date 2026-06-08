@@ -115,7 +115,7 @@ draft: false
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
 23. ELLES SONT ÉLITISTES
-    -   Leurs potentiels ne seront accessibles qu’à celles et ceux qui disposent des moyens financiers, du temps et des compétences nécessaires.
+    -   Plus on dispose de moyens financiers, de temps et de compétences, plus les IA deviennent utiles et profitables.
 
 ---
 
