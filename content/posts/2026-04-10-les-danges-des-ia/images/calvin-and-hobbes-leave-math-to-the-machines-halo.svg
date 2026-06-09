@@ -16,7 +16,7 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
       0 0 0 1 0
     " result="sepiaGraphic"/>
     <feGaussianBlur in="SourceAlpha" stdDeviation="2340" result="blur"/>
-    <feFlood flood-color="oklch(0.98 0.01 30)" flood-opacity="1" result="haloColor"/>
+    <feFlood flood-color="#ebd9d6" flood-opacity="1" result="haloColor"/>
     <feComposite in="haloColor" in2="blur" operator="in" result="halo"/>
     <feMerge>
       <feMergeNode in="halo"/>
