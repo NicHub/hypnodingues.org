@@ -104,7 +104,7 @@ document.addEventListener("keydown", (event) => {
       return;
     }
 
-    if (event.key === "Escape") {
+    if (event.key === "§") {
       const href = getPageNavHref("home") || "/";
       event.preventDefault();
       navigateTo(href);
