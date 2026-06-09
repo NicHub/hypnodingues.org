@@ -605,6 +605,21 @@ p.home-hero-button a:focus-visible {
   margin: 0 0 1.25rem;
 }
 
+.prose ul {
+  list-style-type: disc;
+  list-style-position: outside;
+}
+
+.prose ol {
+  list-style-position: outside;
+}
+
+.prose > ul,
+.prose > ol {
+  margin-left: 0;
+  padding-left: 1.5rem;
+}
+
 .prose p,
 .prose li,
 .prose a {
@@ -779,5 +794,16 @@ p.home-hero-button a:focus-visible {
 
   .prose {
     font-size: 1rem;
+  }
+
+  .prose > ul,
+  .prose > ol {
+    padding-left: 1.15rem;
+  }
+
+  .prose li > ul,
+  .prose li > ol {
+    margin-top: 0.45rem;
+    padding-left: 1rem;
   }
 }
