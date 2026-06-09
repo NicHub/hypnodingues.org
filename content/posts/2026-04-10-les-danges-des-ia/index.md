@@ -1,5 +1,5 @@
 ---
-title: "Les dangers des IA"
+title: "Les dangers des IA"
 date: 2026-04-10T11:12:00+02:00
 categories:
     - IA
@@ -7,7 +7,7 @@ author: Nico
 draft: false
 ---
 
-![Calvin and Hobbes: Leave Math to the Machines](./images/calvin-and-hobbes-leave-math-to-the-machines-halo.svg)
+![Calvin and Hobbes: Leave Math to the Machines](./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp)
 
 1.  ELLES SONT FAILLIBLES
     -   Ce qui nécessite des procédures de vérification qui ne sont pas toujours mises en place.
