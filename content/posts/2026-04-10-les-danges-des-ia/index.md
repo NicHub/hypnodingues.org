@@ -7,7 +7,7 @@ author: Nico
 draft: false
 ---
 
-![Calvin and Hobbes: Leave Math to the Machines](./images/calvin-and-hobbes-leave-math-to-the-machines.png)
+![Calvin and Hobbes: Leave Math to the Machines](./images/calvin-and-hobbes-leave-math-to-the-machines-halo.svg)
 
 1.  ELLES SONT FAILLIBLES
     -   Ce qui nécessite des procédures de vérification qui ne sont pas toujours mises en place.
