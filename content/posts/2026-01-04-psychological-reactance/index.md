@@ -4,13 +4,10 @@ date: '2026-01-04T16:15:00+01:00'
 author: Nico
 ---
 
-## Psychological Reactance
+## Psychological Reactance[^1]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2fv_x5Xs6hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
 </iframe>
-
-[Psychological Reactance On Wikipedia](https://en.wikipedia.org/wiki/Reactance_(psychology))
 
 You know that feeling? You are sitting on the couch finishing your coffee and you look at the sink. You think to yourself, “I’m going to wash those dishes. I’m ready. I’m going to get up in 30 seconds and handle it.” You are genuinely at peace with this decision. But then a roommate, a parent, or a partner walks into the room and says, “Hey, can you wash the dishes?” And suddenly, a physical wall slams down in your chest. You would rather die than touch that sponge. The motivation didn’t just vanish. It was murdered. You aren’t lazy. You were literally about to do it. But the moment it became a command, it stopped being a task and started feeling like a threat.
 
@@ -57,3 +54,7 @@ It is strange how much of our identity is wrapped up in who we let influence us.
 So, how does this land for you? Did you recognize yourself in the person who stares at the sink, refusing to wash the dishes just because you were asked? Or maybe you realized why your partner or your child shuts down the moment you try to help them with instructions. It’s worth asking yourself: is your resistance protecting your freedom, or is it just keeping you from getting what you actually want?
 
 If you enjoyed this deep dive into the firmware of the human mind, there’s plenty more where that came from. I’d tell you to subscribe, but, well, I have a feeling you’ll only do it if you want to.
+
+## Notes
+
+[^1]: [Psychological Reactance On Wikipedia](https://en.wikipedia.org/wiki/Reactance_(psychology))

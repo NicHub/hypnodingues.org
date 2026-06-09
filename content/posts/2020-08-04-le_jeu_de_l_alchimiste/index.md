@@ -4,23 +4,6 @@ date: '2020-08-04T10:19:00+02:00'
 author: Nico
 ---
 
-<style>
-* {
-text-align: left;
-}
-&#10;h2, h3, h4, h5, h6, p, li, blockquote {
-text-align: left;
-font-size: 13pt;
-}
-&#10;h2 {
-    margin-top:100px;
-}
-&#10;li {
-    margin: 0;
-    padding: 0;
-}
-}</style>
-
 Prise de notes personnelle sur les vidéos du lancement du Jeu de l’Alchimiste.
 
 ## SOURCES
@@ -83,8 +66,6 @@ Vous voulez la mettre en œuvre, c’est la *fusion*, c’est le « faire ».
 - hyperactivité
 - travail
 
-------------------------------------------------------------------------
-
 > **Les trois premières étapes, *confusion*, *perfusion* et *fusion* sont les trois pas de l’enfer, autrement dit, là où on est enfermé.**
 >
 > - Toute notre vie, on est en *confusion*,
@@ -92,8 +73,6 @@ Vous voulez la mettre en œuvre, c’est la *fusion*, c’est le « faire ».
 > - et de cette *fusion*, on en fabrique quelque chose.
 >
 > Attention : Quelqu’un qui est sorti de la *fusion* et qui se trouve à l’étape suivante, dans la *défusion*, s’il devient dépendant de ce qu’il a mis en œuvre (méditation, cyclisme…), son enfermement entrainera un retour à la *perfusion*.
-
-------------------------------------------------------------------------
 
 ### 4. la *défusion* — le mercure — la mère/mer qui nous cure
 
