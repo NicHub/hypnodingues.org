@@ -43,7 +43,7 @@ draft: false
     -   Elles ne respectent pas ou peu le RGPD.
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
 
-7.  **Elles nous rendent incompétents·es et dépendants·es à leurs services**
+7.  **Elles nous rendent incompétents·es et dépendants·es de leurs services**
     -   Si seuls les experts sont sollicités alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
     -   _Micode — La Fabrique à Idiots_[^9]
