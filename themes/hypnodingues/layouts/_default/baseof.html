@@ -6,25 +6,38 @@
   {{ end }}
   {{ $title := site.Title }}
   {{ if not .IsHome }}{{ $title = printf "%s | %s" $pageTitle site.Title }}{{ end }}
-  {{ $description := or .Description .Params.description site.Params.description }}
-  {{ $heroImage := site.Params.home.bgImage | default "/assets/Hypnose.jpg" }}
+  {{ $description := or .Params.social_description .Description .Params.description site.Params.description }}
+  {{ $socialTitle := $title }}
+  {{ with .Params.social_title }}{{ $socialTitle = . | plainify }}{{ end }}
+  {{ $socialType := or .Params.social_type (cond .IsPage "article" "website") }}
+  {{ $socialCard := or .Params.twitter_card "summary_large_image" }}
+  {{ $socialImage := "" }}
+  {{ with .Params.social_image }}
+    {{ $socialImage = . }}
+  {{ end }}
+  {{ if and (eq $socialImage "") .Params.images }}
+    {{ $socialImage = index .Params.images 0 }}
+  {{ end }}
+  {{ if eq $socialImage "" }}
+    {{ $socialImage = site.Params.social.image | default site.Params.home.bgImage | default "/assets/Hypnose.jpg" }}
+  {{ end }}
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ $title }}</title>
     {{ with $description }}<meta name="description" content="{{ . }}">{{ end }}
     <link rel="canonical" href="{{ .Permalink }}">
-    <meta property="og:title" content="{{ $title }}">
+    <meta property="og:title" content="{{ $socialTitle }}">
     <meta property="og:description" content="{{ $description }}">
     <meta property="og:url" content="{{ .Permalink }}">
-    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-    <meta property="og:image" content="{{ $heroImage | absURL }}">
+    <meta property="og:type" content="{{ $socialType }}">
+    <meta property="og:image" content="{{ $socialImage | absURL }}">
     <meta property="og:site_name" content="{{ site.Title }}">
     <meta property="og:locale" content="fr_CH">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ $title }}">
+    <meta name="twitter:card" content="{{ $socialCard }}">
+    <meta name="twitter:title" content="{{ $socialTitle }}">
     <meta name="twitter:description" content="{{ $description }}">
-    <meta name="twitter:image" content="{{ $heroImage | absURL }}">
+    <meta name="twitter:image" content="{{ $socialImage | absURL }}">
     <link rel="icon" href="/assets/favicon.ico">
     <script>
       if (sessionStorage.getItem('hd-nav')) {
