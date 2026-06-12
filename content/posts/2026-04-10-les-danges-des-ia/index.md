@@ -117,6 +117,12 @@ draft: false
 23. ELLES SONT ÉLITISTES
     -   Plus on dispose de moyens financiers, de temps et de compétences, plus les IA sont utiles et profitables.
 
+24. ELLES UNIFORMISENT LE LANGAGE
+    -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques. Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+
+25. ELLES MARGINALISENT LES LANGUES À FAIBLE RESSOUCES
+    -   Les IA apprennent à partir des langues à hautes ressouces, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées. Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+
 ---
 
 ---
@@ -171,3 +177,4 @@ Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre
 [^18]: [Wikipedia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l’information))
 [^19]: [L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans.](https://www.rts.ch/play/tv/-/video/-?urn=urn:rts:video:05195471-4c48-3f4a-bb2b-1a51139a8ca1)
 [^20]: [Monsieur Phi — Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline](https://www.youtube.com/watch?v=AYPQIntoJeE)
+[^21]: [France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage](https://www.youtube.com/watch?v=ABZAc1JvlB0)
