@@ -76,6 +76,59 @@ function navigateTo(href) {
     window.location.href = href;
 }
 
+function slugify(text) {
+    return (text || "")
+        .toString()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/^-+|-+$/g, "");
+}
+
+function getParentListItemLabel(li) {
+    const firstParagraph = li.firstElementChild && li.firstElementChild.tagName === "P" ? li.firstElementChild : null;
+    if (firstParagraph) {
+        const paragraphText = firstParagraph.textContent.replace(/\s+/g, " ").trim();
+        if (paragraphText) return paragraphText;
+    }
+
+    const firstStrong = li.querySelector("strong");
+    if (firstStrong) {
+        const strongText = firstStrong.textContent.replace(/\s+/g, " ").trim();
+        if (strongText) return strongText;
+    }
+
+    return li.textContent.replace(/\s+/g, " ").trim();
+}
+
+function addParentListAnchors() {
+    const parentItems = document.querySelectorAll(".article-body.prose > ol > li");
+
+    parentItems.forEach((li, index) => {
+        if (li.id) return;
+
+        const label = getParentListItemLabel(li);
+        const slug = slugify(label);
+        li.id = slug || `item-${index + 1}`;
+
+        const anchor = document.createElement("a");
+        anchor.className = "list-anchor-link";
+        anchor.href = `#${li.id}`;
+        anchor.setAttribute("aria-label", `Lien vers ${label}`);
+        anchor.textContent = "#";
+
+        const firstParagraph = li.firstElementChild && li.firstElementChild.tagName === "P" ? li.firstElementChild : null;
+        if (firstParagraph) {
+            firstParagraph.append(" ");
+            firstParagraph.appendChild(anchor);
+        } else {
+            li.append(" ");
+            li.appendChild(anchor);
+        }
+    });
+}
+
 document.addEventListener("keydown", (event) => {
     if (event.repeat || shouldIgnoreKeyNavigation(event)) return;
 
@@ -112,3 +165,4 @@ document.addEventListener("keydown", (event) => {
 });
 
 decorateExternalLinks();
+addParentListAnchors();
