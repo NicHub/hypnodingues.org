@@ -60,7 +60,7 @@
     {{ end }}
   </head>
   {{ $siteHost := site.BaseURL | strings.TrimPrefix "https://" | strings.TrimPrefix "http://" | strings.TrimSuffix "/" }}
-  <body class="{{ if .IsHome }}is-home{{ else if .IsSection }}is-section{{ else }}is-page{{ end }} theme-{{ site.Params.theme.variant | default `poetic-dark` }}" data-site-host="{{ $siteHost }}">
+  <body class="{{ if .IsHome }}is-home{{ else if .IsSection }}is-section{{ else }}is-page{{ end }} theme-{{ site.Params.theme.variant | default `poetic-light` }}" data-site-host="{{ $siteHost }}">
     <div class="site-shell">
       <div class="site-aura site-aura-one"></div>
       <div class="site-aura site-aura-two"></div>

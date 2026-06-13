@@ -5,10 +5,11 @@
 }
 
 :root {
-    color-scheme: dark;
+    color-scheme: light;
 }
 
 body.theme-poetic-dark {
+    color-scheme: dark;
     --accent-soft: #8a6848;
     --accent: #d8ac72;
     --background-veil: radial-gradient(
@@ -52,6 +53,48 @@ body.theme-poetic-dark {
     --panel-strong: rgba(12, 14, 20, 0.94);
     --panel: rgba(18, 20, 29, 0.84);
     --text: #ebd9d6;
+}
+
+body.theme-poetic-light {
+    color-scheme: light;
+    --accent-soft: #8b6a49;
+    --accent: #8c6129;
+    --background-veil: radial-gradient(
+        110% 110% at 133.07% 133.41%,
+        rgb(255 255 255 / 0.9) 0%,
+        rgb(248 244 236 / 0.92) 32%,
+        rgb(238 230 219 / 0.85) 62%,
+        rgb(224 213 199 / 0.72) 100%
+    );
+    --bg-soft: #f5f0e7;
+    --bg: #ffffff;
+    --btn-gradient-hover: linear-gradient(135deg, #f0dcc0 0%, #d8b684 100%);
+    --btn-gradient: linear-gradient(135deg, #f8e6c9 0%, #e2bf8d 100%);
+    --font-family-title: "NoWayRound", monospace;
+    --font-family-body: monospace;
+    --footer-glow-1: rgba(95, 68, 42, 0.22);
+    --footer-glow-2: rgba(95, 68, 42, 0.14);
+    --footer-glow-3: rgba(95, 68, 42, 0.08);
+    --footer-glow-4: rgba(95, 68, 42, 0.05);
+    --footer-glow-5: rgba(95, 68, 42, 0.03);
+    --footer-link-hover: #312116;
+    --footer-link: rgba(75, 57, 42, 0.56);
+    --glow: rgba(140, 97, 41, 0.08);
+    --hero-bg: #f7f2ea;
+    --hero-overlay: linear-gradient(
+        180deg,
+        rgba(255, 255, 255, 0.18) 0%,
+        rgba(255, 255, 255, 0.48) 68%,
+        rgba(255, 255, 255, 0.74) 100%
+    );
+    --line-strong: rgba(76, 61, 47, 0.18);
+    --line: rgba(76, 61, 47, 0.12);
+    --muted: #76695d;
+    --on-dark: #221812;
+    --panel-strong: rgba(255, 255, 255, 0.96);
+    --panel: rgba(255, 255, 255, 0.8);
+    // --text: #ebd9d6;
+    --text: #201713;
 }
 
 *,
@@ -299,7 +342,7 @@ body.is-home .page {
 }
 
 .home-hero-brand .brand-kicker {
-    color: rgba(255, 241, 228, 0.78);
+    color: var(--muted);
     font-size: 0.76rem;
     letter-spacing: 0.12em;
     text-transform: uppercase;
@@ -313,7 +356,7 @@ body.is-home .page {
 }
 
 .home-hero-content .eyebrow {
-    color: rgba(255, 241, 228, 0.84);
+    color: var(--muted);
     margin: 0;
 }
 
@@ -340,13 +383,13 @@ body.is-home .page {
 }
 
 .home-hero-lead {
-    color: rgba(255, 244, 235, 0.96);
+    color: var(--text);
     font-size: clamp(1.05rem, 2vw, 1.35rem);
     font-weight: 600;
 }
 
 .home-hero-curiosity {
-    color: rgba(255, 232, 214, 0.82);
+    color: var(--muted);
     font-size: clamp(1rem, 2vw, 1.28rem);
     font-style: italic;
 }
@@ -532,9 +575,9 @@ p.home-hero-button a:focus-visible {
 }
 
 .page-nav-link {
-    background: rgba(255, 248, 240, 0.08);
+    background: rgba(255, 255, 255, 0.78);
     border-radius: 1.15rem;
-    border: 1px solid rgba(255, 244, 235, 0.12);
+    border: 1px solid var(--line);
     color: var(--on-dark);
     display: grid;
     gap: 0.22rem;
@@ -549,8 +592,8 @@ p.home-hero-button a:focus-visible {
 
 .page-nav-link:hover,
 .page-nav-link:focus-visible {
-    background: rgba(255, 248, 240, 0.15);
-    border-color: rgba(255, 244, 235, 0.24);
+    background: rgba(255, 255, 255, 0.94);
+    border-color: var(--line-strong);
     color: var(--on-dark);
     outline: none;
     transform: translateY(-2px);
@@ -678,6 +721,30 @@ p.home-hero-button a:focus-visible {
         0 0 0.9rem var(--footer-glow-1),
         0 0 1.8rem var(--footer-glow-2),
         0 0 3.2rem var(--footer-glow-3);
+}
+
+body.theme-poetic-dark .page-nav-link {
+    background: rgba(255, 248, 240, 0.08);
+    border-color: rgba(255, 244, 235, 0.12);
+}
+
+body.theme-poetic-dark .page-nav-link:hover,
+body.theme-poetic-dark .page-nav-link:focus-visible {
+    background: rgba(255, 248, 240, 0.15);
+    border-color: rgba(255, 244, 235, 0.24);
+}
+
+body.theme-poetic-dark .home-hero-brand .brand-kicker,
+body.theme-poetic-dark .home-hero-content .eyebrow {
+    color: rgba(255, 241, 228, 0.84);
+}
+
+body.theme-poetic-dark .home-hero-lead {
+    color: rgba(255, 244, 235, 0.96);
+}
+
+body.theme-poetic-dark .home-hero-curiosity {
+    color: rgba(255, 232, 214, 0.82);
 }
 
 .pagination {
