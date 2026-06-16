@@ -14,10 +14,10 @@ draft: false
 ---
 
 <style>
-    .prose > ol > li > p:first-child,
+    .prose > ol > li > p:first-child strong,
     .prose > ol > li::marker {
         text-transform: uppercase;
-        font-weight: bold;
+        font-weight: 600;
     }
 </style>
 
