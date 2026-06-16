@@ -11,22 +11,19 @@ draft: false
 
 ## Quelle place prennent tous les humains côte-à-côte ?
 
-```py
-h = 8.2E9               #  humains vivants en 2026
-d = 1                   #  humain / m²
-s = h / d / 1E6
-print(f"{s:0.0f} km²")  #
+```python
+# %%
+h = 8.2E9               #  humains vivants en 2026 (population)
+d = 5                   #  humains / m² (densité de population)
+a = h / d / 1E6         #  km² (aire nécessaire)
+print(f"{a:0.0f} km²")  #  1640 km²
 
-# 672051/101
-# 672051 km²
-# 101 départements
-
-sl = 581.3              #  km², superficie du lac [Léman]
-print(f"{s/sl:0.0f}")   #  3 lacs [Léman]
-
-ss =
-
+al = 581.3              #  km² (aire du lac Léman)
+print(f"{a/al:0.0f}"
+       " × lac Léman")  #  3 × lac Léman
+# %%
 ```
+
 ## Les seuils de densité humaine
 
 Source: [10 niveaux de foule expliqués avec des tomates]
@@ -54,3 +51,5 @@ Source: [10 niveaux de foule expliqués avec des tomates]
 [Léman]: https://fr.wikipedia.org/wiki/L%C3%A9man
 
 [Liste des pays et territoires par superficie]: https://fr.wikipedia.org/wiki/Liste_des_pays_et_territoires_par_superficie
+
+# %%
