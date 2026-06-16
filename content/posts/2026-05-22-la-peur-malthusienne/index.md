@@ -26,7 +26,7 @@ print(f"{a/al:0.0f}"
 
 ## Les seuils de densité humaine
 
-Source: [10 niveaux de foule expliqués avec des tomates]
+Source: 10 niveaux de foule expliqués avec des tomates[^1]
 
 | Densité (pers/m²) | Conséquences / ressenti                                                                                       | Horodatage vidéo                                               |
 | ----------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -42,14 +42,16 @@ Source: [10 niveaux de foule expliqués avec des tomates]
 | 9                 | Plus assez d’espace pour respirer. Catastrophe de La Mecque 2006.                                             | [9:40](https://www.youtube.com/watch?v=Eh7l4Gvx054&t=580s) |
 | 10                | “Désastre total”. Niveau jamais mesuré scientifiquement.                                                      | [9:54](https://www.youtube.com/watch?v=Eh7l4Gvx054&t=594s) |
 
-[10 niveaux de foule expliqués avec des tomates]: https://www.youtube.com/watch?v=Eh7l4Gvx054
+## Notes
 
-[L’Expérience interdite qui a prédit notre effondrement (Le dossier Univers 25)]: https://www.youtube.com/watch?v=oq62923hoQ0
+-   10 niveaux de foule expliqués avec des tomates[^1]
+-   L’Expérience interdite qui a prédit notre effondrement (Le dossier Univers 25)[^2]
+-   Le malthusianisme[^3]
+-   Lac Léman[^4]
+-   Liste des pays et territoires par superficie[^5]
 
-[malthusianisme]: https://fr.wikipedia.org/wiki/Malthusianisme
-
-[Léman]: https://fr.wikipedia.org/wiki/L%C3%A9man
-
-[Liste des pays et territoires par superficie]: https://fr.wikipedia.org/wiki/Liste_des_pays_et_territoires_par_superficie
-
-# %%
+[^1]: [10 niveaux de foule expliqués avec des tomates](https://www.youtube.com/watch?v=Eh7l4Gvx054)
+[^2]: [L’Expérience interdite qui a prédit notre effondrement (Le dossier Univers 25)](https://www.youtube.com/watch?v=oq62923hoQ0)
+[^3]: [Le malthusianisme](https://fr.wikipedia.org/wiki/Malthusianisme)
+[^4]: [Lac Léman](https://fr.wikipedia.org/wiki/L%C3%A9man)
+[^5]: [Liste des pays et territoires par superficie](https://fr.wikipedia.org/wiki/Liste_des_pays_et_territoires_par_superficie)
