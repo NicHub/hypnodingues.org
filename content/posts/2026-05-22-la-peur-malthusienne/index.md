@@ -42,13 +42,7 @@ Source: 10 niveaux de foule expliqués avec des tomates[^1]
 | 9                 | Plus assez d’espace pour respirer. Catastrophe de La Mecque 2006.                                             | [9:40](https://www.youtube.com/watch?v=Eh7l4Gvx054&t=580s) |
 | 10                | “Désastre total”. Niveau jamais mesuré scientifiquement.                                                      | [9:54](https://www.youtube.com/watch?v=Eh7l4Gvx054&t=594s) |
 
-## Notes
-
--   10 niveaux de foule expliqués avec des tomates[^1]
--   L’Expérience interdite qui a prédit notre effondrement (Le dossier Univers 25)[^2]
--   Le malthusianisme[^3]
--   Lac Léman[^4]
--   Liste des pays et territoires par superficie[^5]
+## Notes [^1][^2][^3][^4][^5]
 
 [^1]: [10 niveaux de foule expliqués avec des tomates](https://www.youtube.com/watch?v=Eh7l4Gvx054)
 [^2]: [L’Expérience interdite qui a prédit notre effondrement (Le dossier Univers 25)](https://www.youtube.com/watch?v=oq62923hoQ0)
