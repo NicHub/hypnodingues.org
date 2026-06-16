@@ -120,10 +120,10 @@ function addParentListAnchors() {
 
         const firstParagraph = li.firstElementChild && li.firstElementChild.tagName === "P" ? li.firstElementChild : null;
         if (firstParagraph) {
-            firstParagraph.append(" ");
+            firstParagraph.append("\u00A0");
             firstParagraph.appendChild(anchor);
         } else {
-            li.append(" ");
+            li.append("\u00A0");
             li.appendChild(anchor);
         }
     });
