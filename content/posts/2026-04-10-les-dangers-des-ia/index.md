@@ -38,7 +38,7 @@ draft: false
 
 5.  **Elles ne respectent pas les droits d’auteur**
     -   Les fournisseurs d’IA contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteurs, mais celle de l’utilisateur final.
-    -   France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat[^22]
+    -   _France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat_[^22]
 
 6.  **Elles ne respectent pas les régulations**
     -   Elles ne respectent pas ou peu le RGPD.
@@ -52,7 +52,8 @@ draft: false
 8.  **Elles remplacent les humains**
     -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
     -   Les humains qui ne maitriseront pas l’usage de l’IA seront très impactés.
-        -   *“AI Won’t Replace Humans — But Humans With AI Will Replace Humans Without AI.*<br>*— Karim Lakhani, Harvard Business School Professor”*
+        -   *“AI won’t replace humans — But humans with AI will replace humans without AI.”*
+            *— Karim Lakhani, Harvard Business School Professor*
     -   _L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans._[^19]
 
 9.  **Elles sont énergivores**
@@ -107,8 +108,8 @@ draft: false
 18. **Elles sont hackées**
     -   Requêtes DAN (Do Anything Now).
     -   Requêtes UTS (Universal Transferable Suffix).
-        -   _Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]<br>
-            `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
+        -   _Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
+            <br>`==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
     -   Prompts cachés (texte de la même couleur que le fond, invisible aux humains, mais pas aux IA).
 
 19. **Elles polluent les corpus de connaissances**  <!-- polluer, dégrader, altérer, contaminer -->
@@ -133,10 +134,12 @@ draft: false
     -   Plus on dispose de moyens financiers, de temps et de compétences, plus les IA sont utiles et profitables.
 
 24. **Elles uniformisent le langage**
-    -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques. Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+    -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
+        <br>Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
 
 25. **Elles marginalisent les langues à faible ressouces**
-    -   Les IA apprennent à partir des langues à hautes ressouces, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées. Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+    -   Les IA apprennent à partir des langues à hautes ressouces, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
+        <br>Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
 
 ---
 
