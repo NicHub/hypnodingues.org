@@ -19,8 +19,8 @@ a = h / d / 1E6         #  km² (aire nécessaire)
 print(f"{a:0.0f} km²")  #  1640 km²
 
 al = 581.3              #  km² (aire du lac Léman)
-print(f"{a/al:0.0f}"
-       " × lac Léman")  #  3 × lac Léman
+print(f"{a/al:0.1f}"
+       " × lac Léman")  #  2.8 × lac Léman
 # %%
 ```
 
