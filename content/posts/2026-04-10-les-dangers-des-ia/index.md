@@ -38,6 +38,7 @@ draft: false
 
 5.  **Elles ne respectent pas les droits d’auteur**
     -   Les fournisseurs d’IA contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteurs, mais celle de l’utilisateur final.
+    -   France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat[^22]
 
 6.  **Elles ne respectent pas les régulations**
     -   Elles ne respectent pas ou peu le RGPD.
@@ -192,3 +193,4 @@ Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre
 [^19]: [L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans.](https://www.rts.ch/play/tv/-/video/-?urn=urn:rts:video:05195471-4c48-3f4a-bb2b-1a51139a8ca1)
 [^20]: [Monsieur Phi — Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline](https://www.youtube.com/watch?v=AYPQIntoJeE)
 [^21]: [France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage](https://www.youtube.com/watch?v=ABZAc1JvlB0)
+[^22]: [France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat](https://www.youtube.com/watch?v=-x2J70S7sOI)
