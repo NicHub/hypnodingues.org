@@ -4,6 +4,8 @@
     font-display: swap;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
 :root {
     color-scheme: light;
 }
@@ -30,7 +32,8 @@ body.theme-poetic-dark {
     --btn-gradient-hover: linear-gradient(135deg, #f5dfbf 0%, #ddb47f 100%);
     --btn-gradient: linear-gradient(135deg, #efd2aa 0%, #d8ac72 100%);
     --font-family-title: "NoWayRound", monospace;
-    --font-family-body: monospace;
+    --font-family-body: "Lato", monospace;
+    --font-weight-body: 400;
     --footer-glow-1: rgba(255, 243, 224, 0.9);
     --footer-glow-2: rgba(255, 243, 224, 0.66);
     --footer-glow-3: rgba(255, 243, 224, 0.4);
@@ -71,7 +74,8 @@ body.theme-poetic-light {
     --btn-gradient-hover: linear-gradient(135deg, #f0dcc0 0%, #d8b684 100%);
     --btn-gradient: linear-gradient(135deg, #f8e6c9 0%, #e2bf8d 100%);
     --font-family-title: "NoWayRound", monospace;
-    --font-family-body: monospace;
+    --font-family-body: "Lato", monospace;
+    --font-weight-body: 400;
     --footer-glow-1: rgba(95, 68, 42, 0.22);
     --footer-glow-2: rgba(95, 68, 42, 0.14);
     --footer-glow-3: rgba(95, 68, 42, 0.08);
@@ -116,6 +120,7 @@ body {
     background-color: var(--bg);
     color: var(--text);
     font-family: var(--font-family-body);
+    font-weight: var(--font-weight-body);
     margin: 0;
     min-height: 100vh;
 }
@@ -658,6 +663,17 @@ p.home-hero-button a:focus-visible {
     word-break: break-word;
 }
 
+.prose .footnote-ref {
+    color: var(--accent-soft);
+    margin-left: 0.5em;
+    text-decoration: none;
+}
+
+.prose .footnote-ref:hover {
+    color: var(--accent);
+    text-decoration: underline;
+}
+
 .prose > ul > li,
 .prose > ol > li {
     margin-top: 2rem;
@@ -665,11 +681,10 @@ p.home-hero-button a:focus-visible {
 
 .prose .list-anchor-link {
     color: var(--accent-soft);
-    font-size: 0.8em;
+    font-size: 1.15em;
     font-weight: 700;
     margin-left: 0.35rem;
     text-decoration: none;
-    vertical-align: baseline;
 }
 
 .prose .list-anchor-link:hover,
