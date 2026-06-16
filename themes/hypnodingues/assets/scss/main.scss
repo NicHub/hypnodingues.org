@@ -700,6 +700,12 @@ p.home-hero-button a:focus-visible {
     padding: 1rem 1.2rem;
 }
 
+.prose pre code {
+    background: transparent;
+    border-radius: 0;
+    padding: 0;
+}
+
 .prose table {
     border-collapse: collapse;
     width: 100%;
