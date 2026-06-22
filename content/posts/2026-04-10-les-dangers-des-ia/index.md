@@ -41,7 +41,7 @@ draft: false
     -   _France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat_[^22]
 
 6.  **Elles ne respectent pas les régulations**
-    -   Elles ne respectent pas ou peu le RGPD.
+    -   _Elles ne respectent pas ou peu le RGPD_[^23].
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
 
 7.  **Elles nous rendent incompétents·es et dépendants·es de leurs services**
@@ -197,3 +197,4 @@ Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre
 [^20]: [Monsieur Phi — Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline](https://www.youtube.com/watch?v=AYPQIntoJeE)
 [^21]: [France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage](https://www.youtube.com/watch?v=ABZAc1JvlB0)
 [^22]: [France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat](https://www.youtube.com/watch?v=-x2J70S7sOI)
+[^23]: [Le dessous des images - ARTE — FRIEND : le collier IA qui n'a pas que des amis](https://www.youtube.com/watch?v=Nhq5DpgGOd8)
