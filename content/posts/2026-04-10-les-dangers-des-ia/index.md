@@ -55,6 +55,8 @@ draft: false
         -   *“AI won’t replace humans — But humans with AI will replace humans without AI.”*
             *— Karim Lakhani, Harvard Business School Professor*
     -   _L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans._[^19]
+    -   Elon Musk, Sam Alt­man et quelques autres ont même proposé d’instaurer un revenu universel.
+        _Le Temps — «Saura-t-on rap­pe­ler à l’IA qu’elle nous est rede­vable?»_[^24]
 
 9.  **Elles sont énergivores**
     -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
@@ -80,6 +82,7 @@ draft: false
 14. **Elles coûtent très cher**
     -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs coûts sur les tarifs de leurs abonnements.
         Ce sont donc les informations partagées par les utilisateurs qui sont monétisées.
+    -   _Le Temps — «On sort de l’ère du repas gra­tuit»_[^27]
 
 15. **Elles orientent les choix**
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
@@ -136,10 +139,12 @@ draft: false
 24. **Elles uniformisent le langage**
     -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
         <br>Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+    -   _Le Temps — «L’IA punit les Romands pour leur lan­gage»_[^28]
 
 25. **Elles marginalisent les langues à faible ressouces**
     -   Les IA apprennent à partir des langues à hautes ressouces, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
         <br>Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+    -   Contre-exemple : _MINOR-IA, L'IA au service de la santé mentale en langues minoritaires_[^26]
 
 ---
 
@@ -168,10 +173,16 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 {{< comment >}}
 
-!!! ORDRE D’APPARITION DES LIENS EN PIED DE PAGE !!!
+    !!! ORDRE D’APPARITION DES LIENS EN PIED DE PAGE !!!
 
-L’ordre d’apparition des liens est différent dans les pieds de page du document Markdown et du document HTML.
-Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre d’apparition dans le texte.
+    L’ordre d’apparition des liens est différent dans les pieds de page du document Markdown et du document HTML.
+    Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre d’apparition dans le texte.
+
+    ## À VOIR AUSSI
+
+    -   https://actu.epfl.ch/news/l-epfl-lance-le-premier-llm-medical-entierement-ou/
+    -   https://romande-ia.ch/
+    -   https://www.ictjournal.ch/news/2025-07-08/ffd-romandie-lance-deux-formations-certifiees-en-ia-et-e-commerce
 
 {{< /comment >}}
 
@@ -198,3 +209,8 @@ Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre
 [^21]: [France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage](https://www.youtube.com/watch?v=ABZAc1JvlB0)
 [^22]: [France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat](https://www.youtube.com/watch?v=-x2J70S7sOI)
 [^23]: [Le dessous des images - ARTE — FRIEND : le collier IA qui n'a pas que des amis](https://www.youtube.com/watch?v=Nhq5DpgGOd8)
+[^24]: [Le Temps — «Saura-t-on rap­pe­ler à l’IA qu’elle nous est rede­vable?»](https://pressreader.com/article/282080578544056)
+[^25]: [Le Temps — «Est-ce le bruit des bottes ou celui de l’éveil que nous enten­dons?»](https://pressreader.com/article/281767045929234)
+[^26]: [MINOR-IA — Minorités linguistiques & Intelligence Artificielle — Vers un système avancé d'évaluation de la santé mentale dans les langues minoritaires](https://www.minoria.ca/)
+[^27]: [Le Temps — «On sort de l’ère du repas gra­tuit»](https://pressreader.com/article/281749866067603)
+[^28]: [Le Temps — «L’IA punit les Romands pour leur lan­gage»](https://pressreader.com/article/281492168019946)
