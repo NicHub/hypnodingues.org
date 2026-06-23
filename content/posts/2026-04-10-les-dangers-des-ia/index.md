@@ -141,8 +141,8 @@ draft: false
         <br>Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   _Le Temps — «L’IA punit les Romands pour leur lan­gage»_[^28]
 
-25. **Elles marginalisent les langues à faible ressouces**
-    -   Les IA apprennent à partir des langues à hautes ressouces, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
+25. **Elles marginalisent les langues à faibles ressources**
+    -   Les IA apprennent à partir des langues à hautes ressources, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
         <br>Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   Contre-exemple : _MINOR-IA, L'IA au service de la santé mentale en langues minoritaires_[^26]
 
@@ -158,13 +158,13 @@ _RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari
 
 Enfin, certains alertent sur une cannibalisation du web: en fournissant des réponses directes, l’IA détourne les internautes des sites d’information, des médias ou des plateformes spécialisées. À long terme, cela menace la diversité des contenus en ligne.
 
-### IA générative : le guide ultime du hater anti-chatGPT
+### IA générative : le guide ultime du hater anti-ChatGPT
 
 _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 ### Controverses
 
--   _Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs. les déclarations de Luc Julia_[^14]
+-   _Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs les déclarations de Luc Julia_[^14]
 -   _Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025_[^15]
 
 ### Trends
@@ -199,7 +199,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^11]: [Damien Maya — Pourquoi choisir est devenu une torture Psychologique](https://www.youtube.com/watch?v=IoyNTMrZFsg)
 [^12]: [RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari](https://www.rts.ch/info/sciences-tech/2025/article/l-ia-revolutionne-les-navigateurs-web-comet-defie-chrome-et-safari-29020257.html)
 [^13]: [Mediapart — IA générative, le guide ultime du hater anti-ChatGPT](https://blogs.mediapart.fr/lonesome-cowboy/blog/241225/ia-generative-le-guide-ultime-du-hater-anti-chatgpt)
-[^14]: [Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs. les déclarations de Luc Julia](https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/)
+[^14]: [Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs les déclarations de Luc Julia](https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/)
 [^15]: [Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025](https://www.youtube.com/watch?v=xKeFsOceT44)
 [^16]: [Wikipedia — Vibe coding](https://fr.wikipedia.org/wiki/Vibe_coding)
 [^17]: [Wikipedia — OSINT](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes)
