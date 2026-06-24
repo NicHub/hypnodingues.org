@@ -34,7 +34,7 @@ draft: false
     -   Avec des _deep fakes_ très réalistes.
 
 4.  **Elles ne respectent pas la protection des données**
-    -   Les IA sont entraînées avec des sources qui peuvent contenir des informations sensibles, privées ou secrètes.
+    -   Les IA sont entrainées avec des sources qui peuvent contenir des informations sensibles, privées ou secrètes.
 
 5.  **Elles ne respectent pas les droits d’auteur**
     -   Les fournisseurs d’IA contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteurs, mais celle de l’utilisateur final.
@@ -44,12 +44,17 @@ draft: false
     -   _Elles ne respectent pas ou peu le RGPD_[^23].
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
 
-7.  **Elles nous rendent incompétents·es et dépendants·es de leurs services**
+7.  **Elles ne sont pas juridiquement responsables de leurs failles**
+    -   Si elles se plantent, qui est responsable ? Qui paie les réparations ?
+        -   Dysfonctionnements ou accidents de véhicules autonomes.[^2]
+        -   Suppression accidentelle et dommageable de données informatiques.
+
+8.  **Elles nous rendent incompétents·es et dépendants·es de leurs services**
     -   Si seuls les experts sont sollicités alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
     -   _Micode — La Fabrique à Idiots_[^9]
 
-8.  **Elles remplacent les humains**
+9.  **Elles remplacent les humains**
     -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
     -   Les humains qui ne maitriseront pas l’usage de l’IA seront très impactés.
         -   *“AI won’t replace humans — But humans with AI will replace humans without AI.”*
@@ -58,33 +63,33 @@ draft: false
     -   Elon Musk, Sam Alt­man et quelques autres ont même proposé d’instaurer un revenu universel.
         _Le Temps — «Saura-t-on rap­pe­ler à l’IA qu’elle nous est rede­vable?»_[^24]
 
-9.  **Elles sont énergivores**
+10. **Elles sont énergivores**
     -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
     -   En conséquence, les fournisseurs d’IA sont en train de s’équiper de moyens de production d’énergie comme des centrales nucléaires, ce qui pose le problème connexe de la souveraineté énergétique des États.
     -   _Science étonnante — Combien consomme une requête à ChatGPT ?_[^1]
 
-10. **Elles ont un impact environnemental conséquent**
+11. **Elles ont un impact environnemental conséquent**
     -   Mitage
     -   Pollution
     -   Bruit
     -   Consommation d’eau
 
-11. **Elles sont vulnérables**
+12. **Elles sont vulnérables**
     -   Car elles dépendent de composants logiciels et matériels nombreux et complexes.
     -   _LeHuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech_[^2]
 
-12. **Leur accès n’est pas garanti**
+13. **Leur accès n’est pas garanti**
     -   L’accès à leurs services est révocable unilatéralement par leurs fournisseurs.
 
-13. **Elles fragilisent les démocraties**
+14. **Elles fragilisent les démocraties**
     -   Elles sont détenues par des intérêts privés et leur vitesse de développement est des ordres de grandeur plus rapide que celui des institutions démocratiques publiques.
 
-14. **Elles coûtent très cher**
+15. **Elles coûtent très cher**
     -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs coûts sur les tarifs de leurs abonnements.
         Ce sont donc les informations partagées par les utilisateurs qui sont monétisées.
     -   _Le Temps — «On sort de l’ère du repas gra­tuit»_[^27]
 
-15. **Elles orientent les choix**
+16. **Elles orientent les choix**
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
     -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
     -   Elles sont sycophantes (flatterie hypocrite pour obtenir un avantage).
@@ -92,12 +97,12 @@ draft: false
         -   _Wikipedia — Sycophante_[^5]
     -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais)  <!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
 
-16. **Elles déstabilisent le tissu social**
+17. **Elles déstabilisent le tissu social**
     -   Anthropomorphisme : Le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
     -   _Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)_[^6]
     -   _Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»_[^7]
 
-17. **Elles sont intrusives**
+18. **Elles sont intrusives**
     -   Elles sont utilisées à des fins de surveillance sans possibilité d’opposition (sans possibilité d’exprimer le non-consentement, la désapprobation).
     -   Elles favorisent un développement non éthique de l’_OSINT_[^17] et de l’_ingénierie sociale_[^18].
     -   Système de reconnaissance vocale.
@@ -108,24 +113,24 @@ draft: false
         -   assurances (maladie, immobilières...)
         -   prestataires financiers (banques, créanciers, crédit...)
 
-18. **Elles sont hackées**
+19. **Elles sont hackées**
     -   Requêtes DAN (Do Anything Now).
     -   Requêtes UTS (Universal Transferable Suffix).
         -   _Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
-            <br>`==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
+            -   `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
     -   Prompts cachés (texte de la même couleur que le fond, invisible aux humains, mais pas aux IA).
 
-19. **Elles polluent les corpus de connaissances**  <!-- polluer, dégrader, altérer, contaminer -->
+20. **Elles polluent les corpus de connaissances**  <!-- polluer, dégrader, altérer, contaminer -->
     -   Elles ajoutent leurs erreurs à celles des humains et les réinjectent dans les corpus existants.
         Autrement dit, elles mangent en boucle leur caca et le nôtre.
 
-20. **Elles ne respectent pas le droit à l’oubli**
+21. **Elles ne respectent pas le droit à l’oubli**
     -   ...
 
-21. **Elles créent un appel d’air de tâches à exécuter**
+22. **Elles créent un appel d’air de tâches à exécuter**
     -   Source : newsletter par mail de Marc Menson “Why your to-do list will never end”
 
-22. **Elles saturent les capacités cognitives**
+23. **Elles saturent les capacités cognitives**
     -   _franceinfo — L’IA sature nos capacités cognitives_[^10]
         -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
         -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
@@ -133,17 +138,17 @@ draft: false
         -   _Damien Maya — Pourquoi choisir est devenu une torture Psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
-23. **Elles sont élitistes**
+24. **Elles sont élitistes**
     -   Plus on dispose de moyens financiers, de temps et de compétences, plus les IA sont utiles et profitables.
 
-24. **Elles uniformisent le langage**
+25. **Elles uniformisent le langage**
     -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
-        <br>Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+        -   Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   _Le Temps — «L’IA punit les Romands pour leur lan­gage»_[^28]
 
-25. **Elles marginalisent les langues à faibles ressources**
+26. **Elles marginalisent les langues à faibles ressources**
     -   Les IA apprennent à partir des langues à hautes ressources, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
-        <br>Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+        -   Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   Contre-exemple : _MINOR-IA, L'IA au service de la santé mentale en langues minoritaires_[^26]
 
 ---
