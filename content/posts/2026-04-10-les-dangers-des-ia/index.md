@@ -189,6 +189,11 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
     -   https://romande-ia.ch/
     -   https://www.ictjournal.ch/news/2025-07-08/ffd-romandie-lance-deux-formations-certifiees-en-ia-et-e-commerce
 
+    -   Fransosiche — Comment retrouver n'importe qui sur Internet ? (Sensibilisation OSINT)
+        https://www.youtube.com/watch?v=VlTn5AB5SJE
+    -   Micode — Comment retrouver n'importe qui sur Internet ?
+        https://www.youtube.com/watch?v=4daO2QM12WY
+
 {{< /comment >}}
 
 [^1]: [Science étonnante — Combien consomme une requête à ChatGPT ?](https://scienceetonnante.substack.com/p/combien-consomme-une-requete-a-chatgpt)
