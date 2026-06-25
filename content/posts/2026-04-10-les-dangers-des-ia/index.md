@@ -112,6 +112,7 @@ draft: false
     -   Évaluation de profils clients par des acteurs privés.
         -   assurances (maladie, immobilières...)
         -   prestataires financiers (banques, créanciers, crédit...)
+    -   _Le Temps — «Vers une société de la sur­veillance»_[^29]
 
 19. **Elles sont hackées**
     -   Requêtes DAN (Do Anything Now).
@@ -224,3 +225,4 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^26]: [MINOR-IA — Minorités linguistiques & Intelligence Artificielle — Vers un système avancé d'évaluation de la santé mentale dans les langues minoritaires](https://www.minoria.ca/)
 [^27]: [Le Temps — «On sort de l’ère du repas gra­tuit»](https://pressreader.com/article/281749866067603)
 [^28]: [Le Temps — «L’IA punit les Romands pour leur lan­gage»](https://pressreader.com/article/281492168019946)
+[^29]: [Le Temps — «Vers une société de la sur­veillance»](https://pressreader.com/article/281500757968948)
