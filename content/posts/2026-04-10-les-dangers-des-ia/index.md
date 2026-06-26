@@ -199,32 +199,61 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 {{< /comment >}}
 
 [^1]: [Science étonnante — Combien consomme une requête à ChatGPT ?](https://scienceetonnante.substack.com/p/combien-consomme-une-requete-a-chatgpt)
+
 [^2]: [LeHuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech](https://www.youtube.com/watch?v=ScPYHbx_3gU)
+
 [^3]: [Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser](https://www.youtube.com/watch?v=osOWroq6jaM)
+
 [^4]: [Le biais cognitif que tout le monde a (sans le savoir)](https://youtu.be/g8p7MxmuOsQ?si=VREp5bO3pKgY8UtV&t=653)
+
 [^5]: [Wikipedia — Sycophante](https://fr.wikipedia.org/wiki/Sycophante)
+
 [^6]: [Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)](https://www.youtube.com/watch?v=q0afqpj0mtw)
+
 [^7]: [Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»](https://pressreader.com/article/281831470324422)
+
 [^8]: [Christophe Pauly — Le MOT interdit qui fait dérailler les IA](https://youtu.be/H-807b9W1Us?t=383)
+
 [^9]: [Micode — La Fabrique à Idiots](https://www.youtube.com/watch?v=4xq6bVbS-Pw)
+
 [^10]: [franceinfo — L’IA sature nos capacités cognitives](https://www.youtube.com/watch?v=Lhm_EUcHy9k)
+
 [^11]: [Damien Maya — Pourquoi choisir est devenu une torture Psychologique](https://www.youtube.com/watch?v=IoyNTMrZFsg)
+
 [^12]: [RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari](https://www.rts.ch/info/sciences-tech/2025/article/l-ia-revolutionne-les-navigateurs-web-comet-defie-chrome-et-safari-29020257.html)
+
 [^13]: [Mediapart — IA générative, le guide ultime du hater anti-ChatGPT](https://blogs.mediapart.fr/lonesome-cowboy/blog/241225/ia-generative-le-guide-ultime-du-hater-anti-chatgpt)
+
 [^14]: [Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs les déclarations de Luc Julia](https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/)
+
 [^15]: [Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025](https://www.youtube.com/watch?v=xKeFsOceT44)
+
 [^16]: [Wikipedia — Vibe coding](https://fr.wikipedia.org/wiki/Vibe_coding)
+
 [^17]: [Wikipedia — OSINT](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes)
+
 [^18]: [Wikipedia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l’information))
+
 [^19]: [L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans.](https://www.rts.ch/play/tv/-/video/-?urn=urn:rts:video:05195471-4c48-3f4a-bb2b-1a51139a8ca1)
+
 [^20]: [Monsieur Phi — Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline](https://www.youtube.com/watch?v=AYPQIntoJeE)
+
 [^21]: [France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage](https://www.youtube.com/watch?v=ABZAc1JvlB0)
+
 [^22]: [France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat](https://www.youtube.com/watch?v=-x2J70S7sOI)
+
 [^23]: [Le dessous des images - ARTE — FRIEND : le collier IA qui n'a pas que des amis](https://www.youtube.com/watch?v=Nhq5DpgGOd8)
+
 [^24]: [Le Temps — «Saura-t-on rap­pe­ler à l’IA qu’elle nous est rede­vable?»](https://pressreader.com/article/282080578544056)
+
 [^25]: [Le Temps — «Est-ce le bruit des bottes ou celui de l’éveil que nous enten­dons?»](https://pressreader.com/article/281767045929234)
+
 [^26]: [MINOR-IA — Minorités linguistiques & Intelligence Artificielle — Vers un système avancé d'évaluation de la santé mentale dans les langues minoritaires](https://www.minoria.ca/)
+
 [^27]: [Le Temps — «On sort de l’ère du repas gra­tuit»](https://pressreader.com/article/281749866067603)
+
 [^28]: [Le Temps — «L’IA punit les Romands pour leur lan­gage»](https://pressreader.com/article/281492168019946)
+
 [^29]: [Le Temps — «Vers une société de la sur­veillance»](https://pressreader.com/article/281500757968948)
+
 [^30]: [Québec science — «Sous sur­veillance»](https://www.pressreader.com/canada/quebec-science/20260701/page/18)
