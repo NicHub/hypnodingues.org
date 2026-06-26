@@ -663,9 +663,23 @@ p.home-hero-button a:focus-visible {
     word-break: break-word;
 }
 
+.prose sup[id^="fnref"] {
+    display: inline-block;
+    font-size: 0.75em;
+    line-height: 0;
+    position: relative;
+    top: -0.45em;
+    vertical-align: baseline;
+}
+
+.prose sup[id^="fnref"] > .footnote-ref {
+    display: inline-block;
+    line-height: 1;
+}
+
 .prose .footnote-ref {
     color: var(--accent-soft);
-    margin-left: 0.5em;
+    margin-left: 0.3em;
     text-decoration: none;
 }
 
