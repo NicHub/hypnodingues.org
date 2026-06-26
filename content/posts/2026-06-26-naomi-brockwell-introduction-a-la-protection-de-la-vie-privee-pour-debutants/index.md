@@ -27,7 +27,7 @@ Ce livre est une introduction à la vie privée à l’ère numérique. Pour com
 
 Après l’invasion de l’Ukraine par la Russie, le nombre d’utilisateurs de Tor et de Signal a explosé, parce que les citoyens ont soudainement compris qu’il était essentiel de protéger leur vie privée dans une situation hostile.
 
-En Iran, il y a eu des manifestations massives contre l’autoritarisme. En réponse, le parlement a voté à une écrasante majorité l’exécution des 15 000 manifestants qu’il avait arrêtés. Ces exécutions ont déjà commencé[^1]. Les manifestants sont de plus en plus conscients de l’importance de protéger leur vie privée lorsqu’ils expriment leur opposition au gouvernement.
+En Iran, il y a eu des manifestations massives contre l’autoritarisme. En réponse, le parlement a voté à une écrasante majorité l’exécution des 15 000 manifestants qu’il avait arrêtés[^8]. Ces exécutions ont déjà commencé[^1]. Les manifestants sont de plus en plus conscients de l’importance de protéger leur vie privée lorsqu’ils expriment leur opposition au gouvernement.
 
 Dans le monde entier, des personnes se retrouvent régulièrement propulsées sous les projecteurs du jour au lendemain lorsqu’une chose qu’elles ont dite devient soudainement virale. Elles n’avaient pas réalisé que leur adresse personnelle était partout sur Internet, et maintenant la sécurité de leur famille est menacée.
 
@@ -170,3 +170,5 @@ Il s’agit d’un guide pour débutants sur la vie privée, et il est parfait p
 [^6]: [https://www.eff.org/](https://www.eff.org/)
 
 [^7]: [https://www.nbtv.media/](https://www.nbtv.media/)
+
+[^8]: Note de Nico : le chiffre de 15 000 est repris dans des articles de fact-checking comme une estimation d’arrestations ou de détentions, pas comme une condamnation à mort. Voir par exemple [TIME](https://time.com/6234737/iran-protesters-sentences-death-penalty/) et [Al Jazeera](https://www.aljazeera.com/news/2022/11/16/have-15000-protesters-been-sentenced-to-death-in-iran-explainer).
