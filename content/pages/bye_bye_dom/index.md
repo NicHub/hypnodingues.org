@@ -429,10 +429,10 @@ Cette page d’hommages peut être parcourue avec plusieurs ambiances sonores. P
 
 Sur iPad, il faut presser sur play en bas de la page pour entendre la musique.
 
-<a href="/bye-bye-dom/variants/index-s=2.html">• Nathalie Carbonneau – Je me battrai pour moi</a>
-<a href="/bye-bye-dom/variants/index-s=1.html">• Tiffany Poon – Chopin Nocturne in b-flat minor, Op.9 No.1</a>
-<a href="/bye-bye-dom/variants/index-s=3.html">• Jeff Buckley – Hallelujah</a>
-<a href="/bye-bye-dom/variants/index-s=0.html">• Sans musique</a>
+<a href="#">• Nathalie Carbonneau – Je me battrai pour moi</a>
+<a href="#">• Tiffany Poon – Chopin Nocturne in b-flat minor, Op.9 No.1</a>
+<a href="#">• Jeff Buckley – Hallelujah</a>
+<a href="#">• Sans musique</a>
 
 ♫♪♫
 
@@ -709,7 +709,7 @@ Céline
 
 
 <p><img src="/bye-bye-dom/dominique_low_res.jpg" alt="Dom" /></p>
-<p><a href="/bye-bye-dom/variants/index-s=1.html" class="no_print">♫♪♫ Musique pour continuer à méditer ensemble ♫♪♫ </a></p>
+<p><a href="#" class="no_print">♫♪♫ Musique pour continuer à méditer ensemble ♫♪♫ </a></p>
 
 
 <h2 id="genevieve">Message de Geneviève</h2>
@@ -797,7 +797,7 @@ Je suis sûre que vous avez YouTube au paradis.
 
 Bye bye Dom
 
-<p><a href="/bye-bye-dom/variants/index-s=3.html" class="no_print">♫♪♫ Hallelujah de Jeff Buckley ♫♪♫ </a></p>
+<p><a href="#" class="no_print">♫♪♫ Hallelujah de Jeff Buckley ♫♪♫ </a></p>
 </pre>
 
 
