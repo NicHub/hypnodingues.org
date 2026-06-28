@@ -1,5 +1,5 @@
 ---
-title: "Bally Bagayoko"
+title: "Le coup de pression de Macron à Bally Bagayoko"
 date: 2026-06-07
 categories:
     - Société
@@ -28,4 +28,3 @@ Dialogue entre _Bally Bagayoko_[^1] et _Emmanuel Macron_[^2] le 22 mai 2026 au
 
 [^1]: [Bally Bagayoko](https://fr.wikipedia.org/wiki/Bally_Bagayoko)
 [^2]: [Emmanuel Macron](https://fr.wikipedia.org/wiki/Emmanuel_Macron)
-[^3]: [ZAWA TALK — Le coup de pression de Macron à Bally Bagayoko](https://www.youtube.com/watch?v=rCFZhmx9sjQ)
