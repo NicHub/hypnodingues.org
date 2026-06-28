@@ -18,22 +18,74 @@ url: /coolmap/
     <style>
         body { margin: 0; padding: 0; background-color: black; }
         html, body, #map { height: 100%; }
+        #style-picker {
+            position: absolute; top: 10px; left: 10px; z-index: 1;
+            font: 13px sans-serif;
+        }
+        #style-select {
+            background: transparent;
+            color: #fff;
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            border-radius: 4px;
+            padding: 4px 8px;
+            font: inherit;
+            cursor: pointer;
+        }
+        #style-select:hover { border-color: rgba(255, 255, 255, 0.8); }
+        #style-select option { background: #000; color: #fff; }
     </style>
 </head>
 <body>
 <div id="map"></div>
+<div id="style-picker"><select id="style-select"></select></div>
 <script>
+    const STYLES = {
+        "demotiles-fr":         { label: "Demotiles — FR",         url: "./styles/demotiles-fr.json" },
+        "demotiles-en":         { label: "Demotiles — EN",         url: "./styles/demotiles-en.json" },
+        "openfreemap-liberty":  { label: "OpenFreeMap — Liberty",  url: "./styles/liberty.json"      },
+        "openfreemap-positron": { label: "OpenFreeMap — Positron", url: "./styles/positron.json"     },
+        "openfreemap-bright":   { label: "OpenFreeMap — Bright",   url: "./styles/bright.json"       },
+        "openfreemap-dark":     { label: "OpenFreeMap — Dark",     url: "./styles/dark.json"         },
+    };
+    const DEFAULT_STYLE = "demotiles-fr";
+
+    const select = document.getElementById("style-select");
+    for (const [key, { label }] of Object.entries(STYLES)) {
+        const opt = document.createElement("option");
+        opt.value = key;
+        opt.textContent = label;
+        select.appendChild(opt);
+    }
+    select.value = DEFAULT_STYLE;
+
     const map = new maplibregl.Map({
-        container: 'map',
-        style: 'https://demotiles.maplibre.org/style.json',
+        container: "map",
+        style: STYLES[DEFAULT_STYLE].url,
         zoom: 2,
         center: [0, 0],
     });
 
-    map.on('style.load', () => {
-        map.setProjection({
-            type: 'globe',
-        });
+    select.addEventListener("change", () => {
+        map.setStyle(STYLES[select.value].url);
+    });
+
+    function applyFrenchLabels() {
+        for (const layer of map.getStyle().layers) {
+            if (layer.type !== "symbol") continue;
+            const tf = layer.layout && layer.layout["text-field"];
+            if (!tf || !/\bname\b/.test(JSON.stringify(tf))) continue;
+            map.setLayoutProperty(layer.id, "text-field", [
+                "coalesce",
+                ["get", "name:fr"],
+                ["get", "name:latin"],
+                ["get", "name"],
+            ]);
+        }
+    }
+
+    map.on("style.load", () => {
+        map.setProjection({ type: "globe" });
+        applyFrenchLabels();
     });
 </script>
 </body>
