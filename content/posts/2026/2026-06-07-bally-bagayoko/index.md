@@ -11,7 +11,7 @@ draft: false
 
 ## 22 mai 2026
 
-Dialogue entre _Bally Bagayoko_[^1] et _Emmanuel Macron_[^2] le 22 mai 2026 au Stade de France.
+Dialogue entre _Bally Bagayoko_[^1] et _Emmanuel Macron_[^2] le 22 mai 2026 au Stade de France[^3].
 
 -   EM
     -   Monsieur le maire, je vous ai répondu, mais monsieur le maire, avec moi ça va pas le faire.
@@ -28,3 +28,4 @@ Dialogue entre _Bally Bagayoko_[^1] et _Emmanuel Macron_[^2] le 22 mai 2026 au
 
 [^1]: [Bally Bagayoko](https://fr.wikipedia.org/wiki/Bally_Bagayoko)
 [^2]: [Emmanuel Macron](https://fr.wikipedia.org/wiki/Emmanuel_Macron)
+[^3]: [ZAWA TALK — Le coup de pression de Macron à Bally Bagayoko](https://www.youtube.com/watch?v=rCFZhmx9sjQ)
