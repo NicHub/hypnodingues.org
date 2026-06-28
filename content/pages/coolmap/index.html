@@ -24,15 +24,15 @@ url: /coolmap/
 <div id="map"></div>
 <script>
     const map = new maplibregl.Map({
-        container: 'map',
-        style: 'https://demotiles.maplibre.org/style.json',
+        container: "map",
+        style: "./demotiles-style.json",
         zoom: 2,
         center: [0, 0],
     });
 
-    map.on('style.load', () => {
+    map.on("style.load", () => {
         map.setProjection({
-            type: 'globe',
+            type: "globe",
         });
     });
 </script>
