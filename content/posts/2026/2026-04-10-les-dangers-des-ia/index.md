@@ -38,7 +38,7 @@ draft: false
 
 5.  **Elles ne respectent pas les droits d’auteur**
     -   Les fournisseurs d’IA contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteurs, mais celle de l’utilisateur final.
-    -   _France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat_[^22]
+    -   _France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat_[^22]
 
 6.  **Elles ne respectent pas les régulations**
     -   _Elles ne respectent pas ou peu le RGPD_[^23].
@@ -62,11 +62,13 @@ draft: false
     -   _L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans._[^19]
     -   Elon Musk, Sam Alt­man et quelques autres ont même proposé d’instaurer un revenu universel.
         _Le Temps — «Saura-t-on rap­pe­ler à l’IA qu’elle nous est rede­vable?»_[^24]
+    -   _Monsieur Phi — Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline_[^20]
 
 10. **Elles sont énergivores**
     -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
     -   En conséquence, les fournisseurs d’IA sont en train de s’équiper de moyens de production d’énergie comme des centrales nucléaires, ce qui pose le problème connexe de la souveraineté énergétique des États.
-    -   _Science étonnante — Combien consomme une requête à ChatGPT ?_[^1]
+    -   _Science étonnante — Combien consomme une requête à ChatGPT ?_[^1]
+    -   _The Shift Project —  Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?_[^31]
 
 11. **Elles ont un impact environnemental conséquent**
     -   Mitage
@@ -80,6 +82,7 @@ draft: false
 
 13. **Leur accès n’est pas garanti**
     -   L’accès à leurs services est révocable unilatéralement par leurs fournisseurs.
+        _Le Temps — «Est-ce le bruit des bottes ou celui de l’éveil que nous enten­dons?»_[^25]
 
 14. **Elles fragilisent les démocraties**
     -   Elles sont détenues par des intérêts privés et leur vitesse de développement est des ordres de grandeur plus rapide que celui des institutions démocratiques publiques.
@@ -171,7 +174,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 ### Controverses
 
--   _Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs les déclarations de Luc Julia_[^14]
+-   _Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs les déclarations de Luc Julia_[^14]
 -   _Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025_[^15]
 
 ### Trends
@@ -191,14 +194,14 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
     -   https://romande-ia.ch/
     -   https://www.ictjournal.ch/news/2025-07-08/ffd-romandie-lance-deux-formations-certifiees-en-ia-et-e-commerce
 
-    -   Fransosiche — Comment retrouver n'importe qui sur Internet ? (Sensibilisation OSINT)
+    -   Fransosiche — Comment retrouver n'importe qui sur Internet ? (Sensibilisation OSINT)
         https://www.youtube.com/watch?v=VlTn5AB5SJE
-    -   Micode — Comment retrouver n'importe qui sur Internet ?
+    -   Micode — Comment retrouver n'importe qui sur Internet ?
         https://www.youtube.com/watch?v=4daO2QM12WY
 
 {{< /comment >}}
 
-[^1]: [Science étonnante — Combien consomme une requête à ChatGPT ?](https://scienceetonnante.substack.com/p/combien-consomme-une-requete-a-chatgpt)
+[^1]: [Science étonnante — Combien consomme une requête à ChatGPT ?](https://scienceetonnante.substack.com/p/combien-consomme-une-requete-a-chatgpt)
 
 [^2]: [LeHuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech](https://www.youtube.com/watch?v=ScPYHbx_3gU)
 
@@ -224,7 +227,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^13]: [Mediapart — IA générative, le guide ultime du hater anti-ChatGPT](https://blogs.mediapart.fr/lonesome-cowboy/blog/241225/ia-generative-le-guide-ultime-du-hater-anti-chatgpt)
 
-[^14]: [Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs les déclarations de Luc Julia](https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/)
+[^14]: [Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs les déclarations de Luc Julia](https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/)
 
 [^15]: [Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025](https://www.youtube.com/watch?v=xKeFsOceT44)
 
@@ -240,7 +243,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^21]: [France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage](https://www.youtube.com/watch?v=ABZAc1JvlB0)
 
-[^22]: [France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat](https://www.youtube.com/watch?v=-x2J70S7sOI)
+[^22]: [France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat](https://www.youtube.com/watch?v=-x2J70S7sOI)
 
 [^23]: [Le dessous des images - ARTE — FRIEND : le collier IA qui n'a pas que des amis](https://www.youtube.com/watch?v=Nhq5DpgGOd8)
 
@@ -257,3 +260,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^29]: [Le Temps — «Vers une société de la sur­veillance»](https://pressreader.com/article/281500757968948)
 
 [^30]: [Québec science — «Sous sur­veillance»](https://www.pressreader.com/canada/quebec-science/20260701/page/18)
+
+[^31]: [The Shift Project —  Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?](https://theshiftproject.org/app/uploads/2025/09/Synthese-RF-PIA-1.pdf)
