@@ -14,10 +14,10 @@
       <p class="eyebrow">{{ with .Params.categories }}{{ delimit . " · " }}{{ else }}Article{{ end }}</p>
       <h1>{{ .Title | safeHTML }}</h1>
       <div class="article-meta">
-        <time datetime="{{ .Date.Format `2000-01-01T01:01:01Z02:00` }}">{{ .Date.Format "2000-01-01" }}</time>
+        <time datetime="{{ .Date.Format `2006-01-02T15:04:05Z07:00` }}">{{ .Date.Format "2006-01-02" }}</time>
         {{ with .Params.author }}<span>{{ . }}</span>{{ end }}
       </div>
-      <nav class="page-nav" aria-label="Navigation de l’article">
+      <nav class="page-nav" aria-label="Navigation de l'article">
         <ul class="page-nav-list">
           <li>
             {{- if $prev }}
