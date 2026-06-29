@@ -86,6 +86,7 @@ draft: false
 
 14. **Elles fragilisent les démocraties**
     -   Elles sont détenues par des intérêts privés et leur vitesse de développement est des ordres de grandeur plus rapide que celui des institutions démocratiques publiques.
+    -   Concentraction de pouvoirs[^32].
 
 15. **Elles coûtent très cher**
     -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs coûts sur les tarifs de leurs abonnements.
@@ -262,3 +263,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^30]: [Québec science — «Sous sur­veillance»](https://www.pressreader.com/canada/quebec-science/20260701/page/18)
 
 [^31]: [The Shift Project —  Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?](https://theshiftproject.org/app/uploads/2025/09/Synthese-RF-PIA-1.pdf)
+
+[^32]: [Canicule, IA, détroit d’Ormuz : le regard amer de Jean-Marc Jancovici - FIGURES](https://www.youtube.com/watch?v=Tx3xHIeQqlM?t=4944)
