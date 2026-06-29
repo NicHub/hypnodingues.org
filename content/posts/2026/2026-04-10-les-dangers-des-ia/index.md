@@ -34,7 +34,7 @@ draft: false
     -   Avec des _deep fakes_ très réalistes.
 
 4.  **Elles ne respectent pas la protection des données**
-    -   Les IA sont entrainées avec des sources qui peuvent contenir des informations sensibles, privées ou secrètes.
+    -   Les IA sont entrainées avec des sources qui peuvent contenir des informations sensibles, privées ou confidentielles.
 
 5.  **Elles ne respectent pas les droits d’auteur**
     -   Les fournisseurs d’IA contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteurs, mais celle de l’utilisateur final.
