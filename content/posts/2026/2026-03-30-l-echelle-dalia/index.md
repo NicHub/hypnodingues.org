@@ -1,6 +1,6 @@
 ---
 title: L’échelle Dalia
-date: '2026-03-30T09:40:00+02:00'
+date: 2026-03-30T09:40:00+02:00
 categories:
     - IA
 author: Nico
@@ -13,12 +13,12 @@ draft: false
 
 | Niveau | Nom                                   | Qui est aux commandes                                                                                                                                                       |
 | :----: | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   D0   | Manuel (sans IA)                      | 100 % humain. L’IA n’est pas utilisée du tout. Le processus créatif est entièrement réalisé manuellement.                                                                   |
+|   D0   | Manuel (sans IA)                      | 100 % humain. L’IA n’est pas utilisée du tout. Le processus créatif est entièrement réalisé manuellement.                                                                   |
 |   D1   | Assisté par des outils                | Humain. L’IA travaille discrètement en arrière-plan comme outil d’analyse pour aider l’humain dans ses décisions créatives.                                                 |
 |   D2   | Augmenté par l’IA                     | Humain. L’IA intervient dans la création de petits éléments précis, sans modifier le sens de l’œuvre.                                                                       |
 |   D3   | Création guidée                       | Collaboration humain-IA. Le processus repose sur de nombreux allers-retours. L’humain et l’IA agissent comme de véritables partenaires créatifs.                            |
 |   D4   | Généré par l’IA (dirigé par l’humain) | Humain comme directeur artistique. L’IA effectue l’essentiel du travail, tandis que l’humain donne les consignes et évalue les résultats.                                   |
-|   D5   | Entièrement autonome                  | 100 % IA. L’humain se contente d’appuyer sur « start » ou de configurer un système. Les systèmes d’IA fonctionnent ensuite de manière indépendante pour accomplir la tâche. |
+|   D5   | Entièrement autonome                  | 100 % IA. L’humain se contente d’appuyer sur « start » ou de configurer un système. Les systèmes d’IA fonctionnent ensuite de manière indépendante pour accomplir la tâche. |
 
 ## Sources
 
@@ -27,11 +27,11 @@ draft: false
 
 ## À écouter et voir aussi
 
-[letemps.ch — Podcast « IA, qu’à m’expliquer »]
+[letemps.ch — Podcast « IA, qu’à m’expliquer »]
 
 [rts.ch — Le premier thermomètre de l’IA est Suisse]
 
 [DALIA sur GitHub]: https://github.com/DALIAscale
 [Lire l’article sur PressReader]: https://pressreader.com/article/281715506157475
-[letemps.ch — Podcast « IA, qu’à m’expliquer »]: https://www.letemps.ch/podcasts/ia-qu-a-m-expliquer
+[letemps.ch — Podcast « IA, qu’à m’expliquer »]: https://www.letemps.ch/podcasts/ia-qu-a-m-expliquer
 [rts.ch — Le premier thermomètre de l’IA est Suisse]: https://www.rts.ch/play/tv/decryptage-culture/video/le-premier-thermometre-de-lia-est-suisse?urn=urn:rts:video:15a0174c-c9e1-38d4-9cf0-ac278580d67d
