@@ -50,6 +50,7 @@ draft: false
         -   Suppression accidentelle et dommageable de données informatiques.
 
 8.  **Elles rendent les humains incompétents et dépendants de leurs services**
+    -   Elles atrophient les compétences en facilitant l’obtention de résultats sans efforts.
     -   Si seuls les experts sont sollicités alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
     -   _Micode — La Fabrique à Idiots_[^9]
@@ -64,36 +65,50 @@ draft: false
         _Le Temps — «Saura-t-on rap­pe­ler à l’IA qu’elle nous est rede­vable?»_[^24]
     -   _Monsieur Phi — Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline_[^20]
 
-10. **Elles sont énergivores**
+10. **Elles sont utilisées pour évaluer le travail des humains**
+    -   Le travail fourni par les humains, qu’il soit assisté ou non par des agents, est de plus en plus souvent évalué par des IA, elles-mêmes assistées ou non par des humains.
+    -   Conséquences délétères possibles :
+        -   Déresponsabilisation des décideurs humains.
+        -   Difficulté à contester une évaluation automatisée.
+        -   Opacité des critères d’évaluation.
+        -   Renforcement des biais existants.
+        -   Uniformisation des productions pour plaire aux systèmes d’évaluation.
+        -   Réduction de la confiance entre humains.
+        -   Dégradation des compétences d’évaluation humaines.
+        -   Confusion entre conformité statistique et qualité réelle.
+        -   Mise sous surveillance permanente du travail.
+        -   Effet de boucle : des IA produisent, d’autres IA évaluent, puis ces évaluations servent à entrainer de nouvelles IA.
+
+11. **Elles sont énergivores**
     -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
     -   En conséquence, les fournisseurs d’IA sont en train de s’équiper de moyens de production d’énergie comme des centrales nucléaires, ce qui pose le problème connexe de la souveraineté énergétique des États.
     -   _Science étonnante — Combien consomme une requête à ChatGPT ?_[^1]
     -   _The Shift Project —  Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?_[^31]
 
-11. **Elles ont un impact environnemental conséquent**
+12. **Elles ont un impact environnemental conséquent**
     -   Mitage
     -   Pollution
     -   Bruit
     -   Consommation d’eau
 
-12. **Elles sont vulnérables**
+13. **Elles sont vulnérables**
     -   Car elles dépendent de composants logiciels et matériels nombreux et complexes.
     -   _LeHuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech_[^2]
 
-13. **Leur accès n’est pas garanti**
+14. **Leur accès n’est pas garanti**
     -   L’accès à leurs services est révocable unilatéralement par leurs fournisseurs.
         _Le Temps — «Est-ce le bruit des bottes ou celui de l’éveil que nous enten­dons?»_[^25]
 
-14. **Elles fragilisent les démocraties**
+15. **Elles fragilisent les démocraties**
     -   Elles sont détenues par des intérêts privés et leur vitesse de développement est des ordres de grandeur plus rapide que celui des institutions démocratiques publiques.
     -   Concentraction de pouvoirs[^32].
 
-15. **Elles coûtent très cher**
+16. **Elles coûtent très cher**
     -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs coûts sur les tarifs de leurs abonnements.
         Ce sont donc les informations partagées par les utilisateurs qui sont monétisées.
     -   _Le Temps — «On sort de l’ère du repas gra­tuit»_[^27]
 
-16. **Elles orientent les choix**
+17. **Elles orientent les choix**
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
     -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
     -   Elles sont sycophantes (flatterie hypocrite pour obtenir un avantage).
@@ -101,12 +116,12 @@ draft: false
         -   _Wikipedia — Sycophante_[^5]
     -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais)  <!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
 
-17. **Elles déstabilisent le tissu social**
+18. **Elles déstabilisent le tissu social**
     -   Anthropomorphisme : Le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
     -   _Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)_[^6]
     -   _Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»_[^7]
 
-18. **Elles sont intrusives**
+19. **Elles sont intrusives**
     -   Elles sont utilisées à des fins de surveillance sans possibilité d’opposition (sans possibilité d’exprimer le non-consentement, la désapprobation).
     -   Elles favorisent un développement non éthique de l’_OSINT_[^17] et de l’_ingénierie sociale_[^18].
     -   Système de reconnaissance vocale.
@@ -119,24 +134,24 @@ draft: false
     -   _Le Temps — «Vers une société de la sur­veillance»_[^29]
     -   _Québec science — «Sous sur­veillance»_[^30]
 
-1.  **Elles sont hackées**
+20. **Elles sont hackées**
     -   Requêtes DAN (Do Anything Now).
     -   Requêtes UTS (Universal Transferable Suffix).
         -   _Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
             -   `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
     -   Prompts cachés (texte de la même couleur que le fond, invisible aux humains, mais pas aux IA).
 
-2.  **Elles polluent les corpus de connaissances**<!-- polluer, dégrader, altérer, contaminer -->
+21. **Elles polluent les corpus de connaissances**<!-- polluer, dégrader, altérer, contaminer -->
     -   Elles ajoutent leurs erreurs à celles des humains et les réinjectent dans les corpus existants.
         Autrement dit, elles mangent en boucle leur caca et le nôtre.
 
-3.  **Elles ne respectent pas le droit à l’oubli**
+22. **Elles ne respectent pas le droit à l’oubli**
     -   ...
 
-4.  **Elles créent un appel d’air de tâches à exécuter**
+23. **Elles créent un appel d’air de tâches à exécuter**
     -   Source : newsletter par mail de Marc Menson “Why your to-do list will never end”
 
-5.  **Elles saturent les capacités cognitives**
+24. **Elles saturent les capacités cognitives**
     -   _franceinfo — L’IA sature nos capacités cognitives_[^10]
         -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
         -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
@@ -144,15 +159,15 @@ draft: false
         -   _Damien Maya — Pourquoi choisir est devenu une torture Psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
-6.  **Elles sont élitistes**
+25. **Elles sont élitistes**
     -   Plus on dispose de moyens financiers, de temps et de compétences, plus les IA sont utiles et profitables.
 
-7.  **Elles uniformisent le langage**
+26. **Elles uniformisent le langage**
     -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
         -   Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   _Le Temps — «L’IA punit les Romands pour leur lan­gage»_[^28]
 
-8.  **Elles marginalisent les langues à faibles ressources**
+27. **Elles marginalisent les langues à faibles ressources**
     -   Les IA apprennent à partir des langues à hautes ressources, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
         -   Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   Contre-exemple : _MINOR-IA, L'IA au service de la santé mentale en langues minoritaires_[^26]
