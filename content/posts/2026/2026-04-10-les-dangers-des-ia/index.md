@@ -49,6 +49,12 @@ draft: false
         -   Dysfonctionnements ou accidents de véhicules autonomes.[^2]
         -   Suppression accidentelle et dommageable de données informatiques.
 
+    {{< comment >}}
+
+        Éventuellement fusionner les points 8. (incompétents), 9. (remplacement) et 10. (évaluation) ?
+
+    {{< /comment >}}
+
 8.  **Elles rendent les humains incompétents et dépendants de leurs services**
     -   Elles atrophient les compétences en facilitant l’obtention de résultats sans efforts.
     -   Si seuls les experts sont sollicités alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
@@ -114,7 +120,7 @@ draft: false
     -   Elles sont sycophantes (flatterie hypocrite pour obtenir un avantage).
         -   _Le biais cognitif que tout le monde a (sans le savoir)_[^4]
         -   _Wikipedia — Sycophante_[^5]
-    -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais)  <!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
+    -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais).<!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
 
 18. **Elles déstabilisent le tissu social**
     -   Anthropomorphisme : Le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
@@ -159,8 +165,9 @@ draft: false
         -   _Damien Maya — Pourquoi choisir est devenu une torture Psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
-25. **Elles sont élitistes**
-    -   Plus on dispose de moyens financiers, de temps et de compétences, plus les IA sont utiles et profitables.
+25. **Elles sont élitistes**<!-- Éventuellement déplacer après “Elles fragilisent les démocraties” -->
+    -   Pour les détenteurs·rices : Elles concentrent un pouvoir d’analyse, d’automatisation et d’influence entre les mains de ceux qui les possèdent.
+    -   Pour les utilisateurs·rices : Plus on dispose de moyens financiers, de temps et de compétences, plus les IA sont utiles et profitables.
 
 26. **Elles uniformisent le langage**
     -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
@@ -197,25 +204,25 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 -   _Wikipedia — Vibe coding_[^16]
 
-{{< comment >}}
+    {{< comment >}}
 
-    !!! ORDRE D’APPARITION DES LIENS EN PIED DE PAGE !!!
+        !!! ORDRE D’APPARITION DES LIENS EN PIED DE PAGE !!!
 
-    L’ordre d’apparition des liens est différent dans les pieds de page du document Markdown et du document HTML.
-    Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre d’apparition dans le texte.
+        L’ordre d’apparition des liens est différent dans les pieds de page du document Markdown et du document HTML.
+        Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre d’apparition dans le texte.
 
-    ## À VOIR AUSSI
+        ## À VOIR AUSSI
 
-    -   https://actu.epfl.ch/news/l-epfl-lance-le-premier-llm-medical-entierement-ou/
-    -   https://romande-ia.ch/
-    -   https://www.ictjournal.ch/news/2025-07-08/ffd-romandie-lance-deux-formations-certifiees-en-ia-et-e-commerce
+        -   https://actu.epfl.ch/news/l-epfl-lance-le-premier-llm-medical-entierement-ou/
+        -   https://romande-ia.ch/
+        -   https://www.ictjournal.ch/news/2025-07-08/ffd-romandie-lance-deux-formations-certifiees-en-ia-et-e-commerce
 
-    -   Fransosiche — Comment retrouver n'importe qui sur Internet ? (Sensibilisation OSINT)
-        https://www.youtube.com/watch?v=VlTn5AB5SJE
-    -   Micode — Comment retrouver n'importe qui sur Internet ?
-        https://www.youtube.com/watch?v=4daO2QM12WY
+        -   Fransosiche — Comment retrouver n'importe qui sur Internet ? (Sensibilisation OSINT)
+            https://www.youtube.com/watch?v=VlTn5AB5SJE
+        -   Micode — Comment retrouver n'importe qui sur Internet ?
+            https://www.youtube.com/watch?v=4daO2QM12WY
 
-{{< /comment >}}
+    {{< /comment >}}
 
 [^1]: [Science étonnante — Combien consomme une requête à ChatGPT ?](https://scienceetonnante.substack.com/p/combien-consomme-une-requete-a-chatgpt)
 
