@@ -111,7 +111,7 @@ draft: false
     -   Elles favorisent un développement non éthique de l’_OSINT_[^17] et de l’_ingénierie sociale_[^18].
     -   Système de reconnaissance vocale.
     -   Détection de visages dans les lieux publics.
-    -   Surveillance étatique (impôts, police,...).
+    -   Surveillance étatique (impôts, police,...)[^33].
     -   Évaluation des employés à leur insu.
     -   Évaluation de profils clients par des acteurs privés.
         -   assurances (maladie, immobilières...)
@@ -119,24 +119,24 @@ draft: false
     -   _Le Temps — «Vers une société de la sur­veillance»_[^29]
     -   _Québec science — «Sous sur­veillance»_[^30]
 
-19. **Elles sont hackées**
+1.  **Elles sont hackées**
     -   Requêtes DAN (Do Anything Now).
     -   Requêtes UTS (Universal Transferable Suffix).
         -   _Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
             -   `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
     -   Prompts cachés (texte de la même couleur que le fond, invisible aux humains, mais pas aux IA).
 
-20. **Elles polluent les corpus de connaissances**<!-- polluer, dégrader, altérer, contaminer -->
+2.  **Elles polluent les corpus de connaissances**<!-- polluer, dégrader, altérer, contaminer -->
     -   Elles ajoutent leurs erreurs à celles des humains et les réinjectent dans les corpus existants.
         Autrement dit, elles mangent en boucle leur caca et le nôtre.
 
-21. **Elles ne respectent pas le droit à l’oubli**
+3.  **Elles ne respectent pas le droit à l’oubli**
     -   ...
 
-22. **Elles créent un appel d’air de tâches à exécuter**
+4.  **Elles créent un appel d’air de tâches à exécuter**
     -   Source : newsletter par mail de Marc Menson “Why your to-do list will never end”
 
-23. **Elles saturent les capacités cognitives**
+5.  **Elles saturent les capacités cognitives**
     -   _franceinfo — L’IA sature nos capacités cognitives_[^10]
         -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
         -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
@@ -144,15 +144,15 @@ draft: false
         -   _Damien Maya — Pourquoi choisir est devenu une torture Psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
-24. **Elles sont élitistes**
+6.  **Elles sont élitistes**
     -   Plus on dispose de moyens financiers, de temps et de compétences, plus les IA sont utiles et profitables.
 
-25. **Elles uniformisent le langage**
+7.  **Elles uniformisent le langage**
     -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
         -   Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   _Le Temps — «L’IA punit les Romands pour leur lan­gage»_[^28]
 
-26. **Elles marginalisent les langues à faibles ressources**
+8.  **Elles marginalisent les langues à faibles ressources**
     -   Les IA apprennent à partir des langues à hautes ressources, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
         -   Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   Contre-exemple : _MINOR-IA, L'IA au service de la santé mentale en langues minoritaires_[^26]
@@ -265,3 +265,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^31]: [The Shift Project —  Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?](https://theshiftproject.org/app/uploads/2025/09/Synthese-RF-PIA-1.pdf)
 
 [^32]: [Canicule, IA, détroit d’Ormuz : le regard amer de Jean-Marc Jancovici - FIGURES](https://www.youtube.com/watch?v=Tx3xHIeQqlM?t=4944)
+
+[^33]: [Le Parisien — Pourquoi ces caméras boostées à l'IA sont vandalisées aux États-Unis](https://www.youtube.com/watch?v=5pWflCS2W_0)
