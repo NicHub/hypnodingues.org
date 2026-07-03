@@ -179,6 +179,9 @@ draft: false
         -   Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   Contre-exemple : _MINOR-IA, L'IA au service de la santé mentale en langues minoritaires_[^26]
 
+28. **On ne connait pas de moyen pour déterminer si elles sont conscientes**[^34]
+    -   ...
+
 ---
 
 ---
@@ -289,3 +292,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^32]: [Canicule, IA, détroit d’Ormuz : le regard amer de Jean-Marc Jancovici - FIGURES](https://www.youtube.com/watch?v=Tx3xHIeQqlM?t=4944)
 
 [^33]: [Le Parisien — Pourquoi ces caméras boostées à l'IA sont vandalisées aux États-Unis](https://www.youtube.com/watch?v=5pWflCS2W_0)
+
+[^34]: [Robert Miles AI Safety — The AI Consciousness Question is So Annoying](https://www.youtube.com/watch?v=yoNtzVWAxgE)
