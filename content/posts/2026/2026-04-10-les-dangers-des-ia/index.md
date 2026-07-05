@@ -67,7 +67,7 @@ draft: false
     -   Elles atrophient les compétences en facilitant l’obtention de résultats sans efforts et en favorisant l’externalisation de la pensée.[^39]
     -   Si seuls les experts sont sollicités alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
-    -   _Micode — La Fabrique à Idiots_[^9]
+    -   _Micode — La fabrique à idiots_[^9]
 
 10. **Elles remplacent les humains**
     -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
@@ -75,9 +75,9 @@ draft: false
     -   Les humains qui ne maitriseront pas l’usage de l’IA seront très impactés.
         > *“AI won’t replace humans — But humans with AI will replace humans without AI.”*
         > *— Karim Lakhani, Harvard Business School Professor*
-    -   _L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans._[^19]
+    -   _RTS — L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans_[^19]
     -   Elon Musk, Sam Alt­man et quelques autres ont même proposé d’instaurer un revenu universel.
-        _Le Temps — «Saura-t-on rap­pe­ler à l’IA qu’elle nous est rede­vable?»_[^24]
+        _Le Temps — Saura-t-on rap­pe­ler à l’IA qu’elle nous est rede­vable ?_[^24]
     -   _Monsieur Phi — Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline_[^20]
 
 11. **Elles sont utilisées pour évaluer le travail des humains**
@@ -171,7 +171,7 @@ draft: false
     -   Source : newsletter par mail de Marc Menson “Why your to-do list will never end”
 
 25. **Elles saturent les capacités cognitives**
-    -   _franceinfo — L’IA sature nos capacités cognitives_[^10]
+    -   _France Info — L’IA sature nos capacités cognitives_[^10]
         -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
         -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
     -   Elles induisent une fatigue décisionnelle
@@ -284,7 +284,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^18]: [Wikipédia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l’information))
 
-[^19]: [L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans](https://www.rts.ch/play/tv/-/video/-?urn=urn:rts:video:05195471-4c48-3f4a-bb2b-1a51139a8ca1)
+[^19]: [RTS — L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans](https://www.rts.ch/play/tv/-/video/-?urn=urn:rts:video:05195471-4c48-3f4a-bb2b-1a51139a8ca1)
 
 [^20]: [Monsieur Phi — Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline](https://www.youtube.com/watch?v=AYPQIntoJeE)
 
