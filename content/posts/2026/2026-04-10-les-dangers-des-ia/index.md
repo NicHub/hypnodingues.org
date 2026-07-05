@@ -34,34 +34,40 @@ draft: false
     -   Avec des _deep fakes_ très réalistes.
 
 4.  **Elles ne respectent pas la protection des données**
-    -   Les IA sont entrainées avec des sources qui peuvent contenir des informations sensibles, privées ou confidentielles.
+    -   Elles sont entrainées avec des sources qui peuvent contenir des informations sensibles, privées ou confidentielles.
 
-5.  **Elles ne respectent pas les droits d’auteur**
-    -   Les fournisseurs d’IA contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteurs, mais celle de l’utilisateur final.
+5.  **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**
+    -   Leurs fournisseurs contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteurs, mais celle de l’utilisateur final.
     -   _France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat_[^22]
+    -   Sujet connexe : _L’échelle Dalia_[^37]
 
-6.  **Elles ne respectent pas les régulations**
+6.  **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
+    -   Elles peuvent se présenter comme “co-auteurs” plutôt que comme simples assistants, ce qui entretient une ambiguïté sur la titularité des droits, la part de contribution humaine et la responsabilité juridique des productions.[^35][^36]
+    -   Ce glissement de vocabulaire peut servir à habituer les utilisateurs, les entreprises et les tribunaux à considérer l’IA comme une entité créative plutôt que comme un outil.
+    -   Sujet connexe : _L’échelle Dalia_[^37]
+
+7.  **Elles ne respectent pas les régulations**
     -   _Elles ne respectent pas ou peu le RGPD_[^23].
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
 
-7.  **Elles ne sont pas juridiquement responsables de leurs failles**
+8.  **Elles ne sont pas juridiquement responsables de leurs failles**
     -   Si elles se plantent, qui est responsable ? Qui paie les réparations ?
         -   Dysfonctionnements ou accidents de véhicules autonomes.[^2]
         -   Suppression accidentelle et dommageable de données informatiques.
 
     {{< comment >}}
 
-        Éventuellement fusionner les points 8. (incompétents), 9. (remplacement) et 10. (évaluation) ?
+        Éventuellement fusionner les points 9. (incompétents), 10. (remplacement) et 11. (évaluation) ?
 
     {{< /comment >}}
 
-8.  **Elles rendent les humains incompétents et dépendants de leurs services**
+9.  **Elles rendent les humains incompétents et dépendants de leurs services**
     -   Elles atrophient les compétences en facilitant l’obtention de résultats sans efforts.
     -   Si seuls les experts sont sollicités alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
     -   _Micode — La Fabrique à Idiots_[^9]
 
-9.  **Elles remplacent les humains**
+10. **Elles remplacent les humains**
     -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
     -   Les humains qui ne maitriseront pas l’usage de l’IA seront très impactés.
         -   *“AI won’t replace humans — But humans with AI will replace humans without AI.”*
@@ -71,7 +77,7 @@ draft: false
         _Le Temps — «Saura-t-on rap­pe­ler à l’IA qu’elle nous est rede­vable?»_[^24]
     -   _Monsieur Phi — Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline_[^20]
 
-10. **Elles sont utilisées pour évaluer le travail des humains**
+11. **Elles sont utilisées pour évaluer le travail des humains**
     -   Le travail fourni par les humains, qu’il soit assisté ou non par des agents, est de plus en plus souvent évalué par des IA, elles-mêmes assistées ou non par des humains.
     -   Conséquences délétères possibles :
         -   Déresponsabilisation des décideurs humains.
@@ -85,36 +91,36 @@ draft: false
         -   Mise sous surveillance permanente du travail.
         -   Effet de boucle : des IA produisent, d’autres IA évaluent, puis ces évaluations servent à entrainer de nouvelles IA.
 
-11. **Elles sont énergivores**
+12. **Elles sont énergivores**
     -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
     -   En conséquence, les fournisseurs d’IA sont en train de s’équiper de moyens de production d’énergie comme des centrales nucléaires, ce qui pose le problème connexe de la souveraineté énergétique des États.
     -   _Science étonnante — Combien consomme une requête à ChatGPT ?_[^1]
     -   _The Shift Project —  Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?_[^31]
 
-12. **Elles ont un impact environnemental conséquent**
+13. **Elles ont un impact environnemental conséquent**
     -   Mitage
     -   Pollution
     -   Bruit
     -   Consommation d’eau
 
-13. **Elles sont vulnérables**
+14. **Elles sont vulnérables**
     -   Car elles dépendent de composants logiciels et matériels nombreux et complexes.
     -   _LeHuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech_[^2]
 
-14. **Leur accès n’est pas garanti**
+15. **Leur accès n’est pas garanti**
     -   L’accès à leurs services est révocable unilatéralement par leurs fournisseurs.
         _Le Temps — «Est-ce le bruit des bottes ou celui de l’éveil que nous enten­dons?»_[^25]
 
-15. **Elles fragilisent les démocraties**
+16. **Elles fragilisent les démocraties**
     -   Elles sont détenues par des intérêts privés et leur vitesse de développement est des ordres de grandeur plus rapide que celui des institutions démocratiques publiques.
     -   Concentraction de pouvoirs[^32].
 
-16. **Elles coûtent très cher**
+17. **Elles coûtent très cher**
     -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs coûts sur les tarifs de leurs abonnements.
         Ce sont donc les informations partagées par les utilisateurs qui sont monétisées.
     -   _Le Temps — «On sort de l’ère du repas gra­tuit»_[^27]
 
-17. **Elles orientent les choix**
+18. **Elles orientent les choix**
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
     -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
     -   Elles sont sycophantes (flatterie hypocrite pour obtenir un avantage).
@@ -122,12 +128,12 @@ draft: false
         -   _Wikipedia — Sycophante_[^5]
     -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais).<!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
 
-18. **Elles déstabilisent le tissu social**
+19. **Elles déstabilisent le tissu social**
     -   Anthropomorphisme : Le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
     -   _Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)_[^6]
     -   _Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»_[^7]
 
-19. **Elles sont intrusives**
+20. **Elles sont intrusives**
     -   Elles sont utilisées à des fins de surveillance sans possibilité d’opposition (sans possibilité d’exprimer le non-consentement, la désapprobation).
     -   Elles favorisent un développement non éthique de l’_OSINT_[^17] et de l’_ingénierie sociale_[^18].
     -   Système de reconnaissance vocale.
@@ -140,24 +146,24 @@ draft: false
     -   _Le Temps — «Vers une société de la sur­veillance»_[^29]
     -   _Québec science — «Sous sur­veillance»_[^30]
 
-20. **Elles sont hackées**
+21. **Elles sont hackées**
     -   Requêtes DAN (Do Anything Now).
     -   Requêtes UTS (Universal Transferable Suffix).
         -   _Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
             -   `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
     -   Prompts cachés (texte de la même couleur que le fond, invisible aux humains, mais pas aux IA).
 
-21. **Elles polluent les corpus de connaissances**<!-- polluer, dégrader, altérer, contaminer -->
+22. **Elles polluent les corpus de connaissances**<!-- polluer, dégrader, altérer, contaminer -->
     -   Elles ajoutent leurs erreurs à celles des humains et les réinjectent dans les corpus existants.
         Autrement dit, elles mangent en boucle leur caca et le nôtre.
 
-22. **Elles ne respectent pas le droit à l’oubli**
+23. **Elles ne respectent pas le droit à l’oubli**
     -   ...
 
-23. **Elles créent un appel d’air de tâches à exécuter**
+24. **Elles créent un appel d’air de tâches à exécuter**
     -   Source : newsletter par mail de Marc Menson “Why your to-do list will never end”
 
-24. **Elles saturent les capacités cognitives**
+25. **Elles saturent les capacités cognitives**
     -   _franceinfo — L’IA sature nos capacités cognitives_[^10]
         -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
         -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
@@ -165,21 +171,21 @@ draft: false
         -   _Damien Maya — Pourquoi choisir est devenu une torture Psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
-25. **Elles sont élitistes**<!-- Éventuellement déplacer après “Elles fragilisent les démocraties” -->
+26. **Elles sont élitistes**<!-- Éventuellement déplacer après “Elles fragilisent les démocraties” -->
     -   Pour les détenteurs·rices : Elles concentrent un pouvoir d’analyse, d’automatisation et d’influence entre les mains de ceux qui les possèdent.
     -   Pour les utilisateurs·rices : Plus on dispose de moyens financiers, de temps et de compétences, plus les IA sont utiles et profitables.
 
-26. **Elles uniformisent le langage**
+27. **Elles uniformisent le langage**
     -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
         -   Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   _Le Temps — «L’IA punit les Romands pour leur lan­gage»_[^28]
 
-27. **Elles marginalisent les langues à faibles ressources**
+28. **Elles marginalisent les langues à faibles ressources**
     -   Les IA apprennent à partir des langues à hautes ressources, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
         -   Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   Contre-exemple : _MINOR-IA, L'IA au service de la santé mentale en langues minoritaires_[^26]
 
-28. **On ne connait pas de moyen pour déterminer si elles sont conscientes**[^34]
+29. **On ne connait pas de moyen pour déterminer si elles sont conscientes**[^34]
     -   ...
 
 ---
@@ -206,6 +212,11 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 ### Trends
 
 -   _Wikipedia — Vibe coding_[^16]
+
+### Hashtags
+
+-   #aiethics
+-   #law
 
     {{< comment >}}
 
@@ -294,3 +305,9 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^33]: [Le Parisien — Pourquoi ces caméras boostées à l'IA sont vandalisées aux États-Unis](https://www.youtube.com/watch?v=5pWflCS2W_0)
 
 [^34]: [Robert Miles AI Safety — The AI Consciousness Question is So Annoying](https://www.youtube.com/watch?v=yoNtzVWAxgE)
+
+[^35]: [DIY Smart Code — Who actually owns AI-generated code?](https://www.youtube.com/watch?v=mfr0ndlkS8I)
+
+[^36]: [Javier Aguilar — Is Claude a Co-Author? The Legal Debate No One Saw Coming](https://www.javieraguilar.ai/en/blog/claude-coauthor-legal-debate)
+
+[^37]: [L’échelle Dalia](https://hypnodingues.org/posts/2026-03-30-l-echelle-dalia/)
