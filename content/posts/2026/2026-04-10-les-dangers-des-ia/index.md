@@ -36,9 +36,8 @@ draft: false
 4.  **Elles ne respectent pas la protection des données**
     -   Elles sont entrainées avec des sources qui peuvent contenir des informations sensibles, privées ou confidentielles.
 
-5.  **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**
+5.  **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**[^22]
     -   Leurs fournisseurs contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteurs, mais celle de l’utilisateur final.
-    -   _France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat_[^22]
     -   Sujet connexe : _L’échelle Dalia_[^37]
 
 6.  **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
@@ -71,8 +70,8 @@ draft: false
     -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
     -   L’objectif affiché de certaines entreprises est même de remplacer une part majoritaire de l’activité économique humaine.[^39]
     -   Les humains qui ne maitriseront pas l’usage de l’IA seront très impactés.
-        -   *“AI won’t replace humans — But humans with AI will replace humans without AI.”*
-            *— Karim Lakhani, Harvard Business School Professor*
+        > *“AI won’t replace humans — But humans with AI will replace humans without AI.”*
+        > *— Karim Lakhani, Harvard Business School Professor*
     -   _L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans._[^19]
     -   Elon Musk, Sam Alt­man et quelques autres ont même proposé d’instaurer un revenu universel.
         _Le Temps — «Saura-t-on rap­pe­ler à l’IA qu’elle nous est rede­vable?»_[^24]
@@ -139,7 +138,7 @@ draft: false
     -   _Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)_[^6]
     -   _Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»_[^7]
 
-20. **Elles sont intrusives**
+20. **Elles sont intrusives**[^29][^30][^33]
     -   Elles sont utilisées à des fins de surveillance sans possibilité d’opposition (sans possibilité d’exprimer le non-consentement, la désapprobation).
     -   Elles favorisent un développement non éthique de l’_OSINT_[^17] et de l’_ingénierie sociale_[^18].
     -   Système de reconnaissance vocale.
@@ -149,15 +148,13 @@ draft: false
     -   Évaluation de profils clients par des acteurs privés.
         -   assurances (maladie, immobilières...)
         -   prestataires financiers (banques, créanciers, crédit...)
-    -   _Le Temps — «Vers une société de la sur­veillance»_[^29]
-    -   _Québec science — «Sous sur­veillance»_[^30]
 
 21. **Elles sont hackées**
     -   Requêtes DAN (Do Anything Now).
     -   Requêtes UTS (Universal Transferable Suffix).
         -   _Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
             -   `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
-    -   Prompts cachés (texte de la même couleur que le fond, invisible aux humains, mais pas aux IA).
+    -   Prompts cachés : texte de la même couleur que le fond, invisible aux humains, mais pas aux IA.
 
 22. **Elles polluent les corpus de connaissances**<!-- polluer, dégrader, altérer, contaminer -->
     -   Elles ajoutent leurs erreurs à celles des humains et les réinjectent dans les corpus existants.
@@ -184,16 +181,16 @@ draft: false
 
 27. **Elles uniformisent le langage**
     -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
-        -   Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
-    -   _Le Temps — «L’IA punit les Romands pour leur lan­gage»_[^28]
+        -   _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+    -   _Le Temps — L’IA punit les Romands pour leur lan­gage_[^28]
 
 28. **Elles marginalisent les langues à faibles ressources**
     -   Les IA apprennent à partir des langues à hautes ressources, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
-        -   Source : _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+        -   _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   Contre-exemple : _MINOR-IA, L'IA au service de la santé mentale en langues minoritaires_[^26]
 
-29. **On ne connait pas de moyen pour déterminer si elles sont conscientes**[^34]
-    -   ...
+29. **On ne connait pas de moyen pour déterminer si elles sont conscientes**
+    -   _Robert Miles AI Safety — The AI Consciousness Question is So Annoying_[^34]
 
 30. **Elles présentent des enjeux éthiques nombreux**
     -   _Wikipedia — Éthique de l'intelligence artificielle_[^38]
@@ -250,31 +247,31 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^1]: [Science étonnante — Combien consomme une requête à ChatGPT ?](https://scienceetonnante.substack.com/p/combien-consomme-une-requete-a-chatgpt)
 
-[^2]: [LeHuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech](https://www.youtube.com/watch?v=ScPYHbx_3gU)
+[^2]: [Le HuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech](https://www.youtube.com/watch?v=ScPYHbx_3gU)
 
-[^3]: [Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser](https://www.youtube.com/watch?v=osOWroq6jaM)
+[^3]: [Scilabus — Attention : Votre assistant d’écriture change votre façon de penser](https://www.youtube.com/watch?v=osOWroq6jaM)
 
-[^4]: [Le biais cognitif que tout le monde a (sans le savoir)](https://youtu.be/g8p7MxmuOsQ?si=VREp5bO3pKgY8UtV&t=653)
+[^4]: [Chez Anatole — Le biais cognitif que tout le monde a sans le savoir](https://www.youtube.com/watch?v=g8p7MxmuOsQ&t=653s)
 
 [^5]: [Wikipédia — Sycophante](https://fr.wikipedia.org/wiki/Sycophante)
 
-[^6]: [Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)](https://www.youtube.com/watch?v=q0afqpj0mtw)
+[^6]: [Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain](https://www.youtube.com/watch?v=q0afqpj0mtw)
 
-[^7]: [Le Temps — «L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous»](https://pressreader.com/article/281831470324422)
+[^7]: [Le Temps — L’intel­li­gence arti­fi­cielle crée l’illu­sion de s’occu­per de nous](https://pressreader.com/article/281831470324422)
 
-[^8]: [Christophe Pauly — Le MOT interdit qui fait dérailler les IA](https://youtu.be/H-807b9W1Us?t=383)
+[^8]: [Christophe Pauly — Le mot interdit qui fait dérailler les IA](https://youtu.be/H-807b9W1Us?t=383)
 
-[^9]: [Micode — La Fabrique à Idiots](https://www.youtube.com/watch?v=4xq6bVbS-Pw)
+[^9]: [Micode — La fabrique à idiots](https://www.youtube.com/watch?v=4xq6bVbS-Pw)
 
-[^10]: [franceinfo — L’IA sature nos capacités cognitives](https://www.youtube.com/watch?v=Lhm_EUcHy9k)
+[^10]: [France Info — L’IA sature nos capacités cognitives](https://www.youtube.com/watch?v=Lhm_EUcHy9k)
 
-[^11]: [Damien Maya — Pourquoi choisir est devenu une torture Psychologique](https://www.youtube.com/watch?v=IoyNTMrZFsg)
+[^11]: [Damien Maya — Pourquoi choisir est devenu une torture psychologique](https://www.youtube.com/watch?v=IoyNTMrZFsg)
 
 [^12]: [RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari](https://www.rts.ch/info/sciences-tech/2025/article/l-ia-revolutionne-les-navigateurs-web-comet-defie-chrome-et-safari-29020257.html)
 
 [^13]: [Mediapart — IA générative, le guide ultime du hater anti-ChatGPT](https://blogs.mediapart.fr/lonesome-cowboy/blog/241225/ia-generative-le-guide-ultime-du-hater-anti-chatgpt)
 
-[^14]: [Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs les déclarations de Luc Julia](https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/)
+[^14]: [Monsieur Phi — Luc Julia a-t-il menti ?](https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/)
 
 [^15]: [Luc Julia face à Monsieur Phi — Tech&Co la quotidienne du 01/09/2025](https://www.youtube.com/watch?v=xKeFsOceT44)
 
@@ -284,33 +281,33 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^18]: [Wikipédia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l’information))
 
-[^19]: [L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans.](https://www.rts.ch/play/tv/-/video/-?urn=urn:rts:video:05195471-4c48-3f4a-bb2b-1a51139a8ca1)
+[^19]: [L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans](https://www.rts.ch/play/tv/-/video/-?urn=urn:rts:video:05195471-4c48-3f4a-bb2b-1a51139a8ca1)
 
 [^20]: [Monsieur Phi — Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline](https://www.youtube.com/watch?v=AYPQIntoJeE)
 
 [^21]: [France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage](https://www.youtube.com/watch?v=ABZAc1JvlB0)
 
-[^22]: [France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ? Le débat](https://www.youtube.com/watch?v=-x2J70S7sOI)
+[^22]: [France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ?](https://www.youtube.com/watch?v=-x2J70S7sOI)
 
-[^23]: [Le dessous des images - ARTE — FRIEND : le collier IA qui n'a pas que des amis](https://www.youtube.com/watch?v=Nhq5DpgGOd8)
+[^23]: [ARTE — Le dessous des images — Le collier IA qui n’a pas que des amis](https://www.youtube.com/watch?v=Nhq5DpgGOd8)
 
-[^24]: [Le Temps — «Saura-t-on rap­pe­ler à l’IA qu’elle nous est rede­vable?»](https://pressreader.com/article/282080578544056)
+[^24]: [Le Temps — Saura-t-on rap­pe­ler à l’IA qu’elle nous est rede­vable ?](https://pressreader.com/article/282080578544056)
 
-[^25]: [Le Temps — «Est-ce le bruit des bottes ou celui de l’éveil que nous enten­dons?»](https://pressreader.com/article/281767045929234)
+[^25]: [Le Temps — Est-ce le bruit des bottes ou celui de l’éveil que nous enten­dons ?](https://pressreader.com/article/281767045929234)
 
 [^26]: [MINOR-IA — Minorités linguistiques & Intelligence Artificielle — Vers un système avancé d'évaluation de la santé mentale dans les langues minoritaires](https://www.minoria.ca/)
 
-[^27]: [Le Temps — «On sort de l’ère du repas gra­tuit»](https://pressreader.com/article/281749866067603)
+[^27]: [Le Temps — On sort de l’ère du repas gra­tuit](https://pressreader.com/article/281749866067603)
 
-[^28]: [Le Temps — «L’IA punit les Romands pour leur lan­gage»](https://pressreader.com/article/281492168019946)
+[^28]: [Le Temps — L’IA punit les Romands pour leur lan­gage](https://pressreader.com/article/281492168019946)
 
-[^29]: [Le Temps — «Vers une société de la sur­veillance»](https://pressreader.com/article/281500757968948)
+[^29]: [Le Temps — Vers une société de la sur­veillance](https://pressreader.com/article/281500757968948)
 
-[^30]: [Québec science — «Sous sur­veillance»](https://www.pressreader.com/canada/quebec-science/20260701/page/18)
+[^30]: [Québec Science — Sous sur­veillance](https://www.pressreader.com/canada/quebec-science/20260701/page/18)
 
 [^31]: [The Shift Project —  Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?](https://theshiftproject.org/app/uploads/2025/09/Synthese-RF-PIA-1.pdf)
 
-[^32]: [Canicule, IA, détroit d’Ormuz : le regard amer de Jean-Marc Jancovici - FIGURES](https://www.youtube.com/watch?v=Tx3xHIeQqlM?t=4944)
+[^32]: [Clément Viktorovitch — Canicule, IA, détroit d’Ormuz : le regard amer de Jean-Marc Jancovici](https://www.youtube.com/watch?v=Tx3xHIeQqlM?t=4944)
 
 [^33]: [Le Parisien — Pourquoi ces caméras boostées à l'IA sont vandalisées aux États-Unis](https://www.youtube.com/watch?v=5pWflCS2W_0)
 
