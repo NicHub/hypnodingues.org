@@ -19,6 +19,9 @@ draft: false
         text-transform: uppercase;
         font-weight: 600;
     }
+    .prose > ol > li blockquote {
+        font-size: 0.8em;
+    }
 </style>
 
 ![Calvin and Hobbes: Leave Math to the Machines](./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp)
@@ -97,7 +100,7 @@ draft: false
     -   En conséquence, les fournisseurs d’IA sont en train de s’équiper de moyens de production d’énergie comme des centrales nucléaires, ce qui pose le problème connexe de la souveraineté énergétique des États.
     -   Le déploiement massif de centres de données pour l’IA crée aussi un nouvel appel d’air pour les énergies fossiles.[^39]
     -   _Science étonnante — Combien consomme une requête à ChatGPT ?_[^1]
-    -   _The Shift Project —  Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?_[^31]
+    -   _The Shift Project —  Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?_[^31]
 
 13. **Elles ont un impact environnemental conséquent**
     -   Mitage
@@ -127,7 +130,7 @@ draft: false
 
 18. **Elles orientent les choix**
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
-    -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
+    -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
     -   Elles sont sycophantes (flatterie hypocrite pour obtenir un avantage).
         -   _Le biais cognitif que tout le monde a (sans le savoir)_[^4]
         -   _Wikipedia — Sycophante_[^5]
@@ -181,12 +184,12 @@ draft: false
 
 27. **Elles uniformisent le langage**
     -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
-        -   _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+        -   _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   _Le Temps — L’IA punit les Romands pour leur lan­gage_[^28]
 
 28. **Elles marginalisent les langues à faibles ressources**
     -   Les IA apprennent à partir des langues à hautes ressources, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
-        -   _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+        -   _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   Contre-exemple : _MINOR-IA, L'IA au service de la santé mentale en langues minoritaires_[^26]
 
 29. **On ne connait pas de moyen pour déterminer si elles sont conscientes**
@@ -207,7 +210,7 @@ _RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari
 
 Enfin, certains alertent sur une cannibalisation du web: en fournissant des réponses directes, l’IA détourne les internautes des sites d’information, des médias ou des plateformes spécialisées. À long terme, cela menace la diversité des contenus en ligne.
 
-### IA générative : le guide ultime du hater anti-ChatGPT
+### IA générative : le guide ultime du hater anti-ChatGPT
 
 _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
@@ -249,7 +252,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^2]: [Le HuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech](https://www.youtube.com/watch?v=ScPYHbx_3gU)
 
-[^3]: [Scilabus — Attention : Votre assistant d’écriture change votre façon de penser](https://www.youtube.com/watch?v=osOWroq6jaM)
+[^3]: [Scilabus — Attention : Votre assistant d’écriture change votre façon de penser](https://www.youtube.com/watch?v=osOWroq6jaM)
 
 [^4]: [Chez Anatole — Le biais cognitif que tout le monde a sans le savoir](https://www.youtube.com/watch?v=g8p7MxmuOsQ&t=653s)
 
@@ -285,9 +288,9 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^20]: [Monsieur Phi — Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline](https://www.youtube.com/watch?v=AYPQIntoJeE)
 
-[^21]: [France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage](https://www.youtube.com/watch?v=ABZAc1JvlB0)
+[^21]: [France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage](https://www.youtube.com/watch?v=ABZAc1JvlB0)
 
-[^22]: [France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ?](https://www.youtube.com/watch?v=-x2J70S7sOI)
+[^22]: [France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ?](https://www.youtube.com/watch?v=-x2J70S7sOI)
 
 [^23]: [ARTE — Le dessous des images — Le collier IA qui n’a pas que des amis](https://www.youtube.com/watch?v=Nhq5DpgGOd8)
 
@@ -305,9 +308,9 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^30]: [Québec Science — Sous sur­veillance](https://www.pressreader.com/canada/quebec-science/20260701/page/18)
 
-[^31]: [The Shift Project —  Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?](https://theshiftproject.org/app/uploads/2025/09/Synthese-RF-PIA-1.pdf)
+[^31]: [The Shift Project —  Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?](https://theshiftproject.org/app/uploads/2025/09/Synthese-RF-PIA-1.pdf)
 
-[^32]: [Clément Viktorovitch — Canicule, IA, détroit d’Ormuz : le regard amer de Jean-Marc Jancovici](https://www.youtube.com/watch?v=Tx3xHIeQqlM?t=4944)
+[^32]: [Clément Viktorovitch — Canicule, IA, détroit d’Ormuz : le regard amer de Jean-Marc Jancovici](https://www.youtube.com/watch?v=Tx3xHIeQqlM?t=4944)
 
 [^33]: [Le Parisien — Pourquoi ces caméras boostées à l'IA sont vandalisées aux États-Unis](https://www.youtube.com/watch?v=5pWflCS2W_0)
 
