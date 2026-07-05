@@ -86,20 +86,26 @@ function slugify(text) {
         .replace(/^-+|-+$/g, "");
 }
 
+function getTextWithoutFootnoteRefs(element) {
+    const clone = element.cloneNode(true);
+    clone.querySelectorAll(".footnote-ref, sup[id^='fnref'], a[href^='#fn:']").forEach((ref) => ref.remove());
+    return clone.textContent.replace(/\s+/g, " ").trim();
+}
+
 function getParentListItemLabel(li) {
     const firstParagraph = li.firstElementChild && li.firstElementChild.tagName === "P" ? li.firstElementChild : null;
     if (firstParagraph) {
-        const paragraphText = firstParagraph.textContent.replace(/\s+/g, " ").trim();
+        const paragraphText = getTextWithoutFootnoteRefs(firstParagraph);
         if (paragraphText) return paragraphText;
     }
 
     const firstStrong = li.querySelector("strong");
     if (firstStrong) {
-        const strongText = firstStrong.textContent.replace(/\s+/g, " ").trim();
+        const strongText = getTextWithoutFootnoteRefs(firstStrong);
         if (strongText) return strongText;
     }
 
-    return li.textContent.replace(/\s+/g, " ").trim();
+    return getTextWithoutFootnoteRefs(li);
 }
 
 function addParentListAnchors() {
