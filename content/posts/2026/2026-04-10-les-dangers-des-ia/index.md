@@ -62,13 +62,14 @@ draft: false
     {{< /comment >}}
 
 9.  **Elles rendent les humains incompétents et dépendants de leurs services**
-    -   Elles atrophient les compétences en facilitant l’obtention de résultats sans efforts.
+    -   Elles atrophient les compétences en facilitant l’obtention de résultats sans efforts et en favorisant l’externalisation de la pensée.[^39]
     -   Si seuls les experts sont sollicités alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
     -   _Micode — La Fabrique à Idiots_[^9]
 
 10. **Elles remplacent les humains**
     -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
+    -   L’objectif affiché de certaines entreprises est même de remplacer une part majoritaire de l’activité économique humaine.[^39]
     -   Les humains qui ne maitriseront pas l’usage de l’IA seront très impactés.
         -   *“AI won’t replace humans — But humans with AI will replace humans without AI.”*
             *— Karim Lakhani, Harvard Business School Professor*
@@ -95,6 +96,7 @@ draft: false
 12. **Elles sont énergivores**
     -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
     -   En conséquence, les fournisseurs d’IA sont en train de s’équiper de moyens de production d’énergie comme des centrales nucléaires, ce qui pose le problème connexe de la souveraineté énergétique des États.
+    -   Le déploiement massif de centres de données pour l’IA crée aussi un nouvel appel d’air pour les énergies fossiles.[^39]
     -   _Science étonnante — Combien consomme une requête à ChatGPT ?_[^1]
     -   _The Shift Project —  Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?_[^31]
 
@@ -103,6 +105,7 @@ draft: false
     -   Pollution
     -   Bruit
     -   Consommation d’eau
+    -   Greenwashing[^39]
 
 14. **Elles sont vulnérables**
     -   Car elles dépendent de composants logiciels et matériels nombreux et complexes.
@@ -115,10 +118,12 @@ draft: false
 16. **Elles fragilisent les démocraties**
     -   Elles sont détenues par des intérêts privés et leur vitesse de développement est des ordres de grandeur plus rapide que celui des institutions démocratiques publiques.
     -   Concentraction de pouvoirs[^32].
+    -   Elles favorisent des alliances entre grandes entreprises technologiques, intérêts fossiles et pouvoirs publics, en contournant ou affaiblissant les régulations démocratiques.[^39]
 
 17. **Elles coûtent très cher**
     -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs coûts sur les tarifs de leurs abonnements.
         Ce sont donc les informations partagées par les utilisateurs qui sont monétisées.
+    -   Les fournisseurs peuvent aussi chercher à faire acheter leurs technologies par les États, y compris lorsque les bénéfices promis ne sont pas démontrés.[^39]
     -   _Le Temps — «On sort de l’ère du repas gra­tuit»_[^27]
 
 18. **Elles orientent les choix**
@@ -157,6 +162,7 @@ draft: false
 22. **Elles polluent les corpus de connaissances**<!-- polluer, dégrader, altérer, contaminer -->
     -   Elles ajoutent leurs erreurs à celles des humains et les réinjectent dans les corpus existants.
         Autrement dit, elles mangent en boucle leur caca et le nôtre.
+    -   Elles augmentent massivement la quantité de contenus médiocres ou erronés en circulation.[^39]
 
 23. **Elles ne respectent pas le droit à l’oubli**
     -   ...
@@ -270,7 +276,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^14]: [Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs les déclarations de Luc Julia](https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/)
 
-[^15]: [Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025](https://www.youtube.com/watch?v=xKeFsOceT44)
+[^15]: [Luc Julia face à Monsieur Phi — Tech&Co la quotidienne du 01/09/2025](https://www.youtube.com/watch?v=xKeFsOceT44)
 
 [^16]: [Wikipédia — Vibe coding](https://fr.wikipedia.org/wiki/Vibe_coding)
 
@@ -317,3 +323,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^37]: [L’échelle Dalia](https://hypnodingues.org/posts/2026-03-30-l-echelle-dalia/)
 
 [^38]: [Wikipédia — Éthique de l'intelligence artificielle](https://fr.wikipedia.org/wiki/%C3%89thique_de_l%27intelligence_artificielle)
+
+[^39]: [Naomi Klein — AI is a fascist idea](https://www.youtube.com/watch?v=iEf-MNsyUiE)
