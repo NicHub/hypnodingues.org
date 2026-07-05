@@ -188,6 +188,9 @@ draft: false
 29. **On ne connait pas de moyen pour déterminer si elles sont conscientes**[^34]
     -   ...
 
+30. **Elles présentent des enjeux éthiques nombreux**
+    -   _Wikipedia — Éthique de l'intelligence artificielle_[^38]
+
 ---
 
 ---
@@ -246,7 +249,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^4]: [Le biais cognitif que tout le monde a (sans le savoir)](https://youtu.be/g8p7MxmuOsQ?si=VREp5bO3pKgY8UtV&t=653)
 
-[^5]: [Wikipedia — Sycophante](https://fr.wikipedia.org/wiki/Sycophante)
+[^5]: [Wikipédia — Sycophante](https://fr.wikipedia.org/wiki/Sycophante)
 
 [^6]: [Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)](https://www.youtube.com/watch?v=q0afqpj0mtw)
 
@@ -268,11 +271,11 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^15]: [Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025](https://www.youtube.com/watch?v=xKeFsOceT44)
 
-[^16]: [Wikipedia — Vibe coding](https://fr.wikipedia.org/wiki/Vibe_coding)
+[^16]: [Wikipédia — Vibe coding](https://fr.wikipedia.org/wiki/Vibe_coding)
 
-[^17]: [Wikipedia — OSINT](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes)
+[^17]: [Wikipédia — OSINT](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes)
 
-[^18]: [Wikipedia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l’information))
+[^18]: [Wikipédia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l’information))
 
 [^19]: [L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans.](https://www.rts.ch/play/tv/-/video/-?urn=urn:rts:video:05195471-4c48-3f4a-bb2b-1a51139a8ca1)
 
@@ -311,3 +314,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^36]: [Javier Aguilar — Is Claude a Co-Author? The Legal Debate No One Saw Coming](https://www.javieraguilar.ai/en/blog/claude-coauthor-legal-debate)
 
 [^37]: [L’échelle Dalia](https://hypnodingues.org/posts/2026-03-30-l-echelle-dalia/)
+
+[^38]: [Wikipédia — Éthique de l'intelligence artificielle](https://fr.wikipedia.org/wiki/%C3%89thique_de_l%27intelligence_artificielle)
