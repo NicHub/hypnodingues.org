@@ -80,6 +80,7 @@ draft: false
 11. **Elles sont utilisées pour évaluer le travail des humains**
     -   Le travail fourni par les humains, qu’il soit assisté ou non par des agents, est de plus en plus souvent évalué par des IA, elles-mêmes assistées ou non par des humains.
     -   Conséquences délétères possibles :
+        -   Lassitude et sentiment d’inutilité chez les humains : à quoi bon s’investir si une IA peut contrôler, corriger ou invalider le résultat ?
         -   Déresponsabilisation des décideurs humains.
         -   Difficulté à contester une évaluation automatisée.
         -   Opacité des critères d’évaluation.
