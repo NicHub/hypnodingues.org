@@ -1,0 +1,231 @@
+.additifs {
+  --panel: #f6f3ed;
+  --panel-strong: #ebe3d4;
+  --ink: #1c1a17;
+  --muted: #6a6258;
+  --line: #d9ccb8;
+  --accent: #0f766e;
+  --accent-strong: #115e59;
+  --risk-low-bg: #d9f0de;
+  --risk-low-ink: #15532b;
+  --risk-mid-bg: #fde9c7;
+  --risk-mid-ink: #7a4a0a;
+  --risk-high-bg: #fbd7d4;
+  --risk-high-ink: #7a1b14;
+  --highlight: #fff3b0;
+  margin: 2rem 0 3rem;
+  color: var(--ink);
+}
+
+.additifs__panel {
+  position: sticky;
+  top: 0.5rem;
+  z-index: 5;
+  background: linear-gradient(135deg, #f7f1e7 0%, #f1ede6 100%);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 1.25rem;
+  box-shadow: 0 20px 50px rgba(28, 26, 23, 0.08);
+}
+
+.additifs__form {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.additifs__input,
+.additifs__button {
+  font: inherit;
+}
+
+.additifs__input {
+  min-width: 0;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 0.9rem 1rem;
+  background: #fffdf8;
+  color: var(--ink);
+}
+
+.additifs__button {
+  border: 0;
+  border-radius: 12px;
+  padding: 0.9rem 1.2rem;
+  background: var(--accent);
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.additifs__button:hover,
+.additifs__button:focus-visible {
+  background: var(--accent-strong);
+}
+
+.additifs__hint {
+  margin: 0.85rem 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.additifs__table-wrap {
+  margin-top: 1.5rem;
+  overflow-x: auto;
+  border-radius: 16px;
+  background: #fffdf8;
+}
+
+.additifs__table {
+  width: 100%;
+  min-width: 640px;
+  border-collapse: collapse;
+  font-size: 0.97rem;
+}
+
+.additifs__table th,
+.additifs__table td {
+  border: 0;
+}
+
+.additifs__table thead th {
+  background: var(--panel-strong);
+  color: var(--ink);
+  text-align: left;
+  padding: 0.75rem 0.9rem;
+  font-weight: 700;
+  position: sticky;
+  top: 0;
+}
+
+.additifs__table tbody td {
+  padding: 0.9rem;
+  vertical-align: top;
+  transition: background-color 0.3s ease;
+}
+
+.additifs__code {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  width: 1%;
+}
+
+.additifs__name {
+  margin: 0 0 0.25rem;
+  font-weight: 700;
+}
+
+.additifs__use,
+.additifs__note {
+  margin: 0;
+  color: var(--muted);
+}
+
+.additifs__note {
+  margin-top: 0.35rem;
+}
+
+.additifs__risk {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.additifs__risk--low  { background: var(--risk-low-bg);  color: var(--risk-low-ink); }
+.additifs__risk--mid  { background: var(--risk-mid-bg);  color: var(--risk-mid-ink); }
+.additifs__risk--high { background: var(--risk-high-bg); color: var(--risk-high-ink); }
+
+.additifs__source-link {
+  display: inline-block;
+  margin-top: 0.45rem;
+  color: var(--accent-strong);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: rgba(17, 94, 89, 0.35);
+}
+
+.additifs__source-link:hover,
+.additifs__source-link:focus-visible {
+  color: #0b3f3b;
+  text-decoration-color: currentColor;
+  background: transparent;
+}
+
+.additifs__row--highlight td {
+  background: var(--highlight) !important;
+}
+
+.additifs__row--highlight td:first-child {
+  box-shadow: inset 4px 0 0 var(--accent);
+}
+
+.additifs__source {
+  margin-top: 1.25rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+@media (max-width: 640px) {
+  .additifs__form {
+    grid-template-columns: 1fr;
+  }
+
+  .additifs__table-wrap {
+    overflow-x: visible;
+    border: 0;
+    background: transparent;
+    border-radius: 0;
+  }
+
+  .additifs__table {
+    min-width: 0;
+  }
+
+  .additifs__table thead {
+    display: none;
+  }
+
+  .additifs__table,
+  .additifs__table tbody,
+  .additifs__table tr,
+  .additifs__table td {
+    display: block;
+    width: 100%;
+  }
+
+  .additifs__table tbody tr {
+    background: #fffdf8;
+    border-radius: 14px;
+    margin-bottom: 0.75rem;
+    padding: 0.25rem 0;
+  }
+
+  .additifs__table tbody td {
+    border-bottom: 0;
+    padding: 0.5rem 0.9rem;
+  }
+
+  .additifs__code {
+    width: auto;
+    padding-top: 0.75rem;
+    font-size: 1.1rem;
+  }
+
+  .additifs__row--highlight td {
+    background: transparent !important;
+  }
+
+  .additifs__row--highlight {
+    background: var(--highlight);
+    box-shadow: inset 4px 0 0 var(--accent);
+  }
+
+  .additifs__row--highlight td:first-child {
+    box-shadow: none;
+  }
+}
