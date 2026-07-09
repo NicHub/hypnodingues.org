@@ -148,6 +148,7 @@ draft: false
     -   Détection de visages dans les lieux publics.
     -   Surveillance étatique (impôts, police,...)[^33].
     -   Évaluation des employés à leur insu.
+    -   Obligation des employés à utiliser les IA qui deviennent de facto des garde-chiourmes.
     -   Évaluation de profils clients par des acteurs privés.
         -   assurances (maladie, immobilières...)
         -   prestataires financiers (banques, créanciers, crédit...)
