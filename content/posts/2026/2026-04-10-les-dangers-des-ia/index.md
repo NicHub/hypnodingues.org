@@ -131,9 +131,9 @@ draft: false
 18. **Elles orientent les choix**
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
     -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
-    -   Elles sont sycophantes (flatterie hypocrite pour obtenir un avantage).
-        -   _Le biais cognitif que tout le monde a (sans le savoir)_[^4]
-        -   _Wikipedia — Sycophante_[^5]
+    -   Elles sont flagorneuses (flatteuses, courtisannes, thuriféraires, béni-oui-oui, délatrices, intéressées, sycophantes[^5]).
+        Attention, le sens de sycophante est légèrement différent en français (délateur) et en anglais (flagorneur).
+    -   _Le biais cognitif que tout le monde a (sans le savoir)_[^4]
     -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais).<!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
 
 19. **Elles déstabilisent le tissu social**
