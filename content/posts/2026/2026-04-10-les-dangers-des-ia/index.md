@@ -26,33 +26,33 @@ draft: false
 
 ![Calvin and Hobbes: Leave Math to the Machines](./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp)
 
-1.  **Elles sont faillibles**
+01. **Elles sont faillibles**
     -   Ce qui nécessite des procédures de vérification qui ne sont pas toujours mises en place.
     -   De plus, si les adultes d’aujourd’hui qui ont été formés sans les IA peuvent potentiellement détecter leurs erreurs, est-ce que ce sera le cas des adultes de demain qui se forment aujourd’hui avec elles ?
 
-2.  **Elles sont biaisées**
+02. **Elles sont biaisées**
     -   Il faut vérifier qu’elles ne préfèrent pas une catégorie à une autre, par exemple une catégorie raciale ou de genre.
 
-3.  **Elles induisent en erreur**
+03. **Elles induisent en erreur**
     -   Avec des _deep fakes_ très réalistes.
 
-4.  **Elles ne respectent pas la protection des données**
+04. **Elles ne respectent pas la protection des données**
     -   Elles sont entrainées avec des sources qui peuvent contenir des informations sensibles, privées ou confidentielles.
 
-5.  **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**[^22]
+05. **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**[^22]
     -   Leurs fournisseurs contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteurs, mais celle de l’utilisateur final.
     -   Sujet connexe : _L’échelle Dalia_[^37]
 
-6.  **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
+06. **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
     -   Elles peuvent se présenter comme “co-auteurs” plutôt que comme simples assistants, ce qui entretient une ambiguïté sur la titularité des droits, la part de contribution humaine et la responsabilité juridique des productions.[^35][^36]
     -   Ce glissement de vocabulaire peut servir à habituer les utilisateurs, les entreprises et les tribunaux à considérer l’IA comme une entité créative plutôt que comme un outil.
     -   Sujet connexe : _L’échelle Dalia_[^37]
 
-7.  **Elles ne respectent pas les régulations**
+07. **Elles ne respectent pas les régulations**
     -   _Elles ne respectent pas ou peu le RGPD_[^23].
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
 
-8.  **Elles ne sont pas juridiquement responsables de leurs failles**
+08. **Elles ne sont pas juridiquement responsables de leurs failles**
     -   Si elles se plantent, qui est responsable ? Qui paie les réparations ?
         -   Dysfonctionnements ou accidents de véhicules autonomes.[^2]
         -   Suppression accidentelle et dommageable de données informatiques.
@@ -63,7 +63,7 @@ draft: false
 
     {{< /comment >}}
 
-9.  **Elles rendent les humains incompétents et dépendants de leurs services**
+09. **Elles rendent les humains incompétents et dépendants de leurs services**
     -   Elles atrophient les compétences en facilitant l’obtention de résultats sans efforts et en favorisant l’externalisation de la pensée.[^39]
     -   Si seuls les experts sont sollicités alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
@@ -73,8 +73,8 @@ draft: false
     -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
     -   L’objectif affiché de certaines entreprises est même de remplacer une part majoritaire de l’activité économique humaine.[^39]
     -   Les humains qui ne maitriseront pas l’usage de l’IA seront très impactés.
-        > *“AI won’t replace humans — But humans with AI will replace humans without AI.”*
-        > *— Karim Lakhani, Harvard Business School Professor*
+        > _“AI won’t replace humans — But humans with AI will replace humans without AI.”_
+        > _— Karim Lakhani, Harvard Business School Professor_
     -   _RTS — L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans_[^19]
     -   Elon Musk, Sam Alt­man et quelques autres ont même proposé d’instaurer un revenu universel.
         _Le Temps — Saura-t-on rap­pe­ler à l’IA qu’elle nous est rede­vable ?_[^24]
