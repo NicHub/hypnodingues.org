@@ -195,6 +195,7 @@ draft: false
 
 29. **On ne connait pas de moyen pour déterminer si elles sont conscientes**
     -   _Robert Miles AI Safety — The AI Consciousness Question is So Annoying_[^34]
+    -   _Fabien Olicard — L’expérience de la chambre chinoise_[^40]
 
 30. **Elles présentent des enjeux éthiques nombreux**
     -   _Wikipedia — Éthique de l'intelligence artificielle_[^38]
@@ -326,3 +327,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^38]: [Wikipédia — Éthique de l'intelligence artificielle](https://fr.wikipedia.org/wiki/%C3%89thique_de_l%27intelligence_artificielle)
 
 [^39]: [Naomi Klein — AI is a fascist idea](https://www.youtube.com/watch?v=iEf-MNsyUiE)
+
+[^40]: [Fabien Olicard — L’expérience de la chambre chinoise](https://www.youtube.com/watch?v=OJ2Ns_Fv9T4)
