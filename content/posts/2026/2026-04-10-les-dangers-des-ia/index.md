@@ -146,7 +146,7 @@ draft: false
     -   Elles favorisent un développement non éthique de l’_OSINT_[^17] et de l’_ingénierie sociale_[^18].
     -   Système de reconnaissance vocale.
     -   Détection de visages dans les lieux publics.
-    -   Surveillance étatique (impôts, police,...)[^33].
+    -   Surveillance étatique (impôts, police...)[^33].
     -   Évaluation des employés à leur insu.
     -   Obligation des employés à utiliser les IA qui deviennent de facto des garde-chiourmes.
     -   Évaluation de profils clients par des acteurs privés.
@@ -166,21 +166,21 @@ draft: false
     -   Elles augmentent massivement la quantité de contenus médiocres ou erronés en circulation.[^39]
 
 23. **Elles assèchent les sources dont elles dépendent elles-mêmes**
-    -   En fournissant des réponses directes avec des UX “zéro clic”[^41], elles détournent les internautes des sites d’information, des médias et des plateformes spécialisées[^12].
-    -   En privant ces sources de trafic et de revenus, elles menacent leur capacité à produire et à maintenir les contenus qui alimentent les IA.[^42]
-    -   À long terme, ce cercle vicieux menace la diversité des contenus en ligne.
+    -   En fournissant des réponses directes avec des UX “zéro clic”[^41], elles détournent les internautes des sites d’information, des médias et des plateformes spécialisées.
+    À long terme, ce cercle vicieux menace la diversité des contenus en ligne[^12].
+    -   En privant ces sources de trafic et de revenus, elles menacent leur capacité à produire et à maintenir les contenus qui les alimentent elles-mêmes.[^42]
 
 24. **Elles ne respectent pas le droit à l’oubli**
     -   ...
 
 25. **Elles créent un appel d’air de tâches à exécuter**
-    -   Source : newsletter par mail de Marc Menson “Why your to-do list will never end”
+    -   Source : newsletter par mail de Marc Menson “Why your to-do list will never end”.
 
 26. **Elles saturent les capacités cognitives**
     -   _France Info — L’IA sature nos capacités cognitives_[^10]
         -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
         -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
-    -   Elles induisent une fatigue décisionnelle
+    -   Elles induisent une fatigue décisionnelle.
         -   _Damien Maya — Pourquoi choisir est devenu une torture Psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
