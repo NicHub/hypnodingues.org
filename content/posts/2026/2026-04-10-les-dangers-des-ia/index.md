@@ -212,6 +212,8 @@ _RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari
 
 Enfin, certains alertent sur une cannibalisation du web: en fournissant des réponses directes, l’IA détourne les internautes des sites d’information, des médias ou des plateformes spécialisées. À long terme, cela menace la diversité des contenus en ligne.
 
+Voir aussi : _Nowtech — Google est en train de tuer l’internet gratuit 💀 ?! (“zéro clic”)_[^41]
+
 ### IA générative : le guide ultime du hater anti-ChatGPT
 
 _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
@@ -329,3 +331,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^39]: [Naomi Klein — AI is a fascist idea](https://www.youtube.com/watch?v=iEf-MNsyUiE)
 
 [^40]: [Fabien Olicard — L’expérience de la chambre chinoise](https://www.youtube.com/watch?v=OJ2Ns_Fv9T4)
+
+[^41]: [Nowtech — Google est en train de tuer l’internet gratuit 💀 ?! (“zéro clic”)](https://www.youtube.com/watch?v=z98qOqDwMAE)
