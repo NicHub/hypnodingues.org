@@ -168,7 +168,7 @@ draft: false
 23. **Elles assèchent les sources dont elles dépendent elles-mêmes**
     -   Elles détournent les internautes des sites d’information, des médias et des plateformes spécialisées en leur fournissant des réponses directes grâce à des UX “zéro clic”[^41].
     -   En privant ces sources de trafic et de revenus, elles menacent leur capacité à produire et à maintenir les contenus qui les alimentent elles-mêmes.[^42]
-    -   À long terme, ce cercle vicieux menace la diversité des contenus en ligne[^12].
+    -   À long terme, ce cercle vicieux menace la diversité des nouveaux contenus[^12].
 
 24. **Elles ne respectent pas le droit à l’oubli**
     -   ...
