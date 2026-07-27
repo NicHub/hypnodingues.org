@@ -166,7 +166,7 @@ draft: false
     -   Elles augmentent massivement la quantité de contenus médiocres ou erronés en circulation.[^39]
 
 23. **Elles assèchent les sources dont elles dépendent elles-mêmes**
-    -   En fournissant des réponses directes avec des UX “zéro clic”, elles détournent les internautes des sites d’information, des médias et des plateformes spécialisées.[^12][^41]
+    -   En fournissant des réponses directes avec des UX “zéro clic”[^41], elles détournent les internautes des sites d’information, des médias et des plateformes spécialisées[^12].
     -   En privant ces sources de trafic et de revenus, elles menacent leur capacité à produire et à maintenir les contenus qui alimentent les IA.[^42]
     -   À long terme, ce cercle vicieux menace la diversité des contenus en ligne.
 
