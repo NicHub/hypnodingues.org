@@ -165,13 +165,18 @@ draft: false
         Autrement dit, elles mangent en boucle leur caca et le nôtre.
     -   Elles augmentent massivement la quantité de contenus médiocres ou erronés en circulation.[^39]
 
-23. **Elles ne respectent pas le droit à l’oubli**
+23. **Elles assèchent les sources dont elles dépendent elles-mêmes**
+    -   En fournissant des réponses directes avec des UX “zéro clic”, elles détournent les internautes des sites d’information, des médias et des plateformes spécialisées.[^12][^41]
+    -   En privant ces sources de trafic et de revenus, elles menacent leur capacité à produire et à maintenir les contenus qui alimentent les IA.[^42]
+    -   À long terme, ce cercle vicieux menace la diversité des contenus en ligne.
+
+24. **Elles ne respectent pas le droit à l’oubli**
     -   ...
 
-24. **Elles créent un appel d’air de tâches à exécuter**
+25. **Elles créent un appel d’air de tâches à exécuter**
     -   Source : newsletter par mail de Marc Menson “Why your to-do list will never end”
 
-25. **Elles saturent les capacités cognitives**
+26. **Elles saturent les capacités cognitives**
     -   _France Info — L’IA sature nos capacités cognitives_[^10]
         -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
         -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
@@ -179,25 +184,25 @@ draft: false
         -   _Damien Maya — Pourquoi choisir est devenu une torture Psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
-26. **Elles sont élitistes**<!-- Éventuellement déplacer après “Elles fragilisent les démocraties” -->
+27. **Elles sont élitistes**<!-- Éventuellement déplacer après “Elles fragilisent les démocraties” -->
     -   Pour les détenteurs·rices : Elles concentrent un pouvoir d’analyse, d’automatisation et d’influence entre les mains de ceux qui les possèdent.
     -   Pour les utilisateurs·rices : Plus on dispose de moyens financiers, de temps et de compétences, plus les IA sont utiles et profitables.
 
-27. **Elles uniformisent le langage**
+28. **Elles uniformisent le langage**
     -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
         -   _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   _Le Temps — L’IA punit les Romands pour leur lan­gage_[^28]
 
-28. **Elles marginalisent les langues à faibles ressources**
+29. **Elles marginalisent les langues à faibles ressources**
     -   Les IA apprennent à partir des langues à hautes ressources, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
         -   _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   Contre-exemple : _MINOR-IA, L'IA au service de la santé mentale en langues minoritaires_[^26]
 
-29. **On ne connait pas de moyen pour déterminer si elles sont conscientes**
+30. **On ne connait pas de moyen pour déterminer si elles sont conscientes**
     -   _Robert Miles AI Safety — The AI Consciousness Question is So Annoying_[^34]
     -   _Fabien Olicard — L’expérience de la chambre chinoise_[^40]
 
-30. **Elles présentent des enjeux éthiques nombreux**
+31. **Elles présentent des enjeux éthiques nombreux**
     -   _Wikipedia — Éthique de l'intelligence artificielle_[^38]
 
 ---
@@ -207,12 +212,6 @@ draft: false
 ---
 
 ## Notes
-
-_RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari_[^12]
-
-Enfin, certains alertent sur une cannibalisation du web: en fournissant des réponses directes, l’IA détourne les internautes des sites d’information, des médias ou des plateformes spécialisées. À long terme, cela menace la diversité des contenus en ligne.
-
-Voir aussi : _Nowtech — Google est en train de tuer l’internet gratuit 💀 ?! (“zéro clic”)_[^41]
 
 ### IA générative : le guide ultime du hater anti-ChatGPT
 
@@ -333,3 +332,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^40]: [Fabien Olicard — L’expérience de la chambre chinoise](https://www.youtube.com/watch?v=OJ2Ns_Fv9T4)
 
 [^41]: [Nowtech — Google est en train de tuer l’internet gratuit 💀 ?! (“zéro clic”)](https://www.youtube.com/watch?v=z98qOqDwMAE)
+
+[^42]: [GitHub — Adam Wathan — L’impact brutal de l’IA sur Tailwind CSS](https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957)
