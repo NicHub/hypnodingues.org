@@ -27,11 +27,12 @@ draft: false
 
 ## À écouter et voir aussi
 
-[letemps.ch — Podcast « IA, qu’à m’expliquer »]
-
-[rts.ch — Le premier thermomètre de l’IA est Suisse]
+-   [letemps.ch — Podcast « IA, qu’à m’expliquer »]
+-   [rts.ch — Le premier thermomètre de l’IA est Suisse]
+-   [euronews (en français) — À partir de dimanche, l’obligation de signaler tout contenu généré par l’IA entre en vigueur]
 
 [DALIA sur GitHub]: https://github.com/DALIAscale
 [Lire l’article sur PressReader]: https://pressreader.com/article/281715506157475
 [letemps.ch — Podcast « IA, qu’à m’expliquer »]: https://www.letemps.ch/podcasts/ia-qu-a-m-expliquer
 [rts.ch — Le premier thermomètre de l’IA est Suisse]: https://www.rts.ch/play/tv/decryptage-culture/video/le-premier-thermometre-de-lia-est-suisse?urn=urn:rts:video:15a0174c-c9e1-38d4-9cf0-ac278580d67d
+[euronews (en français) — À partir de dimanche, l’obligation de signaler tout contenu généré par l’IA entre en vigueur]: https://www.youtube.com/watch?v=-s1-mktkMnE
