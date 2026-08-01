@@ -173,11 +173,10 @@ draft: false
 24. **Elles ne respectent pas le droit à l’oubli**
     -   ...
 
-25. **Elles créent un appel d’air de tâches à exécuter**
-    -   Source de l’idée originale : newsletter par mail de Marc Menson “Why your to-do list will never end”.
-    -   En réduisant considérablement le temps et le cout de réalisation, les IA rendent possibles de nombreux projets auparavant abandonnés ou reportés : les idées et les tâches se multiplient, tandis que le goulet d’étranglement se déplace de la réalisation technique vers la capacité humaine à sélectionner, coordonner et interrompre les projets. Ce passage incessant d’un projet à l’autre peut entrainer une surcharge mentale, effacer le temps personnel et conduire au burnout.[^43]
-
-26. **Elles saturent les capacités cognitives**
+25. **Elles saturent les capacités cognitives**
+    -   En créant un appel d’air de tâches à exécuter.
+        -   Source de l’idée originale : newsletter par mail de Marc Menson “Why your to-do list will never end”.
+        -   En réduisant considérablement le temps et le cout de réalisation, les IA rendent possibles de nombreux projets auparavant abandonnés ou reportés : les idées et les tâches se multiplient, tandis que le goulet d’étranglement se déplace de la réalisation technique vers la capacité humaine à sélectionner, coordonner et interrompre les projets. Ce passage incessant d’un projet à l’autre peut entrainer une surcharge mentale, effacer le temps personnel et conduire au burnout.[^43]
     -   _France Info — L’IA sature nos capacités cognitives_[^10]
         -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
         -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
@@ -185,25 +184,25 @@ draft: false
         -   _Damien Maya — Pourquoi choisir est devenu une torture Psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
-27. **Elles sont élitistes**<!-- Éventuellement déplacer après “Elles fragilisent les démocraties” -->
+26. **Elles sont élitistes**<!-- Éventuellement déplacer après “Elles fragilisent les démocraties” -->
     -   Pour les détenteurs·rices : Elles concentrent un pouvoir d’analyse, d’automatisation et d’influence entre les mains de ceux qui les possèdent.
     -   Pour les utilisateurs·rices : Plus on dispose de moyens financiers, de temps et de compétences, plus les IA sont utiles et profitables.
 
-28. **Elles uniformisent le langage**
+27. **Elles uniformisent le langage**
     -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
         -   _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   _Le Temps — L’IA punit les Romands pour leur lan­gage_[^28]
 
-29. **Elles marginalisent les langues à faibles ressources**
+28. **Elles marginalisent les langues à faibles ressources**
     -   Les IA apprennent à partir des langues à hautes ressources, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
         -   _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   Contre-exemple : _MINOR-IA, L'IA au service de la santé mentale en langues minoritaires_[^26]
 
-30. **On ne connait pas de moyen pour déterminer si elles sont conscientes**
+29. **On ne connait pas de moyen pour déterminer si elles sont conscientes**
     -   _Robert Miles AI Safety — The AI Consciousness Question is So Annoying_[^34]
     -   _Fabien Olicard — L’expérience de la chambre chinoise_[^40]
 
-31. **Elles présentent des enjeux éthiques nombreux**
+30. **Elles présentent des enjeux éthiques nombreux**
     -   _Wikipedia — Éthique de l'intelligence artificielle_[^38]
 
 ---
