@@ -174,7 +174,8 @@ draft: false
     -   ...
 
 25. **Elles créent un appel d’air de tâches à exécuter**
-    -   Source : newsletter par mail de Marc Menson “Why your to-do list will never end”.
+    -   Source de l’idée originale : newsletter par mail de Marc Menson “Why your to-do list will never end”.
+    -   En réduisant considérablement le temps et le cout de réalisation, les IA rendent possibles de nombreux projets auparavant abandonnés ou reportés : les idées et les tâches se multiplient, tandis que le goulet d’étranglement se déplace de la réalisation technique vers la capacité humaine à sélectionner, coordonner et interrompre les projets. Ce passage incessant d’un projet à l’autre peut entrainer une surcharge mentale, effacer le temps personnel et conduire au burnout.[^43]
 
 26. **Elles saturent les capacités cognitives**
     -   _France Info — L’IA sature nos capacités cognitives_[^10]
@@ -334,3 +335,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^41]: [Nowtech — Google est en train de tuer l’internet gratuit 💀 ?! (“zéro clic”)](https://www.youtube.com/watch?v=z98qOqDwMAE)
 
 [^42]: [GitHub — Adam Wathan — L’impact brutal de l’IA sur Tailwind CSS](https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957)
+
+[^43]: [Youtube — Yannick Dalbin — Ce que 1 an à laisser l'IA coder m'a appris sur le métier de développeur](https://www.youtube.com/watch?v=7qlk9MQgafU)
