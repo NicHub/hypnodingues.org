@@ -1,6 +1,6 @@
 ---
 title: Répertoire d’adresses
-date: '2013-01-10T15:34:46+01:00'
+date: 2013-01-10T15:34:46+01:00
 categories:
 - Hypnose
 author: Nico

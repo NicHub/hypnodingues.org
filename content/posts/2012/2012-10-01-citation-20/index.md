@@ -1,6 +1,6 @@
 ---
 title: Citation
-date: '2012-10-01T23:43:18+02:00'
+date: 2012-10-01T23:43:18+02:00
 categories:
 - Divers
 author: Nico

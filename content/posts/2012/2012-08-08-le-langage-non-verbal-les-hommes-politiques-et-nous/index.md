@@ -1,6 +1,6 @@
 ---
 title: Le langage non verbal, les hommes politiques et nous...
-date: '2012-08-08T11:46:07+02:00'
+date: 2012-08-08T11:46:07+02:00
 categories:
 - Divers
 author: Nico

@@ -1,6 +1,6 @@
 ---
 title: Patricia d'Angeli, Confiance en soi
-date: '2012-03-09T20:31:37+01:00'
+date: 2012-03-09T20:31:37+01:00
 categories:
 - Hypnose
 - Textes

@@ -1,6 +1,6 @@
 ---
 title: Patricia d'Angeli,  Calmer l’anxiété.
-date: '2012-04-25T10:58:15+02:00'
+date: 2012-04-25T10:58:15+02:00
 categories:
 - Textes
 author: Nico

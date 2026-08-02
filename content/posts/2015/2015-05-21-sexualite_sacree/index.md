@@ -1,6 +1,6 @@
 ---
 title: Sexualité sacrée
-date: '2015-05-21T13:31:00+02:00'
+date: 2015-05-21T13:31:00+02:00
 categories:
 - sexualite
 author: Laeti

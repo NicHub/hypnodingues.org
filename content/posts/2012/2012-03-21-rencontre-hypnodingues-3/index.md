@@ -1,6 +1,6 @@
 ---
 title: rencontre hypnodingues
-date: '2012-03-21T11:11:07+01:00'
+date: 2012-03-21T11:11:07+01:00
 categories:
 - Divers
 author: Geneviève

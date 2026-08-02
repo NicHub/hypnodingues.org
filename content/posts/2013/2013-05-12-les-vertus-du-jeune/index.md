@@ -1,6 +1,6 @@
 ---
 title: Les vertus du jeûne.
-date: '2013-05-12T18:13:30+02:00'
+date: 2013-05-12T18:13:30+02:00
 categories:
 - Liens
 author: Laeti

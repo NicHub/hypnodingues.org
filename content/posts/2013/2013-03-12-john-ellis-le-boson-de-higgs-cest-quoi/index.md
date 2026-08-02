@@ -1,6 +1,6 @@
 ---
 title: John Ellis, le boson de Higgs c'est quoi ?
-date: '2013-03-12T17:54:20+01:00'
+date: 2013-03-12T17:54:20+01:00
 categories:
 - Divers
 author: Nico

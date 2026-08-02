@@ -1,6 +1,6 @@
 ---
 title: 'Keith Barry: Brain magic'
-date: '2012-10-25T00:40:07+02:00'
+date: 2012-10-25T00:40:07+02:00
 categories:
 - conferences
 author: Nico

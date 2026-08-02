@@ -1,6 +1,6 @@
 ---
 title: The Best Short Films Of The World [ My Shoes ]
-date: '2013-09-09T12:23:36+02:00'
+date: 2013-09-09T12:23:36+02:00
 categories:
 - Divers
 author: Nico

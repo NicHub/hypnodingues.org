@@ -1,6 +1,6 @@
 ---
 title: À 25 ans, j’hypnotise la Suisse romande
-date: '2014-09-18T08:49:15+02:00'
+date: 2014-09-18T08:49:15+02:00
 categories:
 - Articles
 author: Nico

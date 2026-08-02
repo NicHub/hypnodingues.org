@@ -1,6 +1,6 @@
 ---
 title: 'The Space Between Self-Esteem and Self Compassion: Kristin Neff at TEDxCentennialParkWomen'
-date: '2014-10-12T18:25:51+02:00'
+date: 2014-10-12T18:25:51+02:00
 categories:
 - conferences
 author: Nico

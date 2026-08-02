@@ -1,6 +1,6 @@
 ---
 title: Dr Eric Pearl
-date: '2012-08-28T19:37:54+02:00'
+date: 2012-08-28T19:37:54+02:00
 categories:
 - Divers
 author: Nico

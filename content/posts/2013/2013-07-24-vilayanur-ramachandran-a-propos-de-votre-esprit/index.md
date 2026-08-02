@@ -1,6 +1,6 @@
 ---
 title: Vilayanur Ramachandran - à propos de votre esprit
-date: '2013-07-24T16:19:47+02:00'
+date: 2013-07-24T16:19:47+02:00
 categories:
 - conferences
 author: Nico

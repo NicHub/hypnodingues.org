@@ -1,6 +1,6 @@
 ---
 title: Bye bye Martin
-date: '2014-10-20T10:41:46+02:00'
+date: 2014-10-20T10:41:46+02:00
 categories:
 - Divers
 author: Nico

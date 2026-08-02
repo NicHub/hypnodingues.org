@@ -1,6 +1,6 @@
 ---
 title: 'Tolkien : “Shut up!”'
-date: '2026-05-30T09:30:00+02:00'
+date: 2026-05-30T09:30:00+02:00
 categories:
     - Citations
 author: Nico

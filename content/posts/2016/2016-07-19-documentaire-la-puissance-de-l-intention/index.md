@@ -1,6 +1,6 @@
 ---
 title: Documentaire “La puissance de l’intention”
-date: '2016-07-19T17:43:00+02:00'
+date: 2016-07-19T17:43:00+02:00
 author: Nico
 ---
 

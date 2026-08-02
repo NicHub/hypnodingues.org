@@ -1,6 +1,6 @@
 ---
 title: Réunion
-date: '2012-09-17T11:13:46+02:00'
+date: 2012-09-17T11:13:46+02:00
 categories:
 - Évènements
 author: Nico

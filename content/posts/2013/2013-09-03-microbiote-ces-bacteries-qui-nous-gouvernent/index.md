@@ -1,6 +1,6 @@
 ---
 title: Microbiote ces bacteries qui nous gouvernent
-date: '2013-09-03T08:16:24+02:00'
+date: 2013-09-03T08:16:24+02:00
 categories:
 - Liens
 - Santé

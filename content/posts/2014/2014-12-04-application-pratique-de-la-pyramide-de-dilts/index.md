@@ -1,6 +1,6 @@
 ---
 title: Application pratique de la pyramide de Dilts
-date: '2014-12-04T23:58:11+01:00'
+date: 2014-12-04T23:58:11+01:00
 categories:
 - Divers
 author: Nico

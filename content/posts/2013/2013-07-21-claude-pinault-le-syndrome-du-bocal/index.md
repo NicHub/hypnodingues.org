@@ -1,6 +1,6 @@
 ---
 title: Claude Pinault - le syndrome du bocal
-date: '2013-07-21T09:16:44+02:00'
+date: 2013-07-21T09:16:44+02:00
 categories:
 - Articles
 author: Nico

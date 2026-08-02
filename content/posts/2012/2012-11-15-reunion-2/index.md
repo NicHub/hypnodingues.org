@@ -1,6 +1,6 @@
 ---
 title: L'hypnoël des Hypnodingues
-date: '2012-11-15T17:14:03+01:00'
+date: 2012-11-15T17:14:03+01:00
 categories:
 - Évènements
 author: Nico

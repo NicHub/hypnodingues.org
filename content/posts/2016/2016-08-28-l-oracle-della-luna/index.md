@@ -1,6 +1,6 @@
 ---
 title: L’Oracle Della Luna
-date: '2016-08-28T21:23:00+02:00'
+date: 2016-08-28T21:23:00+02:00
 categories:
 - Citations
 author: Nico

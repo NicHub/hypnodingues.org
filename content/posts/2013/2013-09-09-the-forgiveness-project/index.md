@@ -1,6 +1,6 @@
 ---
 title: The Forgiveness Project
-date: '2013-09-09T15:20:02+02:00'
+date: 2013-09-09T15:20:02+02:00
 categories:
 - Divers
 author: Nico

@@ -1,6 +1,6 @@
 ---
 title: Hypnose de rue
-date: '2012-08-31T12:49:20+02:00'
+date: 2012-08-31T12:49:20+02:00
 categories:
 - Hypnose
 author: Nico

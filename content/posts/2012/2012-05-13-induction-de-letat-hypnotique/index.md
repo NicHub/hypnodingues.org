@@ -1,6 +1,6 @@
 ---
 title: Induction de l'état hypnotique
-date: '2012-05-13T13:31:08+02:00'
+date: 2012-05-13T13:31:08+02:00
 categories:
 - Hypnose
 - Textes

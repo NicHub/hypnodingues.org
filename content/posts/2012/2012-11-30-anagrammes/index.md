@@ -1,6 +1,6 @@
 ---
 title: Anagrammes
-date: '2012-11-30T12:05:47+01:00'
+date: 2012-11-30T12:05:47+01:00
 categories:
 - Citations
 author: Nico

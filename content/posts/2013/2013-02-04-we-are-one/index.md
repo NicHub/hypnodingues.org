@@ -1,6 +1,6 @@
 ---
 title: We are one
-date: '2013-02-04T14:01:25+01:00'
+date: 2013-02-04T14:01:25+01:00
 categories:
 - Images
 author: Nico

@@ -1,6 +1,6 @@
 ---
 title: Plan d’action de l’association
-date: '2013-07-22T12:34:16+02:00'
+date: 2013-07-22T12:34:16+02:00
 categories:
 - Divers
 author: Laeti

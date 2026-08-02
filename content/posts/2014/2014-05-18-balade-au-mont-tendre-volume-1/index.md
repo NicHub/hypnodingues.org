@@ -1,6 +1,6 @@
 ---
 title: Balade au Mont-Tendre volume 1
-date: '2014-05-18T19:34:10+02:00'
+date: 2014-05-18T19:34:10+02:00
 categories:
 - Divers
 author: Laeti

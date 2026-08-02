@@ -1,6 +1,6 @@
 ---
 title: raisonnablementfollesetfollementcurieuses.biz
-date: '2012-04-06T12:04:45+02:00'
+date: 2012-04-06T12:04:45+02:00
 categories:
 - Liens
 author: Nico

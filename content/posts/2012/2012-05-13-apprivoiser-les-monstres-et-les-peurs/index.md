@@ -1,6 +1,6 @@
 ---
 title: Apprivoiser les monstres et les peurs
-date: '2012-05-13T15:26:04+02:00'
+date: 2012-05-13T15:26:04+02:00
 categories:
 - Hypnose
 - Textes

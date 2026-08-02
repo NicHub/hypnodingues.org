@@ -1,6 +1,6 @@
 ---
 title: COMMENT ÊTRE GRAND
-date: '2015-07-24T11:58:00+01:00'
+date: 2015-07-24T11:58:00+01:00
 categories:
 - Divers
 author: Nico

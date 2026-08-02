@@ -1,6 +1,6 @@
 ---
 title: Mon lit est prêt ;-)!!!
-date: '2014-05-20T20:08:15+02:00'
+date: 2014-05-20T20:08:15+02:00
 categories:
 - Divers
 author: Laeti

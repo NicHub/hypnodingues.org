@@ -1,6 +1,6 @@
 ---
 title: Ritaline, enquête sur une pilule miracle
-date: '2013-04-11T12:08:50+02:00'
+date: 2013-04-11T12:08:50+02:00
 categories:
 - Santé
 author: Nico

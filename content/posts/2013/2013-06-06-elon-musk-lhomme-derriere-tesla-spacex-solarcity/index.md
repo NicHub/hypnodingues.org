@@ -1,6 +1,6 @@
 ---
 title: 'Elon Musk : L''homme derrière Tesla, SpaceX, SolarCity ...'
-date: '2013-06-06T12:25:26+02:00'
+date: 2013-06-06T12:25:26+02:00
 categories:
 - Divers
 author: Nico

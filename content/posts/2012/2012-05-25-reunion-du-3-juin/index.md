@@ -1,6 +1,6 @@
 ---
 title: Réunion du 3 juin
-date: '2012-05-25T11:44:54+02:00'
+date: 2012-05-25T11:44:54+02:00
 categories:
 - Évènements
 author: Laeti

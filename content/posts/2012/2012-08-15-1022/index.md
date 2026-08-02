@@ -1,6 +1,6 @@
 ---
 title: Le palais des illusions
-date: '2012-08-15T17:37:51+02:00'
+date: 2012-08-15T17:37:51+02:00
 categories:
 - Bibliographie
 author: Nico

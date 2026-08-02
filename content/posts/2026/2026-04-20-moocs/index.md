@@ -1,6 +1,6 @@
 ---
 title: "Meta moteur de recherche de MOOC"
-date: 2026-04-20
+date: 2026-04-20T00:00:00+02:00
 categories:
     - Technique
 description: "Recherche simultanee de MOOCs sur plusieurs plateformes depuis une interface unique."

@@ -1,6 +1,6 @@
 ---
 title: Hétéro-hypnose, La chute arrière
-date: '2012-03-09T20:55:49+01:00'
+date: 2012-03-09T20:55:49+01:00
 categories:
 - Hypnose
 - Textes

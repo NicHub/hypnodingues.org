@@ -1,6 +1,6 @@
 ---
 title: Peur des premiers patients en hypnose ?
-date: '2014-08-15T15:07:57+02:00'
+date: 2014-08-15T15:07:57+02:00
 categories:
 - Hypnose
 author: Laeti

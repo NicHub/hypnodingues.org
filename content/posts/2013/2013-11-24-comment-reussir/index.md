@@ -1,6 +1,6 @@
 ---
 title: Comment réussir
-date: '2013-11-24T16:23:11+01:00'
+date: 2013-11-24T16:23:11+01:00
 categories:
 - Divers
 - Liens

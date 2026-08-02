@@ -1,6 +1,6 @@
 ---
 title: Détermination d'objectif.
-date: '2013-05-13T13:35:51+02:00'
+date: 2013-05-13T13:35:51+02:00
 categories:
 - Exercices
 - Hypnose

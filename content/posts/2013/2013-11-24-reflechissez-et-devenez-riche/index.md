@@ -1,6 +1,6 @@
 ---
 title: réfléchissez et devenez riche
-date: '2013-11-24T16:46:39+01:00'
+date: 2013-11-24T16:46:39+01:00
 categories:
 - Divers
 author: Geneviève

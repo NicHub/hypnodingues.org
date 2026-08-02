@@ -1,6 +1,6 @@
 ---
 title: Hallelujah chanté par une autiste
-date: '2016-12-29T20:06:00+01:00'
+date: 2016-12-29T20:06:00+01:00
 author: Nico
 draft: true
 ---

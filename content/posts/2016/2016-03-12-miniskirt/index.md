@@ -1,6 +1,6 @@
 ---
 title: Citation
-date: '2016-03-12T19:42:00+01:00'
+date: 2016-03-12T19:42:00+01:00
 author: Nico
 ---
 

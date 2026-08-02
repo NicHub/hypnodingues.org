@@ -1,6 +1,6 @@
 ---
 title: Énergie, cicatrisation, enveloppe externe, interne
-date: '2012-05-13T14:25:18+02:00'
+date: 2012-05-13T14:25:18+02:00
 categories:
 - Hypnose
 - Textes

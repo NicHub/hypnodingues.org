@@ -1,6 +1,6 @@
 ---
 title: Les logos des grandes marques possèdent souvent une face cachée
-date: '2013-04-16T20:32:09+02:00'
+date: 2013-04-16T20:32:09+02:00
 categories:
 - Divers
 author: Nico

@@ -1,6 +1,6 @@
 ---
 title: Psychogénéalogie
-date: '2012-11-01T11:23:40+01:00'
+date: 2012-11-01T11:23:40+01:00
 categories:
 - Divers
 - Santé

@@ -1,6 +1,6 @@
 ---
 title: 'Wim Klein : L’homme ordinateur'
-date: '2012-12-05T17:12:31+01:00'
+date: 2012-12-05T17:12:31+01:00
 categories:
 - Divers
 author: Nico

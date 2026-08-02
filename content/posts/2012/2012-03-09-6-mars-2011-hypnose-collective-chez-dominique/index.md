@@ -1,6 +1,6 @@
 ---
 title: 6 mars 2011, Hypnose collective chez Dominique
-date: '2012-03-09T21:18:14+01:00'
+date: 2012-03-09T21:18:14+01:00
 categories:
 - Hypnose
 - Textes

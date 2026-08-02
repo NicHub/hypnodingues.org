@@ -1,6 +1,6 @@
 ---
 title: Atelier Le Don du Pardon avec Olivier Clerc
-date: '2012-10-03T16:19:29+02:00'
+date: 2012-10-03T16:19:29+02:00
 categories:
 - Évènements
 author: Nico

@@ -1,6 +1,6 @@
 ---
 title: Week-end dans le Risoud!
-date: '2014-06-10T09:36:04+02:00'
+date: 2014-06-10T09:36:04+02:00
 categories:
 - Divers
 author: Laeti

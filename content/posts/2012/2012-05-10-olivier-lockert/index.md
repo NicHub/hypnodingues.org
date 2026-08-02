@@ -1,6 +1,6 @@
 ---
 title: Olivier Lockert
-date: '2012-05-10T08:20:42+02:00'
+date: 2012-05-10T08:20:42+02:00
 categories:
 - Audios
 - Hypnose

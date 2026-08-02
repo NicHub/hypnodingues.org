@@ -1,6 +1,6 @@
 ---
 title: Démonstration de médiumnité par Janet Parker et Silvana Hertz
-date: '2013-02-01T11:10:19+01:00'
+date: 2013-02-01T11:10:19+01:00
 categories:
 - Évènements
 author: Nico

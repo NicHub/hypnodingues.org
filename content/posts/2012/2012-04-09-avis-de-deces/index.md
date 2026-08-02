@@ -1,6 +1,6 @@
 ---
 title: Avis de décès
-date: '2012-04-09T07:15:05+02:00'
+date: 2012-04-09T07:15:05+02:00
 categories:
 - Divers
 author: Nico

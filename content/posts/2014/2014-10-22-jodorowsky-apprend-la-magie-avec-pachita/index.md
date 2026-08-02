@@ -1,6 +1,6 @@
 ---
 title: Alexandro Jodorowsky apprend la magie avec Pachita
-date: '2014-10-22T12:59:12+02:00'
+date: 2014-10-22T12:59:12+02:00
 categories:
 - Divers
 author: Nico

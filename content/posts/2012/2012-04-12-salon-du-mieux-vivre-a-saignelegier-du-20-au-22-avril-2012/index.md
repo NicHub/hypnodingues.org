@@ -1,6 +1,6 @@
 ---
 title: salon du mieux-vivre à Saignelégier, du 20 au 22 avril 2012
-date: '2012-04-12T15:02:59+02:00'
+date: 2012-04-12T15:02:59+02:00
 categories:
 - Divers
 author: Catherine

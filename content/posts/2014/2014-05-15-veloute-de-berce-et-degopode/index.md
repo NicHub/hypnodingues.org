@@ -1,6 +1,6 @@
 ---
 title: 'Velouté de berce et d’égopode :'
-date: '2014-05-15T20:29:43+02:00'
+date: 2014-05-15T20:29:43+02:00
 categories:
 - Recette
 author: Laeti

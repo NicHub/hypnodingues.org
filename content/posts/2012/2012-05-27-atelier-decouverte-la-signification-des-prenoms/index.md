@@ -1,6 +1,6 @@
 ---
 title: 'Atelier découverte : La signification des prénoms'
-date: '2012-05-27T20:53:20+02:00'
+date: 2012-05-27T20:53:20+02:00
 categories:
 - conferences
 - Évènements

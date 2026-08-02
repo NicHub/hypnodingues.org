@@ -1,6 +1,6 @@
 ---
 title: One Human Family, Food for All
-date: '2014-09-16T13:32:01+02:00'
+date: 2014-09-16T13:32:01+02:00
 categories:
 - Bonheur
 author: Nico

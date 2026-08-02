@@ -1,6 +1,6 @@
 ---
 title: Citation
-date: '2012-10-16T20:00:18+02:00'
+date: 2012-10-16T20:00:18+02:00
 categories:
 - Citations
 author: Nico

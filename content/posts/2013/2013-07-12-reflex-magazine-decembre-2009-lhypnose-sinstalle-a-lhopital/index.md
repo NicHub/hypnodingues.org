@@ -1,6 +1,6 @@
 ---
 title: Reflex magazine, décembre 2009, L’hypnose s’installe à l’hôpital
-date: '2013-07-12T12:30:49+02:00'
+date: 2013-07-12T12:30:49+02:00
 categories:
 - Articles
 author: Nico

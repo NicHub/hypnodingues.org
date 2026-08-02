@@ -1,6 +1,6 @@
 ---
 title: ARE YOU LIVING IN A COMPUTER SIMULATION?
-date: '2016-06-03T09:24:00+02:00'
+date: 2016-06-03T09:24:00+02:00
 author: Nico
 ---
 

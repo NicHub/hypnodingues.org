@@ -1,6 +1,6 @@
 ---
 title: Interview de sa sainteté le Dalaï Lama par Darius Rochebin
-date: '2013-04-16T19:37:02+02:00'
+date: 2013-04-16T19:37:02+02:00
 categories:
 - Divers
 author: Nico

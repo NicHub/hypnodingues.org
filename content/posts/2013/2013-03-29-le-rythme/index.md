@@ -1,6 +1,6 @@
 ---
 title: Le Rythme de la vie!!!
-date: '2013-03-29T13:13:53+01:00'
+date: 2013-03-29T13:13:53+01:00
 categories:
 - Liens
 author: Laeti

@@ -1,6 +1,6 @@
 ---
 title: Domino Pizza Hypnotica
-date: '2013-10-04T12:28:54+02:00'
+date: 2013-10-04T12:28:54+02:00
 categories:
 - Divers
 author: Nico

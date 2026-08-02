@@ -1,6 +1,6 @@
 ---
 title: Nouvelles
-date: '2012-03-19T17:29:05+01:00'
+date: 2012-03-19T17:29:05+01:00
 categories:
 - Divers
 author: Nico

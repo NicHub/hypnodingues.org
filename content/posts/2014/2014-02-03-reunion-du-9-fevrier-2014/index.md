@@ -1,6 +1,6 @@
 ---
 title: Réunion du 9 février 2014
-date: '2014-02-03T22:54:04+01:00'
+date: 2014-02-03T22:54:04+01:00
 categories:
 - Divers
 author: Nico

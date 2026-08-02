@@ -1,6 +1,6 @@
 ---
 title: 'Talks at Google: Eckhart Tolle in Conversation with Bradley Horowitz'
-date: '2013-06-18T12:31:19+02:00'
+date: 2013-06-18T12:31:19+02:00
 categories:
 - conferences
 author: Nico

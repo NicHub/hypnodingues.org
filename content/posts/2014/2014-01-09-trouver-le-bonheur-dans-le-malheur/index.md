@@ -1,6 +1,6 @@
 ---
 title: Trouver le bonheur dans le malheur
-date: '2014-01-09T08:33:38+01:00'
+date: 2014-01-09T08:33:38+01:00
 categories:
 - Articles
 author: Nico

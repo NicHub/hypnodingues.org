@@ -1,6 +1,6 @@
 ---
 title: Réunion du 28 juillet
-date: '2013-06-20T07:45:18+02:00'
+date: 2013-06-20T07:45:18+02:00
 categories:
 - Évènements
 author: Nico

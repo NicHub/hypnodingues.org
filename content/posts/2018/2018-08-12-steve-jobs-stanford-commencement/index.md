@@ -1,6 +1,6 @@
 ---
 title: 'Steve Jobs: Stanford Commencement'
-date: '2018-08-12T19:39:00+02:00'
+date: 2018-08-12T19:39:00+02:00
 author: Nico
 ---
 

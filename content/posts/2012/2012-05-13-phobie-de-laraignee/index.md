@@ -1,6 +1,6 @@
 ---
 title: Phobie de l’araignée
-date: '2012-05-13T14:19:18+02:00'
+date: 2012-05-13T14:19:18+02:00
 categories:
 - Hypnose
 - Textes

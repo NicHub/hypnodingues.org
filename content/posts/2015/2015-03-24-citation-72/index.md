@@ -1,6 +1,6 @@
 ---
 title: Citation
-date: '2015-03-24T19:07:33+01:00'
+date: 2015-03-24T19:07:33+01:00
 categories:
 - Citations
 - En anglais

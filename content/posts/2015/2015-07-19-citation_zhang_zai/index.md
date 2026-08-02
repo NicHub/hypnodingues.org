@@ -1,6 +1,6 @@
 ---
 title: Citation
-date: '2015-07-19T15:08:00+01:00'
+date: 2015-07-19T15:08:00+01:00
 categories:
 - Divers
 author: Nico

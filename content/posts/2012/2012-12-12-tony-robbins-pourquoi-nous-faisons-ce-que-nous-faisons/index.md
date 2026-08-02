@@ -1,6 +1,6 @@
 ---
 title: 'Tony Robbins: Pourquoi nous faisons ce que nous faisons'
-date: '2012-12-12T11:13:06+01:00'
+date: 2012-12-12T11:13:06+01:00
 categories:
 - conferences
 author: Nico

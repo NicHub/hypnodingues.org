@@ -1,6 +1,6 @@
 ---
 title: Marche sur le feu, 15 juin 2013
-date: '2013-06-17T18:53:46+02:00'
+date: 2013-06-17T18:53:46+02:00
 categories:
 - conferences
 - Évènements

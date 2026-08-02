@@ -1,6 +1,6 @@
 ---
 title: Are You Emotionally Intelligent? Here’s How to Know for Sure
-date: '2016-09-17T12:56:00+02:00'
+date: 2016-09-17T12:56:00+02:00
 categories:
 - English
 author: Nico

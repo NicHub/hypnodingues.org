@@ -1,6 +1,6 @@
 ---
 title: Femme qui tourne
-date: '2015-06-27T14:56:00+01:00'
+date: 2015-06-27T14:56:00+01:00
 categories:
 - Divers
 author: Nico

@@ -1,6 +1,6 @@
 ---
 title: Dites-leur avant qu’il ne soit trop tard
-date: '2014-03-22T20:46:56+01:00'
+date: 2014-03-22T20:46:56+01:00
 categories:
 - Histoires-et-contes
 author: Nico

@@ -1,6 +1,6 @@
 ---
 title: Les hypnodingues vont au chalet
-date: '2012-08-31T11:58:54+02:00'
+date: 2012-08-31T11:58:54+02:00
 categories:
 - Évènements
 author: Nico

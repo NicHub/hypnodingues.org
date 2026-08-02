@@ -1,6 +1,6 @@
 ---
 title: Épreuves du bac
-date: '2018-03-18T17:53:00+01:00'
+date: 2018-03-18T17:53:00+01:00
 author: Nico
 ---
 

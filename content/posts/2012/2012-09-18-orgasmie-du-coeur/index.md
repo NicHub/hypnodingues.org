@@ -1,6 +1,6 @@
 ---
 title: Orgasmie du coeur
-date: '2012-09-18T15:30:09+02:00'
+date: 2012-09-18T15:30:09+02:00
 categories:
 - Liens
 author: Laeti

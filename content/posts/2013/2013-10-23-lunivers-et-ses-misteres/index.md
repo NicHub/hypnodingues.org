@@ -1,6 +1,6 @@
 ---
 title: L’univers et ses mystères...
-date: '2013-10-23T22:27:15+02:00'
+date: 2013-10-23T22:27:15+02:00
 categories:
 - Liens
 author: Laeti

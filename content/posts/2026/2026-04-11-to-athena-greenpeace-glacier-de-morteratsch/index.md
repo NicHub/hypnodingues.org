@@ -1,6 +1,6 @@
 ---
 title: Une musique qui résonne au cœur d’un glacier en fonte
-date: '2026-04-11T11:01:00+02:00'
+date: 2026-04-11T11:01:00+02:00
 categories:
     - Écologie
 author: Nico

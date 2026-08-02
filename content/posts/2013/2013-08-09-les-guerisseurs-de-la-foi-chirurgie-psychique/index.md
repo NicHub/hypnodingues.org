@@ -1,6 +1,6 @@
 ---
 title: Les guérisseurs de la foi - Chirurgie psychique
-date: '2013-08-09T07:54:52+02:00'
+date: 2013-08-09T07:54:52+02:00
 categories:
 - Articles
 author: Nico

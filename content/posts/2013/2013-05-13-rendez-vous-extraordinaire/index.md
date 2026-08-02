@@ -1,6 +1,6 @@
 ---
 title: Rendez-vous extraordinaire
-date: '2013-05-13T21:41:56+02:00'
+date: 2013-05-13T21:41:56+02:00
 categories:
 - Divers
 author: Nico

@@ -1,6 +1,6 @@
 ---
 title: Soutras
-date: '2012-05-27T21:50:36+02:00'
+date: 2012-05-27T21:50:36+02:00
 categories:
 - Hypnose
 - Textes

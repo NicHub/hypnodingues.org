@@ -1,6 +1,6 @@
 ---
 title: Votre meilleure astuce pour gagner du temps
-date: '2013-06-06T08:05:05+02:00'
+date: 2013-06-06T08:05:05+02:00
 categories:
 - Articles
 author: Nico

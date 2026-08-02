@@ -1,6 +1,6 @@
 ---
 title: Poésie-thérapie
-date: '2014-10-18T11:31:50+02:00'
+date: 2014-10-18T11:31:50+02:00
 categories:
 - Divers
 author: Nico

@@ -1,6 +1,6 @@
 ---
 title: Fête!!!
-date: '2012-04-13T13:25:17+02:00'
+date: 2012-04-13T13:25:17+02:00
 categories:
 - Évènements
 author: Laeti

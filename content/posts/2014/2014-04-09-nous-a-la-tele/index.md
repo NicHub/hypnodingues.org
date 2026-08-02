@@ -1,6 +1,6 @@
 ---
 title: Nous à la télé !
-date: '2014-04-09T21:07:37+02:00'
+date: 2014-04-09T21:07:37+02:00
 categories:
 - Divers
 author: Laeti

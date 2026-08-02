@@ -1,6 +1,6 @@
 ---
 title: Bonheur
-date: '2012-03-07T22:09:43+01:00'
+date: 2012-03-07T22:09:43+01:00
 categories:
 - Bonheur
 author: Laeti

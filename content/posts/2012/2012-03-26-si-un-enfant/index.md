@@ -1,6 +1,6 @@
 ---
 title: Si un enfant...
-date: '2012-03-26T19:15:00+02:00'
+date: 2012-03-26T19:15:00+02:00
 categories:
 - Divers
 author: Nico

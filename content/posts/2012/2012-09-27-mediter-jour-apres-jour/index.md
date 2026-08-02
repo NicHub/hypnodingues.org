@@ -1,6 +1,6 @@
 ---
 title: Méditer jour après jour
-date: '2012-09-27T17:20:29+02:00'
+date: 2012-09-27T17:20:29+02:00
 categories:
 - Bibliographie
 tags:

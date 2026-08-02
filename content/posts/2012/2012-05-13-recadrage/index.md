@@ -1,6 +1,6 @@
 ---
 title: Recadrage
-date: '2012-05-13T14:55:06+02:00'
+date: 2012-05-13T14:55:06+02:00
 categories:
 - Hypnose
 - Textes

@@ -1,6 +1,6 @@
 ---
 title: Devenir enseignant-e en hypnose
-date: '2013-01-09T09:35:56+01:00'
+date: 2013-01-09T09:35:56+01:00
 categories:
 - Hypnose
 author: Nico

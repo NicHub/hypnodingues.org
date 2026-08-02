@@ -1,6 +1,6 @@
 ---
 title: La Suisse reste leader dans la course à l'innovation
-date: '2012-05-22T08:00:26+02:00'
+date: 2012-05-22T08:00:26+02:00
 categories:
 - Divers
 author: Nico
