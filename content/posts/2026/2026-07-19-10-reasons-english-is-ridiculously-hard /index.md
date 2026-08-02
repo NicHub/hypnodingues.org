@@ -11,6 +11,8 @@ draft: false
 -   [Olly Richards — 10 Reasons English is Ridiculously Hard](https://www.youtube.com/watch?v=DrlX-L4o2KM)
 -   ChatGPT
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DrlX-L4o2KM?si=TrYHLh5XvjueAlHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## En anglais
 
 ```plain
@@ -18,8 +20,6 @@ opinion-size-age-shape-colour-origin-material-purpose
 ```
 
 > “A lovely little old rectangular blue French diamond engagement ring.”
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DrlX-L4o2KM?si=TrYHLh5XvjueAlHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## En français
 
