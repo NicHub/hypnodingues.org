@@ -33,7 +33,9 @@ twitter_card: "summary_large_image"
     -   Il faut vérifier qu’elles ne préfèrent pas une catégorie à une autre, par exemple une catégorie raciale ou de genre.
 
 03. **Elles induisent en erreur**
-    -   Avec des _deep fakes_ très réalistes.
+    -   Avec des _deepfakes_ très réalistes.
+        -   Hypertrucages
+        -   Montages hyperréalistes susceptibles de tromper le public
 
 04. **Elles ne respectent pas la protection des données**
     -   Elles sont entrainées avec des sources qui peuvent contenir des informations sensibles, privées ou confidentielles.
@@ -56,7 +58,7 @@ twitter_card: "summary_large_image"
     -   Si elles se plantent, qui est responsable ? Qui paie les réparations ?
         -   Dysfonctionnements ou accidents de véhicules autonomes.[^2]
         -   Suppression accidentelle et dommageable de données informatiques.
-        -   Attaque non planifiées, comme l’attaque en juillet 2026 de [Hugging Face] par ChatGPT 5.6 Sol.[^47]
+        -   Attaque non planifiées, comme l’attaque en juillet 2026 de _[Hugging Face]_ par ChatGPT 5.6 Sol.[^47]
 
     {{< comment >}}
 
