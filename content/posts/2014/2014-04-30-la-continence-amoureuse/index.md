@@ -4,6 +4,7 @@ date: 2014-04-30T23:09:16+02:00
 categories:
 - Divers
 author: Laeti
+draft: false
 ---
 
 Faire l’amour en conscience… Une façon de se relier à soi… Voici une chouette vidéo qui nous aide à mieux comprendre nos fonctionnements sexuels et notre relation à nous-mêmes.

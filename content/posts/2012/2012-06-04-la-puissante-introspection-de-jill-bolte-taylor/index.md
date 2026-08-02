@@ -5,6 +5,7 @@ categories:
 - conferences
 - Hypnose
 author: Nico
+draft: false
 ---
 
 Peu de spécialistes du cerveau souhaiteraient vivre l’attaque foudroyante dont Jill Bolte Taylor a été victime. Bien que cette expérience lui ait permis d’observer comment les fonctions de son cerveau, gestes, parole et conscience de soi se sont arrêtées les unes après les autres. Une histoire étonnante.

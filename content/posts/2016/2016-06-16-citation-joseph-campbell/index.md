@@ -2,6 +2,7 @@
 title: "Citations de Joseph Campbell"
 date: 2016-06-16T16:32:00+02:00
 author: Nico
+draft: false
 ---
 
 “We’re so engaged in doing things to achieve purposes of **outer** value that we forget the **inner** value, the rapture that is associated with being **alive**, is what it is all about.”

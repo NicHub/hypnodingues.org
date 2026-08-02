@@ -4,6 +4,7 @@ date: 2015-07-24T11:58:00+01:00
 categories:
 - Divers
 author: Nico
+draft: false
 ---
 
 Premièrement, admettez que la grandeur ne vient ni de la distraction ni du labeur qui prennent bien souvent toute la place dans nos vies.

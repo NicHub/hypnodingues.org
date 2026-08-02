@@ -2,6 +2,7 @@
 title: "Bye bye Dom"
 layout: bare
 url: /bye-bye-dom/
+draft: false
 ---
 
 <!DOCTYPE html>

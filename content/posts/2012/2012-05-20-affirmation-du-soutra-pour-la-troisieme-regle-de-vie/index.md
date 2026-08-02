@@ -5,6 +5,7 @@ categories:
 - Hypnose
 - Textes
 author: Nico
+draft: false
 ---
 
 <div style="text-align: center;">

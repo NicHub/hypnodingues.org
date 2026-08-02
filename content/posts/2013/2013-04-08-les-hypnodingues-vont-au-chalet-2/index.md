@@ -4,6 +4,7 @@ date: 2013-04-08T09:44:35+02:00
 categories:
 - Évènements
 author: Nico
+draft: false
 ---
 
 <h2 id="lieu">

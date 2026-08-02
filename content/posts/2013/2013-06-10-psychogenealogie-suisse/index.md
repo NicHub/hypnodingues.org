@@ -5,6 +5,7 @@ categories:
 - conferences
 - Évènements
 author: Nico
+draft: false
 ---
 
 <table id="templateContainer" width="600" border="0" cellspacing="0" cellpadding="0">

@@ -4,6 +4,7 @@ date: 2013-05-21T22:57:37+02:00
 categories:
 - Citations
 author: Nico
+draft: false
 ---
 
 « Il semble que la perfection soit atteinte, non quand il n’y a plus rien à ajouter mais quand il n’y a plus rien à retrancher. »

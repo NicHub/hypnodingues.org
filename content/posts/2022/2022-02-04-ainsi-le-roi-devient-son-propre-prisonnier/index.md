@@ -2,6 +2,7 @@
 title: "Ainsi le roi devient son propre prisonnier"
 date: 2022-02-04T00:00:00+01:00
 author: Nico
+draft: false
 ---
 
 Un roi, qui était aussi un astrologue, lut dans les étoiles qu’un certain jour à une certaine heure, un malheur allait s’abattre sur lui et qu’il en mourrait. Le roi fit construire une demeure aux murs épais et solides ; il plaça toute son armée autour de la maison pour monter la garde et en interdire l’accès. Puis, il s’y réfugia.

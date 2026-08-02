@@ -5,6 +5,7 @@ categories:
 - Hypnose
 - Textes
 author: Laeti
+draft: false
 ---
 
 <h2 style="line-height: 100%; margin-bottom: 0cm;" align="center">

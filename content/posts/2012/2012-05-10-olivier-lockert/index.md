@@ -6,6 +6,7 @@ categories:
 - Hypnose
 - Textes
 author: Nico
+draft: false
 ---
 
 <br />

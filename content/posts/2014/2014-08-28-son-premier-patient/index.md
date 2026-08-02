@@ -5,6 +5,7 @@ categories:
 - Articles
 - Hypnose
 author: Laeti
+draft: false
 ---
 
 <http://hypnoscient.fr/la-verite-sur-mes-debuts-hypnose/>

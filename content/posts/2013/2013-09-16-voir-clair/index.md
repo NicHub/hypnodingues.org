@@ -6,6 +6,7 @@ categories:
 - Exercices
 - Hypnose
 author: Nico
+draft: false
 ---
 
 ## Audio de la présentation

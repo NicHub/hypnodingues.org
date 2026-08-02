@@ -2,6 +2,7 @@
 title: "Isaac Lidsky — Quelle réalité créez-vous pour vous-même ?"
 date: 2017-01-18T20:35:00+01:00
 author: Nico
+draft: false
 ---
 
 [Isaac Lidsky — Quelle réalité créez-vous pour vous-même ?](https://www.ted.com/talks/isaac_lidsky_what_reality_are_you_creating_for_yourself?language=fr)

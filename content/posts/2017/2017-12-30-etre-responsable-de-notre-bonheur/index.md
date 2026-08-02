@@ -2,6 +2,7 @@
 title: "Être responsable de notre bonheur"
 date: 2017-12-30T14:46:00+01:00
 author: Nico
+draft: false
 ---
 
 Il n’a pas de meilleure recette pour être malheureux que d’attendre que les autres fassent notre bonheur.

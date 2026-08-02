@@ -2,6 +2,7 @@
 title: "Pluriels"
 date: 2019-02-12T22:29:00+01:00
 author: Nico
+draft: false
 ---
 
 > Écrire sans fautes… ou écrire cent fautes… certains ont déjà du mal à ce stade.

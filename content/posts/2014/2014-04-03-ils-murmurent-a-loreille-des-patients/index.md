@@ -4,6 +4,7 @@ date: 2014-04-03T20:52:02+02:00
 categories:
 - Articles
 author: Nico
+draft: false
 ---
 
 <!-- <p><a href="http://www.rts.ch/emissions/36-9/5697626-ils-murmurent-a-l-oreille-des-patients.html">http://www.rts.ch/emissions/36-9/5697626-ils-murmurent-a-l-oreille-des-patients.html</a></p>

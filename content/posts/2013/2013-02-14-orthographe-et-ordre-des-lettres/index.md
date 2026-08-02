@@ -5,6 +5,7 @@ categories:
 - Divers
 - Histoires drôles
 author: Nico
+draft: false
 ---
 
 <p>

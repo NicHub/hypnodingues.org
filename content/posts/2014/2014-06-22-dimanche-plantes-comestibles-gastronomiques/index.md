@@ -4,6 +4,7 @@ date: 2014-06-22T20:04:44+02:00
 categories:
 - Divers
 author: Laeti
+draft: false
 ---
 
 Salade sauvage - Beurre de pimprenelle - Gratin de courgettes et plantains - Petit paquet de consoude - Fraise aux fleurs et sirop de sureau - Muffin au serpolet. Un véritable délice !!!

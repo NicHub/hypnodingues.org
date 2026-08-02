@@ -5,6 +5,7 @@ categories:
 - conferences
 - Évènements
 author: Nico
+draft: false
 ---
 
 <p>

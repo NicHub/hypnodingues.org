@@ -3,6 +3,7 @@ title: "Omraam Mikhaël Aïvanhov"
 date: 2014-10-31T13:42:57+01:00
 categories:
 - Divers
+draft: false
 ---
 
 <https://soundcloud.com/plusconscient/la-puissance-de-la-pens-e>

@@ -2,6 +2,7 @@
 title: "“C’est ça être institutionnalisé.” — Les Évadés (The Shawshank Redemption)"
 date: 2016-07-13T12:06:00+02:00
 author: Nico
+draft: false
 ---
 
 Ces murs ont un effet bizarre. On les hait d’abord, et ensuite on s’y habitue, et plus le temps passe, plus on finit par en avoir besoin. C’est ça être institutionnalisé.

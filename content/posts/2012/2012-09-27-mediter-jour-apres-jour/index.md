@@ -6,6 +6,7 @@ categories:
 tags:
 - méditation; pleine conscience
 author: Nico
+draft: false
 ---
 
 <p>

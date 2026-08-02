@@ -4,6 +4,7 @@ date: 2014-09-18T08:49:15+02:00
 categories:
 - Articles
 author: Nico
+draft: false
 ---
 
 [À 25 ans, j’hypnotise la Suisse romande](http://www.femina.ch/societe/temoignages/25-ans-jhypnotise-suisse-romande)

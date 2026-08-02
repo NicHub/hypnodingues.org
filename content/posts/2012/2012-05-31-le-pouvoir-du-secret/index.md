@@ -5,6 +5,7 @@ categories:
 - Citations
 - Hypnose
 author: Nico
+draft: false
 ---
 
 <p>

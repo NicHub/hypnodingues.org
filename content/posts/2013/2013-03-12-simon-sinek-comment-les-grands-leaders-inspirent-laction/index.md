@@ -4,6 +4,7 @@ date: 2013-03-12T18:23:06+01:00
 categories:
 - conferences
 author: Nico
+draft: false
 ---
 
 <iframe src="https://embed.ted.com/talks/lang/fr/simon_sinek_how_great_leaders_inspire_action.html" width="663" height="373" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen">

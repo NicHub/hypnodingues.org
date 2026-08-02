@@ -4,6 +4,7 @@ date: 2015-05-21T13:31:00+02:00
 categories:
 - sexualite
 author: Laeti
+draft: false
 ---
 
 ## Sexualité essentielle et sexualité sacrée

@@ -4,6 +4,7 @@ date: 2013-05-28T17:18:25+02:00
 categories:
 - Évènements
 author: Nico
+draft: false
 ---
 
 « Le secret du BONHEUR c’est la LIBERTÉ, et le secret de la LIBERTÉ, c’est le COURAGE. »

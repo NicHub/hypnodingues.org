@@ -4,6 +4,7 @@ date: 2016-08-30T09:04:00+02:00
 categories:
 - Définitions
 author: Nico
+draft: false
 ---
 
 **Savez-vous pour quelle raison nous disons d’un été qu’il est caniculaire ? Parce qu’il est d’une chaleur étouffante ? Eh bien non, il s’agit d’astronomie !**
