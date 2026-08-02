@@ -1,5 +1,5 @@
 ---
-title: Comment changer de vibration et de conscience? Anne Givaudan
+title: "Comment changer de vibration et de conscience? Anne Givaudan"
 date: 2012-04-11T09:59:08+02:00
 categories:
 - Liens

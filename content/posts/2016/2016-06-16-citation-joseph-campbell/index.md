@@ -1,5 +1,5 @@
 ---
-title: Citations de Joseph Campbell
+title: "Citations de Joseph Campbell"
 date: 2016-06-16T16:32:00+02:00
 author: Nico
 ---

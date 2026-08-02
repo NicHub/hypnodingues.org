@@ -1,5 +1,5 @@
 ---
-title: 'Simon Sinek : Comment les grands leaders inspirent l’action'
+title: "Simon Sinek : Comment les grands leaders inspirent l’action"
 date: 2013-03-12T18:23:06+01:00
 categories:
 - conferences

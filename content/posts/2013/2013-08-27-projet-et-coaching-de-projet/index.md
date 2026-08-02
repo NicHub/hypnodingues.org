@@ -1,5 +1,5 @@
 ---
-title: Projet et coaching de projet
+title: "Projet et coaching de projet"
 date: 2013-08-27T14:06:30+02:00
 categories:
 - Divers

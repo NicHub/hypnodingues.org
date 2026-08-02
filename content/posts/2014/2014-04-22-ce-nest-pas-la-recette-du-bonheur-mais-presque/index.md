@@ -1,5 +1,5 @@
 ---
-title: Ce n'est pas la recette du bonheur... mais presque ;-)!
+title: "Ce n’est pas la recette du bonheur... mais presque ;-)!"
 date: 2014-04-22T20:15:10+02:00
 categories:
 - Recette

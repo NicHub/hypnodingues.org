@@ -1,5 +1,5 @@
 ---
-title: Le sens de la vie
+title: "Le sens de la vie"
 date: 2013-11-01T19:53:35+01:00
 categories:
 - Citations

@@ -1,5 +1,5 @@
 ---
-title: Citation de Ralph Waldo Emerson
+title: "Citation de Ralph Waldo Emerson"
 date: 2014-08-05T22:48:10+02:00
 categories:
 - Citations

@@ -1,5 +1,5 @@
 ---
-title: Séminaire Brofman du 5 au 9 décembre 2012 à Champex (VS)
+title: "Séminaire Brofman du 5 au 9 décembre 2012 à Champex (VS)"
 date: 2012-11-30T13:06:41+01:00
 categories:
 - Évènements

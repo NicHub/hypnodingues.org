@@ -1,5 +1,5 @@
 ---
-title: Présentation Laetitia Stucki
+title: "Présentation Laetitia Stucki"
 date: 2012-03-07T12:53:51+01:00
 categories:
 - Membres

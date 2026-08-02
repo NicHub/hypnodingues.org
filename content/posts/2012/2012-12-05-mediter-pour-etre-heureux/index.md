@@ -1,5 +1,5 @@
 ---
-title: Méditer pour être heureux
+title: "Méditer pour être heureux"
 date: 2012-12-05T18:47:06+01:00
 categories:
 - Divers

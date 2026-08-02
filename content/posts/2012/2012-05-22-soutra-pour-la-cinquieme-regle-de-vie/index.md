@@ -1,5 +1,5 @@
 ---
-title: Affirmation du soutra pour la cinquième règle de vie
+title: "Affirmation du soutra pour la cinquième règle de vie"
 date: 2012-05-22T07:55:09+02:00
 categories:
 - Hypnose

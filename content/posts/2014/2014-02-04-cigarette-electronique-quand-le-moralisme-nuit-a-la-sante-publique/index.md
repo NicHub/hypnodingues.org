@@ -1,5 +1,5 @@
 ---
-title: 'Cigarette électronique: quand le moralisme nuit à la santé publique'
+title: "Cigarette électronique: quand le moralisme nuit à la santé publique"
 date: 2014-02-04T19:27:46+01:00
 categories:
 - Articles

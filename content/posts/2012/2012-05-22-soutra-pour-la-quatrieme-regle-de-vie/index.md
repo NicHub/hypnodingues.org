@@ -1,5 +1,5 @@
 ---
-title: Affirmation du soutra pour la quatrième règle de vie
+title: "Affirmation du soutra pour la quatrième règle de vie"
 date: 2012-05-22T07:54:43+02:00
 categories:
 - Hypnose

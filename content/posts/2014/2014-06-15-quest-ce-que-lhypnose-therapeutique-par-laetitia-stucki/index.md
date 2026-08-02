@@ -1,5 +1,5 @@
 ---
-title: Vidéo « Qu’est-ce que l’hypnose thérapeutique ? » par Lætitia Stucki
+title: "Vidéo « Qu’est-ce que l’hypnose thérapeutique ? » par Lætitia Stucki"
 date: 2014-06-15T14:26:51+02:00
 categories:
 - Liens

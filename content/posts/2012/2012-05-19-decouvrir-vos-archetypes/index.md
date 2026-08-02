@@ -1,5 +1,5 @@
 ---
-title: Découvrir vos archétypes
+title: "Découvrir vos archétypes"
 date: 2012-05-19T18:39:16+02:00
 categories:
 - Hypnose

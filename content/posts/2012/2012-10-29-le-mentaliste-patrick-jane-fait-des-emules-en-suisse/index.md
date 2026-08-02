@@ -1,5 +1,5 @@
 ---
-title: Le mentaliste Patrick Jane fait des émules en Suisse
+title: "Le mentaliste Patrick Jane fait des émules en Suisse"
 date: 2012-10-29T12:05:10+01:00
 categories:
 - Articles

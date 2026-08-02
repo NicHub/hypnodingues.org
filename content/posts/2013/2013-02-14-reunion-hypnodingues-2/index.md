@@ -1,5 +1,5 @@
 ---
-title: Réunion Hypnodingues
+title: "Réunion Hypnodingues"
 date: 2013-02-14T11:14:08+01:00
 categories:
 - Évènements

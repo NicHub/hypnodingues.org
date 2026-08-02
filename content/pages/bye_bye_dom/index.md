@@ -1,5 +1,5 @@
 ---
-title: Bye bye Dom
+title: "Bye bye Dom"
 layout: bare
 url: /bye-bye-dom/
 ---

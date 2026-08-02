@@ -1,5 +1,5 @@
 ---
-title: Recadrage I
+title: "Recadrage I"
 date: 2012-05-13T15:13:11+02:00
 categories:
 - Hypnose

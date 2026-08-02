@@ -1,5 +1,5 @@
 ---
-title: Bye bye Dom
+title: "Bye bye Dom"
 date: 2013-06-04T09:16:55+02:00
 categories:
 - Membres

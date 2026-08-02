@@ -1,5 +1,5 @@
 ---
-title: News is bad for you – and giving up reading it will make you happier
+title: "News is bad for you – and giving up reading it will make you happier"
 date: 2014-02-26T09:32:22+01:00
 categories:
 - En anglais

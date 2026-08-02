@@ -1,5 +1,5 @@
 ---
-title: Healing vacation in Greece with Martin Brofman
+title: "Healing vacation in Greece with Martin Brofman"
 date: 2012-04-06T12:24:13+02:00
 categories:
 - Évènements

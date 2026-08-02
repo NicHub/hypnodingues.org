@@ -1,5 +1,5 @@
 ---
-title: Sagesse socratique
+title: "Sagesse socratique"
 date: 2012-09-17T20:55:20+02:00
 categories:
 - Citations

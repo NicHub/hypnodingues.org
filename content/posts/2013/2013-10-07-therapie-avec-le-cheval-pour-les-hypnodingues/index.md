@@ -1,5 +1,5 @@
 ---
-title: Thérapie avec le cheval pour les HypnoDingues
+title: "Thérapie avec le cheval pour les HypnoDingues"
 date: 2013-10-07T18:08:08+02:00
 categories:
 - Évènements

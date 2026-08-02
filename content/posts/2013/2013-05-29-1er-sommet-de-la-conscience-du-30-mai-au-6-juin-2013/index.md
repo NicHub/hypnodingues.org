@@ -1,5 +1,5 @@
 ---
-title: 1er sommet de la conscience du 30 mai au 6 juin 2013
+title: "1er sommet de la conscience du 30 mai au 6 juin 2013"
 date: 2013-05-29T12:42:35+02:00
 categories:
 - conferences

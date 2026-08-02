@@ -1,5 +1,5 @@
 ---
-title: Dove Real Beauty Sketches
+title: "Dove Real Beauty Sketches"
 date: 2013-04-22T10:47:11+02:00
 categories:
 - Divers

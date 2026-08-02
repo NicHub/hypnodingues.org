@@ -1,5 +1,5 @@
 ---
-title: Serge Marquis — On est foutus, on pense trop
+title: "Serge Marquis — On est foutus, on pense trop"
 date: 2021-09-02T00:00:00+02:00
 author: Nico
 ---

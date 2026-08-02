@@ -1,5 +1,5 @@
 ---
-title: Live simply so other people can simply live
+title: "Live simply so other people can simply live"
 date: 2013-03-21T23:04:54+01:00
 categories:
 - Divers

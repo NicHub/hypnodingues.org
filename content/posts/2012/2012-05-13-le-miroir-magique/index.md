@@ -1,5 +1,5 @@
 ---
-title: Le miroir magique
+title: "Le miroir magique"
 date: 2012-05-13T15:22:19+02:00
 categories:
 - Hypnose

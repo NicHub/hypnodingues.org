@@ -1,5 +1,5 @@
 ---
-title: La modélisation
+title: "La modélisation"
 date: 2012-05-13T15:19:01+02:00
 categories:
 - Hypnose

@@ -1,5 +1,5 @@
 ---
-title: La vie n’est qu’illusion !
+title: "La vie n’est qu’illusion !"
 date: 2013-12-20T13:27:53+01:00
 categories:
 - Divers

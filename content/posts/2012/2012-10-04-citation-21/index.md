@@ -1,5 +1,5 @@
 ---
-title: Citation
+title: "Citation"
 date: 2012-10-04T15:40:56+02:00
 categories:
 - Citations

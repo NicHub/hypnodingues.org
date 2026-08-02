@@ -1,5 +1,5 @@
 ---
-title: Mythe mélanésien du Vanuatu
+title: "Mythe mélanésien du Vanuatu"
 date: 2016-06-18T12:06:00+02:00
 author: Nico
 ---

@@ -1,5 +1,5 @@
 ---
-title: L’échelle Dalia
+title: "L’échelle Dalia"
 date: 2026-03-30T09:40:00+02:00
 categories:
     - IA

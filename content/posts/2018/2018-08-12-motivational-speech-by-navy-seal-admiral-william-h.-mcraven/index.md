@@ -1,5 +1,5 @@
 ---
-title: Motivational Speech By Navy Seal Admiral William H. McRaven
+title: "Motivational Speech By Navy Seal Admiral William H. McRaven"
 date: 2018-08-12T19:39:00+02:00
 author: Nico
 ---

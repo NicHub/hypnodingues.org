@@ -1,5 +1,5 @@
 ---
-title: Réunion octobre 2013 ok
+title: "Réunion octobre 2013 ok"
 date: 2013-08-19T08:54:22+02:00
 categories:
 - Évènements

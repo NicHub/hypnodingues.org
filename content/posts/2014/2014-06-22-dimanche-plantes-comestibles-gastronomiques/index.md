@@ -1,5 +1,5 @@
 ---
-title: Dimanche plantes comestibles gastronomiques
+title: "Dimanche plantes comestibles gastronomiques"
 date: 2014-06-22T20:04:44+02:00
 categories:
 - Divers

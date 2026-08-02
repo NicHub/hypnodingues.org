@@ -1,5 +1,5 @@
 ---
-title: Sortie de l'état hypnotique et conscience du rêve
+title: "Sortie de l’état hypnotique et conscience du rêve"
 date: 2012-05-13T13:57:27+02:00
 categories:
 - Hypnose

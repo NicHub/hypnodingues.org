@@ -1,5 +1,5 @@
 ---
-title: Conférence de l’alchimiste Patrick Burensteinas
+title: "Conférence de l’alchimiste Patrick Burensteinas"
 date: 2015-11-03T12:00:00+01:00
 categories:
 - Divers

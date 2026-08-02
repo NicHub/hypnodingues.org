@@ -1,5 +1,5 @@
 ---
-title: J’ai découvert que j’étais synesthète ! C’est grave Docteur ?
+title: "J’ai découvert que j’étais synesthète ! C’est grave Docteur ?"
 date: 2016-02-17T13:04:00+01:00
 author: Nico
 ---

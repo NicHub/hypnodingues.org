@@ -1,5 +1,5 @@
 ---
-title: Suggestion positive de vie réussie
+title: "Suggestion positive de vie réussie"
 date: 2013-01-15T14:25:16+01:00
 categories:
 - Hypnose

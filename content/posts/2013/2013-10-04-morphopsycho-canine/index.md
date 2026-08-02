@@ -1,5 +1,5 @@
 ---
-title: Morphopsycho canine
+title: "Morphopsycho canine"
 date: 2013-10-04T13:28:23+02:00
 categories:
 - Divers

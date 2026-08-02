@@ -1,5 +1,5 @@
 ---
-title: 'Chimamanda Adichie: The danger of a single story'
+title: "Chimamanda Adichie: The danger of a single story"
 date: 2013-01-16T01:27:23+01:00
 categories:
 - conferences

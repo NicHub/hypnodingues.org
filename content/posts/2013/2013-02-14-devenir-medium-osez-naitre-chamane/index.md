@@ -1,5 +1,5 @@
 ---
-title: Devenir médium - osez naître chamane
+title: "Devenir médium - osez naître chamane"
 date: 2013-02-14T10:23:00+01:00
 categories:
 - Évènements

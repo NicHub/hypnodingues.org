@@ -1,5 +1,5 @@
 ---
-title: 'Marc de la Menardière : Changer de croyances pour changer de monde'
+title: "Marc de la Menardière : Changer de croyances pour changer de monde"
 date: 2013-05-13T22:05:37+02:00
 categories:
 - conferences

@@ -1,5 +1,5 @@
 ---
-title: 'VS Ramachandran: Les neurones qui ont formé la civilisation'
+title: "VS Ramachandran: Les neurones qui ont formé la civilisation"
 date: 2012-12-11T21:33:41+01:00
 categories:
 - conferences

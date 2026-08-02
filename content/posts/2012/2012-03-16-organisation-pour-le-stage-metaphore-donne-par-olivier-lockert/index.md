@@ -1,5 +1,5 @@
 ---
-title: Organisation pour le stage Métaphore donné par Olivier Lockert
+title: "Organisation pour le stage Métaphore donné par Olivier Lockert"
 date: 2012-03-16T10:39:34+01:00
 categories:
 - Évènements

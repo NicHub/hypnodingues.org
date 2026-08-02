@@ -1,5 +1,5 @@
 ---
-title: Sexualité et spiritualité
+title: "Sexualité et spiritualité"
 date: 2012-10-23T16:20:38+02:00
 categories:
 - Articles

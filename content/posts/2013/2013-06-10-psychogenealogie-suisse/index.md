@@ -1,5 +1,5 @@
 ---
-title: Psycho­généalogie suisse
+title: "Psycho­généalogie suisse"
 date: 2013-06-10T11:28:28+02:00
 categories:
 - conferences

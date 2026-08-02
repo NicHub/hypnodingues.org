@@ -1,5 +1,5 @@
 ---
-title: Dentistes pratiquant sous hypnose dans le canton de Vaud
+title: "Dentistes pratiquant sous hypnose dans le canton de Vaud"
 date: 2012-04-02T12:28:14+02:00
 categories:
 - Liens

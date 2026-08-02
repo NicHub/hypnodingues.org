@@ -1,5 +1,5 @@
 ---
-title: rencontre hypnodingues
+title: "rencontre hypnodingues"
 date: 2012-03-12T19:52:33+01:00
 categories:
 - Évènements

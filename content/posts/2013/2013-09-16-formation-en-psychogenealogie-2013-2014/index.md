@@ -1,5 +1,5 @@
 ---
-title: Formation en psychogénéalogie – 2013-2014
+title: "Formation en psychogénéalogie – 2013-2014"
 date: 2013-09-16T08:20:41+02:00
 categories:
 - Divers

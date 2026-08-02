@@ -1,5 +1,5 @@
 ---
-title: Blague
+title: "Blague"
 date: 2012-10-04T16:36:48+02:00
 categories:
 - Histoires drôles

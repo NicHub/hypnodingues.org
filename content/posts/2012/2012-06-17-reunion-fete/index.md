@@ -1,5 +1,5 @@
 ---
-title: Réunion + Fête
+title: "Réunion + Fête"
 date: 2012-06-17T16:19:49+02:00
 categories:
 - Évènements

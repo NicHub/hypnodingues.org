@@ -1,5 +1,5 @@
 ---
-title: 'Marc Auburn : L’expérience de la réalité'
+title: "Marc Auburn : L’expérience de la réalité"
 date: 2017-01-13T14:38:00+01:00
 author: Nico
 ---

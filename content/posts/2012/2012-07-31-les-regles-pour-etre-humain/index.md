@@ -1,5 +1,5 @@
 ---
-title: Les règles pour être humain
+title: "Les règles pour être humain"
 date: 2012-07-31T12:36:36+02:00
 categories:
 - Textes

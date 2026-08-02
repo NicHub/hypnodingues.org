@@ -1,5 +1,5 @@
 ---
-title: Attention! Générosité contagieuse
+title: "Attention! Générosité contagieuse"
 date: 2013-02-12T18:15:40+01:00
 categories:
 - Articles

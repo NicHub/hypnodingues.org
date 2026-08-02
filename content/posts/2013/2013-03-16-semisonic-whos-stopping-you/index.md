@@ -1,5 +1,5 @@
 ---
-title: Semisonic – Who’s stopping you ?
+title: "Semisonic – Who’s stopping you ?"
 date: 2013-03-16T14:34:56+01:00
 categories:
 - Divers

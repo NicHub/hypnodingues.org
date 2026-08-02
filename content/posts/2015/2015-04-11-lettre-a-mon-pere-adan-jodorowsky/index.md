@@ -1,5 +1,5 @@
 ---
-title: « Lettre à mon père »<br/>Adan Jodorowsky
+title: "« Lettre à mon père »<br/>Adan Jodorowsky"
 date: 2015-04-11T10:53:14+02:00
 categories:
 - Divers

@@ -1,5 +1,5 @@
 ---
-title: Marche sur le feu
+title: "Marche sur le feu"
 date: 2013-06-13T09:37:31+02:00
 categories:
 - Évènements

@@ -1,5 +1,5 @@
 ---
-title: Physique Quantique et Spiritualité
+title: "Physique Quantique et Spiritualité"
 date: 2013-06-27T20:41:30+02:00
 categories:
 - Liens

@@ -1,5 +1,5 @@
 ---
-title: Histoire du vibromasseur
+title: "Histoire du vibromasseur"
 date: 2014-01-03T19:29:22+01:00
 categories:
 - Articles

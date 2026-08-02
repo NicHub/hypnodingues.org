@@ -1,5 +1,5 @@
 ---
-title: 'Monologue d’Otis dans Astérix et Obélix : Mission Cléopâtre'
+title: "Monologue d’Otis dans Astérix et Obélix : Mission Cléopâtre"
 date: 2016-05-29T10:22:00+02:00
 author: Nico
 ---

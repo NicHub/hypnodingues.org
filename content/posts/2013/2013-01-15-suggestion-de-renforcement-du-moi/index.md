@@ -1,5 +1,5 @@
 ---
-title: Suggestion de renforcement du moi
+title: "Suggestion de renforcement du moi"
 date: 2013-01-15T15:47:50+01:00
 categories:
 - Hypnose

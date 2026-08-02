@@ -1,5 +1,5 @@
 ---
-title: Kumbha mela
+title: "Kumbha mela"
 date: 2012-11-27T10:45:41+01:00
 categories:
 - Divers

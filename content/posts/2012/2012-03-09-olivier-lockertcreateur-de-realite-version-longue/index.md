@@ -1,5 +1,5 @@
 ---
-title: Olivier Lockert, Créateur de Réalité, version longue
+title: "Olivier Lockert, Créateur de Réalité, version longue"
 date: 2012-03-09T20:33:54+01:00
 categories:
 - Hypnose

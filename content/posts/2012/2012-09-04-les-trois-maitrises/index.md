@@ -1,5 +1,5 @@
 ---
-title: Les Trois Maîtrises
+title: "Les Trois Maîtrises"
 date: 2012-09-04T16:01:15+02:00
 categories:
 - Citations

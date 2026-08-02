@@ -1,5 +1,5 @@
 ---
-title: Aidez Hang Massive à financer leur prochain album
+title: "Aidez Hang Massive à financer leur prochain album"
 date: 2015-01-05T18:33:59+01:00
 categories:
 - Divers

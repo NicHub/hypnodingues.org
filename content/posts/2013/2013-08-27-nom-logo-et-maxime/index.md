@@ -1,5 +1,5 @@
 ---
-title: Nom, logo et maxime
+title: "Nom, logo et maxime"
 date: 2013-08-27T14:03:06+02:00
 categories:
 - Divers

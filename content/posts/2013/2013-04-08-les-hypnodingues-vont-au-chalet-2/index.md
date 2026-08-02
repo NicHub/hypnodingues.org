@@ -1,5 +1,5 @@
 ---
-title: Les Hypnodingues vont au chalet
+title: "Les Hypnodingues vont au chalet"
 date: 2013-04-08T09:44:35+02:00
 categories:
 - Évènements
