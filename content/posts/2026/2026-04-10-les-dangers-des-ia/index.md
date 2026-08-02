@@ -56,7 +56,7 @@ twitter_card: "summary_large_image"
     -   Si elles se plantent, qui est responsable ? Qui paie les réparations ?
         -   Dysfonctionnements ou accidents de véhicules autonomes.[^2]
         -   Suppression accidentelle et dommageable de données informatiques.
-        -   Attaque non planifiées, comme l’attaque du 23 juillet 2026 de [Hugging Face] par ChatGPT 5.6 Sol.[^47]
+        -   Attaque non planifiées, comme l’attaque en juillet 2026 de [Hugging Face] par ChatGPT 5.6 Sol.[^47]
 
     {{< comment >}}
 
