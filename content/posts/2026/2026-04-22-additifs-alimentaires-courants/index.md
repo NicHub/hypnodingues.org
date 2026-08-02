@@ -3,7 +3,6 @@ title: "Additifs alimentaires : décoder les E-numéros courants"
 date: 2026-04-22T00:00:00+02:00
 categories:
 - Santé
-description: "Tableau de recherche pour retrouver le rôle et la dangerosité supposée d’une cinquantaine d’additifs alimentaires courants, selon Open Food Facts."
 author: Nico
 draft: false
 ---

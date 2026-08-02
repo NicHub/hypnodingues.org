@@ -3,7 +3,6 @@ title: "Le coup de pression de Macron à Bally Bagayoko"
 date: 2026-06-07T00:00:00+02:00
 categories:
 - Société
-description: "Bally Bagayoko"
 author: Nico
 draft: false
 ---
