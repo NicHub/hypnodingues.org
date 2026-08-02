@@ -1,9 +1,7 @@
 ---
 title: "La puissante introspection de Jill Bolte Taylor"
 date: 2012-06-04T21:38:35+02:00
-categories:
-- conferences
-- Hypnose
+categories: [Conférences, Hypnose]
 author: Nico
 draft: false
 ---

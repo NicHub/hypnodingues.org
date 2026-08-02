@@ -1,9 +1,7 @@
 ---
 title: "Orthographe et ordre des lettres"
 date: 2013-02-14T12:22:21+01:00
-categories:
-- Divers
-- Histoires drôles
+categories: [Divers, Histoires drôles]
 author: Nico
 draft: false
 ---

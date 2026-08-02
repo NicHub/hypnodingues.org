@@ -1,8 +1,7 @@
 ---
 title: "Isaac Lidsky — Quelle réalité créez-vous pour vous-même ?"
 date: 2017-01-18T20:35:00+01:00
-categories:
-- À classer
+categories: [À classer]
 author: Nico
 draft: false
 ---

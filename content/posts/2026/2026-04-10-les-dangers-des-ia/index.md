@@ -1,8 +1,7 @@
 ---
 title: "Les dangers des IA"
 date: 2026-04-10T11:12:00+02:00
-categories:
-- IA
+categories: [IA]
 author: Nico
 draft: false
 description: "Une liste non exhaustive des dangers des IA, entre erreurs, biais, intrusions, dépendance et impacts environnementaux."

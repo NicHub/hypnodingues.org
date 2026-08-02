@@ -1,8 +1,7 @@
 ---
 title: "Humour"
 date: 2013-03-06T11:58:38+01:00
-categories:
-- Histoires drôles
+categories: [Histoires drôles]
 author: Nico
 draft: false
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Ennéagramme"
 date: 2013-05-22T10:31:12+02:00
-categories:
-- Articles
+categories: [Articles]
 author: Nico
 draft: false
 ---

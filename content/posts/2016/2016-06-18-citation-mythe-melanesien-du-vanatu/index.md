@@ -1,8 +1,7 @@
 ---
 title: "Mythe mélanésien du Vanuatu"
 date: 2016-06-18T12:06:00+02:00
-categories:
-- À classer
+categories: [À classer]
 author: Nico
 draft: false
 ---

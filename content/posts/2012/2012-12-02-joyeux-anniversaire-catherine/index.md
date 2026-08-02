@@ -1,8 +1,7 @@
 ---
 title: "Joyeux Anniversaire Catherine!!!"
 date: 2012-12-02T21:22:50+01:00
-categories:
-- Anniversaires
+categories: [Anniversaires]
 author: Laeti
 draft: true
 ---

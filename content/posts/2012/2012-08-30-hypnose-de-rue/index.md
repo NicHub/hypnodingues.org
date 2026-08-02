@@ -1,8 +1,7 @@
 ---
 title: "Hypnose de rue"
 date: 2012-08-30T12:12:44+02:00
-categories:
-- Liens
+categories: [Liens]
 author: Nico
 draft: false
 ---

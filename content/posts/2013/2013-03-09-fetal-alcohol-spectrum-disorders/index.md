@@ -1,8 +1,7 @@
 ---
 title: "Fetal Alcohol Spectrum Disorders"
 date: 2013-03-09T16:17:05+01:00
-categories:
-- Articles
+categories: [Articles]
 author: Nico
 draft: false
 ---

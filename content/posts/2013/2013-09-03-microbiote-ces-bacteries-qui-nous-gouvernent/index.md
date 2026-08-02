@@ -1,9 +1,7 @@
 ---
 title: "Microbiote ces bacteries qui nous gouvernent"
 date: 2013-09-03T08:16:24+02:00
-categories:
-- Liens
-- Santé
+categories: [Liens, Santé]
 author: Laeti
 draft: false
 ---

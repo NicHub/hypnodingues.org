@@ -1,8 +1,7 @@
 ---
 title: "Joyeux anniversaire, Sonia !!!"
 date: 2012-03-30T08:34:05+02:00
-categories:
-- Anniversaires
+categories: [Anniversaires]
 author: Nico
 draft: true
 ---

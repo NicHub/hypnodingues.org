@@ -1,8 +1,7 @@
 ---
 title: "La continence amoureuse"
 date: 2014-04-30T23:09:16+02:00
-categories:
-- Divers
+categories: [Divers]
 author: Laeti
 draft: false
 ---

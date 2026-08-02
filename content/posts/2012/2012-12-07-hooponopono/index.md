@@ -1,8 +1,7 @@
 ---
 title: "Ho’oponopono"
 date: 2012-12-07T13:20:41+01:00
-categories:
-- Articles
+categories: [Articles]
 author: Nico
 draft: true
 ---

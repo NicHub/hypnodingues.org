@@ -1,9 +1,7 @@
 ---
 title: "Son premier patient !!!"
 date: 2014-08-28T12:45:43+02:00
-categories:
-- Articles
-- Hypnose
+categories: [Articles, Hypnose]
 author: Laeti
 draft: false
 ---

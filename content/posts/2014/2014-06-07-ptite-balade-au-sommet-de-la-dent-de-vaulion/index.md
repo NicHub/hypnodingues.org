@@ -1,8 +1,7 @@
 ---
 title: "P’tite balade au sommet de la Dent de Vaulion!"
 date: 2014-06-07T10:13:48+02:00
-categories:
-- Divers
+categories: [Divers]
 author: Laeti
 draft: false
 ---

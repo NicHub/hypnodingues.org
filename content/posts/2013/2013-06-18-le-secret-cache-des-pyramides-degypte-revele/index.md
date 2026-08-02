@@ -1,8 +1,7 @@
 ---
 title: "Le secret caché des pyramides d’Égypte révélé"
 date: 2013-06-18T10:21:22+02:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: false
 ---

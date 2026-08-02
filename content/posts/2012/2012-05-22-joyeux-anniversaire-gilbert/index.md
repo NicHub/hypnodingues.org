@@ -1,8 +1,7 @@
 ---
 title: "Joyeux Anniversaire Gilbert!!!"
 date: 2012-05-22T15:03:24+02:00
-categories:
-- Anniversaires
+categories: [Anniversaires]
 author: Laeti
 draft: true
 ---

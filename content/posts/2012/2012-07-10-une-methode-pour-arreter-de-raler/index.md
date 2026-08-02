@@ -1,8 +1,7 @@
 ---
 title: "Une méthode pour arrêter de... râler"
 date: 2012-07-10T05:43:37+02:00
-categories:
-- Santé
+categories: [Santé]
 author: Nico
 draft: false
 ---

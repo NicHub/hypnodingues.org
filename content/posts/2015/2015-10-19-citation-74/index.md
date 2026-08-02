@@ -1,8 +1,7 @@
 ---
 title: "Citation"
 date: 2015-10-19T21:16:00+01:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: false
 ---

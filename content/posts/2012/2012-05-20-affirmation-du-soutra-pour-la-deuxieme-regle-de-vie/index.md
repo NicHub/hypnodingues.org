@@ -1,9 +1,7 @@
 ---
 title: "Affirmation du soutra pour la deuxième règle de vie"
 date: 2012-05-20T16:10:06+02:00
-categories:
-- Hypnose
-- Textes
+categories: [Hypnose, Textes]
 author: Nico
 draft: false
 ---

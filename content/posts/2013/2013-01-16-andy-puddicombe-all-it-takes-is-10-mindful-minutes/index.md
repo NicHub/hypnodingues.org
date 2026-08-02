@@ -1,8 +1,7 @@
 ---
 title: "Andy Puddicombe: All it takes is 10 mindful minutes"
 date: 2013-01-16T00:03:11+01:00
-categories:
-- conferences
+categories: [Conférences]
 author: Nico
 draft: false
 ---

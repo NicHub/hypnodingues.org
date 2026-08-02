@@ -1,8 +1,7 @@
 ---
 title: "Vie en nature!"
 date: 2013-05-07T12:31:03+02:00
-categories:
-- Évènements
+categories: [Évènements]
 author: Laeti
 draft: false
 ---

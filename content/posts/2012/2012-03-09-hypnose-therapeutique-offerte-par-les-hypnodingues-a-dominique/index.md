@@ -1,9 +1,7 @@
 ---
 title: "Hypnose thérapeutique offerte à Dominique par les hypnodingues"
 date: 2012-03-09T21:31:38+01:00
-categories:
-- Hypnose
-- Textes
+categories: [Hypnose, Textes]
 author: Nico
 draft: true
 ---

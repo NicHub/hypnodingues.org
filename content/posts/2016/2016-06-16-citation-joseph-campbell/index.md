@@ -1,8 +1,7 @@
 ---
 title: "Citations de Joseph Campbell"
 date: 2016-06-16T16:32:00+02:00
-categories:
-- À classer
+categories: [À classer]
 author: Nico
 draft: false
 ---

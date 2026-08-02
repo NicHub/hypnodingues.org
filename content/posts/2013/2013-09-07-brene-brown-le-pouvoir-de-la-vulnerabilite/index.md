@@ -1,8 +1,7 @@
 ---
 title: "Brene Brown : le pouvoir de la vulnérabilité."
 date: 2013-09-07T18:17:35+02:00
-categories:
-- conferences
+categories: [Conférences]
 author: Nico
 draft: false
 ---

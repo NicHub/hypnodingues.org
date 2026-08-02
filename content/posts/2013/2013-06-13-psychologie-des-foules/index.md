@@ -1,8 +1,7 @@
 ---
 title: "Psychologie des foules"
 date: 2013-06-13T13:57:15+02:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: false
 ---

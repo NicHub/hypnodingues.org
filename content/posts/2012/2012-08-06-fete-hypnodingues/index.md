@@ -1,8 +1,7 @@
 ---
 title: "Fête Hypnodingues"
 date: 2012-08-06T11:38:24+02:00
-categories:
-- Évènements
+categories: [Évènements]
 author: Laeti
 draft: true
 ---

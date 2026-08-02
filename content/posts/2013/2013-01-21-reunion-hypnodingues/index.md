@@ -1,8 +1,7 @@
 ---
 title: "Réunion Hypnodingues"
 date: 2013-01-21T13:14:23+01:00
-categories:
-- Évènements
+categories: [Évènements]
 author: Laeti
 draft: true
 ---

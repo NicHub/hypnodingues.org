@@ -1,8 +1,7 @@
 ---
 title: "Tout est pour le mieux dans le meilleur des mondes – Anthony de Mello"
 date: 2012-11-20T14:46:05+01:00
-categories:
-- Textes
+categories: [Textes]
 author: Nico
 draft: true
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Les Hypnodingues chez Christophe"
 date: 2013-07-30T09:30:55+02:00
-categories:
-- Évènements
+categories: [Évènements]
 author: Nico
 draft: true
 ---

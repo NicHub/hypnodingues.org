@@ -1,8 +1,7 @@
 ---
 title: "“C’est ça être institutionnalisé.” — Les Évadés (The Shawshank Redemption)"
 date: 2016-07-13T12:06:00+02:00
-categories:
-- À classer
+categories: [À classer]
 author: Nico
 draft: false
 ---

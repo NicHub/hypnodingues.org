@@ -1,8 +1,7 @@
 ---
 title: "Des chercheurs de l’Unige ont découvert que les abus laissent une trace biologique dans l’ADN des victimes"
 date: 2012-10-30T18:07:06+01:00
-categories:
-- Articles
+categories: [Articles]
 author: Nico
 draft: false
 ---

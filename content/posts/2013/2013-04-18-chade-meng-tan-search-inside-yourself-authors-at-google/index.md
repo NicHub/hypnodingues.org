@@ -1,8 +1,7 @@
 ---
 title: "Chade-Meng Tan: \"Search Inside Yourself\", Authors at Google"
 date: 2013-04-18T09:42:20+02:00
-categories:
-- conferences
+categories: [Conférences]
 author: Nico
 draft: false
 ---

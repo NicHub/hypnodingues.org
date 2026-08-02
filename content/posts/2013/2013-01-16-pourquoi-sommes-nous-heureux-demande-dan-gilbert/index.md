@@ -1,8 +1,7 @@
 ---
 title: "« Pourquoi sommes-nous heureux ? » demande Dan Gilbert."
 date: 2013-01-16T00:35:31+01:00
-categories:
-- conferences
+categories: [Conférences]
 author: Nico
 draft: false
 ---

@@ -1,9 +1,7 @@
 ---
 title: "Transformer l’émotionnel d’un souvenir"
 date: 2012-05-13T14:35:07+02:00
-categories:
-- Hypnose
-- Textes
+categories: [Hypnose, Textes]
 author: Audrey
 draft: true
 ---

@@ -1,8 +1,7 @@
 ---
 title: "La grenouille qui ne savait pas qu’elle était cuite"
 date: 2026-05-31T15:19:00+02:00
-categories:
-- Développement personnel
+categories: [Développement personnel]
 author: Nico
 draft: false
 ---

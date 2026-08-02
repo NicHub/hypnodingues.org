@@ -1,8 +1,7 @@
 ---
 title: "Citation"
 date: 2012-05-12T18:27:53+02:00
-categories:
-- Citations
+categories: [Citations]
 author: Nico
 draft: false
 ---

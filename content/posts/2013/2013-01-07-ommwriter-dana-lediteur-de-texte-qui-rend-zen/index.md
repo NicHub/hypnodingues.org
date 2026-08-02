@@ -1,8 +1,7 @@
 ---
 title: "Ommwriter Dana, l’éditeur de texte qui rend zen"
 date: 2013-01-07T18:57:26+01:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: false
 ---

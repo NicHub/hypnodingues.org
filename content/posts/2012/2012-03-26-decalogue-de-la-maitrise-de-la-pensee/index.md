@@ -1,8 +1,7 @@
 ---
 title: "Décalogue de la maitrise de la pensée"
 date: 2012-03-26T18:52:24+02:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: true
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Pesto à l’Ortie et à la Cardamine des prés"
 date: 2014-04-24T19:45:53+02:00
-categories:
-- Recette
+categories: [Recette]
 author: Laeti
 draft: false
 ---

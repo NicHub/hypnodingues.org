@@ -1,8 +1,7 @@
 ---
 title: "Métaphore - Manuel de communication métaphorique"
 date: 2012-09-28T17:48:43+02:00
-categories:
-- Bibliographie
+categories: [Bibliographie]
 author: Nico
 draft: false
 ---

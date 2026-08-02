@@ -1,8 +1,7 @@
 ---
 title: "Citation"
 date: 2014-08-23T21:38:36+02:00
-categories:
-- Citations
+categories: [Citations]
 author: Nico
 draft: false
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Rencontre Hypnodingues"
 date: 2012-05-14T10:13:14+02:00
-categories:
-- Évènements
+categories: [Évènements]
 author: Laeti
 draft: true
 ---

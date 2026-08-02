@@ -1,8 +1,7 @@
 ---
 title: "Exercez-vous à la synchronisation avec un véritable défi"
 date: 2013-09-18T10:42:48+02:00
-categories:
-- Hypnose
+categories: [Hypnose]
 author: Nico
 draft: false
 ---

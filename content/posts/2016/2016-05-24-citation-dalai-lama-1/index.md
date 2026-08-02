@@ -1,8 +1,7 @@
 ---
 title: "Citation du Dalaï Lama"
 date: 2016-04-24T09:33:00+02:00
-categories:
-- À classer
+categories: [À classer]
 author: Nico
 draft: false
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Le pied sur le frein"
 date: 2013-07-05T09:54:45+02:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: false
 ---

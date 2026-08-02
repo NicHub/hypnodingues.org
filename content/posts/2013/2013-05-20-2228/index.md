@@ -1,8 +1,7 @@
 ---
 title: "Message des anciens Hopis"
 date: 2013-05-20T16:21:10+02:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: false
 ---

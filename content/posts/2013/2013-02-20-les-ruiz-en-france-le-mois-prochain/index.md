@@ -1,9 +1,7 @@
 ---
 title: "Les Ruiz en France le mois prochain"
 date: 2013-02-20T12:27:33+01:00
-categories:
-- conferences
-- Évènements
+categories: [Conférences, Évènements]
 author: Nico
 draft: false
 ---

@@ -1,9 +1,7 @@
 ---
 title: "Olivier Lockert, Booster son système immunitaire"
 date: 2012-03-09T20:28:01+01:00
-categories:
-- Hypnose
-- Textes
+categories: [Hypnose, Textes]
 author: Nico
 draft: true
 ---

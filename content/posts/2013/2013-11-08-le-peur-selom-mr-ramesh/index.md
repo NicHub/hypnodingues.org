@@ -1,8 +1,7 @@
 ---
 title: "Le peur selon Mr. Ramesh"
 date: 2013-11-08T14:40:19+01:00
-categories:
-- Liens
+categories: [Liens]
 author: Laeti
 draft: false
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Conférence d’Introduction et formation à l’Ho’oponopono"
 date: 2012-04-06T20:10:14+02:00
-categories:
-- Évènements
+categories: [Évènements]
 author: Nico
 draft: false
 ---

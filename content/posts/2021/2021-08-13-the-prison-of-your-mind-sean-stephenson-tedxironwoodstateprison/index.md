@@ -1,8 +1,7 @@
 ---
 title: "The prison of your mind | Sean Stephenson | TEDxIronwoodStatePrison | 13 juin 2014"
 date: 2021-08-14T00:00:00+02:00
-categories:
-- À classer
+categories: [À classer]
 author: Nico
 draft: false
 ---

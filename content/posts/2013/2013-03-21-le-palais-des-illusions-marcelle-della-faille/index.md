@@ -1,9 +1,7 @@
 ---
 title: "Le palais des illusions – Marcelle della Faille"
 date: 2013-03-21T14:07:42+01:00
-categories:
-- Audios
-- Histoires-et-contes
+categories: [Audios, Histoires-et-contes]
 author: Nico
 draft: true
 ---

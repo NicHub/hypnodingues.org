@@ -1,8 +1,7 @@
 ---
 title: "COMMENT ÊTRE GRAND"
 date: 2015-07-24T11:58:00+01:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: false
 ---

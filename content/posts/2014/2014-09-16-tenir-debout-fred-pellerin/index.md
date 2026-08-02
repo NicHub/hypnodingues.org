@@ -1,8 +1,7 @@
 ---
 title: "Tenir debout – Fred Pellerin"
 date: 2014-09-16T13:17:45+02:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: false
 ---

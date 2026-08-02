@@ -1,8 +1,7 @@
 ---
 title: "Péché – péché originel (dictionnaire biblique)"
 date: 2013-07-03T11:05:25+02:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: false
 ---

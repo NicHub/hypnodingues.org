@@ -1,8 +1,7 @@
 ---
 title: "Conférence de Gregg Braden sur \"La Divine Matrice\""
 date: 2013-03-11T09:23:42+01:00
-categories:
-- conferences
+categories: [Conférences]
 author: Gilbert
 draft: true
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Carillons Koshi"
 date: 2014-07-01T16:13:03+02:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: false
 ---

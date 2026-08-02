@@ -1,8 +1,7 @@
 ---
 title: "Kevin Finel<br/>Ca donnerait quoi si on prenait des cours de cerveau ?"
 date: 2016-06-08T18:44:00+02:00
-categories:
-- À classer
+categories: [À classer]
 author: Nico
 draft: false
 ---

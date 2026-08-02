@@ -1,8 +1,7 @@
 ---
 title: "Les Accords Toltèques : une chevalerie relationnelle"
 date: 2013-11-22T13:38:08+01:00
-categories:
-- conferences
+categories: [Conférences]
 author: Nico
 draft: false
 ---

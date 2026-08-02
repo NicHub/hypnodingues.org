@@ -1,9 +1,7 @@
 ---
 title: "Bruno Gomez, Hétérohypnose avec quatre métaphores imbriquées"
 date: 2012-03-09T21:25:02+01:00
-categories:
-- Hypnose
-- Textes
+categories: [Hypnose, Textes]
 author: Nico
 draft: true
 ---

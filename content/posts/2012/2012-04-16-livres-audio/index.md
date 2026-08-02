@@ -1,8 +1,7 @@
 ---
 title: "Livres Audio"
 date: 2012-04-16T10:29:39+02:00
-categories:
-- Liens
+categories: [Liens]
 author: Laeti
 draft: false
 ---

@@ -1,9 +1,7 @@
 ---
 title: "Hypnoël du 22 décembre 2013"
 date: 2013-11-26T13:44:18+01:00
-categories:
-- Divers
-- Évènements
+categories: [Divers, Évènements]
 author: Laeti
 draft: true
 ---

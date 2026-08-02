@@ -1,8 +1,7 @@
 ---
 title: "Matthieu Ricard : les habitudes du bonheur"
 date: 2013-01-16T00:05:40+01:00
-categories:
-- conferences
+categories: [Conférences]
 author: Nico
 draft: false
 ---

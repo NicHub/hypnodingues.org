@@ -1,8 +1,7 @@
 ---
 title: "Illusions d’optique"
 date: 2019-12-24T12:05:00+01:00
-categories:
-- À classer
+categories: [À classer]
 author: Nico
 draft: false
 ---

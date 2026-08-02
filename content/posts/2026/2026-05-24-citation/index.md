@@ -1,8 +1,7 @@
 ---
 title: "Le temps ne respecte pas ce qui se fait sans lui"
 date: 2026-05-24T11:00:00+02:00
-categories:
-- Citations
+categories: [Citations]
 author: Nico
 draft: false
 ---

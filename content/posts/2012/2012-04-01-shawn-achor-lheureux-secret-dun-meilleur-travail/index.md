@@ -1,8 +1,7 @@
 ---
 title: "Shawn Achor : l’heureux secret d’un meilleur travail"
 date: 2012-04-01T18:39:51+02:00
-categories:
-- Liens
+categories: [Liens]
 author: Nico
 draft: false
 ---

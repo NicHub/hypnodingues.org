@@ -1,8 +1,7 @@
 ---
 title: "Lois stupides!"
 date: 2012-07-24T17:40:36+02:00
-categories:
-- Liens
+categories: [Liens]
 author: Laeti
 draft: false
 ---

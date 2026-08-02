@@ -1,8 +1,7 @@
 ---
 title: "Citation de Shunryu Suzuki"
 date: 2016-07-05T11:29:00+02:00
-categories:
-- À classer
+categories: [À classer]
 author: Nico
 draft: false
 ---

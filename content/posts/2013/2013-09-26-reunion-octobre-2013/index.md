@@ -1,8 +1,7 @@
 ---
 title: "Réunion octobre 2013"
 date: 2013-09-26T19:27:23+02:00
-categories:
-- Évènements
+categories: [Évènements]
 author: Nico
 draft: true
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Les prochaines rencontres d’autolouange y compris cet été en Bourgogne"
 date: 2013-03-01T10:42:46+01:00
-categories:
-- Évènements
+categories: [Évènements]
 author: Nico
 draft: false
 ---

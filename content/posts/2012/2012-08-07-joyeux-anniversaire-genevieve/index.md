@@ -1,9 +1,7 @@
 ---
 title: "Joyeux anniversaire Geneviève !!!"
 date: 2012-08-07T10:05:37+02:00
-categories:
-- Anniversaires
-- Divers
+categories: [Anniversaires, Divers]
 author: Nico
 draft: true
 ---

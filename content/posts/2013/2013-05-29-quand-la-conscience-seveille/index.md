@@ -1,8 +1,7 @@
 ---
 title: "Quand la conscience s’éveille"
 date: 2013-05-29T18:31:28+02:00
-categories:
-- Audios
+categories: [Audios]
 author: Nico
 draft: true
 ---

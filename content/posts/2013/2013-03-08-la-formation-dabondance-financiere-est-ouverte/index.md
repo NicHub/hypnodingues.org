@@ -1,8 +1,7 @@
 ---
 title: "La Formation d’Abondance Financière est OUVERTE!"
 date: 2013-03-08T21:30:18+01:00
-categories:
-- Évènements
+categories: [Évènements]
 author: Nico
 draft: false
 ---

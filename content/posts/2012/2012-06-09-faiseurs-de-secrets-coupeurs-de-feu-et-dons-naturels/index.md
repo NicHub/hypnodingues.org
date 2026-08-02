@@ -1,8 +1,7 @@
 ---
 title: "Faiseurs de secrets, coupeurs de feu, et dons naturels"
 date: 2012-06-09T10:27:01+02:00
-categories:
-- Santé
+categories: [Santé]
 author: Nico
 draft: false
 ---

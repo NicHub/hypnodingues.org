@@ -1,8 +1,7 @@
 ---
 title: "Médicaments : le gâchis des dates d’expiration"
 date: 2014-01-25T01:11:19+01:00
-categories:
-- Santé
+categories: [Santé]
 author: Nico
 draft: false
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Hypnose sur Google"
 date: 2014-08-11T15:48:32+02:00
-categories:
-- Articles
+categories: [Articles]
 author: Nico
 draft: false
 ---

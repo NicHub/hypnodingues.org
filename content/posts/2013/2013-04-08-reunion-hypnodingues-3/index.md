@@ -1,8 +1,7 @@
 ---
 title: "Réunion Hypnodingues"
 date: 2013-04-08T08:58:31+02:00
-categories:
-- Évènements
+categories: [Évènements]
 author: Nico
 draft: true
 ---

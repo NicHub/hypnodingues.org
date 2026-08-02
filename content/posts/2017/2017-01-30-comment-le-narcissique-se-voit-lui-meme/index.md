@@ -1,8 +1,7 @@
 ---
 title: "Comment le narcissique se voit lui-même"
 date: 2017-01-30T10:42:00+01:00
-categories:
-- À classer
+categories: [À classer]
 author: Nico
 draft: false
 ---

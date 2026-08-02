@@ -1,8 +1,7 @@
 ---
 title: "Sortez de votre zone de confort"
 date: 2012-05-19T17:41:49+02:00
-categories:
-- Images
+categories: [Images]
 author: Nico
 draft: false
 ---

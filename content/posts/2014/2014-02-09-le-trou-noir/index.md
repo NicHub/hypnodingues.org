@@ -1,8 +1,7 @@
 ---
 title: "Le trou noir"
 date: 2014-02-09T00:22:53+01:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: true
 ---

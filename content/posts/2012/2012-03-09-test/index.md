@@ -1,8 +1,7 @@
 ---
 title: "Test"
 date: 2012-03-09T17:21:37+01:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: true
 ---

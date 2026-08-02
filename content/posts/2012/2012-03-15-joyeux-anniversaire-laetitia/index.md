@@ -1,8 +1,7 @@
 ---
 title: "Joyeux anniversaire, Lætitia !!!"
 date: 2012-03-15T09:09:30+01:00
-categories:
-- Anniversaires
+categories: [Anniversaires]
 author: Nico
 draft: true
 ---

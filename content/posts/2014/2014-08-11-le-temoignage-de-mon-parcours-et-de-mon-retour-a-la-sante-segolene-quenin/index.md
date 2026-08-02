@@ -1,8 +1,7 @@
 ---
 title: "Le témoignage de mon parcours et de mon retour à la santé – Ségolène Quenin"
 date: 2014-08-11T21:59:46+02:00
-categories:
-- nutrition
+categories: [Nutrition]
 author: Nico
 draft: false
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Med-Nat des Hypnodingues"
 date: 2013-02-13T12:33:30+01:00
-categories:
-- Évènements
+categories: [Évènements]
 author: Laeti
 draft: true
 ---

@@ -1,9 +1,7 @@
 ---
 title: "The Ghost in Your Genes - BBC Horizon"
 date: 2012-10-30T18:12:02+01:00
-categories:
-- Articles
-- En anglais
+categories: [Articles, En anglais]
 author: Nico
 draft: false
 ---

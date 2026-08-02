@@ -1,8 +1,7 @@
 ---
 title: "Réunion"
 date: 2013-05-06T17:25:11+02:00
-categories:
-- Évènements
+categories: [Évènements]
 author: Nico
 draft: true
 ---

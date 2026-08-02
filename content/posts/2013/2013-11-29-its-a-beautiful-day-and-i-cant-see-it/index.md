@@ -1,8 +1,7 @@
 ---
 title: "It’s a beautiful day, and I can’t see it..."
 date: 2013-11-29T11:03:19+01:00
-categories:
-- Histoires-et-contes
+categories: [Histoires-et-contes]
 author: Nico
 draft: false
 ---

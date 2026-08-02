@@ -1,8 +1,7 @@
 ---
 title: "Quelques bizarreries de la langue française"
 date: 2016-12-15T17:18:00+01:00
-categories:
-- À classer
+categories: [À classer]
 author: Nico
 draft: false
 ---

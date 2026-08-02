@@ -1,8 +1,7 @@
 ---
 title: "Le Jeu de l’Alchimiste | Patrick Burensteinas, Marc Kucharz | Paris, 15 octobre 2019"
 date: 2020-08-04T10:19:00+02:00
-categories:
-- À classer
+categories: [À classer]
 author: Nico
 draft: false
 ---

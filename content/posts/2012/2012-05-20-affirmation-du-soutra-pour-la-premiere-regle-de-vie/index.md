@@ -1,9 +1,7 @@
 ---
 title: "Affirmation du soutra pour la première règle de vie"
 date: 2012-05-20T16:02:19+02:00
-categories:
-- Hypnose
-- Textes
+categories: [Hypnose, Textes]
 author: Nico
 draft: false
 ---

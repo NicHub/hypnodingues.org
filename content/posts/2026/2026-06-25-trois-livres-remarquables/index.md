@@ -1,8 +1,7 @@
 ---
 title: "Trois livres remarquables"
 date: 2026-06-25T15:00:00+02:00
-categories:
-- Livres
+categories: [Livres]
 author: Nico
 draft: false
 ---

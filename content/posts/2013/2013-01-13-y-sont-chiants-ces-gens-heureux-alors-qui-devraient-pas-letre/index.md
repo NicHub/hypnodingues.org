@@ -1,8 +1,7 @@
 ---
 title: "Y sont chiants ces gens heureux alors qu’y devraient pas l’être !"
 date: 2013-01-13T12:52:36+01:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: true
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Guérison et pleine santé avec Irène Grosjean"
 date: 2017-08-27T11:43:00+02:00
-categories:
-- nutrition
+categories: [Nutrition]
 author: Nico
 draft: true
 ---

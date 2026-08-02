@@ -1,8 +1,7 @@
 ---
 title: "Le secret de Pyramides d’Egypte"
 date: 2013-08-31T19:03:53+02:00
-categories:
-- Liens
+categories: [Liens]
 author: Laeti
 draft: false
 ---

@@ -1,9 +1,7 @@
 ---
 title: "Olivier Lockert,Aider son système immunitaire"
 date: 2012-03-09T20:10:32+01:00
-categories:
-- Hypnose
-- Textes
+categories: [Hypnose, Textes]
 author: Nico
 draft: true
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Canicule"
 date: 2016-08-30T09:04:00+02:00
-categories:
-- Définitions
+categories: [Définitions]
 author: Nico
 draft: false
 ---

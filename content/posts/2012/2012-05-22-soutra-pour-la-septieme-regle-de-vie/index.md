@@ -1,9 +1,7 @@
 ---
 title: "Affirmation du soutra pour la septième règle de vie"
 date: 2012-05-22T07:55:46+02:00
-categories:
-- Hypnose
-- Textes
+categories: [Hypnose, Textes]
 author: Nico
 draft: false
 ---

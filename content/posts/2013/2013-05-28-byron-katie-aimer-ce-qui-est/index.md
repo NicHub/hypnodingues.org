@@ -1,9 +1,7 @@
 ---
 title: "Byron Katie – Aimer ce qui est"
 date: 2013-05-28T15:49:22+02:00
-categories:
-- Liens
-- Textes
+categories: [Liens, Textes]
 author: Nico
 draft: false
 ---

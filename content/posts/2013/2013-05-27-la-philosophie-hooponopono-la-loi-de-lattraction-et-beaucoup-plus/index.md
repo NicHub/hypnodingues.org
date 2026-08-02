@@ -1,8 +1,7 @@
 ---
 title: "La philosophie Ho’oponopono la loi de l’attraction et beaucoup plus…"
 date: 2013-05-27T07:43:18+02:00
-categories:
-- conferences
+categories: [Conférences]
 author: Nico
 draft: false
 ---

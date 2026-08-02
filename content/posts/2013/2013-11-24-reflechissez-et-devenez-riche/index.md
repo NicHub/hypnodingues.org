@@ -1,8 +1,7 @@
 ---
 title: "réfléchissez et devenez riche"
 date: 2013-11-24T16:46:39+01:00
-categories:
-- Divers
+categories: [Divers]
 author: Geneviève
 draft: false
 ---

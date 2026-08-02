@@ -1,8 +1,7 @@
 ---
 title: "Un nom pour fédérer nos projets"
 date: 2013-07-16T11:20:22+02:00
-categories:
-- Membres
+categories: [Membres]
 author: Nico
 draft: true
 ---

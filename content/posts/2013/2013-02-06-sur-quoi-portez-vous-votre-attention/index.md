@@ -1,8 +1,7 @@
 ---
 title: "Sur quoi portez-vous votre attention ?"
 date: 2013-02-06T12:45:23+01:00
-categories:
-- Histoires-et-contes
+categories: [Histoires-et-contes]
 author: Nico
 draft: false
 ---

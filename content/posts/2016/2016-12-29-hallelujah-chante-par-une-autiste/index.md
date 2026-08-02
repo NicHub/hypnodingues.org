@@ -1,8 +1,7 @@
 ---
 title: "Hallelujah chanté par une autiste"
 date: 2016-12-29T20:06:00+01:00
-categories:
-- À classer
+categories: [À classer]
 author: Nico
 draft: true
 ---

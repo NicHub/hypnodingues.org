@@ -1,8 +1,7 @@
 ---
 title: "Votre langage corporel forge qui vous êtes"
 date: 2013-12-26T11:45:19+01:00
-categories:
-- Divers
+categories: [Divers]
 author: Nico
 draft: false
 ---

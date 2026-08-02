@@ -1,8 +1,7 @@
 ---
 title: "Se reposer dans les lieux publics (2 jours)"
 date: 2012-08-31T15:40:40+02:00
-categories:
-- Exercices
+categories: [Exercices]
 author: Nico
 draft: true
 ---

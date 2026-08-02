@@ -1,8 +1,7 @@
 ---
 title: "According to Scientists, This is The Most Relaxing Tune Ever Recorded"
 date: 2014-01-10T23:08:38+01:00
-categories:
-- En anglais
+categories: [En anglais]
 author: Nico
 draft: true
 ---

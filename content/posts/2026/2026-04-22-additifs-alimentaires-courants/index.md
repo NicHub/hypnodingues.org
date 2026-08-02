@@ -1,8 +1,7 @@
 ---
 title: "Additifs alimentaires : décoder les E-numéros courants"
 date: 2026-04-22T00:00:00+02:00
-categories:
-- Santé
+categories: [Santé]
 author: Nico
 draft: false
 ---

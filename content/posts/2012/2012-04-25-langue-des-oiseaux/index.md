@@ -1,8 +1,7 @@
 ---
 title: "Langue des oiseaux"
 date: 2012-04-25T06:57:50+02:00
-categories:
-- Bibliographie
+categories: [Bibliographie]
 author: Nico
 draft: false
 ---

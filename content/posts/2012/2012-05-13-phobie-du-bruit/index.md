@@ -1,9 +1,7 @@
 ---
 title: "Phobie du bruit"
 date: 2012-05-13T14:04:51+02:00
-categories:
-- Hypnose
-- Textes
+categories: [Hypnose, Textes]
 author: Audrey
 draft: true
 ---
