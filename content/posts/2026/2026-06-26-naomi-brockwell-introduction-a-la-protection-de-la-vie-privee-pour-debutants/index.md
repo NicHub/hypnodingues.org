@@ -3,14 +3,14 @@ title: "Naomi Brockwell — Introduction à la protection de la vie privée pour
 date: 2026-06-26T16:00:00+02:00
 categories:
 - OSINT
-description: ""
 author: Nico
+draft: false
+description: ""
 social_title: ""
 social_description: ""
 social_image: ""
 social_type: "article"
 twitter_card: "summary_large_image"
-draft: false
 ---
 
 <a href="https://www.amazon.fr/dp/B0BQHS8MFS/">
