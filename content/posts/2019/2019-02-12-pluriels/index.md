@@ -1,6 +1,8 @@
 ---
 title: "Pluriels"
 date: 2019-02-12T22:29:00+01:00
+categories:
+- À classer
 author: Nico
 draft: false
 ---

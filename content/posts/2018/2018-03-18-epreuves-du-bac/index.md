@@ -1,6 +1,8 @@
 ---
 title: "Épreuves du bac"
 date: 2018-03-18T17:53:00+01:00
+categories:
+- À classer
 author: Nico
 draft: false
 ---

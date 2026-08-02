@@ -1,6 +1,8 @@
 ---
 title: "Être responsable de notre bonheur"
 date: 2017-12-30T14:46:00+01:00
+categories:
+- À classer
 author: Nico
 draft: false
 ---

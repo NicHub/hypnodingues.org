@@ -1,6 +1,8 @@
 ---
 title: "Hypnose anti-stress Gilbert Dagon"
 date: 2016-12-29T20:43:00+01:00
+categories:
+- À classer
 author: Nico
 draft: false
 ---

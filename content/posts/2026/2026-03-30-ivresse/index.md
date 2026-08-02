@@ -2,7 +2,7 @@
 title: "Le fondeur ivre"
 date: 2026-03-30T09:11:00+02:00
 categories:
-    - Société
+- Société
 author: Nico
 draft: false
 ---

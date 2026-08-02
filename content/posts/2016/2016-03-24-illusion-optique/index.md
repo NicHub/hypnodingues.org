@@ -1,6 +1,8 @@
 ---
 title: "Illusions d’optique par e-penser"
 date: 2016-03-23T16:44:00+01:00
+categories:
+- À classer
 author: Nico
 draft: false
 ---

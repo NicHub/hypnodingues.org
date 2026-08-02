@@ -2,7 +2,7 @@
 title: "Naomi Brockwell — Beginner’s Introduction to Privacy"
 date: 2026-06-26T16:00:00+02:00
 categories:
-    - OSINT
+- OSINT
 author: Nico
 description: ""
 social_title: ""
