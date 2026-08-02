@@ -50,11 +50,13 @@ twitter_card: "summary_large_image"
 07. **Elles ne respectent pas les régulations**
     -   _Elles ne respectent pas ou peu le RGPD_[^23].
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
+        Par exemple, L’UE ne s’est octroyée des pouvoirs extensifs via l’_IA Act_ que le 2 août 2026 alors que la première version de ChatGPT est sortie le 30 novembre 2022.[^46]
 
 08. **Elles ne sont pas juridiquement responsables de leurs failles**
     -   Si elles se plantent, qui est responsable ? Qui paie les réparations ?
         -   Dysfonctionnements ou accidents de véhicules autonomes.[^2]
         -   Suppression accidentelle et dommageable de données informatiques.
+        -   Attaque non planifiées, comme l’attaque du 23 juillet 2026 de [Hugging Face] par ChatGPT 5.6 Sol.[^47]
 
     {{< comment >}}
 
@@ -141,7 +143,7 @@ twitter_card: "summary_large_image"
     -   _Le Temps — « L’intelligence artificielle crée l’illusion de s’occuper de nous »_[^7]
 
 20. **Elles sont intrusives**[^29][^30][^33]
-    -   Elles sont utilisées à des fins de surveillance sans possibilité d’opposition (sans possibilité d’exprimer le non-consentement, la désapprobation).
+    -   Elles sont utilisées à des fins de surveillance sans possibilité d’opposition (sans possibilité d’exprimer le non-consentement, la désapprobation).[^44][^45]
     -   Elles favorisent un développement non éthique de l’_OSINT_[^17] et de l’_ingénierie sociale_[^18].
     -   Système de reconnaissance vocale.
     -   Détection de visages dans les lieux publics.
@@ -335,3 +337,13 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^42]: [GitHub — Adam Wathan — L’impact brutal de l’IA sur Tailwind CSS](https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957)
 
 [^43]: [YouTube — Yannick Dalbin — Ce que 1 an à laisser l’IA coder m’a appris sur le métier de développeur](https://www.youtube.com/watch?v=7qlk9MQgafU)
+
+[^44]: [Bluesky Social — Face Matching Software being used to prevent shoplifting](https://bsky.app/profile/eff.org/post/3mqmuv5zrkk2j)
+
+[^45]: [The Guardian — Guilty until proven innocent: shoppers falsely identified by facial recognition system struggle to clear their names](https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name)
+
+[^46]: [RTS — Droit d’enquête, amendes salées, marquage des contenus: les nouveaux pouvoirs de l’UE face à l’IA](https://www.rts.ch/info/sciences-tech/2026/article/regulation-de-l-ia-l-ue-se-dote-de-nouveaux-pouvoirs-inedits-29318567.html)
+
+[^47]: [RTS — Un piratage "sans précédent" d’une plateforme par les agents d’IA d’OpenAI](https://www.rts.ch/info/sciences-tech/2026/article/openai-ses-modeles-d-ia-piratent-hugging-face-de-maniere-autonome-29309764.html)
+
+[Hugging Face]: https://huggingface.co/
