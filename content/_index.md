@@ -1,6 +1,6 @@
 ---
 title: "Hypnodingues"
-description: "Un carnet nocturne d'hypnose, de conscience, de récits, de citations, d'humour et de traversées intérieures."
+description: "Un carnet nocturne d’hypnose, de conscience, de récits, de citations, d’humour et de traversées intérieures."
 aliases:
   - /index.html
 draft: false
