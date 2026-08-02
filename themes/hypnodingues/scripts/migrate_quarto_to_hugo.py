@@ -57,10 +57,6 @@ def build_hugo_front_matter(data: dict) -> dict:
     if categories:
         hugo["categories"] = categories
 
-    tags = data.get("tags") or []
-    if tags:
-        hugo["tags"] = tags
-
     author = data.get("author") or {}
     if isinstance(author, dict) and author.get("first_name"):
         hugo["author"] = author["first_name"]

@@ -4,7 +4,6 @@ date: 2026-05-22T00:00:00+02:00
 categories:
 - Société
 description: "La peur malthusienne"
-tags: ["fausse bonne idée"]
 author: Nico
 draft: false
 ---

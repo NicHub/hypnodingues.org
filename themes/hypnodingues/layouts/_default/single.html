@@ -53,14 +53,9 @@
       {{- .Content -}}
     </div>
 
-    {{- if or .Params.tags .Params.categories }}
+    {{- with .Params.categories }}
       <footer class="article-taxonomies">
-        {{- with .Params.categories }}
-          <p><strong>Catégories:</strong> {{ range $index, $item := . }}{{ if $index }}, {{ end }}<a href="{{ `/categories/` | relURL }}{{ $item | urlize }}/">{{ $item }}</a>{{ end }}</p>
-        {{- end }}
-        {{- with .Params.tags }}
-          <p><strong>Mots-clés:</strong> {{ range $index, $item := . }}{{ if $index }}, {{ end }}<a href="{{ `/tags/` | relURL }}{{ $item | urlize }}/">{{ $item }}</a>{{ end }}</p>
-        {{- end }}
+        <p><strong>Catégories:</strong> {{ range $index, $item := . }}{{ if $index }}, {{ end }}<a href="{{ `/categories/` | relURL }}{{ $item | urlize }}/">{{ $item }}</a>{{ end }}</p>
       </footer>
     {{- end }}
   </article>
