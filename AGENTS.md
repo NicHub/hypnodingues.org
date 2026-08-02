@@ -2,12 +2,14 @@
 
 ## Compilation Hugo
 
-Au début de chaque intervention :
+Une seule fois par jour et par fil de conversation, avant la première intervention concernant ce dépôt :
 
 -   Vérifier la version de Hugo installée sur le système avec `hugo version`.
 -   La comparer à la valeur `hugo-version` définie dans `.github/workflows/hugo-publish.yml`.
 -   Indiquer si la version du workflow est identique, plus récente ou plus ancienne que celle du système.
 -   Si la version du workflow est plus ancienne, proposer de mettre à jour `.github/workflows/hugo-publish.yml`, sans effectuer cette modification sans demande explicite.
+
+Si les vérifications ont déjà été effectuées et rapportées plus haut dans la conversation à la date courante, ne pas les répéter.
 
 Pour compiler et prévisualiser le site, utiliser systématiquement la commande suivante :
 
