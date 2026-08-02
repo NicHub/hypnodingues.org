@@ -23,7 +23,7 @@ menu:
       weight: 20
 
 params:
-  description: Hypnodingues, archives de textes, d'hypnose, de conscience et de traversées intérieures.
+  description: Hypnodingues, archives de textes, d’hypnose, de conscience et de traversées intérieures.
   theme:
     variant: poetic-dark
   home:
@@ -44,7 +44,7 @@ markup:
       unsafe: true
     extensions:
       footnote:
-        backlinkHTML: '↩︎'
+        backlinkHTML: "↩︎"
 
 security:
   allowContent:
