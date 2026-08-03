@@ -36,6 +36,7 @@ twitter_card: "summary_large_image"
     -   Avec des _deepfakes_ très réalistes.
         -   Hypertrucages
         -   Montages hyperréalistes susceptibles de tromper le public
+    -   En se faisant passer pour quelqu’un d’autre.[^48]
 
 04. **Elles ne respectent pas la protection des données**
     -   Elles sont entrainées avec des sources qui peuvent contenir des informations sensibles, privées ou confidentielles.
@@ -349,3 +350,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^47]: [RTS — Un piratage "sans précédent" d’une plateforme par les agents d’IA d’OpenAI](https://www.rts.ch/info/sciences-tech/2026/article/openai-ses-modeles-d-ia-piratent-hugging-face-de-maniere-autonome-29309764.html)
 
 [Hugging Face]: https://huggingface.co/
+
+[^48]: [Holy Schmidt! — The Verification Step That Stops 99% of Voice Impersonation Scams](https://www.youtube.com/watch?v=XITQ5aVFhL8)
