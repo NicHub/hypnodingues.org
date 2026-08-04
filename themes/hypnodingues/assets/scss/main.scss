@@ -746,6 +746,11 @@ p.home-hero-button a:focus-visible {
     padding: 0.7rem;
 }
 
+.prose thead th {
+    border-bottom-color: var(--accent);
+    border-bottom-width: 3px;
+}
+
 .prose .Feuille_aldine {
     color: var(--accent);
     font-size: 2rem;
