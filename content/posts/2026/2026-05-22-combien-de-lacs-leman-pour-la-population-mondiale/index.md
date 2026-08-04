@@ -24,14 +24,14 @@ draft: false
 ```python
 # %%
 from rich import print
+d = [0.44, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]  #  personne / m²
 p = 8.2e9  #  population mondiale en 2026
-sd = 581.3  #  km² (superficie disponible = lac Léman)
-d = [0.44, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]  #  personne / m² (densité de population)
-sp = [p / _d / 1e6 for _d in d]  #  km² (superficie nécessaire pour la population)
+s = 581.3E6  #  m² (superficie du lac Léman)
+éll = [p * _d**-1 * s**-1 for _d in d]  #  Équivalent lac Léman
 print([
-       f"{_d:4.1f} pers / m²"
-       f" ⇒ {_sp/sd:4.1f} × lac Léman"
-       for _sp, _d in zip(sp, d)
+       f"{_d:4.1f} personne / m²"
+       f" ⇒ {_éll:4.1f} × lac Léman"
+       for _éll, _d in zip(éll, d)
 ])
 # %%
 ```
@@ -74,9 +74,9 @@ quelle serait la densité si toute la population humaine de 2026 était réparti
 
 ```python
 # %%
-p = 8.2E9                #  population mondiale en 2026
-sp = 41_285              #  km² (superficie de la Suisse)
-d = p / sp / 1E6
+p = 8.2E9  #  population mondiale en 2026
+s = 41_285E6  #  m² (superficie de la Suisse)
+d = p * s**-1
 print(f"{d:0.2f}"
        " personne / m²") #  0.20 personne / m²
 # %%
