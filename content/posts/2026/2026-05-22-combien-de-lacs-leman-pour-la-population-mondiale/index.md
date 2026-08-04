@@ -1,5 +1,5 @@
 ---
-title: "Combien faut-il de lacs Léman pour faire tenir la population humaine de 2026 serrée côte à côte ?"
+title: "Combien faut-il de lacs Léman pour faire tenir la population mondiale de 2026 serrée côte à côte ?"
 date: 2026-05-22T00:00:00+02:00
 categories: [Société]
 author: Nico
@@ -17,7 +17,7 @@ draft: false
     }
 </style>
 
-> Réponse : Il faut **2.8** lacs Léman pour une densité de 5 personnes / m².
+> Réponse : Il faut **2.8 lacs Léman** pour une densité de 5 personnes / m².
 
 ## Calcul
 
@@ -39,8 +39,8 @@ print([
 ## Pourquoi se poser cette question ?
 
 Parce que ce n’est pas facile de se représenter 8.2 milliards de personnes.
-Une idée pour y parvenir est de compter en “lac Léman”[^4], car tout le monde peut voir la taille de ce lac sur une carte.
-En plus, on peut le voir en vrai dans son entier depuis un avion ou depuis les montagnes avoisinantes.
+Une idée pour y parvenir est de compter en “lac Léman”[^4], car on peut se faire une idée de la taille de ce lac sur une carte.
+En plus, on peut le voir en vrai dans son entier depuis les montagnes avoisinantes.
 
 ## Les seuils de densité humaine
 
@@ -70,7 +70,7 @@ En plus, on peut le voir en vrai dans son entier depuis un avion ou depuis les m
 En corollaire à la première question, vient à l’esprit cette expérience de pensée :
 quelle serait la densité si toute la population humaine de 2026 était répartie sur le territoire suisse[^8] ?
 
-> Réponse : La densité serait de **0.20** personnes / m², soit un carré de 2.24 m de côté par personne.
+> Réponse : La densité serait de **0.20 personnes / m²**, soit un carré de 2.24 m de côté par personne.
 
 ```python
 # %%
