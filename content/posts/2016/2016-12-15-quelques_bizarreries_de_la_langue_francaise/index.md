@@ -6,9 +6,11 @@ author: Nico
 draft: false
 ---
 
-<div style="margin-top:60px;">
-
-</div>
+<style>
+    .prose {
+        text-align: center;
+    }
+</style>
 
 Nous portions les portions.
 
@@ -62,7 +64,7 @@ Ils résident à Paris chez le résident d’une nation étrangère.
 
 ❊
 
-Les cuisiniers excellent à faire ce mets excellent.
+Les cuisiniers excellent à cuisiner ce mets excellent.
 
 ❊
 
