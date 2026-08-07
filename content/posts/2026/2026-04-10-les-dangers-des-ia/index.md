@@ -121,10 +121,10 @@ twitter_card: "summary_large_image"
     -   L’accès à leurs services est révocable unilatéralement par leurs fournisseurs.
         _Le Temps — « Est-ce le bruit des bottes ou celui de l’éveil que nous entendons ? »_[^25]
 
-16. **Elles fragilisent les démocraties**
-    -   Elles sont détenues par des intérêts privés et leur vitesse de développement est des ordres de grandeur plus rapide que celui des institutions démocratiques publiques.
+16. **Elles fragilisent les démocraties**<!-- Probabablement à fusionner avec “Elles ne respectent pas les régulations” -->
+    -   Elles sont détenues par des intérêts privés et leur vitesse de développement est des ordres de grandeur plus rapide que celui des institutions démocratiques publiques.[^46]
     -   Concentration de pouvoirs[^32].
-    -   Elles favorisent des alliances entre grandes entreprises technologiques, intérêts fossiles et pouvoirs publics, en contournant ou affaiblissant les régulations démocratiques.[^39]
+    -   Elles favorisent la convergence des intérêts des grandes entreprises technologiques, des industries des énergies fossiles et des pouvoirs publics, au détriment des régulations démocratiques.[^39]
 
 17. **Elles coûtent très cher**
     -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs coûts sur les tarifs de leurs abonnements.
