@@ -220,7 +220,7 @@ twitter_card: "summary_large_image"
 31. **Elles pourront bientôt être autosuffisantes et échapper au contrôle humain**<!-- Ça fait deux points dans la même phrase... -->
     -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
 
-<img src="./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp" alt="Calvin and Hobbes: Leave Math to the Machines" style="width: 50%;" />
+<img src="./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp" alt="Calvin and Hobbes: Leave Math to the Machines" style="width: 50%;">
 
 ## Notes
 
