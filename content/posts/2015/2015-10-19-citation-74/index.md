@@ -6,6 +6,6 @@ author: Nico
 draft: false
 ---
 
-« Ce que j’entends, je l’oublie.<br/>Ce que je vois, je m’en souviens.<br/>Ce que je fais, je le comprends. »
+« Ce que j’entends, je l’oublie.<br>Ce que je vois, je m’en souviens.<br>Ce que je fais, je le comprends. »
 
 \[ *Proverbe chinois* \]
