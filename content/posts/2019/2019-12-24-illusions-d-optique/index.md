@@ -6,11 +6,11 @@ author: Nico
 draft: false
 ---
 
-    {{< comment >}}
+{{< comment >}}
 
-        style.scss externe
+    style.scss externe
 
-    {{< /comment >}}
+{{< /comment >}}
 
 ## Illuzion
 
@@ -24,7 +24,7 @@ Le SVG doit être injecté directement dans le HTML pour que ses scripts soient 
 
 ## L’échiquier d’Adelson
 
-<img src=./images/echiquier-adelson.svg>
+<img src="./images/echiquier-adelson.svg" alt="Échiquier d’Adelson">
 
 <https://commons.wikimedia.org/wiki/File:Optical_illusion_greysquares.gif?uselang=fr>
 
@@ -38,7 +38,7 @@ Le SVG doit être injecté directement dans le HTML pour que ses scripts soient 
 
 ## Illusion du mur du café
 
-<img src=./images/cafe-wall.svg>
+<img src="./images/cafe-wall.svg" alt="Illusion du mur du café">
 
 <small>Par Fibonacci — Travail personnel, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1788689</small>
 
@@ -46,7 +46,7 @@ Le SVG doit être injecté directement dans le HTML pour que ses scripts soient 
 
 ## Les serpents tournants d’Akiyoshi Kitaoka
 
-<img src=./images/Peripheral_drift_illusion_rotating_snakes.svg>
+<img src="./images/Peripheral_drift_illusion_rotating_snakes.svg" alt="Serpents tournants d’Akiyoshi Kitaoka">
 
 ## La fenêtre de Ames
 

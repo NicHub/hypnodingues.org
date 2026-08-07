@@ -6,11 +6,11 @@ author: Nico
 draft: false
 ---
 
-    {{< comment >}}
+{{< comment >}}
 
-        style.scss externe
+    style.scss externe
 
-    {{< /comment >}}
+{{< /comment >}}
 
 <section class="mooc-search" aria-labelledby="mooc-search-title">
   <div class="mooc-search__intro">

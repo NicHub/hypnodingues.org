@@ -6,11 +6,11 @@ author: Nico
 draft: false
 ---
 
-    {{< comment >}}
+{{< comment >}}
 
-        style.scss externe
+    style.scss externe
 
-    {{< /comment >}}
+{{< /comment >}}
 
 > Réponse : Il faut **2.8 lacs Léman** pour une densité de 5 personnes / m².
 

@@ -6,11 +6,11 @@ author: Nico
 draft: false
 ---
 
-    {{< comment >}}
+{{< comment >}}
 
-        style.scss externe
+    style.scss externe
 
-    {{< /comment >}}
+{{< /comment >}}
 
 > **Q** Lors de quelle bataille Charles le Téméraire est-il mort ?
 >
