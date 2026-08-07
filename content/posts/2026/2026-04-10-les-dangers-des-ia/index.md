@@ -209,6 +209,9 @@ twitter_card: "summary_large_image"
 30. **Elles présentent des enjeux éthiques nombreux**
     -   _Wikipédia — Éthique de l’intelligence artificielle_[^38]
 
+31. **Elles pourront bientôt être auto-suffisantes et échapper au contrôle humain**<!-- Ça fait deux points dans la même phrase... -->
+    -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
+
 ---
 
 ---
@@ -352,3 +355,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [Hugging Face]: https://huggingface.co/
 
 [^48]: [Holy Schmidt! — The Verification Step That Stops 99% of Voice Impersonation Scams](https://www.youtube.com/watch?v=XITQ5aVFhL8)
+
+[^49]: [Youtube —  Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization](https://www.youtube.com/watch?v=bZL1NsrfuYE)
