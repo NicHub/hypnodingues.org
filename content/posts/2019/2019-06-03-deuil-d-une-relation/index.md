@@ -6,14 +6,11 @@ author: Nico
 draft: false
 ---
 
-<style>
-dl {
-text-align: justify;
-}
-dt {
-font-weight: bold;
-}
-}</style>
+    {{< comment >}}
+
+        style.scss externe
+
+    {{< /comment >}}
 
 Source : <http://fr.wikipedia.org/wiki/Deuil>
 

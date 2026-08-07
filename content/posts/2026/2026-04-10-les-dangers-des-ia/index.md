@@ -12,16 +12,11 @@ social_type: "article"
 twitter_card: "summary_large_image"
 ---
 
-<style>
-    .prose > ol > li > p:first-child strong,
-    .prose > ol > li::marker {
-        text-transform: uppercase;
-        font-weight: 600;
-    }
-    .prose > ol > li blockquote {
-        font-size: 0.8em;
-    }
-</style>
+    {{< comment >}}
+
+        style.scss externe
+
+    {{< /comment >}}
 
 > Les IA ne sont pas de simples outils neutres.
 > Leur déploiement rapide transforme déjà nos manières de travailler, de créer, de décider et de nous informer.

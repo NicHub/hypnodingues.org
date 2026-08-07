@@ -6,21 +6,11 @@ author: Nico
 draft: false
 ---
 
-<style>
-blockquote p {
-margin: 0;
-}
-blockquote p:nth-of-type(1) {
-font-style: normal;
-}
-blockquote p:nth-of-type(2) {
-font-style: italic;
-}
-blockquote {
-text-align: justify;
-border: none;
-}
-}</style>
+    {{< comment >}}
+
+        style.scss externe
+
+    {{< /comment >}}
 
 > **Q** Lors de quelle bataille Charles le Téméraire est-il mort ?
 >

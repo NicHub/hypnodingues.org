@@ -6,11 +6,11 @@ author: Nico
 draft: false
 ---
 
-<style>
-    .prose {
-        text-align: center;
-    }
-</style>
+    {{< comment >}}
+
+        style.scss externe
+
+    {{< /comment >}}
 
 Nous portions les portions.
 

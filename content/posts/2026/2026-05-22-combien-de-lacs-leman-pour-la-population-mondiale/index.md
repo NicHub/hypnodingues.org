@@ -6,16 +6,11 @@ author: Nico
 draft: false
 ---
 
-<style>
-    table tr > :nth-child(2) {
-        white-space: nowrap;
-        font-style: italic;
-    }
+    {{< comment >}}
 
-    table tbody tr:nth-child(7) {
-        background-color: color-mix(in srgb, var(--accent) 20%, transparent);
-    }
-</style>
+        style.scss externe
+
+    {{< /comment >}}
 
 > Réponse : Il faut **2.8 lacs Léman** pour une densité de 5 personnes / m².
 
