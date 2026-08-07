@@ -8,13 +8,13 @@
       {{ end }}
     </header>
 
-    <section class="post-feed">
+    <div class="post-feed">
       <div class="post-grid">
         {{ range .Paginator.Pages }}
           {{ partial "post-card.html" . }}
         {{ end }}
       </div>
-    </section>
+    </div>
 
     {{ template "_internal/pagination.html" . }}
   </section>
