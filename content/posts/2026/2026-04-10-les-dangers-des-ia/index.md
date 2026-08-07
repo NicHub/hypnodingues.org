@@ -175,7 +175,7 @@ twitter_card: "summary_large_image"
     -   À long terme, ce cercle vicieux menace la diversité des nouveaux contenus[^12].
 
 24. **Elles ne respectent pas le droit à l’oubli**
-     -   ...<!-- Cryptomnésie ou pas ? Je ne me souviens plus d’où m’est venue cette idée du droit à l’oubli 🤔 -->
+    -   ...<!-- Cryptomnésie ou pas ? Je ne me souviens plus d’où m’est venue cette idée du droit à l’oubli 🤔 -->
 
 25. **Elles saturent les capacités cognitives**
     -   En créant un appel d’air de tâches à exécuter.
