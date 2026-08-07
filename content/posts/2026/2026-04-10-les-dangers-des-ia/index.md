@@ -23,6 +23,11 @@ twitter_card: "summary_large_image"
     }
 </style>
 
+> Les IA ne sont pas de simples outils neutres.
+> Leur déploiement rapide transforme déjà nos manières de travailler, de créer, de décider et de nous informer.
+>
+> Voici une liste non exhaustive et évolutive des dangers qu’elles font peser sur les individus, la société et l’environnement.
+
 ![Calvin and Hobbes: Leave Math to the Machines](./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp)
 
 01. **Elles sont faillibles**
