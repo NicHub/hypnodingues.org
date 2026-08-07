@@ -58,7 +58,7 @@ twitter_card: "summary_large_image"
 07. **Elles ne respectent pas les régulations**
     -   _Elles ne respectent pas ou peu le RGPD_[^23].
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
-        Par exemple, l’UE ne s’est octroyée des pouvoirs extensifs via l’_IA Act_ que le 2 août 2026 alors que la première version de ChatGPT est sortie le 30 novembre 2022.[^46]
+        Par exemple, l’UE ne s’est octroyé des pouvoirs extensifs via l’_IA Act_ que le 2 août 2026 alors que la première version de ChatGPT est sortie le 30 novembre 2022.[^46]
 
 08. **Elles ne sont pas juridiquement responsables de leurs failles**
     -   Si elles se plantent, qui est responsable ? Qui paie les réparations ?
@@ -73,7 +73,7 @@ twitter_card: "summary_large_image"
     {{< /comment >}}
 
 09. **Elles rendent les humains incompétents et dépendants de leurs services**
-    -   Elles atrophient les compétences en facilitant l’obtention de résultats sans efforts et en favorisant l’externalisation de la pensée.[^39]
+    -   Elles atrophient les compétences en facilitant l’obtention de résultats sans effort et en favorisant l’externalisation de la pensée.[^39]
     -   Si seuls les experts sont sollicités alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
     -   _Micode — La fabrique à idiots_[^9]
@@ -175,7 +175,7 @@ twitter_card: "summary_large_image"
     -   Elles augmentent massivement la quantité de contenus médiocres ou erronés en circulation.[^39]
 
 23. **Elles assèchent les sources dont elles dépendent elles-mêmes**
-    -   Elles détournent les internautes des sites d’information, des médias et des plateformes spécialisées en leur fournissant des réponses directes grâce à des UX “zéro clic”[^41].
+    -   Elles détournent les internautes des sites d’information, des plateformes et des médias spécialisés en leur fournissant des réponses directes grâce à des UX “zéro clic”[^41].
     -   En privant ces sources de trafic et de revenus, elles menacent leur capacité à produire et à maintenir les contenus qui les alimentent elles-mêmes.[^42]
     -   À long terme, ce cercle vicieux menace la diversité des nouveaux contenus.[^12]
     -   Les fabricants d’IA peuvent être tentés de détruire les sources d’informations pour rendre leurs IA indispensables.[^50]
@@ -360,6 +360,6 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^48]: [Holy Schmidt! — The Verification Step That Stops 99% of Voice Impersonation Scams](https://www.youtube.com/watch?v=XITQ5aVFhL8)
 
-[^49]: [Youtube —  Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization](https://www.youtube.com/watch?v=bZL1NsrfuYE)
+[^49]: [YouTube —  Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization](https://www.youtube.com/watch?v=bZL1NsrfuYE)
 
 [^50]: [RTS — De mystérieuses razzias dans les librairies d’occasion allemandes soupçonnées d’être liées à l’IA](https://www.rts.ch/info/monde/2026/article/allemagne-des-livres-d-occasion-achetes-en-masse-pour-l-ia-29322111.html)
