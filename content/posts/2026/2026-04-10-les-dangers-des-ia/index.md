@@ -53,13 +53,13 @@ twitter_card: "summary_large_image"
 07. **Elles ne respectent pas les régulations**
     -   _Elles ne respectent pas ou peu le RGPD_[^23].
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
-        Par exemple, L’UE ne s’est octroyée des pouvoirs extensifs via l’_IA Act_ que le 2 août 2026 alors que la première version de ChatGPT est sortie le 30 novembre 2022.[^46]
+        Par exemple, l’UE ne s’est octroyée des pouvoirs extensifs via l’_IA Act_ que le 2 août 2026 alors que la première version de ChatGPT est sortie le 30 novembre 2022.[^46]
 
 08. **Elles ne sont pas juridiquement responsables de leurs failles**
     -   Si elles se plantent, qui est responsable ? Qui paie les réparations ?
         -   Dysfonctionnements ou accidents de véhicules autonomes.[^2]
         -   Suppression accidentelle et dommageable de données informatiques.
-        -   Attaque non planifiées, comme l’attaque en juillet 2026 de _[Hugging Face]_ par ChatGPT 5.6 Sol.[^47]
+        -   Attaque non planifiée, comme l’attaque en juillet 2026 de _[Hugging Face]_ par ChatGPT 5.6 Sol.[^47]
 
     {{< comment >}}
 
@@ -121,8 +121,8 @@ twitter_card: "summary_large_image"
     -   L’accès à leurs services est révocable unilatéralement par leurs fournisseurs.
         _Le Temps — « Est-ce le bruit des bottes ou celui de l’éveil que nous entendons ? »_[^25]
 
-16. **Elles fragilisent les démocraties**<!-- Probabablement à fusionner avec “Elles ne respectent pas les régulations” -->
-    -   Elles sont détenues par des intérêts privés et leur vitesse de développement est des ordres de grandeur plus rapide que celui des institutions démocratiques publiques.[^46]
+16. **Elles fragilisent les démocraties**<!-- Probablement à fusionner avec “Elles ne respectent pas les régulations” -->
+    -   Elles sont détenues par des intérêts privés et se développent bien plus vite que les institutions démocratiques publiques ne peuvent réagir.[^46]
     -   Concentration de pouvoirs[^32].
     -   Elles favorisent la convergence des intérêts des grandes entreprises technologiques, des industries des énergies fossiles et des pouvoirs publics, au détriment des régulations démocratiques.[^39]
 
@@ -172,7 +172,10 @@ twitter_card: "summary_large_image"
 23. **Elles assèchent les sources dont elles dépendent elles-mêmes**
     -   Elles détournent les internautes des sites d’information, des médias et des plateformes spécialisées en leur fournissant des réponses directes grâce à des UX “zéro clic”[^41].
     -   En privant ces sources de trafic et de revenus, elles menacent leur capacité à produire et à maintenir les contenus qui les alimentent elles-mêmes.[^42]
-    -   À long terme, ce cercle vicieux menace la diversité des nouveaux contenus[^12].
+    -   À long terme, ce cercle vicieux menace la diversité des nouveaux contenus.[^12]
+    -   Les fabricants d’IA peuvent être tentés de détruire les sources d’informations pour rendre leurs IA indispensables.[^50]
+        -   `#autodafés`
+        -   `#Fahrenheit451`
 
 24. **Elles ne respectent pas le droit à l’oubli**
     -   ...<!-- Cryptomnésie ou pas ? Je ne me souviens plus d’où m’est venue cette idée du droit à l’oubli 🤔 -->
@@ -209,7 +212,7 @@ twitter_card: "summary_large_image"
 30. **Elles présentent des enjeux éthiques nombreux**
     -   _Wikipédia — Éthique de l’intelligence artificielle_[^38]
 
-31. **Elles pourront bientôt être auto-suffisantes et échapper au contrôle humain**<!-- Ça fait deux points dans la même phrase... -->
+31. **Elles pourront bientôt être autosuffisantes et échapper au contrôle humain**<!-- Ça fait deux points dans la même phrase... -->
     -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
 
 <img src="./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp" alt="Calvin and Hobbes: Leave Math to the Machines" style="width: 50%;" />
@@ -353,3 +356,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^48]: [Holy Schmidt! — The Verification Step That Stops 99% of Voice Impersonation Scams](https://www.youtube.com/watch?v=XITQ5aVFhL8)
 
 [^49]: [Youtube —  Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization](https://www.youtube.com/watch?v=bZL1NsrfuYE)
+
+[^50]: [RTS — De mystérieuses razzias dans les librairies d’occasion allemandes soupçonnées d’être liées à l’IA](https://www.rts.ch/info/monde/2026/article/allemagne-des-livres-d-occasion-achetes-en-masse-pour-l-ia-29322111.html)
