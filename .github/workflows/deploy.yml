@@ -17,9 +17,6 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      HUGO_ENVIRONMENT: production
-      HUGO_ENV: production
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -51,7 +48,7 @@ jobs:
           "$HOME/.local/lib/dart-sass/sass" --version
 
       - name: Build
-        run: hugo --config hugo.yaml --gc
+        run: hugo --gc
 
       - name: Sanity check public
         run: |

@@ -2,7 +2,7 @@
 
 ###
 # Usage:
-# bash scripts/hugo_preview.sh
+# bash scripts/preview.sh
 #
 # Windows Installation
 # winget install Hugo.Hugo.Extended
@@ -31,8 +31,6 @@ fi
 echo -e "\n\n$FULL_URL\n\n"
 
 OPT=""
-OPT+=" --environment dev-local"
-OPT+=" --config hugo.yaml,hugo.dev-local.yaml"
 OPT+=" --watch"
 OPT+=" --gc"  #  run some cleanup tasks after the build
 OPT+=" --disableFastRender"

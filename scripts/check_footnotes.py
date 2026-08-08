@@ -2,7 +2,7 @@
 
 ###
 # usage:
-# python3 themes/hypnodingues/scripts/check_footnotes.py content/posts
+# python3 scripts/check_footnotes.py content/posts
 ##
 
 from __future__ import annotations

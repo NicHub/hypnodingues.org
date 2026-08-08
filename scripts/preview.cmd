@@ -2,7 +2,7 @@
 setlocal
 
 set "SCRIPT_DIR=%~dp0"
-set "SCRIPT=%SCRIPT_DIR%hugo_preview.ps1"
+set "SCRIPT=%SCRIPT_DIR%preview.ps1"
 
 if not exist "%SCRIPT%" (
   echo Missing script: %SCRIPT%
