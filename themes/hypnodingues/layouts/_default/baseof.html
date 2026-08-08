@@ -24,6 +24,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator-date" content="{{ now.UTC.Format `2006-01-02T15:04:05Z` }}">
     <title>{{ $title }}</title>
     {{ with $description }}<meta name="description" content="{{ . }}">{{ end }}
     <link rel="canonical" href="{{ .Permalink }}">
