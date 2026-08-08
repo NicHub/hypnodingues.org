@@ -6,7 +6,7 @@ Une seule fois par jour et par fil de conversation, avant la première intervent
 
 -   Consulter `TODO.md`.
 -   Vérifier la version de Hugo installée sur le système avec `hugo version`.
--   La comparer à la valeur `hugo-version` définie dans `.github/workflows/deploy.yml`.
+-   La comparer à la valeur `HUGO_VERSION` définie dans `.github/workflows/deploy.yml`.
 -   Indiquer si la version du workflow est identique, plus récente ou plus ancienne que celle du système.
 -   Si la version du workflow est plus ancienne, proposer de mettre à jour `.github/workflows/deploy.yml`, sans effectuer cette modification sans demande explicite.
 
