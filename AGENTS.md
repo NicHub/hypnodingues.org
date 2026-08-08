@@ -14,11 +14,13 @@ Si ces actions ont déjà été effectuées et rapportées plus haut dans la con
 
 ## Compilation Hugo
 
-Pour compiler et prévisualiser le site, utiliser systématiquement la commande suivante :
+Pour compiler et prévisualiser le site avec le serveur de développement et le code QR, la commande suivante peut être utilisée :
 
 ```bash
 bash ./scripts/preview.sh
 ```
+
+Une compilation directe avec Hugo est également autorisée lorsque le serveur de prévisualisation n’est pas nécessaire.
 
 ## Suivi des tâches
 
