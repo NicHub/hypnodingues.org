@@ -122,8 +122,8 @@ twitter_card: "summary_large_image"
         _Le Temps — « Est-ce le bruit des bottes ou celui de l’éveil que nous entendons ? »_[^25]
 
 16. **Elles peuvent changer de propriétaire**
-    -   Lorsqu’un fournisseur d’IA change de propriétaire, les données de ses utilisateurs peuvent être transférées à l’acquéreur.
-        Comme pour tout service _cloud_, ces données risquent alors de tomber entre les mains d’un concurrent de l’entreprise utilisatrice.
+    -   Comme pour tout service _cloud_, lorsqu’un fournisseur d’IA change de propriétaire, les données de ses utilisateurs peuvent être transférées à l’acquéreur.
+        Cet acquéreur peut être problématique, par exemple si c’est un concurrent de l’entreprise utilisatrice.
 
 17. **Elles fragilisent les démocraties**<!-- Probablement à fusionner avec “Elles ne respectent pas les régulations” -->
     -   Elles sont détenues par des intérêts privés et se développent bien plus vite que les institutions démocratiques publiques ne peuvent réagir.[^46]
