@@ -44,6 +44,7 @@ twitter_card: "summary_large_image"
 5. **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**[^22]
     -   Leurs fournisseurs contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteur, mais celle de l’utilisateur final.
     -   Sujet connexe : _L’échelle Dalia_[^37]
+    -   Voir aussi : _Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne_[^51]
 
 6. **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
     -   Elles peuvent se présenter comme “coauteurs” plutôt que comme simples assistants, ce qui entretient une ambiguïté sur la titularité des droits, la part de contribution humaine et la responsabilité juridique des productions.[^35][^36]
@@ -259,6 +260,12 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
         -   Micode — Comment retrouver n’importe qui sur Internet ?
             https://www.youtube.com/watch?v=4daO2QM12WY
 
+        ## DÉSACTIVER LA NOTIFICATION MD053 - “Link and image reference definitions should be needed”
+
+        ```
+        <!-- markdownlint-disable-line MD053 -->
+        ```
+
     {{< /comment >}}
 
 [^1]: [Science étonnante — Combien consomme une requête à ChatGPT ?](https://scienceetonnante.substack.com/p/combien-consomme-une-requete-a-chatgpt)
@@ -363,4 +370,4 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^50]: [RTS — De mystérieuses razzias dans les librairies d’occasion allemandes soupçonnées d’être liées à l’IA](https://www.rts.ch/info/monde/2026/article/allemagne-des-livres-d-occasion-achetes-en-masse-pour-l-ia-29322111.html)
 
-[^51]: [Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne](https://pressreader.com/article/281646786957114) <!-- markdownlint-disable-line MD053 -->
+[^51]: [Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne](https://pressreader.com/article/281646786957114)
