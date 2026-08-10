@@ -21,17 +21,19 @@ draft: false
 
 ## Sources
 
--   [DALIA sur GitHub]
--   [*Un thermomètre pour mesurer la part de l’IA dans l’industrie créative* (30 mars 2026, Grégoire Barbey, *Le Temps*).][Lire l’article sur PressReader]
+-   _DALIA sur GitHub_[^1]
+-   _Un thermomètre pour mesurer la part de l’IA dans l’industrie créative (30 mars 2026, Grégoire Barbey, Le Temps)._[^2]
 
 ## À écouter et voir aussi
 
--   [letemps.ch — Podcast « IA, qu’à m’expliquer »]
--   [rts.ch — Le premier thermomètre de l’IA est Suisse]
--   [euronews (en français) — À partir de dimanche, l’obligation de signaler tout contenu généré par l’IA entre en vigueur]
+-   _letemps.ch — Podcast « IA, qu’à m’expliquer »_[^3]
+-   _rts.ch — Le premier thermomètre de l’IA est Suisse_[^4]
+-   _euronews (en français) — À partir de dimanche, l’obligation de signaler tout contenu généré par l’IA entre en vigueur_[^5]
+-   _Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne_[^6]
 
-[DALIA sur GitHub]: https://github.com/DALIAscale
-[Lire l’article sur PressReader]: https://pressreader.com/article/281715506157475
-[letemps.ch — Podcast « IA, qu’à m’expliquer »]: https://www.letemps.ch/podcasts/ia-qu-a-m-expliquer
-[rts.ch — Le premier thermomètre de l’IA est Suisse]: https://www.rts.ch/play/tv/decryptage-culture/video/le-premier-thermometre-de-lia-est-suisse?urn=urn:rts:video:15a0174c-c9e1-38d4-9cf0-ac278580d67d
-[euronews (en français) — À partir de dimanche, l’obligation de signaler tout contenu généré par l’IA entre en vigueur]: https://www.youtube.com/watch?v=-s1-mktkMnE
+[^1]: [DALIA sur GitHub](https://github.com/DALIAscale)
+[^2]: [Un thermomètre pour mesurer la part de l’IA dans l’industrie créative (30 mars 2026, Grégoire Barbey, Le Temps).](https://pressreader.com/article/281715506157475)
+[^3]: [letemps.ch — Podcast « IA, qu’à m’expliquer »](https://www.letemps.ch/podcasts/ia-qu-a-m-expliquer)
+[^4]: [rts.ch — Le premier thermomètre de l’IA est Suisse](https://www.rts.ch/play/tv/decryptage-culture/video/le-premier-thermometre-de-lia-est-suisse?urn=urn:rts:video:15a0174c-c9e1-38d4-9cf0-ac278580d67d)
+[^5]: [euronews (en français) — À partir de dimanche, l’obligation de signaler tout contenu généré par l’IA entre en vigueur](https://www.youtube.com/watch?v=-s1-mktkMnE)
+[^6]: [Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne](https://pressreader.com/article/281646786957114)
