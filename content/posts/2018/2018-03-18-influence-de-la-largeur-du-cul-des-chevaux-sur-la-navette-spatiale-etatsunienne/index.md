@@ -6,7 +6,7 @@ author: Nico
 draft: false
 ---
 
-La distance standard entre 2 rails de chemin de fer aux États-Unis est de 4 pieds et 8 pouces et demi (143,51 cm). C’est un chiffre particulièrement bizarre.
+La distance standard entre 2 rails de chemin de fer aux États-Unis est de 4 pieds et 8 pouces et demi (143.51 cm). C’est un chiffre particulièrement bizarre.
 
 *Pourquoi cet écartement a-t-il été retenu ?* Parce que les chemins de fer états-uniens ont été construits de la même façon qu’en Angleterre, par des ingénieurs anglais expatriés, qui ont pensé que c’était une bonne idée, car ça permettait également d’utiliser des locomotives anglaises.
 

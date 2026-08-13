@@ -31,7 +31,7 @@ draft: false
       >
       <button class="mooc-search__button" type="submit">Rechercher</button>
     </form>
-    <p class="mooc-search__hint" id="mooc-search-summary">Recherche en cours pour "kicad".</p>
+    <p class="mooc-search__hint" id="mooc-search-summary">Recherche en cours pour “kicad”.</p>
   </div>
 
   <div class="mooc-search__results" id="mooc-search-results"></div>

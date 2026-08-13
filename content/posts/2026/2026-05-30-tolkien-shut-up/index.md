@@ -25,7 +25,7 @@ Si tu veux reproduire le contenu essentiel de la vidéo dans un billet Hugo/Mark
 
     Shut up.
 
-⚠️ À noter : la vidéo affichée est un montage humoristique de 49 secondes. Le texte ci-dessus est une paraphrase très courte du contenu de la vidéo, pas une transcription mot à mot complète. Les commentaires visibles indiquent d'ailleurs que la chute finale est simplement « Shut up ». Pour des raisons de droit d'auteur, je ne peux pas fournir une transcription intégrale verbatim de la vidéo.
+⚠️ À noter : la vidéo affichée est un montage humoristique de 49 secondes. Le texte ci-dessus est une paraphrase très courte du contenu de la vidéo, pas une transcription mot à mot complète. Les commentaires visibles indiquent d’ailleurs que la chute finale est simplement « Shut up ». Pour des raisons de droit d’auteur, je ne peux pas fournir une transcription intégrale verbatim de la vidéo.
 
 
 ## À voir aussi

@@ -55,4 +55,4 @@ Chaque ligne renvoie vers la fiche OFF de l’additif. Ces informations sont don
 
 ### Voir aussi
 
--   [sulfite — La TRISTE vérité derrière ces crevettes "parfaites" #shorts | 750GTV](https://www.youtube.com/watch?v=PAid8NfMjcY)
+-   [sulfite — La TRISTE vérité derrière ces crevettes « parfaites » #shorts | 750GTV](https://www.youtube.com/watch?v=PAid8NfMjcY)

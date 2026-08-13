@@ -7,7 +7,7 @@ draft: false
 ---
 
 <!--
-« Braves gens, prenez garde aux choses que vous dites » (parfois intitulé « Le Mot ») est un poème de Victor Hugo, publié à titre posthume en 1888 dans le recueil Toute la Lyre, bien qu'il date probablement de 1836.
+« Braves gens, prenez garde aux choses que vous dites » (parfois intitulé « Le Mot ») est un poème de Victor Hugo, publié à titre posthume en 1888 dans le recueil Toute la Lyre, bien qu’il date probablement de 1836.
 
 Ce texte humoristique mais averti décrit le mécanisme de la rumeur à travers une personnification du mot malveillant :
 
@@ -17,7 +17,7 @@ Ce texte humoristique mais averti décrit le mécanisme de la rumeur à travers 
 
     La conclusion souligne les conséquences dramatiques : « Et c’est fait. Vous avez un ennemi mortel. »
 
-L'œuvre est souvent interprétée comme une réflexion sur la responsabilité de la parole et la puissance irréversible de la rumeur, un thème restant d'une actualité brûlante à l'ère des réseaux sociaux.
+L’œuvre est souvent interprétée comme une réflexion sur la responsabilité de la parole et la puissance irréversible de la rumeur, un thème restant d’une actualité brûlante à l’ère des réseaux sociaux.
 Réponse générée par IA. Pensez à vérifier les informations importantes.
  -->
 

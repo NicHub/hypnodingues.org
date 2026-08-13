@@ -23,7 +23,7 @@ La Suisse se distingue particulièrement dans le domaine des dépôts de brevets
 
 <p>
 
-Globalement, la Suisse se classe à un haut niveau et très loin devant la Suède, qui arrive en deuxième position dans le peloton de tête des pays européens. Sa capacité d’innovation, à l’instar de celle des autres pays européens, a augmenté dans une mesure moindre que l’année dernière (+1,3% en 2011 contre +4% en 2010). Seules la Finlande (+2%) et l’Allemagne (+1,6%) affichent des taux de croissance en hausse.
+Globalement, la Suisse se classe à un haut niveau et très loin devant la Suède, qui arrive en deuxième position dans le peloton de tête des pays européens. Sa capacité d’innovation, à l’instar de celle des autres pays européens, a augmenté dans une mesure moindre que l’année dernière (+1.3% en 2011 contre +4% en 2010). Seules la Finlande (+2%) et l’Allemagne (+1.6%) affichent des taux de croissance en hausse.
 </p>
 
 <p>

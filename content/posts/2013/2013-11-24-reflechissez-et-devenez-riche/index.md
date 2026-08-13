@@ -21,6 +21,6 @@ Bisous et soyez tous riches, d’expériences, de vécu, d’émotions et d’ar
 </p>
 
 <!--
-<p>Et voici la suite, la vidéo d'origine du livre</p>
+<p>Et voici la suite, la vidéo d’origine du livre</p>
 &#10;<p>http://youtu.be/lTEkaiq0UZM</p>
 -->

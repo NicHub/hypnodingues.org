@@ -12,6 +12,6 @@ draft: false
 
 ##  Source
 
-Il y a une perte d'insouciance dans la population", constate le psychiatre Friedrich Stiefel
+“Il y a une perte d’insouciance dans la population”, constate le psychiatre Friedrich Stiefel
 
 <https://www.rts.ch/info/sante/2026/article/sante-mentale-plus-d-un-milliard-de-personnes-touchees-dans-le-monde-29309677.html>

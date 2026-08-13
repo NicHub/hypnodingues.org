@@ -360,7 +360,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^46]: [RTS — Droit d’enquête, amendes salées, marquage des contenus: les nouveaux pouvoirs de l’UE face à l’IA](https://www.rts.ch/info/sciences-tech/2026/article/regulation-de-l-ia-l-ue-se-dote-de-nouveaux-pouvoirs-inedits-29318567.html)
 
-[^47]: [RTS — Un piratage "sans précédent" d’une plateforme par les agents d’IA d’OpenAI](https://www.rts.ch/info/sciences-tech/2026/article/openai-ses-modeles-d-ia-piratent-hugging-face-de-maniere-autonome-29309764.html)
+[^47]: [RTS — Un piratage « sans précédent » d’une plateforme par les agents d’IA d’OpenAI](https://www.rts.ch/info/sciences-tech/2026/article/openai-ses-modeles-d-ia-piratent-hugging-face-de-maniere-autonome-29309764.html)
 
 [Hugging Face]: https://huggingface.co/
 

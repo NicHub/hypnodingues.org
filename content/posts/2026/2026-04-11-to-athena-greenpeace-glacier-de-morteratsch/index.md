@@ -16,6 +16,6 @@ Une musique qui résonne au cœur d’un glacier en fonte
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BSXz5-PldMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### POV: Greenpeace t'invite à interpréter ta chanson dans un glacier
+### POV: Greenpeace t’invite à interpréter ta chanson dans un glacier
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uj8DcHNCeXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

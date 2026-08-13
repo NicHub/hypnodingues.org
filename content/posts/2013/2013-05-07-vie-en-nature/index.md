@@ -198,7 +198,7 @@ une bâche de sol pour mettre son matelas dessus, qui peut être faite d’un sa
 
 <li>
 
-un sac de couchage chaud (confort 5° environ, soit 1 kg minimum pour les sacs en plumes et 1,5 kg minimum pour les synthétiques), même en été les nuits sont souvent froides en montagne
+un sac de couchage chaud (confort 5° environ, soit 1 kg minimum pour les sacs en plumes et 1.5 kg minimum pour les synthétiques), même en été les nuits sont souvent froides en montagne
 </li>
 
 <li>
