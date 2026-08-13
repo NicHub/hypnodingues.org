@@ -15,8 +15,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 PROJECT_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 IP="$(bash "$SCRIPT_DIR/get_ip_of_default_interface.sh")"
 
-rm -rf "$PROJECT_DIR/public"
-rm -rf "$PROJECT_DIR/resources"
+rm -rf "$PROJECT_DIR/.hugo"
 
 PORT="1313"
 BASE_URL="http://$IP"

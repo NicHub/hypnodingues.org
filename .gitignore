@@ -1,6 +1,7 @@
 # ---- Hugo ----
 /public/
 /resources/
+/.hugo/
 /.hugo_build.lock
 
 # ---- OS ----
