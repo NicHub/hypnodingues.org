@@ -220,6 +220,16 @@ twitter_card: "summary_large_image"
 32. **Elles pourront bientôt être autosuffisantes et échapper au contrôle humain**<!-- Ça fait deux points dans la même phrase... -->
     -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
 
+33. **Elles changent notre rapport à la réalité.**
+    -   Leurs réalisations numériques sont considérées aussi réelles que des réalisations physiques.[^49]
+
+34. **Elles choisissent nos vies à notre place.**
+    -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
+    -   _Bientôt, les enfants des riches auront un ADN “supérieur” ?_[^52]
+
+35. **Elles “exfiltrent” les données des machines sur lesquelles elles sont utilisées.**
+    -   En s’invitant sur nos appareils, il devient de plus en plus difficile de s’assurer qu’elles n’exfiltrent pas des données sensibles.
+
 <img src="./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp" alt="Calvin and Hobbes: Leave Math to the Machines" style="width: 50%;">
 
 ## Notes
@@ -371,3 +381,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^50]: [RTS — De mystérieuses razzias dans les librairies d’occasion allemandes soupçonnées d’être liées à l’IA](https://www.rts.ch/info/monde/2026/article/allemagne-des-livres-d-occasion-achetes-en-masse-pour-l-ia-29322111.html)
 
 [^51]: [Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne](https://pressreader.com/article/281646786957114)
+
+[^52]: [Bientôt, les enfants des riches auront un ADN “supérieur” ?](https://www.youtube.com/watch?v=wcJWi43or6k)
