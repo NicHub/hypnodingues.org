@@ -9,7 +9,7 @@ from pathlib import Path
 import yaml
 
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[2]
 POSTS_DIR = ROOT / "posts"
 CONTENT_DIR = ROOT / "content"
 
