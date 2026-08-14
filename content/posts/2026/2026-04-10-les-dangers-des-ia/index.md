@@ -227,8 +227,9 @@ twitter_card: "summary_large_image"
     -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
     -   _Bientôt, les enfants des riches auront un ADN “supérieur” ?_[^52]
 
-35. **Elles “exfiltrent” les données des machines sur lesquelles elles sont utilisées.**
-    -   En s’invitant sur nos appareils, il devient de plus en plus difficile de s’assurer qu’elles n’exfiltrent pas des données sensibles.
+35. **Elles peuvent exfiltrer des données privées voir sensibles.**
+    -   Quand on les invite directement sur nos appareils.
+    -   Quand on partage des conversations existantes.[^53][^54]
 
 <img src="./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp" alt="Calvin and Hobbes: Leave Math to the Machines" style="width: 50%;">
 
@@ -383,3 +384,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^51]: [Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne](https://pressreader.com/article/281646786957114)
 
 [^52]: [Bientôt, les enfants des riches auront un ADN “supérieur” ?](https://www.youtube.com/watch?v=wcJWi43or6k)
+
+[^53]: [developpez.com — Des conversations privées avec Claude d’Anthropic sont apparues dans les résultats de recherche Google](https://intelligence-artificielle.developpez.com/actu/385615/Des-conversations-privees-avec-Claude-d-Anthropic-sont-apparues-dans-les-resultats-de-recherche-Google-exposant-des-cles-de-portefeuille-de-cryptomonnaie-et-des-donnees-personnelles/)
+
+[^54]: [ChatGPT — Des conversations privées avec Claude d’Anthropic sont apparues dans les résultats de recherche Google](https://chatgpt.com/share/6a7f36b4-7098-83eb-a3ca-b63d081f1840)
