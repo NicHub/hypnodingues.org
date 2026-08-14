@@ -227,7 +227,7 @@ twitter_card: "summary_large_image"
     -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
     -   _Bientôt, les enfants des riches auront un ADN “supérieur” ?_[^52]
 
-35. **Elles peuvent exfiltrer des données privées voir sensibles**
+35. **Elles peuvent exfiltrer des données privées voire sensibles**
     -   Quand on les invite directement sur nos appareils.
     -   Quand on partage des conversations existantes.[^53][^54]
 
