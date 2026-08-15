@@ -30,7 +30,7 @@ twitter_card: "summary_large_image"
     -   De plus, si les adultes d’aujourd’hui qui ont été formés sans les IA peuvent potentiellement détecter leurs erreurs, est-ce que ce sera le cas des adultes de demain qui se forment aujourd’hui avec elles ?
 
 2. **Elles sont biaisées**
-    -   Il faut vérifier qu’elles ne préfèrent pas une catégorie à une autre, par exemple une catégorie raciale ou de genre.
+    -   Il faut vérifier qu’elles ne préfèrent pas une catégorie à une autre, par exemple une catégorie raciale ou de genre.[^55]
 
 3. **Elles induisent en erreur**
     -   Avec des _deepfakes_ très réalistes.
@@ -140,7 +140,7 @@ twitter_card: "summary_large_image"
 19. **Elles orientent les choix**
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
     -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
-    -   Elles sont flagorneuses (flatteuses, courtisanes, thuriféraires, béni-oui-oui, délatrices, intéressées, sycophantes[^5]).
+    -   Elles sont flagorneuses[^55] (flatteuses, courtisanes, thuriféraires, béni-oui-oui, délatrices, intéressées, sycophantes[^5]).
         > Attention, le sens de sycophante[^5] est légèrement différent en français (délateur) et en anglais (flagorneur).
     -   _Le biais cognitif que tout le monde a (sans le savoir)_[^4]
     -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais).<!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
@@ -388,3 +388,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^53]: [developpez.com — Des conversations privées avec Claude d’Anthropic sont apparues dans les résultats de recherche Google](https://intelligence-artificielle.developpez.com/actu/385615/Des-conversations-privees-avec-Claude-d-Anthropic-sont-apparues-dans-les-resultats-de-recherche-Google-exposant-des-cles-de-portefeuille-de-cryptomonnaie-et-des-donnees-personnelles/)
 
 [^54]: [ChatGPT — Des conversations privées avec Claude d’Anthropic sont apparues dans les résultats de recherche Google](https://chatgpt.com/share/6a7f36b4-7098-83eb-a3ca-b63d081f1840)
+
+[^55]: [YouTube — Aevy TV — This is the strangest thing Anthropic has ever admitted about Claude](https://www.youtube.com/watch?v=xzSp3iWtAp8)
