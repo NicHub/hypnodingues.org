@@ -45,7 +45,7 @@ twitter_card: "summary_large_image"
 5. **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**[^22]
     -   Leurs fournisseurs contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteur, mais celle de l’utilisateur final.
     -   Sujet connexe : _L’échelle Dalia_[^37]
-    -   Voir aussi : _Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne_[^51]
+    -   Voir aussi : _PressReader — Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne_[^51]
 
 6. **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
     -   Elles peuvent se présenter comme “coauteurs” plutôt que comme simples assistants, ce qui entretient une ambiguïté sur la titularité des droits, la part de contribution humaine et la responsabilité juridique des productions.[^35][^36]
@@ -73,7 +73,7 @@ twitter_card: "summary_large_image"
     -   Elles atrophient les compétences en facilitant l’obtention de résultats sans effort et en favorisant l’externalisation de la pensée.[^39]
     -   Si seuls les experts sont sollicités alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
-    -   _Micode — La fabrique à idiots_[^9]
+    -   _YouTube — Micode — La fabrique à idiots_[^9]
 
 10. **Elles remplacent les humains**
     -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
@@ -83,8 +83,8 @@ twitter_card: "summary_large_image"
         > _— Karim Lakhani, Harvard Business School Professor_
     -   _RTS — L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans_[^19]
     -   Elon Musk, Sam Altman et quelques autres ont même proposé d’instaurer un revenu universel.
-        _Le Temps — Saura-t-on rappeler à l’IA qu’elle nous est redevable ?_[^24]
-    -   _Monsieur Phi — Pourquoi les mathématiciens s’inquiètent de l’avenir de leur discipline_[^20]
+        _PressReader — Le Temps — Saura-t-on rappeler à l’IA qu’elle nous est redevable ?_[^24]
+    -   _YouTube — Monsieur Phi — Pourquoi les mathématiciens s’inquiètent de l’avenir de leur discipline_[^20]
 
 11. **Elles sont utilisées pour évaluer le travail des humains**
     -   Le travail fourni par les humains, qu’il soit assisté ou non par des agents, est de plus en plus souvent évalué par des IA, elles-mêmes assistées ou non par des humains.
@@ -117,11 +117,11 @@ twitter_card: "summary_large_image"
 
 14. **Elles sont vulnérables**
     -   Car elles dépendent de composants logiciels et matériels nombreux et complexes.
-    -   _Le HuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech_[^2]
+    -   _YouTube — Le HuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech_[^2]
 
 15. **Leur accès n’est pas garanti**
     -   L’accès à leurs services est révocable unilatéralement par leurs fournisseurs.
-        _Le Temps — « Est-ce le bruit des bottes ou celui de l’éveil que nous entendons ? »_[^25]
+        _PressReader — Le Temps — Est-ce le bruit des bottes ou celui de l’éveil que nous entendons ?_[^25]
 
 16. **Elles peuvent changer de propriétaire**
     -   Comme pour tout service _cloud_, lorsqu’un fournisseur d’IA change de propriétaire, les données de ses utilisateurs peuvent être transférées à l’acquéreur.
@@ -148,8 +148,8 @@ twitter_card: "summary_large_image"
 
 20. **Elles déstabilisent le tissu social**
     -   Anthropomorphisme : Le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
-    -   _Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)_[^6]
-    -   _Le Temps — « L’intelligence artificielle crée l’illusion de s’occuper de nous »_[^7]
+    -   _YouTube — Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)_[^6]
+    -   _PressReader — Le Temps — L’intelligence artificielle crée l’illusion de s’occuper de nous_[^7]
 
 21. **Elles sont intrusives**[^29][^30][^33]
     -   Elles sont utilisées à des fins de surveillance sans possibilité d’opposition (sans possibilité d’exprimer le non-consentement, la désapprobation).[^44][^45]
@@ -166,7 +166,7 @@ twitter_card: "summary_large_image"
 22. **Elles sont hackées**
     -   Requêtes DAN (Do Anything Now).
     -   Requêtes UTS (Universal Transferable Suffix).
-        -   _Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
+        -   _YouTube — Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
             -   `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
     -   Prompts cachés : texte de la même couleur que le fond, invisible aux humains, mais pas aux IA.
 
@@ -190,11 +190,11 @@ twitter_card: "summary_large_image"
     -   En créant un appel d’air de tâches à exécuter.
         -   Source de l’idée originale : newsletter par mail de Marc Menson “Why your to-do list will never end”.
         -   En réduisant considérablement le temps et le cout de réalisation, les IA rendent possibles de nombreux projets auparavant abandonnés ou reportés : les idées et les tâches se multiplient, tandis que le goulet d’étranglement se déplace de la réalisation technique vers la capacité humaine à sélectionner, coordonner et interrompre les projets. Ce passage incessant d’un projet à l’autre peut entrainer une surcharge mentale, effacer le temps personnel et conduire au burnout.[^43]
-    -   _France Info — L’IA sature nos capacités cognitives_[^10]
+    -   _YouTube — France Info — L’IA sature nos capacités cognitives_[^10]
         -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
         -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
     -   Elles induisent une fatigue décisionnelle.
-        -   _Damien Maya — Pourquoi choisir est devenu une torture psychologique_[^11]
+        -   _YouTube — Damien Maya — Pourquoi choisir est devenu une torture psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
 27. **Elles sont élitistes**<!-- Éventuellement déplacer après “Elles fragilisent les démocraties” -->
@@ -203,22 +203,33 @@ twitter_card: "summary_large_image"
 
 28. **Elles uniformisent le langage**
     -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
-        -   _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
-    -   _Le Temps — L’IA punit les Romands pour leur langage_[^28]
+        -   _YouTube — France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+    -   _PressReader — Le Temps — L’IA punit les Romands pour leur langage_[^28]
 
 29. **Elles marginalisent les langues à faibles ressources**
     -   Les IA apprennent à partir des langues à hautes ressources, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
-        -   _France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
+        -   _YouTube — France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   Contre-exemple : _MINOR-IA, L’IA au service de la santé mentale en langues minoritaires_[^26]
 
 30. **On ne connait pas de moyen pour déterminer si elles sont conscientes**
-    -   _Robert Miles AI Safety — The AI Consciousness Question is So Annoying_[^34]
-    -   _Fabien Olicard — L’expérience de la chambre chinoise_[^40]
+    -   _YouTube — Robert Miles AI Safety — The AI Consciousness Question is So Annoying_[^34]
+    -   _YouTube — Fabien Olicard — L’expérience de la chambre chinoise_[^40]
 
 31. **Elles présentent des enjeux éthiques nombreux**
     -   _Wikipédia — Éthique de l’intelligence artificielle_[^38]
 
-32. **Elles pourraient provoquer une singularité technologique**
+32. **Elles changent notre rapport à la réalité**
+    -   Leurs réalisations numériques sont considérées aussi réelles que des réalisations physiques.[^49]
+
+33. **Elles choisissent nos vies à notre place**
+    -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
+    -   _YouTube — ARTE — Bientôt, les enfants des riches auront un ADN “supérieur” ?_[^52]
+
+34. <span id="elles-peuvent-exfiltrer-des-donnees-privees-voire-sensibles"></span>**Elles peuvent exfiltrer des données sensibles, privées ou confidentielles**
+    -   Quand on les invite directement sur nos appareils.
+    -   Quand on partage des conversations existantes.[^53][^54]
+
+35. **Elles pourraient provoquer une singularité technologique**
     -   Une intelligence artificielle dépassant les capacités humaines pourrait contribuer à améliorer ses propres successeurs et provoquer une accélération technologique devenue imprévisible ou incontrôlable.[^56]
 
     > _“The Singularity,” […] [is] the future point at which artificial intelligence exceeds human intelligence_[^57]
@@ -228,21 +239,10 @@ twitter_card: "summary_large_image"
     -   Cette singularité reste une hypothèse controversée, et non une étape dont la possibilité ou la proximité seraient établies.[^57]
     -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
 
-33. **Elles pourraient devenir autonomes puis autosuffisantes**
+36. **Elles pourraient devenir autonomes puis autosuffisantes**
     -   Elles pourraient atteindre une autonomie opérationnelle leur permettant de planifier et d’agir sans intervention humaine immédiate.
     -   Elles pourraient ensuite devenir autosuffisantes en assurant les ressources, la maintenance et les infrastructures nécessaires à leur fonctionnement.
     -   Ces seuils ne supposent pas nécessairement une intelligence supérieure à celle des humains, mais pourraient rendre leur interruption ou leur contrôle beaucoup plus difficiles.[^49]
-
-34. **Elles changent notre rapport à la réalité**
-    -   Leurs réalisations numériques sont considérées aussi réelles que des réalisations physiques.[^49]
-
-35. **Elles choisissent nos vies à notre place**
-    -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
-    -   _Bientôt, les enfants des riches auront un ADN “supérieur” ?_[^52]
-
-36. <span id="elles-peuvent-exfiltrer-des-donnees-privees-voire-sensibles"></span>**Elles peuvent exfiltrer des données sensibles, privées ou confidentielles**
-    -   Quand on les invite directement sur nos appareils.
-    -   Quand on partage des conversations existantes.[^53][^54]
 
 <img src="./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp" alt="Calvin and Hobbes: Leave Math to the Machines" style="width: 50%;">
 
@@ -256,6 +256,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 -   _Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs les déclarations de Luc Julia_[^14]
 -   _Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025_[^15]
+-   _YouTube — Le Parisien —  Un taxi autonome incendié en pleine rue à San Francisco_[^59]
 
 ### Trends
 
@@ -294,25 +295,25 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^1]: [Science étonnante — Combien consomme une requête à ChatGPT ?](https://scienceetonnante.substack.com/p/combien-consomme-une-requete-a-chatgpt)
 
-[^2]: [Le HuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech](https://www.youtube.com/watch?v=ScPYHbx_3gU)
+[^2]: [YouTube — Le HuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech](https://www.youtube.com/watch?v=ScPYHbx_3gU)
 
-[^3]: [Scilabus — Attention : Votre assistant d’écriture change votre façon de penser](https://www.youtube.com/watch?v=osOWroq6jaM)
+[^3]: [YouTube — Scilabus — Attention : Votre assistant d’écriture change votre façon de penser](https://www.youtube.com/watch?v=osOWroq6jaM)
 
-[^4]: [Chez Anatole — Le biais cognitif que tout le monde a sans le savoir](https://www.youtube.com/watch?v=g8p7MxmuOsQ&t=653s)
+[^4]: [YouTube — Chez Anatole — Le biais cognitif que tout le monde a sans le savoir](https://www.youtube.com/watch?v=g8p7MxmuOsQ&t=653s)
 
 [^5]: [Wikipédia — Sycophante](https://fr.wikipedia.org/wiki/Sycophante)
 
-[^6]: [Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain](https://www.youtube.com/watch?v=q0afqpj0mtw)
+[^6]: [YouTube — Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain](https://www.youtube.com/watch?v=q0afqpj0mtw)
 
-[^7]: [Le Temps — L’intelligence artificielle crée l’illusion de s’occuper de nous](https://pressreader.com/article/281831470324422)
+[^7]: [PressReader — Le Temps — L’intelligence artificielle crée l’illusion de s’occuper de nous](https://pressReader.com/article/281831470324422)
 
-[^8]: [Christophe Pauly — Le mot interdit qui fait dérailler les IA](https://youtu.be/H-807b9W1Us?t=383)
+[^8]: [YouTube — Christophe Pauly — Le mot interdit qui fait dérailler les IA](https://youtu.be/H-807b9W1Us?t=383)
 
-[^9]: [Micode — La fabrique à idiots](https://www.youtube.com/watch?v=4xq6bVbS-Pw)
+[^9]: [YouTube — Micode — La fabrique à idiots](https://www.youtube.com/watch?v=4xq6bVbS-Pw)
 
-[^10]: [France Info — L’IA sature nos capacités cognitives](https://www.youtube.com/watch?v=Lhm_EUcHy9k)
+[^10]: [YouTube — France Info — L’IA sature nos capacités cognitives](https://www.youtube.com/watch?v=Lhm_EUcHy9k)
 
-[^11]: [Damien Maya — Pourquoi choisir est devenu une torture psychologique](https://www.youtube.com/watch?v=IoyNTMrZFsg)
+[^11]: [YouTube — Damien Maya — Pourquoi choisir est devenu une torture psychologique](https://www.youtube.com/watch?v=IoyNTMrZFsg)
 
 [^12]: [RTS — l’IA révolutionne les navigateurs web, Comet défie Chrome et Safari](https://www.rts.ch/info/sciences-tech/2025/article/l-ia-revolutionne-les-navigateurs-web-comet-defie-chrome-et-safari-29020257.html)
 
@@ -320,47 +321,47 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^14]: [Monsieur Phi — Luc Julia a-t-il menti ?](https://monsieurphi.com/2025/08/22/luc-julia-a-t-il-menti-les-temoignages-des-co-fondateurs-de-siri-vs-les-declarations-de-luc-julia/)
 
-[^15]: [Luc Julia face à Monsieur Phi — Tech&Co la quotidienne du 01/09/2025](https://www.youtube.com/watch?v=xKeFsOceT44)
+[^15]: [YouTube — Luc Julia face à Monsieur Phi — Tech&Co la quotidienne du 01/09/2025](https://www.youtube.com/watch?v=xKeFsOceT44)
 
 [^16]: [Wikipédia — Vibe coding](https://fr.wikipedia.org/wiki/Vibe_coding)
 
 [^17]: [Wikipédia — OSINT](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes)
 
-[^18]: [Wikipédia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l’information))
+[^18]: [Wikipédia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_%28s%C3%A9curit%C3%A9_de_l%E2%80%99information%29)
 
 [^19]: [RTS — L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans](https://www.rts.ch/play/tv/-/video/-?urn=urn:rts:video:05195471-4c48-3f4a-bb2b-1a51139a8ca1)
 
-[^20]: [Monsieur Phi — Pourquoi les mathématiciens s’inquiètent de l’avenir de leur discipline](https://www.youtube.com/watch?v=AYPQIntoJeE)
+[^20]: [YouTube — Monsieur Phi — Pourquoi les mathématiciens s’inquiètent de l’avenir de leur discipline](https://www.youtube.com/watch?v=AYPQIntoJeE)
 
-[^21]: [France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage](https://www.youtube.com/watch?v=ABZAc1JvlB0)
+[^21]: [YouTube — France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage](https://www.youtube.com/watch?v=ABZAc1JvlB0)
 
-[^22]: [France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ?](https://www.youtube.com/watch?v=-x2J70S7sOI)
+[^22]: [YouTube — France Inter — Droit d’auteur : les géants de l’IA pillent-ils les œuvres en toute impunité ?](https://www.youtube.com/watch?v=-x2J70S7sOI)
 
-[^23]: [ARTE — Le dessous des images — Le collier IA qui n’a pas que des amis](https://www.youtube.com/watch?v=Nhq5DpgGOd8)
+[^23]: [YouTube — ARTE — Le dessous des images — Le collier IA qui n’a pas que des amis](https://www.youtube.com/watch?v=Nhq5DpgGOd8)
 
-[^24]: [Le Temps — Saura-t-on rappeler à l’IA qu’elle nous est redevable ?](https://pressreader.com/article/282080578544056)
+[^24]: [PressReader — Le Temps — Saura-t-on rappeler à l’IA qu’elle nous est redevable ?](https://pressReader.com/article/282080578544056)
 
-[^25]: [Le Temps — Est-ce le bruit des bottes ou celui de l’éveil que nous entendons ?](https://pressreader.com/article/281767045929234)
+[^25]: [PressReader — Le Temps — Est-ce le bruit des bottes ou celui de l’éveil que nous entendons ?](https://pressReader.com/article/281767045929234)
 
 [^26]: [MINOR-IA — Minorités linguistiques & Intelligence Artificielle — Vers un système avancé d’évaluation de la santé mentale dans les langues minoritaires](https://www.minoria.ca/)
 
-[^27]: [Le Temps — On sort de l’ère du repas gratuit](https://pressreader.com/article/281749866067603)
+[^27]: [PressReader — Le Temps — On sort de l’ère du repas gratuit](https://pressReader.com/article/281749866067603)
 
-[^28]: [Le Temps — L’IA punit les Romands pour leur langage](https://pressreader.com/article/281492168019946)
+[^28]: [PressReader — Le Temps — L’IA punit les Romands pour leur langage](https://pressReader.com/article/281492168019946)
 
-[^29]: [Le Temps — Vers une société de la surveillance](https://pressreader.com/article/281500757968948)
+[^29]: [PressReader — Le Temps — Vers une société de la surveillance](https://pressReader.com/article/281500757968948)
 
-[^30]: [Québec Science — Sous surveillance](https://www.pressreader.com/canada/quebec-science/20260701/page/18)
+[^30]: [PressReader — Québec Science — Sous surveillance](https://www.pressReader.com/canada/quebec-science/20260701/page/18)
 
 [^31]: [The Shift Project — Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?](https://theshiftproject.org/app/uploads/2025/09/Synthese-RF-PIA-1.pdf)
 
-[^32]: [Clément Viktorovitch — Canicule, IA, détroit d’Ormuz : le regard amer de Jean-Marc Jancovici](https://www.youtube.com/watch?v=Tx3xHIeQqlM?t=4944)
+[^32]: [YouTube — Clément Viktorovitch — Canicule, IA, détroit d’Ormuz : le regard amer de Jean-Marc Jancovici](https://www.youtube.com/watch?v=Tx3xHIeQqlM&t=4944)
 
-[^33]: [Le Parisien — Pourquoi ces caméras boostées à l’IA sont vandalisées aux États-Unis](https://www.youtube.com/watch?v=5pWflCS2W_0)
+[^33]: [YouTube — Le Parisien — Pourquoi ces caméras boostées à l’IA sont vandalisées aux États-Unis](https://www.youtube.com/watch?v=5pWflCS2W_0)
 
-[^34]: [Robert Miles AI Safety — The AI Consciousness Question is So Annoying](https://www.youtube.com/watch?v=yoNtzVWAxgE)
+[^34]: [YouTube — Robert Miles AI Safety — The AI Consciousness Question is So Annoying](https://www.youtube.com/watch?v=yoNtzVWAxgE)
 
-[^35]: [DIY Smart Code — Who actually owns AI-generated code?](https://www.youtube.com/watch?v=mfr0ndlkS8I)
+[^35]: [YouTube — DIY Smart Code — Who actually owns AI-generated code?](https://www.youtube.com/watch?v=mfr0ndlkS8I)
 
 [^36]: [Javier Aguilar — Is Claude a Co-Author? The Legal Debate No One Saw Coming](https://www.javieraguilar.ai/en/blog/claude-coauthor-legal-debate)
 
@@ -368,11 +369,11 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^38]: [Wikipédia — Éthique de l’intelligence artificielle](https://fr.wikipedia.org/wiki/%C3%89thique_de_l%27intelligence_artificielle)
 
-[^39]: [Naomi Klein — AI is a fascist idea](https://www.youtube.com/watch?v=iEf-MNsyUiE)
+[^39]: [YouTube — Naomi Klein — AI is a fascist idea](https://www.youtube.com/watch?v=iEf-MNsyUiE)
 
-[^40]: [Fabien Olicard — L’expérience de la chambre chinoise](https://www.youtube.com/watch?v=OJ2Ns_Fv9T4)
+[^40]: [YouTube — Fabien Olicard — L’expérience de la chambre chinoise](https://www.youtube.com/watch?v=OJ2Ns_Fv9T4)
 
-[^41]: [Nowtech — Google est en train de tuer l’internet gratuit 💀 ?! (“zéro clic”)](https://www.youtube.com/watch?v=z98qOqDwMAE)
+[^41]: [YouTube — Nowtech — Google est en train de tuer l’internet gratuit 💀 ?! (“zéro clic”)](https://www.youtube.com/watch?v=z98qOqDwMAE)
 
 [^42]: [GitHub — Adam Wathan — L’impact brutal de l’IA sur Tailwind CSS](https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957)
 
@@ -388,15 +389,15 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [Hugging Face]: https://huggingface.co/
 
-[^48]: [Holy Schmidt! — The Verification Step That Stops 99% of Voice Impersonation Scams](https://www.youtube.com/watch?v=XITQ5aVFhL8)
+[^48]: [YouTube — Holy Schmidt! — The Verification Step That Stops 99% of Voice Impersonation Scams](https://www.youtube.com/watch?v=XITQ5aVFhL8)
 
 [^49]: [YouTube —  Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization](https://www.youtube.com/watch?v=bZL1NsrfuYE)
 
 [^50]: [RTS — De mystérieuses razzias dans les librairies d’occasion allemandes soupçonnées d’être liées à l’IA](https://www.rts.ch/info/monde/2026/article/allemagne-des-livres-d-occasion-achetes-en-masse-pour-l-ia-29322111.html)
 
-[^51]: [Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne](https://pressreader.com/article/281646786957114)
+[^51]: [PressReader — Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne](https://pressReader.com/article/281646786957114)
 
-[^52]: [Bientôt, les enfants des riches auront un ADN “supérieur” ?](https://www.youtube.com/watch?v=wcJWi43or6k)
+[^52]: [YouTube — ARTE — Bientôt, les enfants des riches auront un ADN “supérieur” ?](https://www.youtube.com/watch?v=wcJWi43or6k)
 
 [^53]: [developpez.com — Des conversations privées avec Claude d’Anthropic sont apparues dans les résultats de recherche Google](https://intelligence-artificielle.developpez.com/actu/385615/Des-conversations-privees-avec-Claude-d-Anthropic-sont-apparues-dans-les-resultats-de-recherche-Google-exposant-des-cles-de-portefeuille-de-cryptomonnaie-et-des-donnees-personnelles/)
 
@@ -409,3 +410,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^57]: [Stanford Encyclopedia of Philosophy — Artificial Intelligence](https://plato.stanford.edu/entries/artificial-intelligence/)
 
 [^58]: [YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome... qui tourne en rond](https://www.youtube.com/watch?v=QuF3GcXKYpo)
+
+[^59]: [YouTube — Le Parisien —  Un taxi autonome incendié en pleine rue à San Francisco](https://www.youtube.com/watch?v=Uvr5CNiwKEc)
