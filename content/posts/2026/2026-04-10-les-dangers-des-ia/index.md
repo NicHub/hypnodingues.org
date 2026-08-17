@@ -28,6 +28,7 @@ twitter_card: "summary_large_image"
 1. **Elles sont faillibles**
     -   Ce qui nécessite des procédures de vérification qui ne sont pas toujours mises en place.
     -   De plus, si les adultes d’aujourd’hui qui ont été formés sans les IA peuvent potentiellement détecter leurs erreurs, est-ce que ce sera le cas des adultes de demain qui se forment aujourd’hui avec elles ?
+    -   _YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome... qui tourne en rond_[^58]
 
 2. **Elles sont biaisées**
     -   Il faut vérifier qu’elles ne préfèrent pas une catégorie à une autre, par exemple une catégorie raciale ou de genre.[^55]
@@ -406,3 +407,5 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^56]: [Vernor Vinge — The Coming Technological Singularity: How to Survive in the Post-Human Era](https://cseweb.ucsd.edu/~goguen/misc/singularity.html)
 
 [^57]: [Stanford Encyclopedia of Philosophy — Artificial Intelligence](https://plato.stanford.edu/entries/artificial-intelligence/)
+
+[^58]: [YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome... qui tourne en rond](https://www.youtube.com/watch?v=QuF3GcXKYpo)
