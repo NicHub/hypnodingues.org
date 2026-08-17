@@ -217,17 +217,29 @@ twitter_card: "summary_large_image"
 31. **Elles présentent des enjeux éthiques nombreux**
     -   _Wikipédia — Éthique de l’intelligence artificielle_[^38]
 
-32. **Elles pourront bientôt être autosuffisantes et échapper au contrôle humain**<!-- Ça fait deux points dans la même phrase... -->
+32. **Elles pourraient provoquer une singularité technologique**
+    -   Une intelligence artificielle dépassant les capacités humaines pourrait contribuer à améliorer ses propres successeurs et provoquer une accélération technologique devenue imprévisible ou incontrôlable.[^56]
+
+    > _“The Singularity,” […] [is] the future point at which artificial intelligence exceeds human intelligence_[^57]
+    >
+    > _« La Singularité, […] [est] le moment futur où l’intelligence artificielle dépasse l’intelligence humaine »_
+
+    -   Cette singularité reste une hypothèse controversée, et non une étape dont la possibilité ou la proximité seraient établies.[^57]
     -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
 
-33. **Elles changent notre rapport à la réalité**
+33. **Elles pourraient devenir autonomes puis autosuffisantes**
+    -   Elles pourraient atteindre une autonomie opérationnelle leur permettant de planifier et d’agir sans intervention humaine immédiate.
+    -   Elles pourraient ensuite devenir autosuffisantes en assurant les ressources, la maintenance et les infrastructures nécessaires à leur fonctionnement.
+    -   Ces seuils ne supposent pas nécessairement une intelligence supérieure à celle des humains, mais pourraient rendre leur interruption ou leur contrôle beaucoup plus difficiles.[^49]
+
+34. **Elles changent notre rapport à la réalité**
     -   Leurs réalisations numériques sont considérées aussi réelles que des réalisations physiques.[^49]
 
-34. **Elles choisissent nos vies à notre place**
+35. **Elles choisissent nos vies à notre place**
     -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
     -   _Bientôt, les enfants des riches auront un ADN “supérieur” ?_[^52]
 
-35. <span id="elles-peuvent-exfiltrer-des-donnees-privees-voire-sensibles"></span>**Elles peuvent exfiltrer des données sensibles, privées ou confidentielles**
+36. <span id="elles-peuvent-exfiltrer-des-donnees-privees-voire-sensibles"></span>**Elles peuvent exfiltrer des données sensibles, privées ou confidentielles**
     -   Quand on les invite directement sur nos appareils.
     -   Quand on partage des conversations existantes.[^53][^54]
 
@@ -390,3 +402,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^54]: [ChatGPT — Des conversations privées avec Claude d’Anthropic sont apparues dans les résultats de recherche Google](https://chatgpt.com/share/6a7f36b4-7098-83eb-a3ca-b63d081f1840)
 
 [^55]: [YouTube — Aevy TV — This is the strangest thing Anthropic has ever admitted about Claude](https://www.youtube.com/watch?v=xzSp3iWtAp8)
+
+[^56]: [Vernor Vinge — The Coming Technological Singularity: How to Survive in the Post-Human Era](https://cseweb.ucsd.edu/~goguen/misc/singularity.html)
+
+[^57]: [Stanford Encyclopedia of Philosophy — Artificial Intelligence](https://plato.stanford.edu/entries/artificial-intelligence/)
