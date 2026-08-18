@@ -20,7 +20,7 @@ Vous murmurez tout seul, croyant presque vous taire,
 
 Dans le fond d’une cave à trente pieds sous terre,
 Un mot désagréable à quelque individu.
-Ce mot — que vous croyez qu'on n’a pas entendu,
+Ce mot — que vous croyez qu’on n’a pas entendu,
 
 Que vous disiez si bas dans un lieu sourd et sombre —
 Court à peine lâché, part, bondit, sort de l’ombre ;
