@@ -8,15 +8,19 @@ draft: false
 
 Braves gens, prenez garde aux choses que vous dites !
 Tout peut sortir d’un mot qu’en passant vous perdîtes ;
-Tout, la haine et le deuil ! Et ne m’objectez pas
+Tout, la haine et le deuil !
 
+Et ne m’objectez pas
 Que vos amis sont sûrs et que vous parlez bas.
-Écoutez bien ceci : tête-à-tête, en pantoufle,
-Portes closes, chez vous, sans un témoin qui souffle,
+Écoutez bien ceci :
 
-Vous dites à l’oreille du plus mystérieux
-De vos amis de cœur ou si vous aimez mieux,
-Vous murmurez tout seul, croyant presque vous taire,
+Tête-à-tête, en pantoufle,
+Portes closes, chez vous, sans un témoin qui souffle,
+Vous dites à l’oreille du plus mystérieux de vos amis de cœur
+
+Ou si vous aimez mieux,
+Vous murmurez tout seul,
+Croyant presque vous taire,
 
 Dans le fond d’une cave à trente pieds sous terre,
 Un mot désagréable à quelque individu.
@@ -46,10 +50,27 @@ Et c’est fait. Vous avez un ennemi mortel.
 
 [ _Victor Hugo_ ]
 
-## Source
+## À propos du découpage du poème
+
+Dans les éditions de référence, ce poème ne présente pas de découpage en strophes. Il est composé d’une suite continue de vingt-huit alexandrins à rimes plates : chaque vers compte douze syllabes et les rimes se suivent par paires, selon le schéma AA, BB, CC, etc. Cette disposition est dite _stichique_.
+
+Le découpage métrique ne coïncide pas toujours avec le découpage syntaxique. Une phrase peut se poursuivre dans le vers suivant : c’est un enjambement. Ailleurs, une ponctuation située au milieu d’un alexandrin sépare ses deux hémistiches de six syllabes. Ainsi, le retour à la ligne obéit d’abord au mètre et à la rime, même lorsqu’il semble interrompre le mouvement naturel de la phrase.
+
+La présentation retenue ici privilégie plutôt les unités de sens et une lecture aisée à l’écran. Elle resegmente certains alexandrins et regroupe visuellement le texte en tercets. Elle rend la progression syntaxique plus perceptible, mais laisse moins apparaitre la structure métrique de l’original.
+
+Pour consulter le découpage métrique traditionnel :
+
+-   [MÉTRIQUE EN LIGNE — Université de Caen](https://crisco4.unicaen.fr/verlaine/index.php?auteur=HUG_24&choix_liste=&code_text=HUG1204&navigation=textesauteurs)
+-   [Victor Hugo, _Toute la lyre_, dans le manuel _Horizons pluriels_ — Nathan](https://lyceen.nathan.fr/horizonspluriels2019-2de/assets/chapitre-15-du-journal-au-reseau-social-info-et-intox-textes-dys-1/preview)
+
+### Crédit rédactionnel
+
+_Cette section a été rédigée par Codex, un agent d’IA d’OpenAI, à la demande de l’auteur du site._
+
+## Source du poème
 
 <https://fr.vikidia.org/w/index.php?title=Toute_la_Lyre>
 
-## « Le Mot » de Victor Hugo récité par André Dussolier
+## « Le Mot » de Victor Hugo récité par André Dussollier
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ieMG66RQKuw?si=FK8f1_kppaIcczix" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
