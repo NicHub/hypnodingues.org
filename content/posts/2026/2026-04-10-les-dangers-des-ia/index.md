@@ -179,7 +179,7 @@ twitter_card: "summary_large_image"
     -   Elles détournent les internautes des sites d’information, des plateformes et des médias spécialisés en leur fournissant des réponses directes grâce à des UX “zéro clic”[^41].
     -   En privant ces sources de trafic et de revenus, elles menacent leur capacité à produire et à maintenir les contenus qui les alimentent elles-mêmes.[^42]
     -   À long terme, ce cercle vicieux menace la diversité des nouveaux contenus.[^12]
-    -   Les fabricants d’IA peuvent être tentés de détruire les sources d’informations pour rendre leurs IA indispensables.[^50]
+    -   Les fabricants d’IA peuvent être tentés de détruire les sources d’informations pour rendre leurs IA indispensables.[^50][^60][^61]
         -   `#autodafés`
         -   `#Fahrenheit451`
 
@@ -412,3 +412,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 [^58]: [YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome... qui tourne en rond](https://www.youtube.com/watch?v=QuF3GcXKYpo)
 
 [^59]: [YouTube — Le Parisien —  Un taxi autonome incendié en pleine rue à San Francisco](https://www.youtube.com/watch?v=Uvr5CNiwKEc)
+
+[^60]: [YouTube — Forbes — AI Companies Are Buying—And Destroying—Antique Books. Here’s Why.](https://www.youtube.com/watch?v=LAslxexwhOU)
+
+[^61]: [YouTube — ARTE — Les livres disparaissent à cause de l'IA ?](https://www.youtube.com/watch?v=SjpBoHBlPlk)
