@@ -141,8 +141,7 @@ twitter_card: "summary_large_image"
 19. **Elles orientent les choix**
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
     -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
-    -   Elles sont flagorneuses[^55] (flatteuses, courtisanes, thuriféraires, béni-oui-oui, délatrices, intéressées, sycophantes[^5]).
-        > Attention, le sens de sycophante[^5] est légèrement différent en français (délateur) et en anglais (flagorneur).
+    -   Elles sont [sycophantes](#sycophante-histoire-et-definitions-du-mot)[^55][^5][^62].<!-- markdownlint-disable-line MD051 -->
     -   _Le biais cognitif que tout le monde a (sans le savoir)_[^4]
     -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais).<!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
 
@@ -232,9 +231,9 @@ twitter_card: "summary_large_image"
 35. **Elles pourraient provoquer une singularité technologique**
     -   Une intelligence artificielle dépassant les capacités humaines pourrait contribuer à améliorer ses propres successeurs et provoquer une accélération technologique devenue imprévisible ou incontrôlable.[^56]
 
-    > _“The Singularity,” […] [is] the future point at which artificial intelligence exceeds human intelligence_[^57]
+    > _“The Singularity”, […] [is] the future point at which artificial intelligence exceeds human intelligence_[^57]
     >
-    > _« La Singularité, […] [est] le moment futur où l’intelligence artificielle dépasse l’intelligence humaine »_
+    > _« La Singularité », […] [est] le moment futur où l’intelligence artificielle dépasse l’intelligence humaine_[^57]
 
     -   Cette singularité reste une hypothèse controversée, et non une étape dont la possibilité ou la proximité seraient établies.[^57]
     -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
@@ -267,6 +266,37 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 -   #aiethics
 -   #law
 
+### SYCOPHANTE, HISTOIRE ET DÉFINITIONS DU MOT
+
+#### Synonymes
+
+1. hypocrites, fourbes, flagorneuses, flatteuses, courtisanes, thuriféraires, béni-oui-oui
+2. délatrices, dénonciatrices
+
+#### Dictionnaire historique de la langue française, Le Robert 2022
+
+> **SYCOPHANTE** n. m., réfection (1559) de _sichophant_ (v. 1500), est emprunté au latin _sycophanta_, lui-même pris au grec _sukophantês_ « dénonciateur des voleurs ou contrebandiers de figues », puis en général « délateur, dénonciateur ».
+>
+> Le mot grec est composé de _sûkon_ « figue » et d’un dérivé de _phainein_ « faire voir, faire connaître » (→ fantôme). L’origine de _sukophantês_ était déjà obscure dans l’Antiquité : d’après Gernet, le _sukophantês_ a été d’abord « celui qui montre » (_phainein_) les figues, en les découvrant dans les vêtements du voleur.
+>
+> ▪ Le mot est d’abord un terme d’histoire avec la valeur étymologique du mot grec. Il reste d’emploi littéraire ou didactique au sens figuré de « fourbe, hypocrite » (1528).
+
+#### Merriam-Webster Dictionary
+
+##### Texte original en anglais
+
+_Merriam-Webster Dictionary — Sycophant_[^63]
+
+##### Traduction en français
+
+> un flatteur servile et égoïste : quelqu’un qui fait l’éloge des personnes au pouvoir afin de s’attirer leurs faveurs
+>
+> Dans la Grèce antique, le terme « sykophantēs » signifiait « calomniateur ». Il dérive de deux autres mots grecs : « sykon » (qui signifie « figue ») et « phainein » (qui signifie « montrer ou révéler »). Comment ceux qui « révélaient » les figues sont-ils devenus des calomniateurs ? Une théorie fait référence aux taxes que les agriculteurs grecs devaient payer sur les figues qu’ils apportaient au marché. Apparemment, les agriculteurs tentaient parfois d’échapper à ces paiements, mais des mouchards — ceux qui « révélaient » les figues — les dénonçaient, et ils étaient alors contraints de payer. Une autre origine possible tient à l’un des sens du mot « figue », qui désigne « un geste ou un signe de mépris » (comme le fait de glisser le pouce entre deux doigts). Quoi qu’il en soit, le latin a conservé le sens de « calomniateur » lorsqu’il a emprunté une variante de sykophantēs, mais au moment où les anglophones l’ont emprunté au XVIe siècle sous la forme sycophant, les « dénonciateurs » étaient devenus des « flatteurs ».
+
+#### ChatGPT
+
+_ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu_[^62]
+
     {{< comment >}}
 
         !!! ORDRE D’APPARITION DES LIENS EN PIED DE PAGE !!!
@@ -289,6 +319,8 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
         ```
         <!-- markdownlint-disable-line MD053 -->
+        MD053 - Link and image reference definitions should be needed
+        https://github.com/DavidAnson/markdownlint/blob/main/doc/md053.md
         ```
 
     {{< /comment >}}
@@ -415,4 +447,8 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 [^60]: [YouTube — Forbes — AI Companies Are Buying—And Destroying—Antique Books. Here’s Why.](https://www.youtube.com/watch?v=LAslxexwhOU)
 
-[^61]: [YouTube — ARTE — Les livres disparaissent à cause de l'IA ?](https://www.youtube.com/watch?v=SjpBoHBlPlk)
+[^61]: [YouTube — ARTE — Les livres disparaissent à cause de l’IA ?](https://www.youtube.com/watch?v=SjpBoHBlPlk)
+
+[^62]: [ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu](https://chatgpt.com/share/6a8c2dd7-e6d4-83eb-9c99-9836fbe3d2cd)
+
+[^63]: [Merriam-Webster Dictionary — Sycophant](https://www.merriam-webster.com/dictionary/sycophant)
