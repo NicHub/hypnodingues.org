@@ -71,7 +71,7 @@ twitter_card: "summary_large_image"
 
 9. **Elles rendent les humains incompétents et dépendants de leurs services**
     -   Elles atrophient les compétences en facilitant l’obtention de résultats sans effort et en favorisant l’externalisation de la pensée.[^39]
-    -   Si seuls les experts sont sollicités alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
+    -   Si seuls les experts sont sollicités, alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
     -   _YouTube — Micode — La fabrique à idiots_[^9]
 
@@ -146,7 +146,7 @@ twitter_card: "summary_large_image"
     -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais).<!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
 
 20. **Elles déstabilisent le tissu social**
-    -   Anthropomorphisme : Le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
+    -   Anthropomorphisme : le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
     -   _YouTube — Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)_[^6]
     -   _PressReader — Le Temps — L’intelligence artificielle crée l’illusion de s’occuper de nous_[^7]
 
