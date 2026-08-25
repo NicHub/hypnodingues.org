@@ -25,39 +25,39 @@ twitter_card: "summary_large_image"
 
 ![Calvin and Hobbes: Leave Math to the Machines](./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp)
 
-1. **Elles sont faillibles**
+01. **Elles sont faillibles**
     -   Ce qui nécessite des procédures de vérification qui ne sont pas toujours mises en place.
     -   De plus, si les adultes d’aujourd’hui qui ont été formés sans les IA peuvent potentiellement détecter leurs erreurs, est-ce que ce sera le cas des adultes de demain qui se forment aujourd’hui avec elles ?
     -   _YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome... qui tourne en rond_[^58]
 
-2. **Elles sont biaisées**
+02. **Elles sont biaisées**
     -   Il faut vérifier qu’elles ne préfèrent pas une catégorie à une autre, par exemple une catégorie raciale ou de genre.[^55]
 
-3. **Elles induisent en erreur**
+03. **Elles induisent en erreur**
     -   Avec des _deepfakes_ très réalistes.
         -   Hypertrucages
         -   Montages hyperréalistes susceptibles de tromper le public
     -   En se faisant passer pour quelqu’un d’autre.[^48]
 
-4. **Elles ne respectent pas la protection des données**
+04. **Elles ne respectent pas la protection des données**
     -   Elles sont entrainées avec des sources qui peuvent contenir des informations sensibles, privées ou confidentielles.
 
-5. **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**[^22]
+05. **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**[^22]
     -   Leurs fournisseurs contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteur, mais celle de l’utilisateur final.
     -   Sujet connexe : _L’échelle Dalia_[^37]
     -   Voir aussi : _PressReader — Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne_[^51]
 
-6. **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
+06. **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
     -   Elles peuvent se présenter comme “coauteurs” plutôt que comme simples assistants, ce qui entretient une ambiguïté sur la titularité des droits, la part de contribution humaine et la responsabilité juridique des productions.[^35][^36]
     -   Ce glissement de vocabulaire peut servir à habituer les utilisateurs, les entreprises et les tribunaux à considérer l’IA comme une entité créative plutôt que comme un outil.
     -   Sujet connexe : _L’échelle Dalia_[^37]
 
-7. **Elles ne respectent pas les régulations**
+07. **Elles ne respectent pas les régulations**
     -   _Elles ne respectent pas ou peu le RGPD_[^23].
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
         Par exemple, l’UE ne s’est octroyé des pouvoirs extensifs via l’_IA Act_ que le 2 août 2026 alors que la première version de ChatGPT est sortie le 30 novembre 2022.[^46]
 
-8. **Elles ne sont pas juridiquement responsables de leurs failles**
+08. **Elles ne sont pas juridiquement responsables de leurs failles**
     -   Si elles se plantent, qui est responsable ? Qui paie les réparations ?
         -   Dysfonctionnements ou accidents de véhicules autonomes.[^2]
         -   Suppression accidentelle et dommageable de données informatiques.
@@ -69,7 +69,7 @@ twitter_card: "summary_large_image"
 
     {{< /comment >}}
 
-9. **Elles rendent les humains incompétents et dépendants de leurs services**
+09. **Elles rendent les humains incompétents et dépendants de leurs services**
     -   Elles atrophient les compétences en facilitant l’obtention de résultats sans effort et en favorisant l’externalisation de la pensée.[^39]
     -   Si seuls les experts sont sollicités, alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
