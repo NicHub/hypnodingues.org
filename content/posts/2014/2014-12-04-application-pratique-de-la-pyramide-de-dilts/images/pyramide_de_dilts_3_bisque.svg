@@ -36,7 +36,7 @@
 			text-align: center;
 			fill: bisque;
 			text-transform: uppercase;
-			font-family: "Fira Code", "Noway Round", monospace;
+			font-family: "Fira Code---", "Noway Round", monospace;
 			font-weight: 600;
 		}
 	</style>
