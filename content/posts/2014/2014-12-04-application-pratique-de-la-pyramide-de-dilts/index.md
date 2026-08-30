@@ -6,7 +6,7 @@ author: Nico
 draft: false
 ---
 
-[![Pyramide de Dilts](images/pyramide_de_dilts_3_bisque.svg)](images/pyramide_de_dilts_3_bisque.svg)
+![Pyramide de Dilts](images/pyramide_de_dilts_3_bisque.svg)
 
 > Aucun problème ne peut être résolu sans changer le niveau de conscience qui l’a engendré.<br> *\[ Albert Einstein \]*
 
@@ -21,3 +21,16 @@ Ce à quoi il répondit :
 — C’est vrai que la langue française n’a pas de mot pour exprimer celà. Mais au delà des mots, la perte d’un enfant c’est avant tout une grande souffrance.
 
 Voilà un exemple parfait d’application de la pyramide de Dilts : si on teste vos capacités, répondez par l’émotion…
+
+## Notes
+
+Ne pas confondre la pyramide de Dilts avec celle de Maslow :
+
+![Pyramide de Masslow](images/pyramide-de-maslow.png)
+
+{{< comment >}}
+
+    Source :
+    https://www.youtube.com/watch?v=3SBf7hD0sEw&t=340
+
+{{< comment >}}
