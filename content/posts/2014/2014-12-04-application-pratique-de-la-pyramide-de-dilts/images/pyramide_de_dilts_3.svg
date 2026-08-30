@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xml:lang="fr" xmlns:xlink="http://www.w3.org/1999/xlink" height="10cm"
-	width="15cm" viewBox="-20 -100 480 400">
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="fr" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-2 -87 444 369">
 
 	<title>Pyramide de Dilts</title>
 	<desc>Pyramide de Dilts</desc>
@@ -69,6 +68,7 @@
 	</defs>
 
 	<g>
+		<rect x="-2" y="-87" width="444" height="369" fill="none" />
 		<use xlink:href='#pyramide' />
 	</g>
 
