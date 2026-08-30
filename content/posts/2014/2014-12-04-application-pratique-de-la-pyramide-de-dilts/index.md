@@ -33,4 +33,4 @@ Ne pas confondre la pyramide de Dilts avec celle de Maslow :
     Source :
     https://www.youtube.com/watch?v=3SBf7hD0sEw&t=340
 
-{{< comment >}}
+{{< /comment >}}
