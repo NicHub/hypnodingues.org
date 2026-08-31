@@ -31,7 +31,13 @@ draft: false
 ## Transcription, MEDEF 27 aout 2026
 
 **Jean-Luc Mélenchon**
-:   Les salaires, ben très très bien, il faut les augmenter. Il faut augmenter le SMIC. Il faut augmenter le SMIC. Si vous n’augmentez pas les salaires, vous ne rigolerez pas longtemps parce que vous aurez la récession. Alors, vous rirez jaune si vous ne partagez pas davantage. Et là, ...
+:   Les salaires, ben très très bien, il faut les augmenter. Il faut augmenter le SMIC...
+
+**Public des REF du MEDEF**
+:   [_Éclats de rire_]
+
+**Jean-Luc Mélenchon**
+:   Il faut augmenter le SMIC ! Si vous n’augmentez pas les salaires, vous ne rigolerez pas longtemps parce que vous aurez la récession. Alors, vous rirez jaune si vous ne partagez pas davantage. Et là, ...
 
 ## Transcription, Édition spéciale présidentielle 2027 — LCI 28 aout 2026
 
