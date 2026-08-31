@@ -28,18 +28,18 @@ draft: false
 | **Émission**            | Édition spéciale présidentielle 2027 — LCI                 |
 | **Date de diffusion**   | 28 aout 2026 (le lendemain de l’évènement)                 |
 
-## Transcription, MEDEF 27 aout 2026
+## Transcription — REF du MEDEF — 27 aout 2026
 
 **Jean-Luc Mélenchon**
 :   Les salaires, ben très très bien, il faut les augmenter. Il faut augmenter le SMIC...
 
 **Public des REF du MEDEF**
-:   [_Éclats de rire_]
+:   [_Rires aux éclats_]
 
 **Jean-Luc Mélenchon**
 :   Il faut augmenter le SMIC ! Si vous n’augmentez pas les salaires, vous ne rigolerez pas longtemps parce que vous aurez la récession. Alors, vous rirez jaune si vous ne partagez pas davantage. Et là, ...
 
-## Transcription, Édition spéciale présidentielle 2027 — LCI 28 aout 2026
+## Transcription — Édition spéciale présidentielle 2027 — LCI — 28 aout 2026
 
 **Arthur Chevallier**
 :   On a l’impression que c’est un _one man show_. Alors, pourquoi est-ce que c’est si drôle ? Je comprends très bien que les patrons aient beaucoup de mal à augmenter les salaires et qu’ils aient pas l’argent pour le faire. Ça, on sait qu’il y a des charges lourdes sur les salaires, je le conçois. Mais faut aussi voir que les salariés en France sont très mal payés et ça c’est relevé dans toute l’Europe.
