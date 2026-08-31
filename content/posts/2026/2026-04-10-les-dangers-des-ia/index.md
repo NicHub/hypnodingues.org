@@ -161,6 +161,7 @@ twitter_card: "summary_large_image"
     -   Évaluation de profils clients par des acteurs privés.
         -   assurances (maladie, immobilières…)
         -   prestataires financiers (banques, créanciers, crédit…)
+    -   Obligation de répondre à des demandes d’informations sensibles détenues par des IA : un tiers pourrait exiger un bilan établi par des IA qui ont accès à des données pertinentes et potentiellement sensibles. Par exemple une assurance pourrait exiger un bilan de santé par ce biais pour compléter une analyse réalisée par un·e médecin.
 
 22. **Elles sont hackées**
     -   Requêtes DAN (Do Anything Now).
