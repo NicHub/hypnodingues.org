@@ -70,4 +70,4 @@ draft: false
 :   Oui. En tout cas, ce que je pense profondément, c’est qu’il ne faut pas caricaturer, de la même façon que “transition écologique” ne s’oppose pas à “industrie”, ne s’oppose pas à “compétitivité”. Nous, c’est ce qu’on fait au quotidien dans notre usine.
 
 **Apolline de Malherbe**
-:   ce que je veux dire c’est qu’hier, hier, **les patrons se sont caricaturés eux-mêmes**.
+:   ce que je veux dire c’est qu’hier, **hier, les patrons se sont caricaturés eux-mêmes !**
