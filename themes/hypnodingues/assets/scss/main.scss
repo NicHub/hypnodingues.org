@@ -647,6 +647,22 @@ p.home-hero-button a:focus-visible {
     list-style-position: outside;
 }
 
+.prose dl {
+    margin: 0 0 1.25rem;
+}
+
+.prose dt {
+    margin-top: 1.7em;
+}
+
+.prose dt:first-child {
+    margin-top: 0;
+}
+
+.prose dd {
+    margin-left: 0;
+}
+
 .prose ul {
     list-style-type: disc;
 }
