@@ -77,3 +77,7 @@ draft: false
 
 **Apolline de Malherbe**
 :   ce que je veux dire c’est qu’hier, **hier, les patrons se sont caricaturés eux-mêmes !**
+
+## À voir aussi
+
+-   [radionova — L’augmentation du SMIC : la bonne blague ! - La cuenta par Thomas Porcher dans "nova le matin"](https://www.youtube.com/watch?v=3wi8l78pV6w)
