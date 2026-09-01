@@ -107,6 +107,7 @@ twitter_card: "summary_large_image"
     -   Le déploiement massif de centres de données pour l’IA crée aussi un nouvel appel d’air pour les énergies fossiles.[^39]
     -   _Science étonnante — Combien consomme une requête à ChatGPT ?_[^1]
     -   _The Shift Project — Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?_[^31]
+    -   On pourrait imaginer qu’elles consomment tellement qu’on en arrive à une situation de krach énergétique.
 
 13. **Elles ont un impact environnemental conséquent**
     -   Mitage
