@@ -156,3 +156,9 @@ draft: false
     });
   }());
 </script>
+
+## À voir aussi
+
+-   [Khanmigo](https://www.khanmigo.ai/) : tuteur de Khan Academy. Il évite de donner directement la réponse et conduit l’élève par questions, sur les mathématiques, sciences, code, histoire, écriture, etc.
+-   [Duolingo Max](https://blog.duolingo.com/duolingo-max/) : pratique conversationnelle en jeu de rôle et appels avec un personnage IA, avec feedback après l’échange.
+-   [Synthesis Tutor](https://www.synthesis.com/tutor) : tuteur de mathématiques pour enfants, qui adapte les exercices selon les micro-évaluations réalisées au fil de l’interaction.

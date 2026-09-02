@@ -74,3 +74,7 @@ _Cette section a été rédigée par Codex, un agent d’IA d’OpenAI, à la de
 ## « Le Mot » de Victor Hugo récité par André Dussollier
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ieMG66RQKuw?si=FK8f1_kppaIcczix" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## « Le Mot » de Victor Hugo récité par Fabienne Maillot
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xa3NhTYOYbA?si=QWeB5TV-zONo5ycV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
