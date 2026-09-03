@@ -4,6 +4,8 @@ date: 2013-02-14T12:22:21+01:00
 categories: [Divers, Histoires drôles]
 author: Nico
 draft: false
+aliases:
+  - /divers/histoires-drôles/orthographe-et-ordre-des-lettres/
 ---
 
 <p>

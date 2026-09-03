@@ -4,6 +4,8 @@ date: 2012-08-31T11:58:54+02:00
 categories: [Évènements]
 author: Nico
 draft: true
+aliases:
+  - /évènements/les-hypnodingues-vont-au-chalet/
 ---
 
 <h2 id="lieu">

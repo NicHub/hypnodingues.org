@@ -4,6 +4,8 @@ date: 2012-04-02T12:28:14+02:00
 categories: [Liens]
 author: Nico
 draft: false
+aliases:
+  - /liens/487/
 ---
 
 <p>

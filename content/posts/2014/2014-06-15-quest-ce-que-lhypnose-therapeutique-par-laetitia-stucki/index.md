@@ -4,6 +4,8 @@ date: 2014-06-15T14:26:51+02:00
 categories: [Liens]
 author: Laeti
 draft: true
+aliases:
+  - /liens/quest-ce-que-lhypnose-therapeutique-par-laetitia-stucki/
 ---
 
 <p>

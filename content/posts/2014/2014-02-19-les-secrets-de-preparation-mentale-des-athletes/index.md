@@ -4,6 +4,8 @@ date: 2014-02-19T18:13:46+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/les-secrets-de-preparation-mentale-des-athletes/
 ---
 
 <p>

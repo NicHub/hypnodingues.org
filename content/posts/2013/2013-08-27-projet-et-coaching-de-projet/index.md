@@ -4,6 +4,8 @@ date: 2013-08-27T14:06:30+02:00
 categories: [Divers]
 author: Laeti
 draft: true
+aliases:
+  - /divers/projet-et-coaching-de-projet/
 ---
 
 <h1>

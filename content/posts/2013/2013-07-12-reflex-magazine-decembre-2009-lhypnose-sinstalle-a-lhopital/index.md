@@ -4,6 +4,8 @@ date: 2013-07-12T12:30:49+02:00
 categories: [Articles]
 author: Nico
 draft: true
+aliases:
+  - /articles/reflex-magazine-decembre-2009-lhypnose-sinstalle-a-lhopital/
 ---
 
 <p>

@@ -4,6 +4,8 @@ date: 2012-10-23T20:19:52+02:00
 categories: [Divers]
 author: Laeti
 draft: false
+aliases:
+  - /divers/mosuo-femme-reines/
 ---
 
 <p>

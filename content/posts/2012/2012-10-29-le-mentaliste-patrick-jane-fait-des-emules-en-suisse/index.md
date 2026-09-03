@@ -4,6 +4,8 @@ date: 2012-10-29T12:05:10+01:00
 categories: [Articles]
 author: Nico
 draft: true
+aliases:
+  - /articles/le-mentaliste-patrick-jane-fait-des-emules-en-suisse/
 ---
 
 <p>

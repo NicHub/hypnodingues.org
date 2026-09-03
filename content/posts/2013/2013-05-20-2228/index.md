@@ -4,6 +4,8 @@ date: 2013-05-20T16:21:10+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/2228/
 ---
 
 <p>

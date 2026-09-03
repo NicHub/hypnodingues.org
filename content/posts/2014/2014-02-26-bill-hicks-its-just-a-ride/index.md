@@ -4,6 +4,8 @@ date: 2014-02-26T11:59:40+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/bill-hicks-its-just-a-ride/
 ---
 
 <p>

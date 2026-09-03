@@ -4,6 +4,8 @@ date: 2012-03-09T21:31:38+01:00
 categories: [Hypnose, Textes]
 author: Nico
 draft: true
+aliases:
+  - /hypnose/textes/hypnose-therapeutique-offerte-par-les-hypnodingues-a-dominique/
 ---
 
 <div class="content">

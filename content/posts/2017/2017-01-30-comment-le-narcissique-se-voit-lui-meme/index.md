@@ -4,6 +4,8 @@ date: 2017-01-30T10:42:00+01:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /comment-le-narcissique-se-voit-lui-meme/
 ---
 
 1.  Je m’aime et je sais que tu m’aimes aussi, comme tout le monde en fait. Je ne peux imaginer quelqu’un qui ne m’aimerait pas.

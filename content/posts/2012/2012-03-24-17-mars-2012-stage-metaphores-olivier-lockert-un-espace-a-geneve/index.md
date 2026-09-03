@@ -4,6 +4,8 @@ date: 2012-03-24T15:16:11+01:00
 categories: [Divers]
 author: Nico
 draft: true
+aliases:
+  - /divers/17-mars-2012-stage-metaphores-olivier-lockert-un-espace-a-geneve/
 ---
 
 <h2 id="supportdecours">

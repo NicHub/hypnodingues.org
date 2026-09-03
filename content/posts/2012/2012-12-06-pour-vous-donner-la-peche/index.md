@@ -4,6 +4,8 @@ date: 2012-12-06T01:03:55+01:00
 categories: [Bonheur, Divers]
 author: Nico
 draft: true
+aliases:
+  - /bonheur/divers/pour-vous-donner-la-peche/
 ---
 
 <p>

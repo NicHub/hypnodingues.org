@@ -4,6 +4,8 @@ date: 2013-06-04T09:16:55+02:00
 categories: [Membres]
 author: Nico
 draft: false
+aliases:
+  - /membres/bye-bye-dom/
 ---
 
 Vendredi 31 mai 2013 fut un jour de deuil pour les Hypnodingues. Dominique nous a quittés.

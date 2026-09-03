@@ -4,6 +4,8 @@ date: 2012-08-31T15:07:20+02:00
 categories: [Exercices]
 author: Nico
 draft: true
+aliases:
+  - /exercices/obtenir-le-numero-de-telephone-d-un-e-inconnu-e/
 ---
 
 <p>

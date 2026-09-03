@@ -4,6 +4,8 @@ date: 2013-02-14T10:23:00+01:00
 categories: [Évènements]
 author: Catherine
 draft: false
+aliases:
+  - /évènements/devenir-medium-osez-naitre-chamane/
 ---
 
 <p>

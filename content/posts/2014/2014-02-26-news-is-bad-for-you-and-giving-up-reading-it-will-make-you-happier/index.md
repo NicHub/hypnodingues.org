@@ -4,6 +4,8 @@ date: 2014-02-26T09:32:22+01:00
 categories: [En anglais]
 author: Nico
 draft: false
+aliases:
+  - /en-anglais/news-is-bad-for-you-and-giving-up-reading-it-will-make-you-happier/
 ---
 
 <p>

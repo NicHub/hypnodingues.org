@@ -4,6 +4,8 @@ date: 2012-05-13T14:04:51+02:00
 categories: [Hypnose, Textes]
 author: Audrey
 draft: true
+aliases:
+  - /hypnose/textes/phobie-du-bruit/
 ---
 
 <p>

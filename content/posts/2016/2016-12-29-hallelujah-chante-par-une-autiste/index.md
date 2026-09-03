@@ -4,6 +4,8 @@ date: 2016-12-29T20:06:00+01:00
 categories: [À classer]
 author: Nico
 draft: true
+aliases:
+  - /hallelujah-chante-par-une-autiste/
 ---
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnicholabrotherston.martin%2Fvideos%2F10210433034769819%2F&amp;show_text=0&amp;width=560" style="border:none;overflow:hidden;width:1000px;height:550px;" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" id="fitvid162173">

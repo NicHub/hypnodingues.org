@@ -4,6 +4,8 @@ date: 2013-01-16T00:03:11+01:00
 categories: [Conférences]
 author: Nico
 draft: false
+aliases:
+  - /conferences/andy-puddicombe-all-it-takes-is-10-mindful-minutes/
 ---
 
 <p>

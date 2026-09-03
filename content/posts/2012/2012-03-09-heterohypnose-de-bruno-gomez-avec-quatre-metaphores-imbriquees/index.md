@@ -4,6 +4,8 @@ date: 2012-03-09T21:25:02+01:00
 categories: [Hypnose, Textes]
 author: Nico
 draft: true
+aliases:
+  - /hypnose/textes/heterohypnose-de-bruno-gomez-avec-quatre-metaphores-imbriquees/
 ---
 
 <p>

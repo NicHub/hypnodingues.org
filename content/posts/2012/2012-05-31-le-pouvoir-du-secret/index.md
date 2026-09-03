@@ -4,6 +4,8 @@ date: 2012-05-31T13:33:30+02:00
 categories: [Citations, Hypnose]
 author: Nico
 draft: false
+aliases:
+  - /citations/hypnose/le-pouvoir-du-secret/
 ---
 
 <p>

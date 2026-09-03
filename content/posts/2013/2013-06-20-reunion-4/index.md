@@ -4,6 +4,8 @@ date: 2013-06-20T07:45:18+02:00
 categories: [Évènements]
 author: Nico
 draft: true
+aliases:
+  - /évènements/reunion-4/
 ---
 
 <p>

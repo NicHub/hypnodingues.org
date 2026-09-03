@@ -4,6 +4,8 @@ date: 2013-03-21T23:04:54+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/live-simply-so-other-people-can-simply-live/
 ---
 
 <p>

@@ -4,6 +4,8 @@ date: 2014-02-09T00:22:53+01:00
 categories: [Divers]
 author: Nico
 draft: true
+aliases:
+  - /divers/le-trou-noir/
 ---
 
 <p>

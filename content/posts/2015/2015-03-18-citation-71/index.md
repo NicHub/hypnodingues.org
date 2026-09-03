@@ -4,6 +4,8 @@ date: 2015-03-18T21:59:00+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/citation-71/
 ---
 
 « Si vous pensez que l’aventure est dangereuse, essayez la routine, elle est mortelle… »

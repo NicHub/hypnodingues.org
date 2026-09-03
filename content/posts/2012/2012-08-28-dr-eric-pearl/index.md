@@ -4,6 +4,8 @@ date: 2012-08-28T19:37:54+02:00
 categories: [Divers]
 author: Nico
 draft: true
+aliases:
+  - /divers/dr-eric-pearl/
 ---
 
 <p>

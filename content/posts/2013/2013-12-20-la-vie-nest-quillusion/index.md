@@ -4,6 +4,8 @@ date: 2013-12-20T13:27:53+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/la-vie-nest-quillusion/
 ---
 
 <h2>

@@ -4,6 +4,8 @@ date: 2013-06-06T12:25:26+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/elon-musk-lhomme-derriere-tesla-spacex-solarcity/
 ---
 
 <p>

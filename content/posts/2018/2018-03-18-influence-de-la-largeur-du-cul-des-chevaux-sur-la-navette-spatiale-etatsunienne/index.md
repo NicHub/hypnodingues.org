@@ -4,6 +4,8 @@ date: 2018-03-18T17:32:00+01:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /influence-de-la-largeur-du-cul-des-chevaux-sur-la-navette-spatiale-etatsunienne/
 ---
 
 La distance standard entre 2 rails de chemin de fer aux États-Unis est de 4 pieds et 8 pouces et demi (143.51 cm). C’est un chiffre particulièrement bizarre.

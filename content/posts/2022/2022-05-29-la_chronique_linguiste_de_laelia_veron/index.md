@@ -4,6 +4,8 @@ date: 2022-05-29T19:50:00+01:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /la_chronique_linguiste_de_laelia_veron/
 ---
 
 ## 11 Mai 2022

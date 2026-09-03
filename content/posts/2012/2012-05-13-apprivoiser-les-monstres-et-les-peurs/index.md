@@ -4,6 +4,8 @@ date: 2012-05-13T15:26:04+02:00
 categories: [Hypnose, Textes]
 author: Audrey
 draft: true
+aliases:
+  - /hypnose/textes/apprivoiser-les-monstres-et-les-peurs/
 ---
 
 <p>

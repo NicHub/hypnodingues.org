@@ -4,6 +4,8 @@ date: 2012-10-01T23:43:18+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/citation-20/
 ---
 
 <p style="text-align: center;">

@@ -4,6 +4,8 @@ date: 2016-04-06T21:52:00+02:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /semaine-du-cerveau/
 ---
 
 <div style="text-align:center">

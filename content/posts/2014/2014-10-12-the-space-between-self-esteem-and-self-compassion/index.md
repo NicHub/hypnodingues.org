@@ -4,6 +4,8 @@ date: 2014-10-12T18:25:51+02:00
 categories: [Conférences]
 author: Nico
 draft: false
+aliases:
+  - /conferences/the-space-between-self-esteem-and-self-compassion/
 ---
 
 <!--

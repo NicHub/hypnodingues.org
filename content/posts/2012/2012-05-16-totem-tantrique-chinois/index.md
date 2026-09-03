@@ -4,6 +4,8 @@ date: 2012-05-16T00:20:06+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/totem-tantrique-chinois/
 ---
 
 <h2 id="un">

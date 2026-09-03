@@ -4,6 +4,8 @@ date: 2012-09-28T17:48:43+02:00
 categories: [Bibliographie]
 author: Nico
 draft: false
+aliases:
+  - /bibliographie/metaphore-manuel-de-communication-metaphorique/
 ---
 
 <p>

@@ -4,6 +4,8 @@ date: 2012-05-19T17:41:49+02:00
 categories: [Images]
 author: Nico
 draft: false
+aliases:
+  - /images/sortez-de-votre-zone-de-confort/
 ---
 
 <p>

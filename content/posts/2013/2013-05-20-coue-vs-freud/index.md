@@ -4,6 +4,8 @@ date: 2013-05-20T11:06:07+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/coue-vs-freud/
 ---
 
 <p>

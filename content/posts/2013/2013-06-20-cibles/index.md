@@ -4,6 +4,8 @@ date: 2013-06-20T17:34:48+02:00
 categories: [Hypnose]
 author: Nico
 draft: false
+aliases:
+  - /hypnose/cibles/
 ---
 
 - [cible_0+1.pdf](docs/2013-06-20-cibles/cible_0+1.pdf)

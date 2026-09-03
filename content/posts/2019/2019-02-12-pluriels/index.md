@@ -4,6 +4,8 @@ date: 2019-02-12T22:29:00+01:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /pluriels/
 ---
 
 > Écrire sans fautes… ou écrire cent fautes… certains ont déjà du mal à ce stade.

@@ -4,6 +4,8 @@ date: 2012-05-22T07:54:43+02:00
 categories: [Hypnose, Textes]
 author: Nico
 draft: false
+aliases:
+  - /hypnose/textes/soutra-pour-la-quatrieme-regle-de-vie/
 ---
 
 <div style="text-align: center;">

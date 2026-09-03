@@ -4,6 +4,8 @@ date: 2014-03-31T21:58:16+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/quelle-sera-votre-rime/
 ---
 
 <p>

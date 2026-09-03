@@ -4,6 +4,8 @@ date: 2013-05-29T18:31:28+02:00
 categories: [Audios]
 author: Nico
 draft: true
+aliases:
+  - /audios/quand-la-conscience-seveille/
 ---
 
 <p>

@@ -4,6 +4,8 @@ date: 2014-06-02T12:28:29+02:00
 categories: [Divers]
 author: Laeti
 draft: false
+aliases:
+  - /divers/ptit-week-end-a-evolene-en-valais/
 ---
 
 <img class="alignleft size-thumbnail wp-image-3463" src="images/CAM_0276-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />

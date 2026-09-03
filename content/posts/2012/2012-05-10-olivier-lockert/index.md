@@ -4,6 +4,8 @@ date: 2012-05-10T08:20:42+02:00
 categories: [Audios, Hypnose, Textes]
 author: Nico
 draft: false
+aliases:
+  - /audios/hypnose/textes/olivier-lockert/
 ---
 
 <br />

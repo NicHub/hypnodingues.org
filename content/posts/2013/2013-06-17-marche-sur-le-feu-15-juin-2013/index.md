@@ -4,6 +4,8 @@ date: 2013-06-17T18:53:46+02:00
 categories: [Conférences, Évènements]
 author: Nico
 draft: true
+aliases:
+  - /conferences/évènements/marche-sur-le-feu-15-juin-2013/
 ---
 
 <p>

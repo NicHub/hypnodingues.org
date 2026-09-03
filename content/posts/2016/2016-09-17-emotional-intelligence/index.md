@@ -4,6 +4,8 @@ date: 2016-09-17T12:56:00+02:00
 categories: [English]
 author: Nico
 draft: false
+aliases:
+  - /english/emotional-intelligence/
 ---
 
 Source: [LinkedIn Pulse, Dr. Travis Bradberry, Coauthor Emotional Intelligence 2.0 & President at TalentSmart](https://www.linkedin.com/pulse/you-emotionally-intelligent-heres-how-know-sure-dr-travis-bradberry)

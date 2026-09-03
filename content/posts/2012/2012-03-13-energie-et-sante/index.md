@@ -4,6 +4,8 @@ date: 2012-03-13T08:48:57+01:00
 categories: [Divers, Liens]
 author: Nico
 draft: true
+aliases:
+  - /divers/liens/energie-et-sante/
 ---
 
 <p>

@@ -4,6 +4,8 @@ date: 2013-10-04T13:28:23+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/morphopsycho-canine/
 ---
 
 <p>

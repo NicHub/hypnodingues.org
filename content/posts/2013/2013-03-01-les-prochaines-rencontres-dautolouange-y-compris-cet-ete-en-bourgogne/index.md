@@ -4,6 +4,8 @@ date: 2013-03-01T10:42:46+01:00
 categories: [Évènements]
 author: Nico
 draft: false
+aliases:
+  - /évènements/les-prochaines-rencontres-dautolouange-y-compris-cet-ete-en-bourgogne/
 ---
 
 <p>

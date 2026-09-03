@@ -4,6 +4,8 @@ date: 2013-06-05T18:03:00+02:00
 categories: [Histoires-et-contes]
 author: Nico
 draft: false
+aliases:
+  - /histoires-et-contes/le-mendiant/
 ---
 
 <p>

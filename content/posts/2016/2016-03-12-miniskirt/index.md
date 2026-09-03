@@ -4,6 +4,8 @@ date: 2016-03-12T19:42:00+01:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /miniskirt/
 ---
 
 « A good conversation is like a miniskirt, short enough to retain interest, but long enough to cover the subject. »

@@ -4,6 +4,8 @@ date: 2013-03-07T12:11:37+01:00
 categories: [Histoires drôles]
 author: Nico
 draft: false
+aliases:
+  - /histoires-drôles/surprise/
 ---
 
 <p>

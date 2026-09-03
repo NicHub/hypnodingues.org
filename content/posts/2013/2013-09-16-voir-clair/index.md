@@ -4,6 +4,8 @@ date: 2013-09-16T16:35:03+02:00
 categories: [Audios, Exercices, Hypnose]
 author: Nico
 draft: false
+aliases:
+  - /audios/exercices/hypnose/voir-clair/
 ---
 
 ## Audio de la présentation

@@ -4,6 +4,8 @@ date: 2013-08-27T11:59:13+02:00
 categories: [Évènements]
 author: Nico
 draft: false
+aliases:
+  - /évènements/hypnose-equine/
 ---
 
 <p>

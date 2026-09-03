@@ -4,6 +4,8 @@ date: 2013-04-08T08:58:31+02:00
 categories: [Évènements]
 author: Nico
 draft: true
+aliases:
+  - /évènements/reunion-hypnodingues-3/
 ---
 
 <h1>

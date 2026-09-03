@@ -4,6 +4,8 @@ date: 2013-05-12T18:13:30+02:00
 categories: [Liens]
 author: Laeti
 draft: false
+aliases:
+  - /liens/les-vertus-du-jeune/
 ---
 
 <p>

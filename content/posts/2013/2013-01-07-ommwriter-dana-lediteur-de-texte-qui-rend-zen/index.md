@@ -4,6 +4,8 @@ date: 2013-01-07T18:57:26+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/ommwriter-dana-lediteur-de-texte-qui-rend-zen/
 ---
 
 <p>

@@ -4,6 +4,8 @@ date: 2014-02-26T12:03:11+01:00
 categories: [En anglais]
 author: Nico
 draft: false
+aliases:
+  - /en-anglais/how-to-cure-anxiety/
 ---
 
 <a href="http://www.fourhourworkweek.com/blog/2014/02/19/anxiety-attacks/">http://www.fourhourworkweek.com/blog/2014/02/19/anxiety-attacks/</a>

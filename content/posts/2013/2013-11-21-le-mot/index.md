@@ -4,6 +4,8 @@ date: 2013-11-21T17:52:20+01:00
 categories: [Citations, Textes]
 author: Nico
 draft: false
+aliases:
+  - /textes/le-mot/
 ---
 
 Braves gens, prenez garde aux choses que vous dites !

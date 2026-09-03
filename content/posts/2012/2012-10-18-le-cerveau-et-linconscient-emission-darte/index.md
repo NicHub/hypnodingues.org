@@ -4,6 +4,8 @@ date: 2012-10-18T13:07:41+02:00
 categories: [Articles]
 author: Nico
 draft: true
+aliases:
+  - /articles/le-cerveau-et-linconscient-emission-darte/
 ---
 
 <h1>

@@ -4,6 +4,8 @@ date: 2012-11-01T11:23:40+01:00
 categories: [Divers, Santé]
 author: Nico
 draft: false
+aliases:
+  - /divers/santé/1414/
 ---
 
 <p>

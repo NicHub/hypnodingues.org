@@ -4,6 +4,8 @@ date: 2015-05-21T13:31:00+02:00
 categories: [Sexualite]
 author: Laeti
 draft: false
+aliases:
+  - /sexualite/sexualite_sacree/
 ---
 
 ## Sexualité essentielle et sexualité sacrée

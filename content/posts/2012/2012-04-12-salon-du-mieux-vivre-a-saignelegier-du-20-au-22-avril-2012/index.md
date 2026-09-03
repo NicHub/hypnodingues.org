@@ -4,6 +4,8 @@ date: 2012-04-12T15:02:59+02:00
 categories: [Divers]
 author: Catherine
 draft: false
+aliases:
+  - /divers/salon-du-mieux-vivre-a-saignelegier-du-20-au-22-avril-2012/
 ---
 
 <p>

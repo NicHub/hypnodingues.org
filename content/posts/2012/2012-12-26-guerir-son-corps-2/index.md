@@ -4,6 +4,8 @@ date: 2012-12-26T12:18:06+01:00
 categories: [Santé]
 author: Nico
 draft: true
+aliases:
+  - /santé/guerir-son-corps-2/
 ---
 
 <h2 class="sous-titre">

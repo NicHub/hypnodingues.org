@@ -4,6 +4,8 @@ date: 2012-08-31T15:40:40+02:00
 categories: [Exercices]
 author: Nico
 draft: true
+aliases:
+  - /exercices/se-reposer-dans-les-lieux-publics-2-jours/
 ---
 
 <p>

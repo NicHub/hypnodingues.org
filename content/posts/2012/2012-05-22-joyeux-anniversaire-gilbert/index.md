@@ -4,6 +4,8 @@ date: 2012-05-22T15:03:24+02:00
 categories: [Anniversaires]
 author: Laeti
 draft: true
+aliases:
+  - /anniversaires/joyeux-anniversaire-gilbert/
 ---
 
 <p>

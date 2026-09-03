@@ -4,6 +4,8 @@ date: 2013-07-22T12:34:16+02:00
 categories: [Divers]
 author: Laeti
 draft: true
+aliases:
+  - /divers/pland-daction-entreprise/
 ---
 
 <p>

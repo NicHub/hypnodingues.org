@@ -4,6 +4,8 @@ date: 2014-05-01T12:37:06+02:00
 categories: [Divers]
 author: Laeti
 draft: false
+aliases:
+  - /divers/est-il-naturel-detre-fidele-a-mediter/
 ---
 
 <p>

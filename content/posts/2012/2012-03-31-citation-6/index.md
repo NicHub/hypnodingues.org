@@ -4,6 +4,8 @@ date: 2012-03-31T17:03:56+02:00
 categories: [Citations]
 author: Nico
 draft: false
+aliases:
+  - /citations/citation-6/
 ---
 
 <h1 id="netombezpasamoureux.soyezdanslamour.">

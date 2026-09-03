@@ -4,6 +4,8 @@ date: 2012-05-31T13:43:03+02:00
 categories: [Citations, Hypnose]
 author: Nico
 draft: false
+aliases:
+  - /citations/hypnose/citation-8/
 ---
 
 <p>

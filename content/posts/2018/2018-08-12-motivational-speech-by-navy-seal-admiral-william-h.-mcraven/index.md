@@ -4,6 +4,8 @@ date: 2018-08-12T19:39:00+02:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /motivational-speech-by-navy-seal-admiral-william-h.-mcraven/
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mMEq0r97T_k?si=UmrdJwJwCZ86N6Bd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

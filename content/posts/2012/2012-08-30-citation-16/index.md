@@ -4,6 +4,8 @@ date: 2012-08-30T09:04:02+02:00
 categories: [Citations]
 author: Nico
 draft: false
+aliases:
+  - /citations/citation-16/
 ---
 
 <p>

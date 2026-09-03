@@ -4,6 +4,8 @@ date: 2013-07-11T09:01:35+02:00
 categories: [Articles]
 author: Nico
 draft: false
+aliases:
+  - /articles/practice-of-mindfulness-meditation-slows-the-progression-of-hiv-study-shows/
 ---
 
 <h2>

@@ -4,6 +4,8 @@ date: 2012-05-27T21:50:36+02:00
 categories: [Hypnose, Textes]
 author: Nico
 draft: false
+aliases:
+  - /hypnose/textes/soutras/
 ---
 
 Voici quelques soutras proposés par Deepak Chopra dans son livre « Le livre des coïncidences ».

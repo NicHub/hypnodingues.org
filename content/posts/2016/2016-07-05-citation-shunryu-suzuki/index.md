@@ -4,6 +4,8 @@ date: 2016-07-05T11:29:00+02:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /citation-shunryu-suzuki/
 ---
 
 “When you do something you should burn yourself completely, like a good bonfire, leaving no trace of yourself.”

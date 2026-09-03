@@ -4,6 +4,8 @@ date: 2016-06-03T09:24:00+02:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /are-you-living-in-a-computer-simulation/
 ---
 
 Et si nous vivions dans une grande simulation informatique ? Matrix es-tu là ?

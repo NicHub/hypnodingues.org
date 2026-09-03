@@ -4,6 +4,8 @@ date: 2012-07-17T10:24:14+02:00
 categories: [Évènements]
 author: Laeti
 draft: true
+aliases:
+  - /évènements/reunion-du-26-aout/
 ---
 
 <h1>

@@ -4,6 +4,8 @@ date: 2013-07-16T11:20:22+02:00
 categories: [Membres]
 author: Nico
 draft: true
+aliases:
+  - /membres/un-nom-pour-federer-nos-projets/
 ---
 
 <p>

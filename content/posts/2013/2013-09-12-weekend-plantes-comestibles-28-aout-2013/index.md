@@ -4,6 +4,8 @@ date: 2013-09-12T15:19:17+02:00
 categories: [Évènements]
 author: Nico
 draft: false
+aliases:
+  - /évènements/weekend-plantes-comestibles-28-aout-2013/
 ---
 
 <p>

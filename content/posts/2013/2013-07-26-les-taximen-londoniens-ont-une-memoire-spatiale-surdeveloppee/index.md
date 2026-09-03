@@ -4,6 +4,8 @@ date: 2013-07-26T08:37:21+02:00
 categories: [Articles]
 author: Nico
 draft: true
+aliases:
+  - /articles/les-taximen-londoniens-ont-une-memoire-spatiale-surdeveloppee/
 ---
 
 <p style="text-align: center;">

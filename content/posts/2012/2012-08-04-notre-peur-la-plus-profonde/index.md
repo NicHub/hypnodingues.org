@@ -4,6 +4,8 @@ date: 2012-08-04T14:22:01+02:00
 categories: [Citations]
 author: Nico
 draft: false
+aliases:
+  - /citations/notre-peur-la-plus-profonde/
 ---
 
 Notre peur la plus profonde n’est pas que nous ne soyons pas à la hauteur, notre peur la plus profonde est que nous sommes puissants au-delà de toutes limites. C’est notre propre lumière et non notre obscurité qui effraye le plus.

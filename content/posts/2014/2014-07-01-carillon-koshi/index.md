@@ -4,6 +4,8 @@ date: 2014-07-01T16:13:03+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/carillon-koshi/
 ---
 
 J’ai testé pour vous lors d’une méditation sous Terre : ces carillons sont absolument magiques !

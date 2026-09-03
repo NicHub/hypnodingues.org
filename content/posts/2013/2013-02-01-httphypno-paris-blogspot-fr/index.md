@@ -4,6 +4,8 @@ date: 2013-02-01T16:44:27+01:00
 categories: [Articles, Hypnose]
 author: Nico
 draft: false
+aliases:
+  - /articles/hypnose/httphypno-paris-blogspot-fr/
 ---
 
 <p>

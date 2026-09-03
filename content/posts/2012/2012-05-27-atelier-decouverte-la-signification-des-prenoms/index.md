@@ -4,6 +4,8 @@ date: 2012-05-27T20:53:20+02:00
 categories: [Conférences, Évènements]
 author: Nico
 draft: false
+aliases:
+  - /conferences/évènements/atelier-decouverte-la-signification-des-prenoms/
 ---
 
 <p>

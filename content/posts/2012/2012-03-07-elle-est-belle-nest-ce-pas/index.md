@@ -4,6 +4,8 @@ date: 2012-03-07T14:23:26+01:00
 categories: [Images]
 author: Geneviève
 draft: true
+aliases:
+  - /images/elle-est-belle-nest-ce-pas/
 ---
 
 <p>

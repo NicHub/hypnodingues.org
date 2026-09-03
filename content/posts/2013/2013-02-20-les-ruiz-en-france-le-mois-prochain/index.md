@@ -4,6 +4,8 @@ date: 2013-02-20T12:27:33+01:00
 categories: [Conférences, Évènements]
 author: Nico
 draft: false
+aliases:
+  - /conferences/évènements/les-ruiz-en-france-le-mois-prochain/
 ---
 
 <blockquote>

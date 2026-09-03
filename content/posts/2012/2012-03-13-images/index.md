@@ -4,6 +4,8 @@ date: 2012-03-13T15:25:28+01:00
 categories: [Images]
 author: Nico
 draft: true
+aliases:
+  - /images/images/
 ---
 
 <p>

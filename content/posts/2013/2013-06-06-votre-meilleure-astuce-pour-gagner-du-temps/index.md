@@ -4,6 +4,8 @@ date: 2013-06-06T08:05:05+02:00
 categories: [Articles]
 author: Nico
 draft: false
+aliases:
+  - /articles/votre-meilleure-astuce-pour-gagner-du-temps/
 ---
 
 Écrit et offert par 104 blogueurs.

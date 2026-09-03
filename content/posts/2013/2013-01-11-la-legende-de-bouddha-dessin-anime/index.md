@@ -4,6 +4,8 @@ date: 2013-01-11T11:06:47+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/la-legende-de-bouddha-dessin-anime/
 ---
 
 <p>

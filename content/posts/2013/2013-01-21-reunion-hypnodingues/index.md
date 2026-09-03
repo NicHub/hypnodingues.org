@@ -4,6 +4,8 @@ date: 2013-01-21T13:14:23+01:00
 categories: [Évènements]
 author: Laeti
 draft: true
+aliases:
+  - /évènements/reunion-hypnodingues/
 ---
 
 <h1>

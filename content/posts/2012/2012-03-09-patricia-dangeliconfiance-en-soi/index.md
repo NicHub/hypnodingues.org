@@ -4,6 +4,8 @@ date: 2012-03-09T20:31:37+01:00
 categories: [Hypnose, Textes]
 author: Nico
 draft: true
+aliases:
+  - /hypnose/textes/patricia-dangeliconfiance-en-soi/
 ---
 
 <p>

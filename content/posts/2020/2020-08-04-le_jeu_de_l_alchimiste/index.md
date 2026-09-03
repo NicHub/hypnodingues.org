@@ -4,6 +4,8 @@ date: 2020-08-04T10:19:00+02:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /le_jeu_de_l_alchimiste/
 ---
 
 Prise de notes personnelle sur les vidéos du lancement du Jeu de l’Alchimiste.

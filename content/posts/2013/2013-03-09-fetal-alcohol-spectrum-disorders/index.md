@@ -4,6 +4,8 @@ date: 2013-03-09T16:17:05+01:00
 categories: [Articles]
 author: Nico
 draft: false
+aliases:
+  - /articles/fetal-alcohol-spectrum-disorders/
 ---
 
 <p>

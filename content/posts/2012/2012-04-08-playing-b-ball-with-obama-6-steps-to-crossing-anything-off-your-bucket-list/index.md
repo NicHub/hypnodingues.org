@@ -4,6 +4,8 @@ date: 2012-04-08T20:21:32+02:00
 categories: [Liens]
 author: Nico
 draft: false
+aliases:
+  - /liens/playing-b-ball-with-obama-6-steps-to-crossing-anything-off-your-bucket-list/
 ---
 
 <p>

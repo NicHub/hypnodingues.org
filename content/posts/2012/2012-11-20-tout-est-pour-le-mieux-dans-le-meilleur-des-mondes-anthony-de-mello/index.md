@@ -4,6 +4,8 @@ date: 2012-11-20T14:46:05+01:00
 categories: [Textes]
 author: Nico
 draft: true
+aliases:
+  - /textes/tout-est-pour-le-mieux-dans-le-meilleur-des-mondes-anthony-de-mello/
 ---
 
 <p>

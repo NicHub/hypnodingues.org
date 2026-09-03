@@ -4,6 +4,8 @@ date: 2013-05-13T21:41:56+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/rendez-vous-extraordinaire/
 ---
 
 <p>

@@ -4,6 +4,8 @@ date: 2013-04-16T20:32:09+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/les-logos-des-grandes-marques-possedent-souvent-une-face-cachee/
 ---
 
 <p>

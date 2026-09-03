@@ -4,6 +4,8 @@ date: 2012-04-09T07:15:05+02:00
 categories: [Divers]
 author: Nico
 draft: true
+aliases:
+  - /divers/avis-de-deces/
 ---
 
 Qui a dit que les avis de décès étaient mortellement convenus ?

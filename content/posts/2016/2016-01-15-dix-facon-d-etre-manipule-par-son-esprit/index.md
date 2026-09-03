@@ -4,6 +4,8 @@ date: 2016-01-15T19:12:00+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/dix-facon-d-etre-manipule-par-son-esprit/
 ---
 
 > source : [axolot.info](http://www.axolot.info/?p=540)

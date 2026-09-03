@@ -4,6 +4,8 @@ date: 2014-10-31T13:42:57+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/omraam-mikhael-aivanhov/
 ---
 
 <https://soundcloud.com/plusconscient/la-puissance-de-la-pens-e>

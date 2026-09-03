@@ -4,6 +4,8 @@ date: 2012-03-09T21:18:14+01:00
 categories: [Hypnose, Textes]
 author: Nico
 draft: true
+aliases:
+  - /hypnose/textes/6-mars-2011-hypnose-collective-chez-dominique/
 ---
 
 <p>

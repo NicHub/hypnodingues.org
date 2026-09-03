@@ -4,6 +4,8 @@ date: 2012-03-21T11:11:07+01:00
 categories: [Divers]
 author: Geneviève
 draft: true
+aliases:
+  - /divers/rencontre-hypnodingues-3/
 ---
 
 <p>

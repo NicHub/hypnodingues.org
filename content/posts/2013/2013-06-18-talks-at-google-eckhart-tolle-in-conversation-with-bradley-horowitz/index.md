@@ -4,6 +4,8 @@ date: 2013-06-18T12:31:19+02:00
 categories: [Conférences]
 author: Nico
 draft: false
+aliases:
+  - /conferences/talks-at-google-eckhart-tolle-in-conversation-with-bradley-horowitz/
 ---
 
 <p>

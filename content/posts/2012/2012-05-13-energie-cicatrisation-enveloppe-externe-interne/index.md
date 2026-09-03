@@ -4,6 +4,8 @@ date: 2012-05-13T14:25:18+02:00
 categories: [Hypnose, Textes]
 author: Audrey
 draft: true
+aliases:
+  - /hypnose/textes/energie-cicatrisation-enveloppe-externe-interne/
 ---
 
 <h1>

@@ -4,6 +4,8 @@ date: 2012-06-09T10:27:01+02:00
 categories: [Santé]
 author: Nico
 draft: false
+aliases:
+  - /santé/faiseurs-de-secrets-coupeurs-de-feu-et-dons-naturels/
 ---
 
 <p>

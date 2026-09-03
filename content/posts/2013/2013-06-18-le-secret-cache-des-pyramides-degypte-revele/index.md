@@ -4,6 +4,8 @@ date: 2013-06-18T10:21:22+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/le-secret-cache-des-pyramides-degypte-revele/
 ---
 
 <p>

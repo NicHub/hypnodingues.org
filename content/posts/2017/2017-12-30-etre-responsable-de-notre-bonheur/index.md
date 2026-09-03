@@ -4,6 +4,8 @@ date: 2017-12-30T14:46:00+01:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /etre-responsable-de-notre-bonheur/
 ---
 
 Il n’a pas de meilleure recette pour être malheureux que d’attendre que les autres fassent notre bonheur.

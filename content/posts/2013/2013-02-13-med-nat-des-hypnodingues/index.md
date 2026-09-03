@@ -4,6 +4,8 @@ date: 2013-02-13T12:33:30+01:00
 categories: [Évènements]
 author: Laeti
 draft: true
+aliases:
+  - /évènements/med-nat-des-hypnodingues/
 ---
 
 <p>

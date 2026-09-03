@@ -4,6 +4,8 @@ date: 2013-01-16T00:05:40+01:00
 categories: [Conférences]
 author: Nico
 draft: false
+aliases:
+  - /conferences/matthieu-ricard-les-habitudes-du-bonheur/
 ---
 
 <p>

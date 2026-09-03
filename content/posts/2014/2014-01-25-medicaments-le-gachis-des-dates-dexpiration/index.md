@@ -4,6 +4,8 @@ date: 2014-01-25T01:11:19+01:00
 categories: [Santé]
 author: Nico
 draft: false
+aliases:
+  - /santé/medicaments-le-gachis-des-dates-dexpiration/
 ---
 
 <p>

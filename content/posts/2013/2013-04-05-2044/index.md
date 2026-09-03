@@ -4,6 +4,8 @@ date: 2013-04-05T21:12:29+02:00
 categories: [Histoires-et-contes]
 author: Nico
 draft: false
+aliases:
+  - /histoires-et-contes/2044/
 ---
 
 <p>

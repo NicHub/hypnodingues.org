@@ -4,6 +4,8 @@ date: 2014-08-15T15:07:57+02:00
 categories: [Hypnose]
 author: Laeti
 draft: false
+aliases:
+  - /hypnose/peur-de-premiers-patients-en-hypnose/
 ---
 
 <p>

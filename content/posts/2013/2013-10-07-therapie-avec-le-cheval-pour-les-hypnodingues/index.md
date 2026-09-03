@@ -4,6 +4,8 @@ date: 2013-10-07T18:08:08+02:00
 categories: [Évènements]
 author: Nico
 draft: true
+aliases:
+  - /évènements/therapie-avec-le-cheval-pour-les-hypnodingues/
 ---
 
 <h1>

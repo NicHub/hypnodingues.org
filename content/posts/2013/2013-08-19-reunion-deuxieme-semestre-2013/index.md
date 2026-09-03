@@ -4,6 +4,8 @@ date: 2013-08-19T08:54:22+02:00
 categories: [Évènements]
 author: Nico
 draft: true
+aliases:
+  - /évènements/reunion-deuxieme-semestre-2013/
 ---
 
 <p>

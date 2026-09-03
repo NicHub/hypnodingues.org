@@ -4,6 +4,8 @@ date: 2013-04-18T09:42:20+02:00
 categories: [Conférences]
 author: Nico
 draft: false
+aliases:
+  - /conferences/chade-meng-tan-search-inside-yourself-authors-at-google/
 ---
 
 <p>

@@ -4,6 +4,8 @@ date: 2013-03-11T09:23:42+01:00
 categories: [Conférences]
 author: Gilbert
 draft: true
+aliases:
+  - /conferences/conference-de-gregg-braden-sur-la-divine-matrice/
 ---
 
 <p>

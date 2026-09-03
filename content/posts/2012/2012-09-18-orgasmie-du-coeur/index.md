@@ -4,6 +4,8 @@ date: 2012-09-18T15:30:09+02:00
 categories: [Liens]
 author: Laeti
 draft: false
+aliases:
+  - /liens/orgasmie-du-coeur/
 ---
 
 <p>

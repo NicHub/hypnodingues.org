@@ -4,6 +4,8 @@ date: 2013-02-12T18:15:40+01:00
 categories: [Articles]
 author: Nico
 draft: true
+aliases:
+  - /articles/1771/
 ---
 
 <p>

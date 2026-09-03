@@ -4,6 +4,8 @@ date: 2021-08-14T00:00:00+02:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /the-prison-of-your-mind-sean-stephenson-tedxironwoodstateprison/
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VaRO5-V1uK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>

@@ -4,6 +4,8 @@ date: 2012-10-16T00:20:10+02:00
 categories: [Divers]
 author: Laeti
 draft: false
+aliases:
+  - /divers/amour/
 ---
 
 <p>

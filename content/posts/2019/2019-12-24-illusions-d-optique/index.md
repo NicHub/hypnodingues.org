@@ -4,6 +4,8 @@ date: 2019-12-24T12:05:00+01:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /illuzion/
 ---
 
 {{< comment >}}

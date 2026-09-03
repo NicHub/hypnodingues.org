@@ -4,6 +4,8 @@ date: 2013-03-14T09:12:07+01:00
 categories: [Citations]
 author: Nico
 draft: false
+aliases:
+  - /citations/citation-35/
 ---
 
 <p>

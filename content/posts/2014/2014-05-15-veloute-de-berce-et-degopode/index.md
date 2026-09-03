@@ -4,6 +4,8 @@ date: 2014-05-15T20:29:43+02:00
 categories: [Recette]
 author: Laeti
 draft: false
+aliases:
+  - /recette/veloute-de-berce-et-degopode/
 ---
 
 - 50 % de berce

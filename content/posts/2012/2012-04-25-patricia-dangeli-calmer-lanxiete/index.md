@@ -4,6 +4,8 @@ date: 2012-04-25T10:58:15+02:00
 categories: [Textes]
 author: Nico
 draft: true
+aliases:
+  - /textes/patricia-dangeli-calmer-lanxiete/
 ---
 
 <p>

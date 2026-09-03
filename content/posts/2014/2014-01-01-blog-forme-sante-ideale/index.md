@@ -4,6 +4,8 @@ date: 2014-01-01T19:35:49+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/blog-forme-sante-ideale/
 ---
 
 <p>

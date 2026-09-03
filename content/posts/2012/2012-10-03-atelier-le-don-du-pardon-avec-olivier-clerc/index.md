@@ -4,6 +4,8 @@ date: 2012-10-03T16:19:29+02:00
 categories: [Évènements]
 author: Nico
 draft: false
+aliases:
+  - /évènements/atelier-le-don-du-pardon-avec-olivier-clerc/
 ---
 
 <h2>

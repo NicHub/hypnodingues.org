@@ -4,6 +4,8 @@ date: 2019-12-20T14:14:00+01:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /humour/
 ---
 
 {{< comment >}}

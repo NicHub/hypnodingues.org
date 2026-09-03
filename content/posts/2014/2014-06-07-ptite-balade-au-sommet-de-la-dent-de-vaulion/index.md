@@ -4,6 +4,8 @@ date: 2014-06-07T10:13:48+02:00
 categories: [Divers]
 author: Laeti
 draft: false
+aliases:
+  - /divers/ptite-balade-au-sommet-de-la-dent-de-vaulion/
 ---
 
 <img class="alignleft size-thumbnail wp-image-3489" src="images/CAM_0613-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />

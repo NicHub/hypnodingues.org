@@ -4,6 +4,8 @@ date: 2012-12-11T21:33:41+01:00
 categories: [Conférences]
 author: Nico
 draft: false
+aliases:
+  - /conferences/vs-ramachandran-les-neurones-qui-ont-forme-la-civilisation/
 ---
 
 <p>

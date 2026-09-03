@@ -4,6 +4,8 @@ date: 2014-05-18T19:34:10+02:00
 categories: [Divers]
 author: Laeti
 draft: false
+aliases:
+  - /divers/balade-au-mont-tendre-volume-1/
 ---
 
 Balade au Mont-Tendre: Altitude 1678 m. Là-bas le printemps vient tout juste d’arriver… Les primevères et les crocus s’en donnent à cœur joie et la neige n’a pas dit son dernier mot <i class="_4-k1 img sp_zfcVAcBYFvQ sx_152a2b"></i> !!!

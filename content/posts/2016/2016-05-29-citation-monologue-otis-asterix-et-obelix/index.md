@@ -4,6 +4,8 @@ date: 2016-05-29T10:22:00+02:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /citation-monologue-otis-asterix-et-obelix/
 ---
 
 « C’est une bonne situation ça, scribe ? »

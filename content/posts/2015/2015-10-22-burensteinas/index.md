@@ -4,6 +4,8 @@ date: 2015-11-03T12:00:00+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/burensteinas/
 ---
 
 Vidéo complète de la conférence de l’alchimiste Patrick BURENSTEINAS le 18 Octobre 2014 à Montréal, pour la Première des événements “NAISSANCE & RENAISSANCE” de l’agence SUNEVA [suneva.ca](http://suneva.ca/).

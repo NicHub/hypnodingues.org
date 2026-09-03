@@ -4,6 +4,8 @@ date: 2012-03-13T15:31:01+01:00
 categories: [Images]
 author: Nico
 draft: true
+aliases:
+  - /images/fortune-et-misere-limpermanence-de-la-vie/
 ---
 
 <p>

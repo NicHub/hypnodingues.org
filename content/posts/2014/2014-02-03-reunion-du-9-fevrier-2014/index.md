@@ -4,6 +4,8 @@ date: 2014-02-03T22:54:04+01:00
 categories: [Divers]
 author: Nico
 draft: true
+aliases:
+  - /divers/reunion-du-9-fevrier-2014/
 ---
 
 <h1>

@@ -4,6 +4,8 @@ date: 2012-05-13T13:49:50+02:00
 categories: [Hypnose, Textes]
 author: Audrey
 draft: true
+aliases:
+  - /hypnose/textes/bien-dormir/
 ---
 
 <p>

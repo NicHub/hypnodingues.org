@@ -4,6 +4,8 @@ date: 2014-04-24T19:45:53+02:00
 categories: [Recette]
 author: Laeti
 draft: false
+aliases:
+  - /recette/pesto-a-lortie-et-a-la-cardamine-des-pres/
 ---
 
 - 3 poignées de feuilles d’ortie

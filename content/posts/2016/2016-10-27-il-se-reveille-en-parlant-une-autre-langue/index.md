@@ -4,6 +4,8 @@ date: 2016-10-27T12:21:00+01:00
 categories: [Actu]
 author: Nico
 draft: false
+aliases:
+  - /actu/il-se-reveille-en-parlant-une-autre-langue/
 ---
 
 > L’histoiredu jour Il se réveille en parlant une autre langue Reuben’s Medical Fund/GoFundMe

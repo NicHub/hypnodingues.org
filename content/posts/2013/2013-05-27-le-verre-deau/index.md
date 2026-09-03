@@ -4,6 +4,8 @@ date: 2013-05-27T11:04:22+02:00
 categories: [Textes]
 author: Nico
 draft: false
+aliases:
+  - /textes/le-verre-deau/
 ---
 
 <p>

@@ -4,6 +4,8 @@ date: 2012-05-20T16:10:06+02:00
 categories: [Hypnose, Textes]
 author: Nico
 draft: false
+aliases:
+  - /hypnose/textes/affirmation-du-soutra-pour-la-deuxieme-regle-de-vie/
 ---
 
 <div style="text-align: center;">

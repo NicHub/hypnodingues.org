@@ -4,6 +4,8 @@ date: 2016-02-17T13:04:00+01:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /synesthete/
 ---
 
 source : [LinkedIn](https://www.linkedin.com/pulse/jai-d%C3%A9couvert-que-j%C3%A9tais-synesth%C3%A8te-cest-grave-docteur-pr%C3%A9vert)

@@ -4,6 +4,8 @@ date: 2012-08-31T15:07:48+02:00
 categories: [Exercices]
 author: Nico
 draft: true
+aliases:
+  - /exercices/trouver-yoda-3-jours/
 ---
 
 <p>

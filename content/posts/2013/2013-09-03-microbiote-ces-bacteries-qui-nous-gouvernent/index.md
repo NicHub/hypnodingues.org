@@ -4,6 +4,8 @@ date: 2013-09-03T08:16:24+02:00
 categories: [Liens, Santé]
 author: Laeti
 draft: false
+aliases:
+  - /liens/santé/microbiote-ces-bacteries-qui-nous-gouvernent/
 ---
 
 <p>

@@ -4,6 +4,8 @@ date: 2012-04-06T12:24:13+02:00
 categories: [Évènements]
 author: Nico
 draft: false
+aliases:
+  - /évènements/healing-vacation-in-greece-with-martin-brofman/
 ---
 
 <p>

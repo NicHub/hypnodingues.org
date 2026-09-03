@@ -4,6 +4,8 @@ date: 2013-10-01T07:37:33+02:00
 categories: [Santé]
 author: Nico
 draft: false
+aliases:
+  - /santé/pourquoi-les-fumeurs-prennent-du-poids-quand-ils-decident-darreter-de-fumer/
 ---
 
 <p>

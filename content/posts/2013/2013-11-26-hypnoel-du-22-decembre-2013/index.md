@@ -4,6 +4,8 @@ date: 2013-11-26T13:44:18+01:00
 categories: [Divers, Évènements]
 author: Laeti
 draft: true
+aliases:
+  - /divers/évènements/hypnoel-du-22-decembre-2013/
 ---
 
 <h1>

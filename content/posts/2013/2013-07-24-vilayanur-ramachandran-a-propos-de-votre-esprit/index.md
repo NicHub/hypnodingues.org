@@ -4,6 +4,8 @@ date: 2013-07-24T16:19:47+02:00
 categories: [Conférences]
 author: Nico
 draft: false
+aliases:
+  - /conferences/vilayanur-ramachandran-a-propos-de-votre-esprit/
 ---
 
 <p>

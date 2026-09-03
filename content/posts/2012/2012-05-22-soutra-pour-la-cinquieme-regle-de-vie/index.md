@@ -4,6 +4,8 @@ date: 2012-05-22T07:55:09+02:00
 categories: [Hypnose, Textes]
 author: Nico
 draft: false
+aliases:
+  - /hypnose/textes/soutra-pour-la-cinquieme-regle-de-vie/
 ---
 
 <div style="text-align: center;">

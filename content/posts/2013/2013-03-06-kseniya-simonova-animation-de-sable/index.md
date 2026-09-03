@@ -4,6 +4,8 @@ date: 2013-03-06T12:14:31+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/kseniya-simonova-animation-de-sable/
 ---
 
 <p>

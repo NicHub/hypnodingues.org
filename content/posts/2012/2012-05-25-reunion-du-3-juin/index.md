@@ -4,6 +4,8 @@ date: 2012-05-25T11:44:54+02:00
 categories: [Évènements]
 author: Laeti
 draft: true
+aliases:
+  - /évènements/reunion-du-3-juin/
 ---
 
 <h1>

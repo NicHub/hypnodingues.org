@@ -4,6 +4,8 @@ date: 2013-07-05T09:54:45+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/le-pied-sur-le-frein/
 ---
 
 Vous connaissez l’expression « Avoir le pied sur le frein et l’accélérateur en même temps » ? Et bien en voilà une variante en image :

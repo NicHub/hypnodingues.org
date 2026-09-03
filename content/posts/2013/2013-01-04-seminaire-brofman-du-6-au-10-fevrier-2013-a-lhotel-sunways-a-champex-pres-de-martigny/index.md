@@ -4,6 +4,8 @@ date: 2013-01-04T14:02:35+01:00
 categories: [Évènements]
 author: Nico
 draft: false
+aliases:
+  - /évènements/seminaire-brofman-du-6-au-10-fevrier-2013-a-lhotel-sunways-a-champex-pres-de-martigny/
 ---
 
 <p>

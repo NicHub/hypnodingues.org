@@ -4,6 +4,8 @@ date: 2014-04-06T16:52:24+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/hackschooling-makes-me-happy-logan-laplante-at-tedxuniversityofnevada/
 ---
 
 ## Les 8 concepts du Dr Roger Walsh ⇒ Changements Thérapeutiques du mode de Vie (CTM)

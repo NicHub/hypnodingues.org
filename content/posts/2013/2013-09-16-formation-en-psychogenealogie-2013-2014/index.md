@@ -4,6 +4,8 @@ date: 2013-09-16T08:20:41+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/formation-en-psychogenealogie-2013-2014/
 ---
 
 <table id="templatePreheader" width="600" border="0" cellspacing="0" cellpadding="10">

@@ -4,6 +4,8 @@ date: 2013-08-20T18:07:41+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/recrutement-sous-hypnose/
 ---
 
 <p>

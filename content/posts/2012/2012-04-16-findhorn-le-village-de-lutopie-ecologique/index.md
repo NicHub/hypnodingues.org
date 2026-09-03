@@ -4,6 +4,8 @@ date: 2012-04-16T21:34:21+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/findhorn-le-village-de-lutopie-ecologique/
 ---
 
 <p>

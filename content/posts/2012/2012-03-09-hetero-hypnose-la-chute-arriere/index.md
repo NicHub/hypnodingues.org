@@ -4,6 +4,8 @@ date: 2012-03-09T20:55:49+01:00
 categories: [Hypnose, Textes]
 author: Nico
 draft: true
+aliases:
+  - /hypnose/textes/hetero-hypnose-la-chute-arriere/
 ---
 
 <p>

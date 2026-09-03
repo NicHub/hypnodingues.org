@@ -4,6 +4,8 @@ date: 2013-08-27T14:09:10+02:00
 categories: [Divers]
 author: Laeti
 draft: true
+aliases:
+  - /divers/fonctionnement-administratif/
 ---
 
 <h1>

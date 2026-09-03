@@ -4,6 +4,8 @@ date: 2012-06-10T12:15:09+02:00
 categories: [Anniversaires]
 author: Laeti
 draft: true
+aliases:
+  - /anniversaires/joyeux-anniversaire-nicolas/
 ---
 
 <p align="center">

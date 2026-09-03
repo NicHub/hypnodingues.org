@@ -4,6 +4,8 @@ date: 2012-12-04T12:51:27+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/idee-cadeau-pour-noel/
 ---
 
 <p align="justify">

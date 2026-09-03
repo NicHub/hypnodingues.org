@@ -4,6 +4,8 @@ date: 2013-06-13T09:37:31+02:00
 categories: [Évènements]
 author: Nico
 draft: true
+aliases:
+  - /évènements/marche-sur-le-feu/
 ---
 
 <p>

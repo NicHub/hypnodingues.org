@@ -4,6 +4,8 @@ date: 2014-03-24T00:35:18+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/little-book-of-contentment/
 ---
 
 <p>

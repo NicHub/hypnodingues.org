@@ -4,6 +4,8 @@ date: 2012-03-13T20:37:34+01:00
 categories: [Conférences]
 author: Nico
 draft: true
+aliases:
+  - /conferences/eckhart-tolle-la-transformation-de-la-conscience/
 ---
 
 <div class="wrapper">

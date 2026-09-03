@@ -4,6 +4,8 @@ date: 2013-09-24T21:10:09+02:00
 categories: [Liens]
 author: Laeti
 draft: false
+aliases:
+  - /liens/top-23-des-verites-etonnantes-sur-le-sexe/
 ---
 
 <p>

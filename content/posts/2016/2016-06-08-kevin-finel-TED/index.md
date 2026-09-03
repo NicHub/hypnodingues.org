@@ -4,6 +4,8 @@ date: 2016-06-08T18:44:00+02:00
 categories: [Hypnose]
 author: Nico
 draft: false
+aliases:
+  - /kevin-finel-ted/
 ---
 
 Réponse : *On ne regarderait plus jamais notre penderie de la même façon ;-)*

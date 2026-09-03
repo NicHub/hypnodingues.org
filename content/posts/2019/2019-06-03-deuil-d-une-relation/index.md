@@ -4,6 +4,8 @@ date: 2019-06-03T15:03:00+02:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /deuil-d-une-relation/
 ---
 
 {{< comment >}}

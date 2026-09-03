@@ -4,6 +4,8 @@ date: 2014-11-15T11:06:01+01:00
 categories: [Santé]
 author: Nico
 draft: false
+aliases:
+  - /santé/lhypnose-pour-arreter-de-fumer-une-methode-efficace/
 ---
 
 <p>

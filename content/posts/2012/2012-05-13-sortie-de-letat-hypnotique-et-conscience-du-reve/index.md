@@ -4,6 +4,8 @@ date: 2012-05-13T13:57:27+02:00
 categories: [Hypnose, Textes]
 author: Audrey
 draft: true
+aliases:
+  - /hypnose/textes/sortie-de-letat-hypnotique-et-conscience-du-reve/
 ---
 
 <p>

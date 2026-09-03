@@ -4,6 +4,8 @@ date: 2012-12-07T13:20:41+01:00
 categories: [Articles]
 author: Nico
 draft: true
+aliases:
+  - /articles/hooponopono/
 ---
 
 <p>

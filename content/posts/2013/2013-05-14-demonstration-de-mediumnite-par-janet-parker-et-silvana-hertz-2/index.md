@@ -4,6 +4,8 @@ date: 2013-05-14T20:08:07+02:00
 categories: [Évènements]
 author: Nico
 draft: false
+aliases:
+  - /évènements/demonstration-de-mediumnite-par-janet-parker-et-silvana-hertz-2/
 ---
 
 <p>

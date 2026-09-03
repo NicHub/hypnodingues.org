@@ -4,6 +4,8 @@ date: 2012-03-09T20:33:54+01:00
 categories: [Hypnose, Textes]
 author: Audrey
 draft: true
+aliases:
+  - /hypnose/textes/olivier-lockertcreateur-de-realite-version-longue/
 ---
 
 <p>

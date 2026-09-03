@@ -4,6 +4,8 @@ date: 2013-02-12T18:20:37+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/dynamic-spread-of-happiness-in-a-large-social-network-longitudinal-analysis-over-20-years-in-the-framingham-heart-study/
 ---
 
 <p>

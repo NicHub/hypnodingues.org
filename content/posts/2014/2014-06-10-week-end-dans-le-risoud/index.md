@@ -4,6 +4,8 @@ date: 2014-06-10T09:36:04+02:00
 categories: [Divers]
 author: Laeti
 draft: false
+aliases:
+  - /divers/week-end-dans-le-risoud/
 ---
 
 <img class="alignleft size-thumbnail wp-image-3501" src="images/CAM_0649-150x150.jpg" alt="Made by Samsung DVC" width="150" height="150" />

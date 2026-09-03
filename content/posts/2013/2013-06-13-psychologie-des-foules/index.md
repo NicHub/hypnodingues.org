@@ -4,6 +4,8 @@ date: 2013-06-13T13:57:15+02:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/psychologie-des-foules/
 ---
 
 <h1>

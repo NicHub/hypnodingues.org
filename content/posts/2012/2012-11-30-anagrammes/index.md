@@ -4,6 +4,8 @@ date: 2012-11-30T12:05:47+01:00
 categories: [Citations]
 author: Nico
 draft: false
+aliases:
+  - /citations/anagrammes/
 ---
 
 Voici quelques anagrammes saisissantes. Si vous aimez ça, vous pouvez lire :

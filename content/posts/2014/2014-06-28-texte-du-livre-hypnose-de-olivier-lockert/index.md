@@ -4,6 +4,8 @@ date: 2014-06-28T21:14:48+02:00
 categories: [Hypnose, Textes]
 author: Laeti
 draft: false
+aliases:
+  - /hypnose/textes/texte-du-livre-hypnose-de-olivier-lockert/
 ---
 
 <h2 style="line-height: 100%; margin-bottom: 0cm;" align="center">

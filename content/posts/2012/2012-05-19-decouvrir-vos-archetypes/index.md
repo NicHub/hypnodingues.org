@@ -4,6 +4,8 @@ date: 2012-05-19T18:39:16+02:00
 categories: [Hypnose, Textes]
 author: Nico
 draft: true
+aliases:
+  - /hypnose/textes/decouvrir-vos-archetypes/
 ---
 
 <p>

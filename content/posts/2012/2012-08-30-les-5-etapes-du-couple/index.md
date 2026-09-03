@@ -4,6 +4,8 @@ date: 2012-08-30T15:27:18+02:00
 categories: [Divers]
 author: Geneviève
 draft: false
+aliases:
+  - /divers/les-5-etapes-du-couple/
 ---
 
 <p>

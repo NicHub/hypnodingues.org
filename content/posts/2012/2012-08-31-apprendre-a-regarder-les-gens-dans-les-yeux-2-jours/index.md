@@ -4,6 +4,8 @@ date: 2012-08-31T15:00:43+02:00
 categories: [Exercices]
 author: Nico
 draft: true
+aliases:
+  - /exercices/apprendre-a-regarder-les-gens-dans-les-yeux-2-jours/
 ---
 
 <p>

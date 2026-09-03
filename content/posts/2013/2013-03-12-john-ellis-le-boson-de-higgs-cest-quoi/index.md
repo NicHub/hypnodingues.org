@@ -4,6 +4,8 @@ date: 2013-03-12T17:54:20+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/john-ellis-le-boson-de-higgs-cest-quoi/
 ---
 
 <p>

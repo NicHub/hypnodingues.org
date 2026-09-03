@@ -4,6 +4,8 @@ date: 2012-03-12T19:52:33+01:00
 categories: [Évènements]
 author: Geneviève
 draft: true
+aliases:
+  - /évènements/rencontre-hypnodingues/
 ---
 
 <p>

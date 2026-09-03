@@ -4,6 +4,8 @@ date: 2013-10-20T14:17:34+02:00
 categories: [Articles]
 author: Nico
 draft: true
+aliases:
+  - /articles/le-manque-dargent-reduit-le-quotient-intellectuel-des-pauvres/
 ---
 
 <p>

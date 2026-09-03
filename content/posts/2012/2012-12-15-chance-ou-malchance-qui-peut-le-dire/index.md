@@ -4,6 +4,8 @@ date: 2012-12-15T13:02:20+01:00
 categories: [Histoires-et-contes]
 author: Nico
 draft: false
+aliases:
+  - /histoires-et-contes/chance-ou-malchance-qui-peut-le-dire/
 ---
 
 Il y avait, dans un village, un homme très pauvre qui avait un très beau cheval. Le cheval était si beau que les seigneurs du château voulaient le lui acheter, mais il refusait toujours.

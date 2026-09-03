@@ -4,6 +4,8 @@ date: 2012-06-02T13:04:24+02:00
 categories: [Santé]
 author: Nico
 draft: false
+aliases:
+  - /santé/mary-roach-10-things-you-didnt-know-about-orgasm/
 ---
 
 <p id="tagline">

@@ -4,6 +4,8 @@ date: 2012-12-14T15:48:11+01:00
 categories: [Divers]
 author: Nico
 draft: true
+aliases:
+  - /divers/musique-en-ligne/
 ---
 
 <p>

@@ -4,6 +4,8 @@ date: 2013-01-16T01:27:23+01:00
 categories: [Conférences]
 author: Nico
 draft: false
+aliases:
+  - /conferences/chimamanda-adichie-the-danger-of-a-single-story/
 ---
 
 <p>

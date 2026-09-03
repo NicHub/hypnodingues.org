@@ -4,6 +4,8 @@ date: 2016-12-15T17:18:00+01:00
 categories: [À classer]
 author: Nico
 draft: false
+aliases:
+  - /quelques_bizarreries_de_la_langue_francaise/
 ---
 
 {{< comment >}}

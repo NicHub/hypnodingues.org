@@ -4,6 +4,8 @@ date: 2015-04-23T10:56:24+02:00
 categories: [Citations]
 author: Nico
 draft: false
+aliases:
+  - /citations/citation-73/
 ---
 
 <p>
