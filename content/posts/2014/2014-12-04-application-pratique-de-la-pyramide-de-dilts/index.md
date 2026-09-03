@@ -4,6 +4,8 @@ date: 2014-12-04T23:58:11+01:00
 categories: [Divers]
 author: Nico
 draft: false
+aliases:
+  - /divers/application-pratique-de-la-pyramide-de-dilts/
 ---
 
 ![Pyramide de Dilts](images/pyramide_de_dilts_3_bisque.svg)
