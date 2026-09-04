@@ -61,7 +61,6 @@ twitter_card: "summary_large_image"
     -   Ce qui nécessite des procédures de vérification qui ne sont pas toujours mises en place.
     -   De plus, si les adultes d’aujourd’hui qui ont été formés sans les IA peuvent potentiellement détecter leurs erreurs, est-ce que ce sera le cas des adultes de demain qui se forment aujourd’hui avec elles ?
     -   _YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome... qui tourne en rond_[^58]
-    -   _YouTube — Le Parisien — Un taxi autonome incendié en pleine rue à San Francisco_[^59]
 
 4. **Elles sont biaisées**
     -   Il faut vérifier qu’elles ne préfèrent pas une catégorie à une autre, par exemple une catégorie raciale ou de genre.[^55]
@@ -148,6 +147,7 @@ twitter_card: "summary_large_image"
 16. **Elles sont vulnérables**
     -   Car elles dépendent de composants logiciels et matériels nombreux et complexes.
     -   _YouTube — Le HuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech_[^2]
+    -   _YouTube — Le Parisien — Un taxi autonome incendié en pleine rue à San Francisco_[^59]
 
 17. **Elles fragilisent les démocraties**<!-- Probablement à fusionner avec “Elles ne respectent pas les régulations” -->
     -   Elles sont détenues par des intérêts privés et se développent bien plus vite que les institutions démocratiques publiques ne peuvent réagir.[^46]
