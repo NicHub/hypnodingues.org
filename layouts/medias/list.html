@@ -11,17 +11,13 @@
     {{ $posts := where site.RegularPages "Section" "posts" }}
     {{ $hasVideo := slice }}
     {{ $hasAttach := slice }}
-    {{ $both := slice }}
     {{ range $posts }}
       {{ $raw := .RawContent }}
       {{ $video := or (strings.Contains $raw "<iframe") (strings.Contains $raw "<video") (strings.Contains $raw "youtube") (strings.Contains $raw "vimeo") }}
       {{ $attach := false }}
       {{ if .Resources }}
         {{ range .Resources }}
-          {{ $isStyle := eq .ResourceType "resource" }}
-          {{ $image := eq .ResourceType "image" }}
-          {{ $isScss := (strings.HasSuffix .Name "style.scss") }}
-          {{ if and (or $isStyle $image) (not $isScss) }}
+          {{ if and (or (eq .ResourceType "resource") (eq .ResourceType "image")) (not (strings.HasSuffix .Name "style.scss")) }}
             {{ $attach = true }}
           {{ end }}
         {{ end }}
@@ -31,16 +27,16 @@
           {{ $attach = true }}
         {{ end }}
       {{ end }}
+
       {{ if $video }}
         {{ $hasVideo = $hasVideo | append . }}
       {{ end }}
       {{ if $attach }}
         {{ $hasAttach = $hasAttach | append . }}
       {{ end }}
-      {{ if and $video $attach }}
-        {{ $both = $both | append . }}
-      {{ end }}
     {{ end }}
+
+    {{ $both := intersect $hasVideo $hasAttach }}
 
     {{ $withMedia := $hasVideo }}
     {{ range $hasAttach }}
@@ -59,31 +55,20 @@
       </nav>
     </div>
 
-    <h2 class="medias-heading" id="medias-videos">Vidéos <span class="medias-heading-count">({{ len $hasVideo }}/{{ len $posts }})</span></h2>
-    <div class="post-feed">
-      <div class="post-grid">
-        {{ range $hasVideo }}
-          {{ partial "post-card.html" . }}
-        {{ end }}
+    {{ $sections := slice
+      (dict "id" "medias-videos" "title" "Vidéos" "items" $hasVideo)
+      (dict "id" "medias-fichiers" "title" "Fichiers attachés" "items" $hasAttach)
+      (dict "id" "medias-lesdeux" "title" "Vidéos & Fichiers attachés" "items" $both)
+    }}
+    {{ range $sections }}
+      <h2 class="medias-heading" id="{{ .id }}">{{ .title }} <span class="medias-heading-count">({{ len .items }}/{{ len $posts }})</span></h2>
+      <div class="post-feed">
+        <div class="post-grid">
+          {{ range .items }}
+            {{ partial "post-card.html" . }}
+          {{ end }}
+        </div>
       </div>
-    </div>
-
-    <h2 class="medias-heading" id="medias-fichiers">Fichiers attachés <span class="medias-heading-count">({{ len $hasAttach }}/{{ len $posts }})</span></h2>
-    <div class="post-feed">
-      <div class="post-grid">
-        {{ range $hasAttach }}
-          {{ partial "post-card.html" . }}
-        {{ end }}
-      </div>
-    </div>
-
-    <h2 class="medias-heading" id="medias-lesdeux">Vidéos &amp; Fichiers attachés <span class="medias-heading-count">({{ len $both }}/{{ len $posts }})</span></h2>
-    <div class="post-feed">
-      <div class="post-grid">
-        {{ range $both }}
-          {{ partial "post-card.html" . }}
-        {{ end }}
-      </div>
-    </div>
+    {{ end }}
   </section>
 {{ end }}

@@ -246,7 +246,9 @@ h6,
 .article-meta,
 .post-card-date,
 .post-card-taxonomy,
-.page-nav-kicker {
+.page-nav-kicker,
+.medias-link-count,
+.medias-heading-count {
     color: var(--muted);
     font-size: 0.76rem;
     letter-spacing: 0.12em;
@@ -437,7 +439,8 @@ p.home-hero-button a:focus-visible {
 
 .page-header,
 .article-body,
-.post-card {
+.post-card,
+.medias-links a {
     backdrop-filter: blur(18px);
     background: var(--panel);
     border: 1px solid var(--line);
@@ -494,27 +497,12 @@ p.home-hero-button a:focus-visible {
     margin-top: 2rem;
 }
 
-.medias-summary {
-    color: var(--muted);
-    line-height: 1.7;
-    margin: 1.5rem 0;
-    max-width: 44rem;
-}
-
-.medias-summary p {
-    margin: 0.35rem 0;
-}
-
 .medias-links {
     margin: 2.25rem 0;
 }
 
 .medias-links a {
-    backdrop-filter: blur(18px);
-    background: var(--panel);
-    border: 1px solid var(--line);
     border-radius: 1.2rem;
-    box-shadow: 0 24px 64px rgba(0, 0, 0, 0.18);
     color: var(--text);
     display: flex;
     flex-direction: column;
@@ -531,14 +519,6 @@ p.home-hero-button a:focus-visible {
     font-size: 1.4rem;
     line-height: 1.15;
     overflow-wrap: anywhere;
-}
-
-.medias-link-count,
-.medias-heading-count {
-    color: var(--muted);
-    font-size: 0.76rem;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
 }
 
 .medias-links a:hover,
