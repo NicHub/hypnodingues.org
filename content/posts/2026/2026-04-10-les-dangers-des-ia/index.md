@@ -14,7 +14,33 @@ twitter_card: "summary_large_image"
 
 {{< comment >}}
 
-    style.scss externe
+    ## DÉSACTIVE DES NOTIFICATIONS MarkdownLint
+
+    -   MD051 - Link fragments should be valid
+        <https://github.com/DavidAnson/markdownlint/blob/v0.41.1/doc/md051.md>
+        <!-- markdownlint-disable MD051 -->
+    -   MD053 - “Link and image reference definitions should be needed”
+        <https://github.com/DavidAnson/markdownlint/blob/v0.41.1/doc/md053.md>
+        <!-- markdownlint-disable MD053 -->
+
+    ## STYLES
+
+    -   Cet article utilise sa propre feuille de style CSS `style.scss` qui surcharge les styles CSS par défaut.
+
+    ## !!! ORDRE D’APPARITION DES LIENS EN PIED DE PAGE
+
+        L’ordre d’apparition des liens est différent dans les pieds de page du document Markdown et du document HTML.
+        Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre d’apparition dans le texte.
+
+    ## À VOIR AUSSI / À CLASSER
+
+    -   https://actu.epfl.ch/news/l-epfl-lance-le-premier-llm-medical-entierement-ou/
+    -   https://romande-ia.ch/
+    -   https://www.ictjournal.ch/news/2025-07-08/ffd-romandie-lance-deux-formations-certifiees-en-ia-et-e-commerce
+    -   Fransosiche — Comment retrouver n’importe qui sur Internet ? (Sensibilisation OSINT)
+        https://www.youtube.com/watch?v=VlTn5AB5SJE
+    -   Micode — Comment retrouver n’importe qui sur Internet ?
+        https://www.youtube.com/watch?v=4daO2QM12WY
 
 {{< /comment >}}
 
@@ -25,39 +51,40 @@ twitter_card: "summary_large_image"
 
 ![Calvin and Hobbes: Leave Math to the Machines](./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp)
 
-01. **Elles sont faillibles**
+1. **Elles sont faillibles**
     -   Ce qui nécessite des procédures de vérification qui ne sont pas toujours mises en place.
     -   De plus, si les adultes d’aujourd’hui qui ont été formés sans les IA peuvent potentiellement détecter leurs erreurs, est-ce que ce sera le cas des adultes de demain qui se forment aujourd’hui avec elles ?
     -   _YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome... qui tourne en rond_[^58]
 
-02. **Elles sont biaisées**
+2. **Elles sont biaisées**
     -   Il faut vérifier qu’elles ne préfèrent pas une catégorie à une autre, par exemple une catégorie raciale ou de genre.[^55]
+    -   _RTS — L’IA de Google est-elle raciste ? Et comment s’en protéger ?_[^65]
 
-03. **Elles induisent en erreur**
+3. **Elles induisent en erreur**
     -   Avec des _deepfakes_ très réalistes.
         -   Hypertrucages
         -   Montages hyperréalistes susceptibles de tromper le public
     -   En se faisant passer pour quelqu’un d’autre.[^48]
 
-04. **Elles ne respectent pas la protection des données**
+4. **Elles ne respectent pas la protection des données**
     -   Elles sont entrainées avec des sources qui peuvent contenir des informations sensibles, privées ou confidentielles.
 
-05. **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**[^22]
+5. **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**[^22]
     -   Leurs fournisseurs contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteur, mais celle de l’utilisateur final.
     -   Sujet connexe : _L’échelle Dalia_[^37]
     -   Voir aussi : _PressReader — Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne_[^51]
 
-06. **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
+6. **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
     -   Elles peuvent se présenter comme “coauteurs” plutôt que comme simples assistants, ce qui entretient une ambiguïté sur la titularité des droits, la part de contribution humaine et la responsabilité juridique des productions.[^35][^36]
     -   Ce glissement de vocabulaire peut servir à habituer les utilisateurs, les entreprises et les tribunaux à considérer l’IA comme une entité créative plutôt que comme un outil.
     -   Sujet connexe : _L’échelle Dalia_[^37]
 
-07. **Elles ne respectent pas les régulations**
+7. **Elles ne respectent pas les régulations**
     -   _Elles ne respectent pas ou peu le RGPD_[^23].
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
         Par exemple, l’UE ne s’est octroyé des pouvoirs extensifs via l’_IA Act_ que le 2 août 2026 alors que la première version de ChatGPT est sortie le 30 novembre 2022.[^46]
 
-08. **Elles ne sont pas juridiquement responsables de leurs failles**
+8. **Elles ne sont pas juridiquement responsables de leurs failles**
     -   Si elles se plantent, qui est responsable ? Qui paie les réparations ?
         -   Dysfonctionnements ou accidents de véhicules autonomes.[^2]
         -   Suppression accidentelle et dommageable de données informatiques.
@@ -69,7 +96,7 @@ twitter_card: "summary_large_image"
 
     {{< /comment >}}
 
-09. **Elles rendent les humains incompétents et dépendants de leurs services**
+9. **Elles rendent les humains incompétents et dépendants de leurs services**
     -   Elles atrophient les compétences en facilitant l’obtention de résultats sans effort et en favorisant l’externalisation de la pensée.[^39]
     -   Si seuls les experts sont sollicités, alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
@@ -114,6 +141,7 @@ twitter_card: "summary_large_image"
     -   Pollution
     -   Bruit
     -   Consommation d’eau
+        -   _YouTube — Numerama — Tout le monde se trompe sur l’eau consommée par l’IA_[^64]
     -   Greenwashing[^39]
 
 14. **Elles sont vulnérables**
@@ -142,7 +170,7 @@ twitter_card: "summary_large_image"
 19. **Elles orientent les choix**
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
     -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
-    -   Elles sont [sycophantes](#sycophante-histoire-et-definitions-du-mot)[^55][^5][^62].<!-- markdownlint-disable-line MD051 -->
+    -   Elles sont [sycophantes](#sycophante-histoire-et-definitions-du-mot)[^55][^5][^62].
     -   _Le biais cognitif que tout le monde a (sans le savoir)_[^4]
     -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais).<!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
 
@@ -301,29 +329,6 @@ _ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu_[^62
 
     {{< comment >}}
 
-        !!! ORDRE D’APPARITION DES LIENS EN PIED DE PAGE !!!
-
-        L’ordre d’apparition des liens est différent dans les pieds de page du document Markdown et du document HTML.
-        Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre d’apparition dans le texte.
-
-        ## À VOIR AUSSI
-
-        -   https://actu.epfl.ch/news/l-epfl-lance-le-premier-llm-medical-entierement-ou/
-        -   https://romande-ia.ch/
-        -   https://www.ictjournal.ch/news/2025-07-08/ffd-romandie-lance-deux-formations-certifiees-en-ia-et-e-commerce
-
-        -   Fransosiche — Comment retrouver n’importe qui sur Internet ? (Sensibilisation OSINT)
-            https://www.youtube.com/watch?v=VlTn5AB5SJE
-        -   Micode — Comment retrouver n’importe qui sur Internet ?
-            https://www.youtube.com/watch?v=4daO2QM12WY
-
-        ## DÉSACTIVER LA NOTIFICATION MD053 - “Link and image reference definitions should be needed”
-
-        ```
-        <!-- markdownlint-disable-line MD053 -->
-        MD053 - Link and image reference definitions should be needed
-        https://github.com/DavidAnson/markdownlint/blob/main/doc/md053.md
-        ```
 
     {{< /comment >}}
 
@@ -454,3 +459,9 @@ _ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu_[^62
 [^62]: [ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu](https://chatgpt.com/share/6a8c2dd7-e6d4-83eb-9c99-9836fbe3d2cd)
 
 [^63]: [Merriam-Webster Dictionary — Sycophant](https://www.merriam-webster.com/dictionary/sycophant)
+
+[^64]: [YouTube — Numerama — Tout le monde se trompe sur l’eau consommée par l’IA](https://www.youtube.com/watch?v=Qddzc5iqP5U)
+
+[^65]: [RTS — L’IA de Google est-elle raciste ? Et comment s’en protéger ?](https://www.rts.ch/play/tv/fastcheck/video/lia-de-google-est-elle-raciste--et-comment-sen-proteger-?urn=urn:rts:video:dd1013b9-cb0d-341d-be26-f9f81d869bf7)
+
+[^66]: [Infomaniak inaugure un data center révolutionnaire qui revalorise 100% de son énergie pour chauffer des bâtiments](https://news.infomaniak.com/infomaniak-inaugure-un-data-center-revolutionnaire-qui-revalorise-100-de-son-energie-pour-chauffer-des-batiments/)
