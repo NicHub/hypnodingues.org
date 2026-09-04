@@ -1,7 +1,7 @@
 ---
 title: "Les 7 Merveilles du Monde"
 date: 2013-04-05T21:12:29+02:00
-categories: [Histoires-et-contes]
+categories: [Histoire et conte]
 author: Nico
 draft: false
 aliases:

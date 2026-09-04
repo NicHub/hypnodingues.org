@@ -1,7 +1,7 @@
 ---
 title: "Court conte de Fées"
 date: 2014-04-01T22:40:21+02:00
-categories: [Histoires-et-contes]
+categories: [Histoire et conte]
 author: Nico
 draft: false
 aliases:

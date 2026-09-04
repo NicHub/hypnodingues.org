@@ -1,7 +1,7 @@
 ---
 title: "Les deux cailloux"
 date: 2013-03-07T14:59:24+01:00
-categories: [Histoires-et-contes]
+categories: [Histoire et conte]
 author: Nico
 draft: false
 aliases:

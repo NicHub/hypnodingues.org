@@ -1,7 +1,7 @@
 ---
 title: "La chute du saint"
 date: 2014-03-23T23:34:07+01:00
-categories: [Histoires-et-contes]
+categories: [Histoire et conte]
 author: Nico
 draft: true
 aliases:
