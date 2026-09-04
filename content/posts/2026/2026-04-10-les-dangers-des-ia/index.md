@@ -281,7 +281,7 @@ twitter_card: "summary_large_image"
 
 ### IA générative : le guide ultime du hater anti-ChatGPT
 
-_Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
+-   _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 ### Controverses
 
@@ -302,8 +302,9 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 #### Synonymes
 
-1. hypocrites, fourbes, flagorneuses, flatteuses, courtisanes, thuriféraires, béni-oui-oui
-2. délatrices, dénonciatrices
+> 1. hypocrites, fourbes, flagorneuses, flatteuses, courtisanes, thuriféraires, béni-oui-oui
+>
+> 2. délatrices, dénonciatrices
 
 #### Dictionnaire historique de la langue française, Le Robert 2022
 
@@ -317,7 +318,7 @@ _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
 
 ##### Texte original en anglais
 
-_Merriam-Webster Dictionary — Sycophant_[^63]
+> _Merriam-Webster Dictionary — Sycophant_[^63]
 
 ##### Traduction en français
 
@@ -327,7 +328,7 @@ _Merriam-Webster Dictionary — Sycophant_[^63]
 
 #### ChatGPT
 
-_ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu_[^62]
+> _ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu_[^62]
 
     {{< comment >}}
 
