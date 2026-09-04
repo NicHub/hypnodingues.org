@@ -459,7 +459,6 @@ twitter_card: "summary_large_image"
     > #### ChatGPT
     >
     > _ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu_[^62]
-    >
 
 [^70]: [YouTube — Fransosiche — Comment retrouver n’importe qui sur Internet ? (Sensibilisation OSINT)](https://www.youtube.com/watch?v=VlTn5AB5SJE)
 
