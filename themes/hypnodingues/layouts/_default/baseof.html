@@ -46,7 +46,7 @@
         document.documentElement.classList.add('no-entry-motion');
       }
     </script>
-    {{ with resources.Get "scss/main.scss" | toCSS (dict "targetPath" "css/main.css" "transpiler" "dartsass") | minify | fingerprint }}
+    {{ with resources.Get "css/main.css" | minify | fingerprint }}
       <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
     {{ end }}
     {{ with .Resources.GetMatch "style.scss" }}
