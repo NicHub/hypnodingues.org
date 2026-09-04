@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <section class="page">
+    <header class="page-header">
+      <p class="eyebrow">Taxonomie</p>
+      <h1>{{ .Title }}</h1>
+    </header>
+
+    <div class="post-feed">
+      <div class="post-grid">
+        {{ range .Data.Terms.Alphabetical }}
+          <a class="post-card" href="{{ .Page.RelPermalink }}">
+            <h2 class="post-card-title">{{ .Page.Title }}</h2>
+            <p class="post-card-count">{{ len .Pages }} article{{ if gt (len .Pages) 1 }}s{{ end }}</p>
+          </a>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+{{ end }}

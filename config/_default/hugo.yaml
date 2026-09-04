@@ -22,6 +22,9 @@ menu:
     - name: Articles
       pageRef: /posts
       weight: 20
+    - name: Catégories
+      pageRef: /categories/
+      weight: 30
 
 params:
   description: Hypnodingues, archives de textes, d’hypnose, de conscience et de traversées intérieures.
