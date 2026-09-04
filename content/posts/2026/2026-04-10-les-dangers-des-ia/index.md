@@ -14,11 +14,12 @@ twitter_card: "summary_large_image"
 
 {{< comment >}}
 
-    ## DÉSACTIVE DES NOTIFICATIONS MarkdownLint
+    ## DÉSACTIVE CERTAINES NOTIFICATIONS MarkdownLint
 
     -   MD051 - Link fragments should be valid
         <https://github.com/DavidAnson/markdownlint/blob/v0.41.1/doc/md051.md>
         <!-- markdownlint-disable MD051 -->
+
     -   MD053 - “Link and image reference definitions should be needed”
         <https://github.com/DavidAnson/markdownlint/blob/v0.41.1/doc/md053.md>
         <!-- markdownlint-disable MD053 -->
@@ -27,7 +28,7 @@ twitter_card: "summary_large_image"
 
     -   Cet article utilise sa propre feuille de style CSS, `style.css`, qui surcharge les styles par défaut.
 
-    ## !!! ORDRE D’APPARITION DES LIENS EN PIED DE PAGE
+    ## !!! ORDRE D’APPARITION DES LIENS EN PIED DE PAGE !!!
 
         L’ordre d’apparition des liens est différent dans les pieds de page du document Markdown et du document HTML.
         Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre d’apparition dans le texte.
