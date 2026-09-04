@@ -15,3 +15,7 @@ aliases:
 <iframe width="100%" height="1400" src="https://nichub.github.io/kreficionator/" frameborder="0">
 
 </iframe>
+
+## Krefitionator sur Github
+
+<https://nichub.github.io/kreficionator/>
