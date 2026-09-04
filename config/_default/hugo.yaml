@@ -6,62 +6,62 @@ publishDir: .hugo/public
 resourceDir: .hugo/resources
 
 pagination:
-  pagerSize: 10000
+    pagerSize: 10000
 
 permalinks:
-  posts: /posts/:contentbasename/
+    posts: /posts/:contentbasename/
 
 taxonomies:
-  category: categories
+    category: categories
 
 menu:
-  main:
-    - name: Accueil
-      pageRef: /
-      weight: 10
-    - name: Articles
-      pageRef: /posts
-      weight: 20
-    - name: Catégories
-      pageRef: /categories/
-      weight: 30
-    - name: Médias
-      pageRef: /medias/
-      weight: 40
+    main:
+        - name: Accueil
+          pageRef: /
+          weight: 10
+        - name: Articles
+          pageRef: /posts
+          weight: 20
+        - name: Catégories
+          pageRef: /categories/
+          weight: 30
+        - name: Médias
+          pageRef: /medias/
+          weight: 40
 
 params:
-  description: Hypnodingues, archives de textes, d’hypnose, de conscience et de traversées intérieures.
-  theme:
-    variant: poetic-dark
-  home:
-    eyebrow: Il etait une fois...
-    bgImage: /assets/nuweiba.jpg
+    description: Hypnodingues, archives de textes, d’hypnose, de conscience et de traversées intérieures.
+    theme:
+        variant: poetic-dark
+    home:
+        eyebrow: Il etait une fois...
+        bgImage: /assets/nuweiba.jpg
 
 outputs:
-  home:
-    - HTML
-    - RSS
-  section:
-    - HTML
-    - RSS
+    home:
+        - HTML
+        - RSS
+    section:
+        - HTML
+        - RSS
 
 markup:
-  goldmark:
-    renderer:
-      unsafe: true
-    extensions:
-      footnote:
-        backlinkHTML: "↩︎"
+    goldmark:
+        renderer:
+            unsafe: true
+        extensions:
+            footnote:
+                backlinkHTML: "↩︎"
 
 security:
-  allowContent:
-    - text/markdown
-    - text/html
+    allowContent:
+        - text/markdown
+        - text/html
 
 contentTypes:
-  text/html: {}
-  text/asciidoc: {}
-  text/markdown: {}
-  text/org: {}
-  text/pandoc: {}
-  text/rst: {}
+    text/html: {}
+    text/asciidoc: {}
+    text/markdown: {}
+    text/org: {}
+    text/pandoc: {}
+    text/rst: {}
