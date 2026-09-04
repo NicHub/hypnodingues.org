@@ -165,7 +165,7 @@ twitter_card: "summary_large_image"
 19. **Elles orientent les choix**
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
     -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
-    -   Elles sont [sycophantes](#sycophante-histoire-et-définitions-du-mot)[^55][^5][^62].
+    -   Elles sont sycophantes[^69][^55][^5][^62].
     -   _Le biais cognitif que tout le monde a (sans le savoir)_[^4]
     -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais).<!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
 
@@ -222,7 +222,7 @@ twitter_card: "summary_large_image"
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
 27. **Elles sont élitistes**<!-- Éventuellement déplacer après “Elles fragilisent les démocraties” -->
-    -   Pour les détenteurs·rices : Elles concentrent un pouvoir d’analyse, d’automatisation et d’influence entre les mains de ceux qui les possèdent.
+    -   Pour les détenteurs·rices : Elles concentrent un pouvoir d’analyse, d’automatisation et d’influence entre les mains de celles et ceux qui les possèdent.
     -   Pour les utilisateurs·rices : Plus on dispose de moyens financiers, de temps et de compétences, plus les IA sont utiles et profitables.
 
 28. **Elles uniformisent le langage**
@@ -256,7 +256,7 @@ twitter_card: "summary_large_image"
     -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
     -   _YouTube — ARTE — Bientôt, les enfants des riches auront un ADN “supérieur” ?_[^52]
 
-34. <span id="elles-peuvent-exfiltrer-des-donnees-privees-voire-sensibles"></span>**Elles peuvent exfiltrer des données sensibles, privées ou confidentielles**
+34. **Elles peuvent exfiltrer des données sensibles, privées ou confidentielles**
     -   Quand on les invite directement sur nos appareils.
     -   Quand on partage des conversations existantes.[^53][^54]
 
@@ -298,48 +298,9 @@ twitter_card: "summary_large_image"
 -   #aiethics
 -   #law
 
-### SYCOPHANTE, HISTOIRE ET DÉFINITIONS DU MOT
+{{< comment >}}
 
-#### Synonymes
-
-> 1. hypocrites, fourbes, flagorneuses, flatteuses, courtisanes, thuriféraires, béni-oui-oui
->
-> 2. délatrices, dénonciatrices
-
-#### Dictionnaire historique de la langue française, Le Robert 2022
-
-> **SYCOPHANTE** n. m., réfection (1559) de _sichophant_ (v. 1500), est emprunté au latin _sycophanta_, lui-même pris au grec _sukophantês_ « dénonciateur des voleurs ou contrebandiers de figues », puis en général « délateur, dénonciateur ».
->
-> Le mot grec est composé de _sûkon_ « figue » et d’un dérivé de _phainein_ « faire voir, faire connaître » (→ fantôme). L’origine de _sukophantês_ était déjà obscure dans l’Antiquité : d’après Gernet, le _sukophantês_ a été d’abord « celui qui montre » (_phainein_) les figues, en les découvrant dans les vêtements du voleur.
->
-> ▪ Le mot est d’abord un terme d’histoire avec la valeur étymologique du mot grec. Il reste d’emploi littéraire ou didactique au sens figuré de « fourbe, hypocrite » (1528).
-
-#### Merriam-Webster Dictionary
-
-##### Texte original en anglais
-
-> _Merriam-Webster Dictionary — Sycophant_[^63]
-
-##### Traduction en français
-
-> un flatteur servile et égoïste : quelqu’un qui fait l’éloge des personnes au pouvoir afin de s’attirer leurs faveurs
->
-> Dans la Grèce antique, le terme « sykophantēs » signifiait « calomniateur ». Il dérive de deux autres mots grecs : « sykon » (qui signifie « figue ») et « phainein » (qui signifie « montrer ou révéler »). Comment ceux qui « révélaient » les figues sont-ils devenus des calomniateurs ? Une théorie fait référence aux taxes que les agriculteurs grecs devaient payer sur les figues qu’ils apportaient au marché. Apparemment, les agriculteurs tentaient parfois d’échapper à ces paiements, mais des mouchards — ceux qui « révélaient » les figues — les dénonçaient, et ils étaient alors contraints de payer. Une autre origine possible tient à l’un des sens du mot « figue », qui désigne « un geste ou un signe de mépris » (comme le fait de glisser le pouce entre deux doigts). Quoi qu’il en soit, le latin a conservé le sens de « calomniateur » lorsqu’il a emprunté une variante de sykophantēs, mais au moment où les anglophones l’ont emprunté au XVIe siècle sous la forme sycophant, les « dénonciateurs » étaient devenus des « flatteurs ».
-
-#### ChatGPT
-
-> _ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu_[^62]
-
-    {{< comment >}}
-
-
-
-
-
-
-
-
-    {{< /comment >}}
+{{< /comment >}}
 
 [^1]: [Science étonnante — Combien consomme une requête à ChatGPT ?](https://scienceetonnante.substack.com/p/combien-consomme-une-requete-a-chatgpt)
 
@@ -478,3 +439,38 @@ twitter_card: "summary_large_image"
 [^67]: [YouTube — Kevin Finel — Personne ne sait pourquoi tu es conscient](https://www.youtube.com/watch?v=Q_uLiE5YzOg&t=1408)
 
 [^68]: [Wikipédia — Problème difficile de la conscience](https://fr.wikipedia.org/wiki/Probl%C3%A8me_difficile_de_la_conscience)
+
+[^69]:
+
+    > ### SYCOPHANTE, HISTOIRE ET DÉFINITIONS DU MOT
+    >
+    > #### Synonymes
+    >
+    > 1. hypocrites, fourbes, flagorneuses, flatteuses, courtisanes, thuriféraires, béni-oui-oui
+    >
+    > 2. délatrices, dénonciatrices
+    >
+    > #### Dictionnaire historique de la langue française, Le Robert 2022
+    >
+    > **SYCOPHANTE** n. m., réfection (1559) de _sichophant_ (v. 1500), est emprunté au latin _sycophanta_, lui-même pris au grec _sukophantês_ « dénonciateur des voleurs ou contrebandiers de figues », puis en général « délateur, dénonciateur ».
+    >
+    > Le mot grec est composé de _sûkon_ « figue » et d’un dérivé de _phainein_ « faire voir, faire connaître » (→ fantôme). L’origine de _sukophantês_ était déjà obscure dans l’Antiquité : d’après Gernet, le _sukophantês_ a été d’abord « celui qui montre » (_phainein_) les figues, en les découvrant dans les vêtements du voleur.
+    >
+    > ▪ Le mot est d’abord un terme d’histoire avec la valeur étymologique du mot grec. Il reste d’emploi littéraire ou didactique au sens figuré de « fourbe, hypocrite » (1528).
+    >
+    > #### Merriam-Webster Dictionary
+    >
+    > ##### Texte original en anglais
+    >
+    > _Merriam-Webster Dictionary — Sycophant_[^63]
+    >
+    > ##### Traduction en français
+    >
+    > un flatteur servile et égoïste : quelqu’un qui fait l’éloge des personnes au pouvoir afin de s’attirer leurs faveurs
+    >
+    > Dans la Grèce antique, le terme « sykophantēs » signifiait « calomniateur ». Il dérive de deux autres mots grecs : « sykon » (qui signifie « figue ») et « phainein » (qui signifie « montrer ou révéler »). Comment ceux qui « révélaient » les figues sont-ils devenus des calomniateurs ? Une théorie fait référence aux taxes que les agriculteurs grecs devaient payer sur les figues qu’ils apportaient au marché. Apparemment, les agriculteurs tentaient parfois d’échapper à ces paiements, mais des mouchards — ceux qui « révélaient » les figues — les dénonçaient, et ils étaient alors contraints de payer. Une autre origine possible tient à l’un des sens du mot « figue », qui désigne « un geste ou un signe de mépris » (comme le fait de glisser le pouce entre deux doigts). Quoi qu’il en soit, le latin a conservé le sens de « calomniateur » lorsqu’il a emprunté une variante de sykophantēs, mais au moment où les anglophones l’ont emprunté au XVIe siècle sous la forme sycophant, les « dénonciateurs » étaient devenus des « flatteurs ».
+    >
+    > #### ChatGPT
+    >
+    > _ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu_[^62]
+    >
