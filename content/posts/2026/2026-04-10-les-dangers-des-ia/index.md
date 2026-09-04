@@ -322,7 +322,7 @@ twitter_card: "summary_large_image"
 
 [^17]: [Wikipédia — OSINT](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes)
 
-[^18]: [Wikipédia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_%28s%C3%A9curit%C3%A9_de_l%E2%80%99information%29)
+[^18]: [Wikipédia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l'information))
 
 [^19]: [RTS — L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans](https://www.rts.ch/play/tv/-/video/-?urn=urn:rts:video:05195471-4c48-3f4a-bb2b-1a51139a8ca1)
 
