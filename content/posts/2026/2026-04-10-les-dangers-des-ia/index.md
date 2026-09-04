@@ -51,58 +51,61 @@ twitter_card: "summary_large_image"
 
 ![Calvin and Hobbes: Leave Math to the Machines](./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp)
 
-01. **Elles sont faillibles**
+1. **Elles n’offrent aucune garantie d’accès à leurs services**
+    -   L’accès à leurs services est révocable unilatéralement et subitement par leurs fournisseurs ou leur régulateur.
+    -   Le 13 juin 2026, Washing­ton a ordonné à Anthro­pic de cou­per l’accès à ses modèles de pointe – Mythos et Fable – à toute per­sonne de natio­na­lité étran­gère. Y com­pris ses propres employés. Du jour au len­de­main, des cen­taines de mil­lions d’uti­li­sa­teurs ont perdu un outil de tra­vail, sans avoir pris part à aucun débat. «Res­sor­tis­sant étran­ger» est devenu une caté­go­rie de confor­mité pour accé­der à une machine à pen­ser.
+        _PressReader — Le Temps — Est-ce le bruit des bottes ou celui de l’éveil que nous entendons ?_[^25]
+
+2. **Elles peuvent changer de propriétaire**
+    -   Comme pour tout service _cloud_, lorsqu’un fournisseur d’IA change de propriétaire, les données de ses utilisateurs peuvent être transférées à l’acquéreur.
+        Cet acquéreur peut être problématique, par exemple si c’est un concurrent de l’entreprise utilisatrice.
+
+3. **Elles sont faillibles**
     -   Ce qui nécessite des procédures de vérification qui ne sont pas toujours mises en place.
     -   De plus, si les adultes d’aujourd’hui qui ont été formés sans les IA peuvent potentiellement détecter leurs erreurs, est-ce que ce sera le cas des adultes de demain qui se forment aujourd’hui avec elles ?
     -   _YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome... qui tourne en rond_[^58]
 
-02. **Elles sont biaisées**
+4. **Elles sont biaisées**
     -   Il faut vérifier qu’elles ne préfèrent pas une catégorie à une autre, par exemple une catégorie raciale ou de genre.[^55]
     -   _RTS — L’IA de Google est-elle raciste ? Et comment s’en protéger ?_[^65]
 
-03. **Elles induisent en erreur**
+5. **Elles induisent en erreur**
     -   Avec des _deepfakes_ très réalistes.
         -   Hypertrucages
         -   Montages hyperréalistes susceptibles de tromper le public
     -   En se faisant passer pour quelqu’un d’autre.[^48]
 
-04. **Elles ne respectent pas la protection des données**
+6. **Elles ne respectent pas la protection des données**
     -   Elles sont entrainées avec des sources qui peuvent contenir des informations sensibles, privées ou confidentielles.
 
-05. **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**[^22]
+7. **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**[^22]
     -   Leurs fournisseurs contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteur, mais celle de l’utilisateur final.
     -   Sujet connexe : _L’échelle Dalia_[^37]
     -   Voir aussi : _PressReader — Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne_[^51]
 
-06. **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
+8. **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
     -   Elles peuvent se présenter comme “coauteurs” plutôt que comme simples assistants, ce qui entretient une ambiguïté sur la titularité des droits, la part de contribution humaine et la responsabilité juridique des productions.[^35][^36]
     -   Ce glissement de vocabulaire peut servir à habituer les utilisateurs, les entreprises et les tribunaux à considérer l’IA comme une entité créative plutôt que comme un outil.
     -   Sujet connexe : _L’échelle Dalia_[^37]
 
-07. **Elles ne respectent pas les régulations**
+9. **Elles ne respectent pas les régulations**
     -   _Elles ne respectent pas ou peu le RGPD_[^23].
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
         Par exemple, l’UE ne s’est octroyé des pouvoirs extensifs via l’_IA Act_ que le 2 août 2026 alors que la première version de ChatGPT est sortie le 30 novembre 2022.[^46]
 
-08. **Elles ne sont pas juridiquement responsables de leurs failles**
+10. **Elles ne sont pas juridiquement responsables de leurs failles**
     -   Si elles se plantent, qui est responsable ? Qui paie les réparations ?
         -   Dysfonctionnements ou accidents de véhicules autonomes.[^2]
         -   Suppression accidentelle et dommageable de données informatiques.
         -   Attaque non planifiée, comme l’attaque en juillet 2026 de _[Hugging Face]_ par ChatGPT 5.6 Sol.[^47]
 
-    {{< comment >}}
-
-        Éventuellement fusionner les points 9. (incompétents), 10. (remplacement) et 11. (évaluation) ?
-
-    {{< /comment >}}
-
-09. **Elles rendent les humains incompétents et dépendants de leurs services**
+11. **Elles rendent les humains incompétents et dépendants de leurs services**
     -   Elles atrophient les compétences en facilitant l’obtention de résultats sans effort et en favorisant l’externalisation de la pensée.[^39]
     -   Si seuls les experts sont sollicités, alors les novices ne peuvent plus acquérir l’expérience nécessaire pour être experts.
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
     -   _YouTube — Micode — La fabrique à idiots_[^9]
 
-10. **Elles remplacent les humains**
+12. **Elles remplacent les humains**
     -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
     -   L’objectif affiché de certaines entreprises est même de remplacer une part majoritaire de l’activité économique humaine.[^39]
     -   Les humains qui ne maitriseront pas l’usage de l’IA seront très impactés.
@@ -113,7 +116,7 @@ twitter_card: "summary_large_image"
         _PressReader — Le Temps — Saura-t-on rappeler à l’IA qu’elle nous est redevable ?_[^24]
     -   _YouTube — Monsieur Phi — Pourquoi les mathématiciens s’inquiètent de l’avenir de leur discipline_[^20]
 
-11. **Elles sont utilisées pour évaluer le travail des humains**
+13. **Elles sont utilisées pour évaluer le travail des humains**
     -   Le travail fourni par les humains, qu’il soit assisté ou non par des agents, est de plus en plus souvent évalué par des IA, elles-mêmes assistées ou non par des humains.
     -   Conséquences délétères possibles :
         -   Lassitude et sentiment d’inutilité chez les humains : à quoi bon s’investir si une IA peut contrôler, corriger ou invalider le résultat ?
@@ -128,7 +131,7 @@ twitter_card: "summary_large_image"
         -   Mise sous surveillance permanente du travail.
         -   Effet de boucle : des IA produisent, d’autres IA évaluent, puis ces évaluations servent à entrainer de nouvelles IA.
 
-12. **Elles sont énergivores**
+14. **Elles sont énergivores**
     -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
     -   En conséquence, les fournisseurs d’IA sont en train de s’équiper de moyens de production d’énergie comme des centrales nucléaires, ce qui pose le problème connexe de la souveraineté énergétique des États.
     -   Le déploiement massif de centres de données pour l’IA crée aussi un nouvel appel d’air pour les énergies fossiles.[^39]
@@ -136,7 +139,7 @@ twitter_card: "summary_large_image"
     -   _The Shift Project — Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?_[^31]
     -   On pourrait imaginer qu’elles consomment tellement qu’on en arrive à une situation de krach énergétique.
 
-13. **Elles ont un impact environnemental conséquent**
+15. **Elles ont un impact environnemental conséquent**
     -   Mitage
     -   Pollution
     -   Bruit
@@ -144,17 +147,9 @@ twitter_card: "summary_large_image"
         -   _YouTube — Numerama — Tout le monde se trompe sur l’eau consommée par l’IA_[^64]
     -   Greenwashing[^39]
 
-14. **Elles sont vulnérables**
+16. **Elles sont vulnérables**
     -   Car elles dépendent de composants logiciels et matériels nombreux et complexes.
     -   _YouTube — Le HuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech_[^2]
-
-15. **Leur accès n’est pas garanti**
-    -   L’accès à leurs services est révocable unilatéralement par leurs fournisseurs.
-        _PressReader — Le Temps — Est-ce le bruit des bottes ou celui de l’éveil que nous entendons ?_[^25]
-
-16. **Elles peuvent changer de propriétaire**
-    -   Comme pour tout service _cloud_, lorsqu’un fournisseur d’IA change de propriétaire, les données de ses utilisateurs peuvent être transférées à l’acquéreur.
-        Cet acquéreur peut être problématique, par exemple si c’est un concurrent de l’entreprise utilisatrice.
 
 17. **Elles fragilisent les démocraties**<!-- Probablement à fusionner avec “Elles ne respectent pas les régulations” -->
     -   Elles sont détenues par des intérêts privés et se développent bien plus vite que les institutions démocratiques publiques ne peuvent réagir.[^46]
@@ -335,6 +330,12 @@ _Merriam-Webster Dictionary — Sycophant_[^63]
 _ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu_[^62]
 
     {{< comment >}}
+
+
+
+
+
+
 
 
     {{< /comment >}}
