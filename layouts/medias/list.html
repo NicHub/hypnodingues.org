@@ -42,15 +42,24 @@
       {{ end }}
     {{ end }}
 
-    <div class="medias-summary">
-      <nav class="medias-links" aria-label="Sections de la page">
-        <a href="#medias-videos">Vidéos ({{ len $hasVideo }}/{{ len $posts }})</a>
-        <a href="#medias-fichiers">Fichiers attachés ({{ len $hasAttach }}/{{ len $posts }})</a>
-        <a href="#medias-lesdeux">Vidéos &amp; Fichiers attachés ({{ len $both }}/{{ len $posts }})</a>
+    {{ $withMedia := $hasVideo }}
+    {{ range $hasAttach }}
+      {{ if not (in $withMedia .) }}
+        {{ $withMedia = $withMedia | append . }}
+      {{ end }}
+    {{ end }}
+
+    <h2 class="medias-heading">Sommaire des médias <span class="medias-heading-count">({{ len $withMedia }}/{{ len $posts }})</span></h2>
+
+    <div class="post-feed">
+      <nav class="medias-links post-grid" aria-label="Sections de la page">
+        <a href="#medias-videos"><span class="medias-link-title">Vidéos</span> <span class="medias-link-count">({{ len $hasVideo }}/{{ len $posts }})</span></a>
+        <a href="#medias-fichiers"><span class="medias-link-title">Fichiers attachés</span> <span class="medias-link-count">({{ len $hasAttach }}/{{ len $posts }})</span></a>
+        <a href="#medias-lesdeux"><span class="medias-link-title">Vidéos &amp; Fichiers attachés</span> <span class="medias-link-count">({{ len $both }}/{{ len $posts }})</span></a>
       </nav>
     </div>
 
-    <h2 class="medias-heading" id="medias-videos">Vidéos ({{ len $hasVideo }})</h2>
+    <h2 class="medias-heading" id="medias-videos">Vidéos <span class="medias-heading-count">({{ len $hasVideo }}/{{ len $posts }})</span></h2>
     <div class="post-feed">
       <div class="post-grid">
         {{ range $hasVideo }}
@@ -59,7 +68,7 @@
       </div>
     </div>
 
-    <h2 class="medias-heading" id="medias-fichiers">Fichiers attachés ({{ len $hasAttach }})</h2>
+    <h2 class="medias-heading" id="medias-fichiers">Fichiers attachés <span class="medias-heading-count">({{ len $hasAttach }}/{{ len $posts }})</span></h2>
     <div class="post-feed">
       <div class="post-grid">
         {{ range $hasAttach }}
@@ -68,7 +77,7 @@
       </div>
     </div>
 
-    <h2 class="medias-heading" id="medias-lesdeux">Vidéos &amp; Fichiers attachés ({{ len $both }})</h2>
+    <h2 class="medias-heading" id="medias-lesdeux">Vidéos &amp; Fichiers attachés <span class="medias-heading-count">({{ len $both }}/{{ len $posts }})</span></h2>
     <div class="post-feed">
       <div class="post-grid">
         {{ range $both }}
