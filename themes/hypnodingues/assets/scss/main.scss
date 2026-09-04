@@ -494,6 +494,37 @@ p.home-hero-button a:focus-visible {
     margin-top: 2rem;
 }
 
+.medias-summary {
+    color: var(--muted);
+    line-height: 1.7;
+    margin: 1.5rem 0;
+    max-width: 44rem;
+}
+
+.medias-summary p {
+    margin: 0.35rem 0;
+}
+
+.medias-links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+    margin-top: 0.85rem;
+}
+
+.medias-links a {
+    color: var(--text);
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+    text-decoration-color: var(--muted);
+}
+
+.medias-heading {
+    font-size: 1.35rem;
+    margin: 2.5rem 0 0;
+}
+
 .post-grid {
     display: grid;
     gap: 1rem;

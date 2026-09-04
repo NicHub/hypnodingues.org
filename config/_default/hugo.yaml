@@ -25,6 +25,9 @@ menu:
     - name: Catégories
       pageRef: /categories/
       weight: 30
+    - name: Médias
+      pageRef: /medias/
+      weight: 40
 
 params:
   description: Hypnodingues, archives de textes, d’hypnose, de conscience et de traversées intérieures.

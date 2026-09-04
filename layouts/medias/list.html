@@ -1,0 +1,80 @@
+{{ define "main" }}
+  <section class="page">
+    <header class="page-header">
+      <p class="eyebrow">Médias</p>
+      <h1>{{ .Title | safeHTML }}</h1>
+      {{ with .Content }}
+        <div class="dek prose">{{ . }}</div>
+      {{ end }}
+    </header>
+
+    {{ $posts := where site.RegularPages "Section" "posts" }}
+    {{ $hasVideo := slice }}
+    {{ $hasAttach := slice }}
+    {{ $both := slice }}
+    {{ range $posts }}
+      {{ $raw := .RawContent }}
+      {{ $video := or (strings.Contains $raw "<iframe") (strings.Contains $raw "<video") (strings.Contains $raw "youtube") (strings.Contains $raw "vimeo") }}
+      {{ $attach := false }}
+      {{ if .Resources }}
+        {{ range .Resources }}
+          {{ $isStyle := eq .ResourceType "resource" }}
+          {{ $image := eq .ResourceType "image" }}
+          {{ $isScss := (strings.HasSuffix .Name "style.scss") }}
+          {{ if and (or $isStyle $image) (not $isScss) }}
+            {{ $attach = true }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      {{ if not $attach }}
+        {{ if findRE `\.(pdf|zip|mp3|mp4|aac|ogg|wav|docx?|xlsx?|epub)(\s|"|\)|])` $raw }}
+          {{ $attach = true }}
+        {{ end }}
+      {{ end }}
+      {{ if $video }}
+        {{ $hasVideo = $hasVideo | append . }}
+      {{ end }}
+      {{ if $attach }}
+        {{ $hasAttach = $hasAttach | append . }}
+      {{ end }}
+      {{ if and $video $attach }}
+        {{ $both = $both | append . }}
+      {{ end }}
+    {{ end }}
+
+    <div class="medias-summary">
+      <nav class="medias-links" aria-label="Sections de la page">
+        <a href="#medias-videos">Vidéos ({{ len $hasVideo }}/{{ len $posts }})</a>
+        <a href="#medias-fichiers">Fichiers attachés ({{ len $hasAttach }}/{{ len $posts }})</a>
+        <a href="#medias-lesdeux">Vidéos &amp; Fichiers attachés ({{ len $both }}/{{ len $posts }})</a>
+      </nav>
+    </div>
+
+    <h2 class="medias-heading" id="medias-videos">Vidéos ({{ len $hasVideo }})</h2>
+    <div class="post-feed">
+      <div class="post-grid">
+        {{ range $hasVideo }}
+          {{ partial "post-card.html" . }}
+        {{ end }}
+      </div>
+    </div>
+
+    <h2 class="medias-heading" id="medias-fichiers">Fichiers attachés ({{ len $hasAttach }})</h2>
+    <div class="post-feed">
+      <div class="post-grid">
+        {{ range $hasAttach }}
+          {{ partial "post-card.html" . }}
+        {{ end }}
+      </div>
+    </div>
+
+    <h2 class="medias-heading" id="medias-lesdeux">Vidéos &amp; Fichiers attachés ({{ len $both }})</h2>
+    <div class="post-feed">
+      <div class="post-grid">
+        {{ range $both }}
+          {{ partial "post-card.html" . }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+{{ end }}
