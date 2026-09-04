@@ -170,7 +170,7 @@ twitter_card: "summary_large_image"
 19. **Elles orientent les choix**
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
     -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
-    -   Elles sont [sycophantes](#sycophante-histoire-et-definitions-du-mot)[^55][^5][^62].
+    -   Elles sont [sycophantes](#sycophante-histoire-et-définitions-du-mot)[^55][^5][^62].
     -   _Le biais cognitif que tout le monde a (sans le savoir)_[^4]
     -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais).<!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
 
