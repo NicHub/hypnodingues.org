@@ -1,7 +1,7 @@
 ---
 title: "On ne dit pas..."
 date: 2016-11-25T14:11:00+01:00
-categories: [Actu]
+categories: [Actu, Linguistique]
 author: Nico
 draft: false
 aliases:

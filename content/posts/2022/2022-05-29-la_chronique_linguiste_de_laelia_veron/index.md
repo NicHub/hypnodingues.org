@@ -1,7 +1,7 @@
 ---
 title: "La chronique linguistique de Laélia Véron"
 date: 2022-05-29T19:50:00+01:00
-categories: [À classer]
+categories: [Linguistique]
 author: Nico
 draft: false
 aliases:
