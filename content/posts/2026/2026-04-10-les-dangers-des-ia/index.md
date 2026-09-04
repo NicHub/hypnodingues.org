@@ -25,7 +25,7 @@ twitter_card: "summary_large_image"
 
     ## STYLES
 
-    -   Cet article utilise sa propre feuille de style CSS `style.css` qui surcharge les styles CSS par défaut.
+    -   Cet article utilise sa propre feuille de style CSS, `style.css`, qui surcharge les styles par défaut.
 
     ## !!! ORDRE D’APPARITION DES LIENS EN PIED DE PAGE
 

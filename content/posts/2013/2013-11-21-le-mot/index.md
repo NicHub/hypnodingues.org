@@ -12,7 +12,7 @@ aliases:
 
     ## STYLES
 
-    -   Cet article utilise sa propre feuille de style CSS `style.css` qui surcharge les styles CSS par défaut.
+    -   Cet article utilise sa propre feuille de style CSS, `style.css`, qui surcharge les styles par défaut.
 
 {{< /comment >}}
 
