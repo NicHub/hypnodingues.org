@@ -61,6 +61,7 @@ twitter_card: "summary_large_image"
     -   Ce qui nécessite des procédures de vérification qui ne sont pas toujours mises en place.
     -   De plus, si les adultes d’aujourd’hui qui ont été formés sans les IA peuvent potentiellement détecter leurs erreurs, est-ce que ce sera le cas des adultes de demain qui se forment aujourd’hui avec elles ?
     -   _YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome... qui tourne en rond_[^58]
+    -   _YouTube — Le Parisien — Un taxi autonome incendié en pleine rue à San Francisco_[^59]
 
 4. **Elles sont biaisées**
     -   Il faut vérifier qu’elles ne préfèrent pas une catégorie à une autre, par exemple une catégorie raciale ou de genre.[^55]
@@ -276,26 +277,12 @@ twitter_card: "summary_large_image"
 
 <img src="./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp" alt="Calvin and Hobbes: Leave Math to the Machines" style="width: 50%;">
 
-## Notes
-
-### IA générative : le guide ultime du hater anti-ChatGPT
+## À lire aussi
 
 -   _Mediapart — IA générative, le guide ultime du hater anti-ChatGPT_[^13]
-
-### Controverses
-
+-   _Wikipédia — Vibe coding_[^16]
 -   _Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs les déclarations de Luc Julia_[^14]
 -   _Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025_[^15]
--   _YouTube — Le Parisien —  Un taxi autonome incendié en pleine rue à San Francisco_[^59]
-
-### Trends
-
--   _Wikipédia — Vibe coding_[^16]
-
-### Hashtags
-
--   #aiethics
--   #law
 
 {{< comment >}}
 
@@ -419,7 +406,7 @@ twitter_card: "summary_large_image"
 
 [^58]: [YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome... qui tourne en rond](https://www.youtube.com/watch?v=QuF3GcXKYpo)
 
-[^59]: [YouTube — Le Parisien —  Un taxi autonome incendié en pleine rue à San Francisco](https://www.youtube.com/watch?v=Uvr5CNiwKEc)
+[^59]: [YouTube — Le Parisien — Un taxi autonome incendié en pleine rue à San Francisco](https://www.youtube.com/watch?v=Uvr5CNiwKEc)
 
 [^60]: [YouTube — Forbes — AI Companies Are Buying—And Destroying—Antique Books. Here’s Why.](https://www.youtube.com/watch?v=LAslxexwhOU)
 
