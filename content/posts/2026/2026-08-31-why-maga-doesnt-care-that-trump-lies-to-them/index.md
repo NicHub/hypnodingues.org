@@ -26,7 +26,7 @@ draft: false
 
 ## Keywords
 
-MAGA, kayfabe[^1], heel, unstoppable, victim
+MAGA, kayfabe[^1][^6], heel, unstoppable, victim
 
 ## Transcript
 
@@ -59,3 +59,5 @@ Our country is not professional wrestling, and anyone willing to burn it down fo
 [^4]: On the _heel_ — the wrestling villain who is simultaneously dominant and aggrieved — see Moon, D. S., _Political Studies Review_, 2022; and Bean, L., “MAGA Loves The Show”, _Lucas Bean Daily_, 31 August 2026.
 
 [^5]: On why “facts bounce off” an electorate that consumes politics as a show — and why a corrected promise only explains a trick to people who paid to watch it performed — see Bean, L., “MAGA Loves The Show”, _Lucas Bean Daily_, 31 August 2026.
+
+[^6]: [Wikipedia — Kayfabe](https://fr.wikipedia.org/wiki/Kayfabe)
