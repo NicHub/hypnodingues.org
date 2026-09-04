@@ -49,11 +49,6 @@
     {{ with resources.Get "css/main.css" | minify | fingerprint }}
       <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
     {{ end }}
-    {{ with .Resources.GetMatch "style.scss" }}
-      {{ with . | toCSS (dict "transpiler" "dartsass") | minify | fingerprint }}
-        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
-      {{ end }}
-    {{ end }}
     {{ with resources.Get "js/main.js" | minify | fingerprint }}
       <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
     {{ end }}

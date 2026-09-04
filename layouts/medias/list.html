@@ -17,7 +17,7 @@
       {{ $attach := false }}
       {{ if .Resources }}
         {{ range .Resources }}
-          {{ if and (or (eq .ResourceType "resource") (eq .ResourceType "image")) (not (strings.HasSuffix .Name "style.scss")) }}
+          {{ if and (or (eq .ResourceType "resource") (eq .ResourceType "image")) (not (strings.HasSuffix .Name "style.css")) }}
             {{ $attach = true }}
           {{ end }}
         {{ end }}

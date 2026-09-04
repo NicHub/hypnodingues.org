@@ -1,0 +1,130 @@
+.mooc-search {
+  --panel: #f6f3ed;
+  --panel-strong: #ebe3d4;
+  --ink: #1c1a17;
+  --muted: #6a6258;
+  --line: #d9ccb8;
+  --accent: #0f766e;
+  --accent-strong: #115e59;
+  color: var(--ink);
+  margin: 2rem 0 3rem;
+}
+
+.mooc-search__intro {
+  margin-bottom: 1.5rem;
+}
+
+.mooc-search__panel {
+  background: linear-gradient(135deg, #f7f1e7 0%, #f1ede6 100%);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  box-shadow: 0 20px 50px rgba(28, 26, 23, 0.08);
+  padding: 1.25rem;
+}
+
+.mooc-search__form {
+  align-items: center;
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: minmax(0, 1fr) auto;
+}
+
+.mooc-search__input,
+.mooc-search__button {
+  font: inherit;
+}
+
+.mooc-search__input {
+  background: #fffdf8;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  color: var(--ink);
+  min-width: 0;
+  padding: 0.9rem 1rem;
+}
+
+.mooc-search__button {
+  background: var(--accent);
+  border: 0;
+  border-radius: 12px;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: 700;
+  padding: 0.9rem 1.2rem;
+}
+
+.mooc-search__button:hover,
+.mooc-search__button:focus-visible {
+  background: var(--accent-strong);
+}
+
+.mooc-search__hint {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0.85rem 0 0;
+}
+
+.mooc-search__results {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  margin-top: 1.5rem;
+}
+
+.mooc-search__card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  display: grid;
+  gap: 0.65rem;
+  padding: 1rem;
+}
+
+.mooc-search__card h3 {
+  font-size: 1.05rem;
+  margin: 0;
+}
+
+.mooc-search__meta {
+  color: var(--muted);
+  font-size: 0.92rem;
+  margin: 0;
+}
+
+.mooc-search__meta-link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: rgba(106, 98, 88, 0.45);
+  word-break: break-word;
+}
+
+.mooc-search__meta-link:hover,
+.mooc-search__meta-link:focus-visible {
+  background: transparent;
+  color: var(--accent-strong);
+  text-decoration-color: currentColor;
+}
+
+.mooc-search__actions {
+  display: block;
+}
+
+.mooc-search__search-link {
+  color: var(--accent-strong);
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: rgba(17, 94, 89, 0.35);
+}
+
+.mooc-search__search-link:hover,
+.mooc-search__search-link:focus-visible {
+  background: transparent;
+  color: #0b3f3b;
+  text-decoration-color: currentColor;
+}
+
+@media (max-width: 640px) {
+  .mooc-search__form {
+    grid-template-columns: 1fr;
+  }
+}

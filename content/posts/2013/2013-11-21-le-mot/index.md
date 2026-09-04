@@ -8,7 +8,15 @@ aliases:
   - /textes/le-mot/
 ---
 
-Braves gens, prenez garde aux choses que vous dites !
+{{< comment >}}
+
+    ## STYLES
+
+    -   Cet article utilise sa propre feuille de style CSS `style.css` qui surcharge les styles CSS par défaut.
+
+{{< /comment >}}
+
+Braves gens, prenez garde aux choses que vous dites !
 Tout peut sortir d’un mot qu’en passant vous perdîtes ;
 Tout, la haine et le deuil !
 
