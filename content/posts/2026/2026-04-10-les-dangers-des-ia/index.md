@@ -243,6 +243,13 @@ twitter_card: "summary_large_image"
 30. **On ne connait pas de moyen pour déterminer si elles sont conscientes**
     -   _YouTube — Robert Miles AI Safety — The AI Consciousness Question is So Annoying_[^34]
     -   _YouTube — Fabien Olicard — L’expérience de la chambre chinoise_[^40]
+    -   _YouTube — Kevin Finel — Personne ne sait pourquoi tu es conscient_[^67]
+        -   _Wikipédia — Problème difficile de la conscience_[^68]
+        -   Dualisme
+        -   Matérialisme
+        -   Panpsychisme
+        -   Computationnalisme : La conscience est un calcul
+        -   Mystérianisme : Colin Mc Ginn
 
 31. **Elles présentent des enjeux éthiques nombreux**
     -   _Wikipédia — Éthique de l’intelligence artificielle_[^38]
@@ -465,3 +472,7 @@ _ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu_[^62
 [^65]: [RTS — L’IA de Google est-elle raciste ? Et comment s’en protéger ?](https://www.rts.ch/play/tv/fastcheck/video/lia-de-google-est-elle-raciste--et-comment-sen-proteger-?urn=urn:rts:video:dd1013b9-cb0d-341d-be26-f9f81d869bf7)
 
 [^66]: [Infomaniak inaugure un data center révolutionnaire qui revalorise 100% de son énergie pour chauffer des bâtiments](https://news.infomaniak.com/infomaniak-inaugure-un-data-center-revolutionnaire-qui-revalorise-100-de-son-energie-pour-chauffer-des-batiments/)
+
+[^67]: [YouTube — Kevin Finel — Personne ne sait pourquoi tu es conscient](https://www.youtube.com/watch?v=Q_uLiE5YzOg&t=1408)
+
+[^68]: [Wikipédia — Problème difficile de la conscience](https://fr.wikipedia.org/wiki/Probl%C3%A8me_difficile_de_la_conscience)
