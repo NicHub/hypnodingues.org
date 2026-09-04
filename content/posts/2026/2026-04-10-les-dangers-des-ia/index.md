@@ -37,10 +37,6 @@ twitter_card: "summary_large_image"
     -   https://actu.epfl.ch/news/l-epfl-lance-le-premier-llm-medical-entierement-ou/
     -   https://romande-ia.ch/
     -   https://www.ictjournal.ch/news/2025-07-08/ffd-romandie-lance-deux-formations-certifiees-en-ia-et-e-commerce
-    -   Fransosiche — Comment retrouver n’importe qui sur Internet ? (Sensibilisation OSINT)
-        https://www.youtube.com/watch?v=VlTn5AB5SJE
-    -   Micode — Comment retrouver n’importe qui sur Internet ?
-        https://www.youtube.com/watch?v=4daO2QM12WY
 
 {{< /comment >}}
 
@@ -186,6 +182,8 @@ twitter_card: "summary_large_image"
         -   assurances (maladie, immobilières…)
         -   prestataires financiers (banques, créanciers, crédit…)
     -   Obligation de répondre à des demandes d’informations sensibles détenues par des IA : un tiers pourrait exiger un bilan établi par des IA qui ont accès à des données pertinentes et potentiellement sensibles. Par exemple une assurance pourrait exiger un bilan de santé par ce biais pour compléter une analyse réalisée par un·e médecin.
+    -   _YouTube — Fransosiche — Comment retrouver n’importe qui sur Internet ? (Sensibilisation OSINT)_[^70]
+    -   _YouTube — Micode — Comment retrouver n’importe qui sur Internet ?_[^71]
 
 22. **Elles sont hackées**
     -   Requêtes DAN (Do Anything Now).
@@ -474,3 +472,7 @@ twitter_card: "summary_large_image"
     >
     > _ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu_[^62]
     >
+
+[^70]: [YouTube — Fransosiche — Comment retrouver n’importe qui sur Internet ? (Sensibilisation OSINT)](https://www.youtube.com/watch?v=VlTn5AB5SJE)
+
+[^71]: [YouTube — Micode — Comment retrouver n’importe qui sur Internet ?](https://www.youtube.com/watch?v=4daO2QM12WY)
