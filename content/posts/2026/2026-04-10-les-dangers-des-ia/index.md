@@ -463,3 +463,27 @@ twitter_card: "summary_large_image"
 [^70]: [YouTube — Fransosiche — Comment retrouver n’importe qui sur Internet ? (Sensibilisation OSINT)](https://www.youtube.com/watch?v=VlTn5AB5SJE)
 
 [^71]: [YouTube — Micode — Comment retrouver n’importe qui sur Internet ?](https://www.youtube.com/watch?v=4daO2QM12WY)
+
+{{< comment >}}
+
+    [^72]: [Le Temps — FATI MANSOUR — 04 Septembre 2026 — La Suisse doit-elle ban­nir l’intel­li­gence arti­fi­cielle des déci­sions de jus­tice?](https://pressreader.com/article/281629607141839)
+
+    Voici les **points de danger des IA** identifiés dans cet article du Temps :
+
+    1. **Biais de recherche et reproduction d'erreurs passées** — L'IA entraînée sur des décisions historiques peut reproduire et amplifier les préjugés et erreurs du passé
+
+    2. **Violation des droits fondamentaux** — Risques de non-discrimination, de neutralité compromise, d'indépendance menacée et de protection des données insuffisante
+
+    3. **Perte de légitimité et d'acceptabilité sociale** — Une décision sans appropriation réelle par un magistrat perdrait sa légitimité, son acceptabilité sociale et politique, et sa capacité à apaiser la société
+
+    4. **Délégation inappropriée de la décision** — Le risque que le processus décisionnel soit réellement délégué à l'IA plutôt que d'en être une simple assistance
+
+    5. **Manque de transparence et de cadre légal** — Le flou existant sur les limites à respecter et l'insuffisance des bonnes pratiques pour prévenir les abus
+
+    6. **Automatisation excessive** — La perspective d'un "verdict robotisé" qui échappe au contrôle humain
+
+    7. **Ambiguïté du concept « d'aide à la décision »** — Le concept est trop vague et recèle des dangers importants en l'absence de cadre clair
+
+    Ces dangers justifient la demande de Mahaim : créer des dispositions légales pour garantir que le processus décisionnel **demeure en mains des magistrats** et reste étanche à l'influence de l'IA.
+
+{{</ comment >}}
