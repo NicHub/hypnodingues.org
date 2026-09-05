@@ -2,8 +2,8 @@ locale: fr-CH
 title: Hypnodingues
 theme: hypnodingues
 enableRobotsTXT: true
-publishDir: .hugo/public
-resourceDir: .hugo/resources
+publishDir: .hugo_nokdrive/public
+resourceDir: .hugo_nokdrive/resources
 
 pagination:
     pagerSize: 10000

@@ -1,8 +1,7 @@
 # ---- Hugo ----
 /public/
 /resources/
-/.hugo/
-/.hugo_build.lock
+/.hugo*
 
 # ---- OS ----
 .DS_Store
