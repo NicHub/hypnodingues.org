@@ -322,7 +322,7 @@ twitter_card: "summary_large_image"
 
 [^17]: [Wikipédia — OSINT](https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes)
 
-[^18]: [Wikipédia — Ingénierie sociale](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l'information))
+[^18]: [Wikipédia — Ingénierie sociale](https://w.wiki/UDc4)
 
 [^19]: [RTS — L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans](https://www.rts.ch/play/tv/-/video/-?urn=urn:rts:video:05195471-4c48-3f4a-bb2b-1a51139a8ca1)
 
@@ -470,20 +470,20 @@ twitter_card: "summary_large_image"
 
     Voici les **points de danger des IA** identifiés dans cet article du Temps :
 
-    1. **Biais de recherche et reproduction d'erreurs passées** — L'IA entraînée sur des décisions historiques peut reproduire et amplifier les préjugés et erreurs du passé
+    1. **Biais de recherche et reproduction d’erreurs passées** — L’IA entraînée sur des décisions historiques peut reproduire et amplifier les préjugés et erreurs du passé
 
-    2. **Violation des droits fondamentaux** — Risques de non-discrimination, de neutralité compromise, d'indépendance menacée et de protection des données insuffisante
+    2. **Violation des droits fondamentaux** — Risques de non-discrimination, de neutralité compromise, d’indépendance menacée et de protection des données insuffisante
 
-    3. **Perte de légitimité et d'acceptabilité sociale** — Une décision sans appropriation réelle par un magistrat perdrait sa légitimité, son acceptabilité sociale et politique, et sa capacité à apaiser la société
+    3. **Perte de légitimité et d’acceptabilité sociale** — Une décision sans appropriation réelle par un magistrat perdrait sa légitimité, son acceptabilité sociale et politique, et sa capacité à apaiser la société
 
-    4. **Délégation inappropriée de la décision** — Le risque que le processus décisionnel soit réellement délégué à l'IA plutôt que d'en être une simple assistance
+    4. **Délégation inappropriée de la décision** — Le risque que le processus décisionnel soit réellement délégué à l’IA plutôt que d’en être une simple assistance
 
-    5. **Manque de transparence et de cadre légal** — Le flou existant sur les limites à respecter et l'insuffisance des bonnes pratiques pour prévenir les abus
+    5. **Manque de transparence et de cadre légal** — Le flou existant sur les limites à respecter et l’insuffisance des bonnes pratiques pour prévenir les abus
 
-    6. **Automatisation excessive** — La perspective d'un "verdict robotisé" qui échappe au contrôle humain
+    6. **Automatisation excessive** — La perspective d’un "verdict robotisé" qui échappe au contrôle humain
 
-    7. **Ambiguïté du concept « d'aide à la décision »** — Le concept est trop vague et recèle des dangers importants en l'absence de cadre clair
+    7. **Ambiguïté du concept « d’aide à la décision »** — Le concept est trop vague et recèle des dangers importants en l’absence de cadre clair
 
-    Ces dangers justifient la demande de Mahaim : créer des dispositions légales pour garantir que le processus décisionnel **demeure en mains des magistrats** et reste étanche à l'influence de l'IA.
+    Ces dangers justifient la demande de Mahaim : créer des dispositions légales pour garantir que le processus décisionnel **demeure en mains des magistrats** et reste étanche à l’influence de l’IA.
 
 {{</ comment >}}
