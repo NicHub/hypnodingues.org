@@ -6,6 +6,18 @@ author: Nico
 draft: false
 ---
 
+## En bref
+
+Les MAGA croient au _Kayfabe_ de Trump, c’est-à-dire le type de mise en scène issue du monde du catch.
+
+Ça n’a pas besoin d’être vrai, mais ça doit être prenant.
+
+Le méchant est appelé _heel_ au catch, et il est à la fois inarrêtable et victime.
+
+They were voting for the show. They were voting for their favorite pro wrestler.[^3]
+
+##  Video
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yhtHV8HNaq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Speaker
@@ -46,7 +58,7 @@ Our country is not professional wrestling, and anyone willing to burn it down fo
 
 ## Sources
 
--   Moon, D. S. “Kayfabe, Smartdom and Marking Out: Can Pro-Wrestling Help Us Understand Donald Trump?”, _Political Studies Review_, vol. 20, no. 1, 2022, pp. 47–61.
+-   Moon, D. S. “Kayfabe, Smartdom and Marking Out: Can Pro-Wrestling Help Us Understand Donald Trump?”, _Political Studies Review_, vol. 20, no. 1, 2022, pp. 47–61. [https://doi.org/10.1177/1478929920963827](https://doi.org/10.1177/1478929920963827)
 -   Moon, D. S. “Sad but true: Donald Trump really did wrestle his way into the White House”, _The Guardian_, 2024.
 -   Bean, Lucas. “MAGA Loves The Show — They Know It’s Fake. That Is the Whole Point.”, _Lucas Bean Daily_, 31 August 2026. <https://lucasbean.substack.com/p/maga-loves-the-show>
 
@@ -60,4 +72,6 @@ Our country is not professional wrestling, and anyone willing to burn it down fo
 
 [^5]: On why “facts bounce off” an electorate that consumes politics as a show — and why a corrected promise only explains a trick to people who paid to watch it performed — see Bean, L., “MAGA Loves The Show”, _Lucas Bean Daily_, 31 August 2026.
 
-[^6]: [Wikipedia — Kayfabe](https://fr.wikipedia.org/wiki/Kayfabe)
+[^6]:
+    [Kayfabe — Wikipédia](https://fr.wikipedia.org/wiki/Kayfabe)
+    <br>[kayfabe — Wiktionnaire](https://fr.wiktionary.org/wiki/kayfabe)
