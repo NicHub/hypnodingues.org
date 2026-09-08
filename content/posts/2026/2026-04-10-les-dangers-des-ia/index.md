@@ -487,3 +487,11 @@ twitter_card: "summary_large_image"
     Ces dangers justifient la demande de Mahaim : créer des dispositions légales pour garantir que le processus décisionnel **demeure en mains des magistrats** et reste étanche à l’influence de l’IA.
 
 {{</ comment >}}
+
+{{< comment >}}
+
+    https://fr.wikipedia.org/wiki/Captologie
+    source: https://www.youtube.com/watch?v=hts_wKVINEk
+
+{{</ comment >}}
+
