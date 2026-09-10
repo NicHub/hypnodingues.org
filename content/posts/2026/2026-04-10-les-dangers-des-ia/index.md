@@ -491,7 +491,11 @@ twitter_card: "summary_large_image"
 {{< comment >}}
 
     https://fr.wikipedia.org/wiki/Captologie
-    source: https://www.youtube.com/watch?v=hts_wKVINEk
+
+    -   source:
+        YouTube — Mat Kaiz — Comment Devenir Accro à la Vie Sans Téléphone
+        https://www.youtube.com/watch?v=hts_wKVINEk
 
 {{</ comment >}}
 
+❊
