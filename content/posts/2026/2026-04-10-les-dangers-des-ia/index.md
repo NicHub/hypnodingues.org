@@ -50,7 +50,7 @@ twitter_card: "summary_large_image"
 
 1. **Elles n’offrent aucune garantie d’accès à leurs services**
     -   L’accès à leurs services est révocable unilatéralement et subitement par leurs fournisseurs ou leur régulateur.
-    -   Le 13 juin 2026, Washing­ton a ordonné à Anthro­pic de cou­per l’accès à ses modèles de pointe – Mythos et Fable – à toute per­sonne de natio­na­lité étran­gère. Y com­pris ses propres employés. Du jour au len­de­main, des cen­taines de mil­lions d’uti­li­sa­teurs ont perdu un outil de tra­vail, sans avoir pris part à aucun débat. «Res­sor­tis­sant étran­ger» est devenu une caté­go­rie de confor­mité pour accé­der à une machine à pen­ser.
+    -   Le 13 juin 2026, Washington a ordonné à Anthropic de couper l’accès à ses modèles de pointe – Mythos et Fable – à toute personne de nationalité étrangère. Y compris ses propres employés. Du jour au lendemain, des centaines de millions d’utilisateurs ont perdu un outil de travail, sans avoir pris part à aucun débat. « Ressortissant étranger » est devenu une catégorie de conformité pour accéder à une machine à penser.
         _PressReader — Le Temps — Est-ce le bruit des bottes ou celui de l’éveil que nous entendons ?_[^25]
 
 2. **Elles peuvent changer de propriétaire**
@@ -60,11 +60,11 @@ twitter_card: "summary_large_image"
 3. **Elles sont faillibles**
     -   Ce qui nécessite des procédures de vérification qui ne sont pas toujours mises en place.
     -   De plus, si les adultes d’aujourd’hui qui ont été formés sans les IA peuvent potentiellement détecter leurs erreurs, est-ce que ce sera le cas des adultes de demain qui se forment aujourd’hui avec elles ?
-    -   _YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome... qui tourne en rond_[^58]
+    -   _YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome… qui tourne en rond_[^58]
 
 4. **Elles sont biaisées**
     -   Il faut vérifier qu’elles ne préfèrent pas une catégorie à une autre, par exemple une catégorie raciale ou de genre.[^55]
-    -   _RTS — L’IA de Google est-elle raciste ? Et comment s’en protéger ?_[^65]
+    -   _RTS — L’IA de Google est-elle raciste ? Et comment s’en protéger ?_[^65]
 
 5. **Elles induisent en erreur**
     -   Avec des _deepfakes_ très réalistes.
@@ -78,7 +78,7 @@ twitter_card: "summary_large_image"
 7. **Elles exploitent des œuvres sur lesquelles elles n’ont pas de droits**[^22]
     -   Leurs fournisseurs contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteur, mais celle de l’utilisateur final.
     -   Sujet connexe : _L’échelle Dalia_[^37]
-    -   Voir aussi : _PressReader — Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne_[^51]
+    -   Voir aussi : _PressReader — Le Temps — 10 aout 2026 — Le marquage obligatoire de l’IA, et comment il fonctionne_[^51]
 
 8. **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
     -   Elles peuvent se présenter comme “coauteurs” plutôt que comme simples assistants, ce qui entretient une ambiguïté sur la titularité des droits, la part de contribution humaine et la responsabilité juridique des productions.[^35][^36]
@@ -88,7 +88,7 @@ twitter_card: "summary_large_image"
 9. **Elles ne respectent pas les régulations**
     -   _Elles ne respectent pas ou peu le RGPD_[^23].
     -   De plus, le développement du cadre légal est beaucoup plus lent que le développement de la technologie.
-        Par exemple, l’UE ne s’est octroyé des pouvoirs extensifs via l’_IA Act_ que le 2 août 2026 alors que la première version de ChatGPT est sortie le 30 novembre 2022.[^46]
+        Par exemple, l’UE ne s’est octroyé des pouvoirs extensifs via l’_IA Act_ que le 2 aout 2026 alors que la première version de ChatGPT est sortie le 30 novembre 2022.[^46]
 
 10. **Elles ne sont pas juridiquement responsables de leurs failles**
     -   Si elles se plantent, qui est responsable ? Qui paie les réparations ?
@@ -110,7 +110,7 @@ twitter_card: "summary_large_image"
         > _— Karim Lakhani, Harvard Business School Professor_
     -   _RTS — L’IA résout un problème sur lequel butaient les mathématiciens depuis 80 ans_[^19]
     -   Elon Musk, Sam Altman et quelques autres ont même proposé d’instaurer un revenu universel.
-        _PressReader — Le Temps — Saura-t-on rappeler à l’IA qu’elle nous est redevable ?_[^24]
+       _PressReader — Le Temps — Saura-t-on rappeler à l’IA qu’elle nous est redevable ?_[^24]
     -   _YouTube — Monsieur Phi — Pourquoi les mathématiciens s’inquiètent de l’avenir de leur discipline_[^20]
 
 13. **Elles sont utilisées pour évaluer le travail des humains**
@@ -154,8 +154,8 @@ twitter_card: "summary_large_image"
     -   Concentration de pouvoirs[^32].
     -   Elles favorisent la convergence des intérêts des grandes entreprises technologiques, des industries des énergies fossiles et des pouvoirs publics, au détriment des régulations démocratiques.[^39]
 
-18. **Elles coûtent très cher**
-    -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs coûts sur les tarifs de leurs abonnements.
+18. **Elles coutent très cher**
+    -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs couts sur les tarifs de leurs abonnements.
         Ce sont donc les informations partagées par les utilisateurs qui sont monétisées.
     -   Les fournisseurs peuvent aussi chercher à faire acheter leurs technologies par les États, y compris lorsque les bénéfices promis ne sont pas démontrés.[^39]
     -   _Le Temps — « On sort de l’ère du repas gratuit »_[^27]
@@ -208,7 +208,7 @@ twitter_card: "summary_large_image"
         -   `#Fahrenheit451`
 
 25. **Elles ne respectent pas le droit à l’oubli**
-    -   ...<!-- Cryptomnésie ou pas ? Je ne me souviens plus d’où m’est venue cette idée du droit à l’oubli 🤔 -->
+    -   …<!-- Cryptomnésie ou pas ? Je ne me souviens plus d’où m’est venue cette idée du droit à l’oubli 🤔 -->
 
 26. **Elles saturent les capacités cognitives**
     -   En créant un appel d’air de tâches à exécuter.
@@ -216,7 +216,7 @@ twitter_card: "summary_large_image"
         -   En réduisant considérablement le temps et le cout de réalisation, les IA rendent possibles de nombreux projets auparavant abandonnés ou reportés : les idées et les tâches se multiplient, tandis que le goulet d’étranglement se déplace de la réalisation technique vers la capacité humaine à sélectionner, coordonner et interrompre les projets. Ce passage incessant d’un projet à l’autre peut entrainer une surcharge mentale, effacer le temps personnel et conduire au burnout.[^43]
     -   _YouTube — France Info — L’IA sature nos capacités cognitives_[^10]
         -   En facilitant la production de contenu, les IA augmentent la quantité d’informations à traiter plutôt que de la réduire.
-        -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroît la charge mentale.
+        -   Les IA favorisent le multitâche, alors que le cerveau humain n’est pas conçu pour cela, ce qui accroit la charge mentale.
     -   Elles induisent une fatigue décisionnelle.
         -   _YouTube — Damien Maya — Pourquoi choisir est devenu une torture psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
@@ -378,7 +378,7 @@ twitter_card: "summary_large_image"
 
 [^45]: [The Guardian — Guilty until proven innocent: shoppers falsely identified by facial recognition system struggle to clear their names](https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name)
 
-[^46]: [RTS — Droit d’enquête, amendes salées, marquage des contenus: les nouveaux pouvoirs de l’UE face à l’IA](https://www.rts.ch/info/sciences-tech/2026/article/regulation-de-l-ia-l-ue-se-dote-de-nouveaux-pouvoirs-inedits-29318567.html)
+[^46]: [RTS — Droit d’enquête, amendes salées, marquage des contenus : les nouveaux pouvoirs de l’UE face à l’IA](https://www.rts.ch/info/sciences-tech/2026/article/regulation-de-l-ia-l-ue-se-dote-de-nouveaux-pouvoirs-inedits-29318567.html)
 
 [^47]: [RTS — Un piratage « sans précédent » d’une plateforme par les agents d’IA d’OpenAI](https://www.rts.ch/info/sciences-tech/2026/article/openai-ses-modeles-d-ia-piratent-hugging-face-de-maniere-autonome-29309764.html)
 
@@ -386,11 +386,11 @@ twitter_card: "summary_large_image"
 
 [^48]: [YouTube — Holy Schmidt! — The Verification Step That Stops 99% of Voice Impersonation Scams](https://www.youtube.com/watch?v=XITQ5aVFhL8)
 
-[^49]: [YouTube —  Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization](https://www.youtube.com/watch?v=bZL1NsrfuYE)
+[^49]: [YouTube — Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization](https://www.youtube.com/watch?v=bZL1NsrfuYE)
 
 [^50]: [RTS — De mystérieuses razzias dans les librairies d’occasion allemandes soupçonnées d’être liées à l’IA](https://www.rts.ch/info/monde/2026/article/allemagne-des-livres-d-occasion-achetes-en-masse-pour-l-ia-29322111.html)
 
-[^51]: [PressReader — Le Temps — 10 aout 2026 — Le mar­quage obli­ga­toire de l’IA, et com­ment il fonc­tionne](https://pressReader.com/article/281646786957114)
+[^51]: [PressReader — Le Temps — 10 aout 2026 — Le marquage obligatoire de l’IA, et comment il fonctionne](https://pressReader.com/article/281646786957114)
 
 [^52]: [YouTube — ARTE — Bientôt, les enfants des riches auront un ADN “supérieur” ?](https://www.youtube.com/watch?v=wcJWi43or6k)
 
@@ -404,13 +404,13 @@ twitter_card: "summary_large_image"
 
 [^57]: [Stanford Encyclopedia of Philosophy — Artificial Intelligence](https://plato.stanford.edu/entries/artificial-intelligence/)
 
-[^58]: [YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome... qui tourne en rond](https://www.youtube.com/watch?v=QuF3GcXKYpo)
+[^58]: [YouTube — Le Parisien — Cet Américain est coincé dans une voiture autonome… qui tourne en rond](https://www.youtube.com/watch?v=QuF3GcXKYpo)
 
 [^59]: [YouTube — Le Parisien — Un taxi autonome incendié en pleine rue à San Francisco](https://www.youtube.com/watch?v=Uvr5CNiwKEc)
 
 [^60]: [YouTube — Forbes — AI Companies Are Buying—And Destroying—Antique Books. Here’s Why.](https://www.youtube.com/watch?v=LAslxexwhOU)
 
-[^61]: [YouTube — ARTE — Les livres disparaissent à cause de l’IA ?](https://www.youtube.com/watch?v=SjpBoHBlPlk)
+[^61]: [YouTube — ARTE — Les livres disparaissent à cause de l’IA ?](https://www.youtube.com/watch?v=SjpBoHBlPlk)
 
 [^62]: [ChatGPT — Analyse l’usage du mot “sycophante” en français soutenu](https://chatgpt.com/share/6a8c2dd7-e6d4-83eb-9c99-9836fbe3d2cd)
 
@@ -418,9 +418,9 @@ twitter_card: "summary_large_image"
 
 [^64]: [YouTube — Numerama — Tout le monde se trompe sur l’eau consommée par l’IA](https://www.youtube.com/watch?v=Qddzc5iqP5U)
 
-[^65]: [RTS — L’IA de Google est-elle raciste ? Et comment s’en protéger ?](https://www.rts.ch/play/tv/fastcheck/video/lia-de-google-est-elle-raciste--et-comment-sen-proteger-?urn=urn:rts:video:dd1013b9-cb0d-341d-be26-f9f81d869bf7)
+[^65]: [RTS — L’IA de Google est-elle raciste ? Et comment s’en protéger ?](https://www.rts.ch/play/tv/fastcheck/video/lia-de-google-est-elle-raciste--et-comment-sen-proteger-?urn=urn:rts:video:dd1013b9-cb0d-341d-be26-f9f81d869bf7)
 
-[^66]: [Infomaniak inaugure un data center révolutionnaire qui revalorise 100% de son énergie pour chauffer des bâtiments](https://news.infomaniak.com/infomaniak-inaugure-un-data-center-revolutionnaire-qui-revalorise-100-de-son-energie-pour-chauffer-des-batiments/)
+[^66]: [Infomaniak inaugure un data center révolutionnaire qui revalorise 100 % de son énergie pour chauffer des bâtiments](https://news.infomaniak.com/infomaniak-inaugure-un-data-center-revolutionnaire-qui-revalorise-100-de-son-energie-pour-chauffer-des-batiments/)
 
 [^67]: [YouTube — Kevin Finel — Personne ne sait pourquoi tu es conscient](https://www.youtube.com/watch?v=Q_uLiE5YzOg&t=1408)
 
@@ -466,11 +466,11 @@ twitter_card: "summary_large_image"
 
 {{< comment >}}
 
-    [^72]: [Le Temps — FATI MANSOUR — 04 Septembre 2026 — La Suisse doit-elle ban­nir l’intel­li­gence arti­fi­cielle des déci­sions de jus­tice?](https://pressreader.com/article/281629607141839)
+    [^72]: [Le Temps — FATI MANSOUR — 04 Septembre 2026 — La Suisse doit-elle bannir l’intelligence artificielle des décisions de justice ?](https://pressreader.com/article/281629607141839)
 
-    Voici les **points de danger des IA** identifiés dans cet article du Temps :
+    Voici les **points de danger des IA** identifiés dans cet article du Temps :
 
-    1. **Biais de recherche et reproduction d’erreurs passées** — L’IA entraînée sur des décisions historiques peut reproduire et amplifier les préjugés et erreurs du passé
+    1. **Biais de recherche et reproduction d’erreurs passées** — L’IA entrainée sur des décisions historiques peut reproduire et amplifier les préjugés et erreurs du passé
 
     2. **Violation des droits fondamentaux** — Risques de non-discrimination, de neutralité compromise, d’indépendance menacée et de protection des données insuffisante
 
@@ -480,11 +480,11 @@ twitter_card: "summary_large_image"
 
     5. **Manque de transparence et de cadre légal** — Le flou existant sur les limites à respecter et l’insuffisance des bonnes pratiques pour prévenir les abus
 
-    6. **Automatisation excessive** — La perspective d’un "verdict robotisé" qui échappe au contrôle humain
+    6. **Automatisation excessive** — La perspective d’un “verdict robotisé” qui échappe au contrôle humain
 
-    7. **Ambiguïté du concept « d’aide à la décision »** — Le concept est trop vague et recèle des dangers importants en l’absence de cadre clair
+    7. **Ambiguïté du concept « d’aide à la décision »** — Le concept est trop vague et recèle des dangers importants en l’absence de cadre clair
 
-    Ces dangers justifient la demande de Mahaim : créer des dispositions légales pour garantir que le processus décisionnel **demeure en mains des magistrats** et reste étanche à l’influence de l’IA.
+    Ces dangers justifient la demande de Mahaim : créer des dispositions légales pour garantir que le processus décisionnel **demeure en mains des magistrats** et reste étanche à l’influence de l’IA.
 
 {{</ comment >}}
 
@@ -492,10 +492,10 @@ twitter_card: "summary_large_image"
 
     https://fr.wikipedia.org/wiki/Captologie
 
-    -   source:
+    -   source :
         YouTube — Mat Kaiz — Comment Devenir Accro à la Vie Sans Téléphone
         https://www.youtube.com/watch?v=hts_wKVINEk
 
 {{</ comment >}}
 
-❊
+---
