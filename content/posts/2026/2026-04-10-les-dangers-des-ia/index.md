@@ -79,6 +79,7 @@ twitter_card: "summary_large_image"
     -   Leurs fournisseurs contournent le problème en stipulant dans leurs conditions générales que ce n’est pas leur responsabilité de respecter les droits d’auteur, mais celle de l’utilisateur final.
     -   Sujet connexe : _L’échelle Dalia_[^37]
     -   Voir aussi : _PressReader — Le Temps — 10 aout 2026 — Le marquage obligatoire de l’IA, et comment il fonctionne_[^51]
+    -   _YouTube — France Inter — OpenAI résout l’équation de Navier-Stokes — Nos vies numériques, Stéphane Jourdain_[^73]
 
 8. **Elles s’attribuent des droits sur les œuvres auxquelles elles ont contribué**
     -   Elles peuvent se présenter comme “coauteurs” plutôt que comme simples assistants, ce qui entretient une ambiguïté sur la titularité des droits, la part de contribution humaine et la responsabilité juridique des productions.[^35][^36]
@@ -112,6 +113,7 @@ twitter_card: "summary_large_image"
     -   Elon Musk, Sam Altman et quelques autres ont même proposé d’instaurer un revenu universel.
        _PressReader — Le Temps — Saura-t-on rappeler à l’IA qu’elle nous est redevable ?_[^24]
     -   _YouTube — Monsieur Phi — Pourquoi les mathématiciens s’inquiètent de l’avenir de leur discipline_[^20]
+    -   _YouTube — France Inter — OpenAI résout l’équation de Navier-Stokes — Nos vies numériques, Stéphane Jourdain_[^73]
 
 13. **Elles sont utilisées pour évaluer le travail des humains**
     -   Le travail fourni par les humains, qu’il soit assisté ou non par des agents, est de plus en plus souvent évalué par des IA, elles-mêmes assistées ou non par des humains.
@@ -464,38 +466,4 @@ twitter_card: "summary_large_image"
 
 [^71]: [YouTube — Micode — Comment retrouver n’importe qui sur Internet ?](https://www.youtube.com/watch?v=4daO2QM12WY)
 
-{{< comment >}}
-
-    [^72]: [Le Temps — FATI MANSOUR — 04 Septembre 2026 — La Suisse doit-elle bannir l’intelligence artificielle des décisions de justice ?](https://pressreader.com/article/281629607141839)
-
-    Voici les **points de danger des IA** identifiés dans cet article du Temps :
-
-    1. **Biais de recherche et reproduction d’erreurs passées** — L’IA entrainée sur des décisions historiques peut reproduire et amplifier les préjugés et erreurs du passé
-
-    2. **Violation des droits fondamentaux** — Risques de non-discrimination, de neutralité compromise, d’indépendance menacée et de protection des données insuffisante
-
-    3. **Perte de légitimité et d’acceptabilité sociale** — Une décision sans appropriation réelle par un magistrat perdrait sa légitimité, son acceptabilité sociale et politique, et sa capacité à apaiser la société
-
-    4. **Délégation inappropriée de la décision** — Le risque que le processus décisionnel soit réellement délégué à l’IA plutôt que d’en être une simple assistance
-
-    5. **Manque de transparence et de cadre légal** — Le flou existant sur les limites à respecter et l’insuffisance des bonnes pratiques pour prévenir les abus
-
-    6. **Automatisation excessive** — La perspective d’un “verdict robotisé” qui échappe au contrôle humain
-
-    7. **Ambiguïté du concept « d’aide à la décision »** — Le concept est trop vague et recèle des dangers importants en l’absence de cadre clair
-
-    Ces dangers justifient la demande de Mahaim : créer des dispositions légales pour garantir que le processus décisionnel **demeure en mains des magistrats** et reste étanche à l’influence de l’IA.
-
-{{</ comment >}}
-
-{{< comment >}}
-
-    https://fr.wikipedia.org/wiki/Captologie
-
-    -   source :
-        YouTube — Mat Kaiz — Comment Devenir Accro à la Vie Sans Téléphone
-        https://www.youtube.com/watch?v=hts_wKVINEk
-
-{{</ comment >}}
-
-<p style="text-align: center;">❊</p>
+[^73]: [YouTube — France Inter — OpenAI résout l’équation de Navier-Stokes — Nos vies numériques, Stéphane Jourdain](https://www.youtube.com/watch?v=3sykITn6CYE)
