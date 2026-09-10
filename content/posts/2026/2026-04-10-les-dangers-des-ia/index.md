@@ -498,4 +498,4 @@ twitter_card: "summary_large_image"
 
 {{</ comment >}}
 
----
+<p style="text-align: center;">❊</p>
