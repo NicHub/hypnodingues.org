@@ -10,7 +10,7 @@ draft: false
 > L’explication avancée est la suivante :
 >
 > _Sur les machines à écrire mécaniques, les barres à caractères avaient la fâcheuse tendance à s’enchevêtrer et ainsi provoquer des bourrages._
-> _Pour éviter cela, on aurait choisi une disposition des touches censée ralentir la frappe : le QWERTY._
+> _Pour éviter cela, on aurait choisi une disposition des touches censée ralentir la frappe : QWERTY._
 
 ![Machine à écrire Remington nº 1 (Sholes & Glidden), avec son clavier visible, sur fond noir](./images/remington-no-1-daderot-fond-noir.png)
 
@@ -26,10 +26,15 @@ J’aime bien ses _shorts_, donc je ne lui tiens pas trop rigueur de ce raccourc
 
 _YouTube — Schach — Le clavier AZERTY : un anti-design conçu pour vous ralentir_[^1]
 
-## Petite note au passage
+## Petites notes au passage
 
 > Ce billet parle de la disposition QWERTY.
-> Ses variantes dérivées, QWERTZ et AZERTY, ont hérité de la loufoquerie de leur ancêtre, mais pas de toutes ses caractéristiques comme la disposition des touches Z, S et E.
+>
+> QWERTY tire son nom des six premières touches alphabétiques du clavier.
+>
+> Ses variantes dérivées, QWERTZ et AZERTY, ont hérité en grande partie de la loufoquerie de leur ancêtre, mais pas de toutes ses caractéristiques comme la disposition des touches Z, S et E dont il est question dans ce billet.
+>
+> Des dispositions de touches comme Bépo, Colemak, Dvorak ou Workman ont été conçues pour pallier certaines limites ergonomiques de QWERTY, mais ce n’est pas le sujet ici.
 
 ## Quelques faits
 
@@ -41,16 +46,16 @@ Il m’a orienté vers deux références :
 
 Voici ce que je retiens de l’article des Yasuoka :
 
--   **Les sources citées ne permettent pas d’établir que le QWERTY a été conçu pour ralentir la frappe.**
+-   **Les sources citées ne permettent pas d’établir que QWERTY a été conçu pour ralentir la frappe.**
     Les auteurs contestent explicitement cette explication.
 -   **L’évolution du clavier est documentée, mais les raisons de chaque déplacement de touche ne sont pas toutes établies.**
-    Le QWERTY résulte de remaniements successifs et de compromis entre plusieurs acteurs, plutôt que d’un plan unique.
+    QWERTY résulte de remaniements successifs et de compromis entre plusieurs acteurs, plutôt que d’un plan unique.
 -   **La télégraphie a joué un rôle dans cette histoire.**
     Parmi les premiers·ères dactylographes figuraient des télégraphistes qui transcrivaient les messages reçus en Morse.
 
 Les auteurs proposent notamment une explication pour le voisinage de Z, S et E : dans le code Morse états-unien, la lettre “Z” pouvait être confondue avec la séquence de lettres “SE”.
 Seul le contexte pouvait lever l’ambigüité.
-Rapprocher les touches aurait optimisé la vitesse de transcription une fois le doute résolu.
+Rapprocher les touches permet d’optimiser la vitesse de transcription une fois le doute résolu.
 **Il s’agit d’une hypothèse sur ce placement**, qui ne démontre ni une méthode consistant à préparer trois doigts sur ces touches ni une optimisation de tout le clavier pour le Morse.
 
 Dans son billet de 2016, Koichi Yasuoka relève aussi que les barres des lettres “E” et “R” étaient voisines, alors que “ER” est une combinaison fréquente en anglais.
@@ -65,14 +70,14 @@ Et pour la réfuter, mieux vaut garder les incertitudes de cette histoire que re
 -   Il suffit de taper au clavier d’une machine mécanique pour se rendre compte que les bourrages sont fréquents quand on est novice.
     Donc, soit le design QWERTY est un échec, soit il n’a jamais eu pour but de ralentir la frappe.
 -   Remington aurait privilégié une commercialisation rapide de la Remington nº 1, au point de reléguer la disposition des touches au second plan.
--   Au 19e siècle, le nombre de modèles machines à écrire était important.
+-   Au 19e siècle, le nombre de modèles de machines à écrire était important.
     Les inventeurs reprenaient simplement la disposition existante des touches avec relativement peu de modifications pour des raisons pratiques, principalement pour éviter de réinventer la roue.
 -   Christopher Latham Sholes n’est pas l’inventeur de la machine à écrire elle-même, il a juste modernisé la mécanique.
     Et son design a été rendu célèbre sous le nom de Remington nº 1.
 
 ## Fun facts
 
--   Une autre légende voudrait que la disposition QWERTY ait été retenue parce qu’elle permet d’écrire le mot “TYPEWRITER“ en n’utilisant que les touches de la rangée du haut.
+-   Une autre légende voudrait que la disposition QWERTY ait été retenue parce qu’elle permet d’écrire le mot “TYPEWRITER” en n’utilisant que les touches de la rangée du haut.
 
 [^1]: [YouTube — Schach — Le clavier AZERTY : un anti-design conçu pour vous ralentir](https://www.youtube.com/watch?v=ETLZHomEPF8)
 
