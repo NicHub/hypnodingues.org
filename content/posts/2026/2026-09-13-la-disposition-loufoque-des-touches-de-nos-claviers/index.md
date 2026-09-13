@@ -79,10 +79,36 @@ Et pour la réfuter, mieux vaut garder les incertitudes de cette histoire que re
 
 -   Une autre légende voudrait que la disposition QWERTY ait été retenue parce qu’elle permet d’écrire le mot “TYPEWRITER” en n’utilisant que les touches de la rangée du haut.
 
-## Autres loufoqueries
+## Autres loufoqueries de nos claviers
 
 -   Les touches des machines à écrire sont disposées en quinconce pour simplifier la mécanique des tringles qui activent les barres.
     Cette disposition perdure sur les claviers d’ordinateur, alors que la contrainte mécanique n’existe plus et qu’une disposition orthogonale serait plus ergonomique.
+
+## Quelques infos diverses
+
+### QWERTZ et la Suisse
+
+La langue allemande utilise beaucoup plus le Z et beaucoup moins le Y que l’anglais (voir les fréquences ci-dessous).
+Du coup, le clavier QWERTZ allemand intervertit le Z et le Y pour que le Z puisse être frappé indifféremment de la main droite ou de la main gauche.
+
+La Suisse, avec sa majorité germanophone, a logiquement choisi la disposition QWERTZ, mais les caractères accentués y sont habilement répartis pour satisfaire les francophones (et peut-être les italophones, mais il faudrait que je me renseigne).
+Le clavier est physiquement le même pour toute la Suisse, mais l’attribution des caractères accentués est inversée selon la région linguistique.
+Cependant, même si les Suisses·ses utilisent tous·tes le même clavier, leur pilote (_driver_) est différent, ce qui permet de taper les caractères accentués les plus fréquents dans chaque langue sans utiliser la touche _shift_.
+
+Par exemple, si un·e Romand·e appuie sur la touche é/ö, celle-ci inscrit le caractère é (sans shift) et ö (avec shift), alors que pour un·e Alémanique c’est l’inverse.
+
+### Fréquences des lettres par langue selon le Scrabble
+
+| Points |       🇬🇧 Anglais       |     🇩🇪 Allemand      |      🇫🇷 Français       | 🇮🇹 Italien |
+| :----: | :--------------------: | :------------------: | :--------------------: | :--------: |
+| **1**  | A E I L N<br>O R S T U | A D E I N<br>R S T U | A E I L N<br>O R S T U |  A E I O   |
+| **2**  |          D G           |       G H L O        |         D G M          |  C R S T   |
+| **3**  |        B C M P         |       B M W Z        |         B C P          |  L M N U   |
+| **4**  |       F H V W Y        |       C F K P        |         F H V          |     —      |
+| **5**  |           K            |          —           |           —            | B D F P V  |
+| **6**  |           —            |       Ä J Ü V        |           —            |     —      |
+| **8**  |          J X           |         Ö X          |          J Q           |   G H Z    |
+| **10** |          Q Z           |         Q Y          |       K W X Y Z        |     Q      |
 
 [^1]: [YouTube — Schach — Le clavier AZERTY : un anti-design conçu pour vous ralentir](https://www.youtube.com/watch?v=ETLZHomEPF8)
 
