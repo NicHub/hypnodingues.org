@@ -791,9 +791,13 @@ p.home-hero-button a:focus-visible {
     padding: 0;
 }
 
-.prose table {
+.prose > table {
     border-collapse: collapse;
-    width: 100%;
+    display: block;
+    margin-inline: auto;
+    overflow-x: auto;
+    width: fit-content;
+    max-width: 100%;
 }
 
 .prose th,
