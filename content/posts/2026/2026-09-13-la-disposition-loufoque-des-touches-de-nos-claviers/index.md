@@ -79,6 +79,11 @@ Et pour la réfuter, mieux vaut garder les incertitudes de cette histoire que re
 
 -   Une autre légende voudrait que la disposition QWERTY ait été retenue parce qu’elle permet d’écrire le mot “TYPEWRITER” en n’utilisant que les touches de la rangée du haut.
 
+## Autres loufoqueries
+
+-   Les touches des machines à écrire sont disposées en quinconce pour simplifier la mécanique des tringles qui activent les barres.
+    Cette disposition perdure sur les claviers d’ordinateur, alors que la contrainte mécanique n’existe plus et qu’une disposition orthogonale serait plus ergonomique.
+
 [^1]: [YouTube — Schach — Le clavier AZERTY : un anti-design conçu pour vous ralentir](https://www.youtube.com/watch?v=ETLZHomEPF8)
 
 [^2]: [ChatGPT — Origine des claviers occidentaux](https://chatgpt.com/share/6aa6774f-68f8-83eb-860c-a54be8a209e5)
