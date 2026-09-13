@@ -30,9 +30,9 @@ _YouTube — Schach — Le clavier AZERTY : un anti-design conçu pour vous rale
 
 > Ce billet parle de la disposition QWERTY.
 >
-> QWERTY tire son nom des six premières touches alphabétiques du clavier.
+> QWERTY tire son nom des six premières touches alphabétiques du clavier conçu par et pour des anglophones.
 >
-> Ses variantes dérivées, QWERTZ et AZERTY, ont hérité en grande partie de la loufoquerie de leur ancêtre, mais pas de toutes ses caractéristiques comme la disposition des touches Z, S et E dont il est question dans ce billet.
+> Ses variantes dérivées pour la langue allemande et la langue française, respectivement QWERTZ et AZERTY, ont hérité en grande partie de la loufoquerie de leur ancêtre, mais pas de toutes ses caractéristiques comme la disposition des touches Z, S et E dont il est question dans ce billet.
 >
 > Des dispositions de touches comme Bépo, Colemak, Dvorak ou Workman ont été conçues pour pallier certaines limites ergonomiques de QWERTY, mais ce n’est pas le sujet ici.
 
