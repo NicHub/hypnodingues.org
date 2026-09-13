@@ -69,11 +69,11 @@ Et pour la réfuter, mieux vaut garder les incertitudes de cette histoire que re
 
 -   Il suffit de taper au clavier d’une machine mécanique pour se rendre compte que les bourrages sont fréquents quand on est novice.
     Donc, soit le design QWERTY est un échec, soit il n’a jamais eu pour but de ralentir la frappe.
+-   Pour que l’hypothèse du bourrage des barres à caractères soit plausible, il faudrait qu’au moins une disposition de touche ait précédé QWERTY, ce qui semble ne pas être le cas, QWERTY a précédé les problèmes de bourrage.
 -   Remington aurait privilégié une commercialisation rapide de la Remington nº 1, au point de reléguer la disposition des touches au second plan.
--   Au 19e siècle, le nombre de modèles de machines à écrire était important.
-    Les inventeurs reprenaient simplement la disposition existante des touches avec relativement peu de modifications pour des raisons pratiques, principalement pour éviter de réinventer la roue.
--   Christopher Latham Sholes n’est pas l’inventeur de la machine à écrire elle-même, il a juste modernisé la mécanique.
-    Et son design a été rendu célèbre sous le nom de Remington nº 1.
+-   Avant le succès commercial et la généralisation de la Remington nº 1, il y avait quantité de modèles de machines à écrire produites en petites quantités.
+    Leurs inventeurs reprenaient simplement la disposition existante des touches avec relativement peu de modifications pour des raisons pratiques, probablement pour se conformer à l’usage des télégraphistes.
+-   Christopher Latham Sholes n’est pas l’inventeur de la machine à écrire elle-même, il a modernisé le design et déposé un brevet qu’il a vendu à Remington qui l’a commercialisé avec succès sous le nom de Remington nº 1.
 
 ## Fun facts
 
@@ -82,7 +82,7 @@ Et pour la réfuter, mieux vaut garder les incertitudes de cette histoire que re
 ## Autres loufoqueries de nos claviers
 
 -   Les touches des machines à écrire sont disposées en quinconce pour simplifier la mécanique des tringles qui activent les barres.
-    Cette disposition perdure sur les claviers d’ordinateur, alors que la contrainte mécanique n’existe plus et qu’une disposition orthogonale serait plus ergonomique.
+    Cette disposition perdure sur les claviers d’ordinateur, alors que la contrainte mécanique n’existe plus et qu’une disposition orthogonale serait probablement plus ergonomique.
 
 ## Quelques infos diverses
 
