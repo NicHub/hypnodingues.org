@@ -7,14 +7,16 @@ draft: false
 ---
 
 > Une légende urbaine tenace voudrait que la disposition des touches de nos claviers ait été délibérément choisie pour ralentir la frappe.
+> L’explication avancée est la suivante :
 >
-> L’explication avancée est la suivante : sur les machines à écrire mécaniques, les barres à caractères avaient la fâcheuse tendance à s’enchevêtrer et ainsi provoquer des bourrages.
-> Pour éviter cela, on aurait choisi une disposition des touches censée ralentir la frappe : le QWERTY.
+> _Sur les machines à écrire mécaniques, les barres à caractères avaient la fâcheuse tendance à s’enchevêtrer et ainsi provoquer des bourrages._
+> _Pour éviter cela, on aurait choisi une disposition des touches censée ralentir la frappe : le QWERTY._
 
-![Machine à écrire Remington nº 1 (Sholes & Glidden), avec son clavier visible, au Wisconsin Historical Museum](./images/remington-no-1-daderot.jpg)
+![Machine à écrire Remington nº 1 (Sholes & Glidden), avec son clavier visible, sur fond noir](./images/remington-no-1-daderot-fond-noir.png)
 
 _Remington nº 1 (Sholes & Glidden), Wisconsin Historical Museum.<br>
-Photo : Daderot, 2013 — CC0._[^5]
+Photo originale : Daderot, 2013 — CC0._[^5]
+_Image retouchée par IA pour remplacer le fond._
 
 ## Inspiration de ce billet de blog
 
@@ -44,17 +46,17 @@ Voici ce que je retiens de l’article des Yasuoka :
 -   **L’évolution du clavier est documentée, mais les raisons de chaque déplacement de touche ne sont pas toutes établies.**
     Le QWERTY résulte de remaniements successifs et de compromis entre plusieurs acteurs, plutôt que d’un plan unique.
 -   **La télégraphie a joué un rôle dans cette histoire.**
-    Parmi les premiers utilisateurs figuraient des télégraphistes qui transcrivaient les messages reçus en Morse.
+    Parmi les premiers·ères dactylographes figuraient des télégraphistes qui transcrivaient les messages reçus en Morse.
 
 Les auteurs proposent notamment une explication pour le voisinage de Z, S et E : dans le code Morse états-unien, la lettre “Z” pouvait être confondue avec la séquence de lettres “SE”.
 Seul le contexte pouvait lever l’ambigüité.
-Rapprocher les touches aurait facilité la transcription une fois le doute résolu.
+Rapprocher les touches aurait optimisé la vitesse de transcription une fois le doute résolu.
 **Il s’agit d’une hypothèse sur ce placement**, qui ne démontre ni une méthode consistant à préparer trois doigts sur ces touches ni une optimisation de tout le clavier pour le Morse.
 
 Dans son billet de 2016, Koichi Yasuoka relève aussi que les barres des lettres “E” et “R” étaient voisines, alors que “ER” est une combinaison fréquente en anglais.
 Ce contre-exemple fragilise le récit selon lequel on aurait systématiquement éloigné les barres correspondant aux paires de lettres les plus courantes pour éviter les bourrages.
 
-Éviter des bourrages et chercher à ralentir la personne qui tape sont deux intentions différentes.
+Éviter des bourrages et chercher à ralentir la frappe sont deux intentions différentes.
 La seconde mérite des preuves.
 Et pour la réfuter, mieux vaut garder les incertitudes de cette histoire que remplacer une légende séduisante par une autre certitude trop commode.
 
