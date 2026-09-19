@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 
 # Notes de travail
@@ -31,3 +31,5 @@ Ces dangers justifient la demande de Mahaim : créer des dispositions légales 
 [^2]: [Wikipédia — Captologie](https://fr.wikipedia.org/wiki/Captologie)
 
 [^3]: [YouTube — Mat Kaiz — Comment Devenir Accro à la Vie Sans Téléphone](https://www.youtube.com/watch?v=hts_wKVINEk)
+
+[^4]: [YouTube — Élucid — L’IA MENACE DÉJÀ LE TRAVAIL ET LES DIPLÔMES : vers une « génération perdue » ? - Axelle Arquié](https://www.youtube.com/watch?v=R66fhcoBdXs)

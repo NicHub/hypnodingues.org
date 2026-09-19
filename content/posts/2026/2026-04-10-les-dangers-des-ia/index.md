@@ -286,6 +286,10 @@ twitter_card: "summary_large_image"
 -   _Monsieur Phi — Luc Julia a-t-il menti ? Les témoignages des co-fondateurs de Siri vs les déclarations de Luc Julia_[^14]
 -   _Luc Julia face à Monsieur Phi - Tech&Co la quotidienne du 01/09/2025_[^15]
 
+## Idées en vrac
+
+-   [Scratchpad](scratchpad.md)
+
 {{< comment >}}
 
 {{< /comment >}}
