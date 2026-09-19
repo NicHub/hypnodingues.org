@@ -288,7 +288,7 @@ twitter_card: "summary_large_image"
 
 ## Idées en vrac
 
--   [Scratchpad](scratchpad.md)
+-   [Scratchpad](scratchpad.txt)
 
 {{< comment >}}
 
