@@ -7,6 +7,15 @@ draft: false
 -   _Le Temps — FATI MANSOUR — 04 Septembre 2026 — La Suisse doit-elle bannir l’intelligence artificielle des décisions de justice ?_[^1]
 -   _Wikipédia — Captologie_[^2]
 -   _YouTube — Mat Kaiz — Comment Devenir Accro à la Vie Sans Téléphone_[^3]
+-   _YouTube — Élucid — L’IA MENACE DÉJÀ LE TRAVAIL ET LES DIPLÔMES : vers une « génération perdue » ? - Axelle Arquié_[^4]
+    -   Skill rot (pourrissement des savoirs) (37:00)
+    -   Les diplômes handicapent s’ils sont invisibilisés par les IA (?)
+    -   Contrairements aux technologies qui ont été développées avant elles, les IA n’ont pas de frontières techniques bien définies (52:11)
+    -   Notion d’intelligence artificielle générale, [Artificial general intelligence](https://w.wiki/6JXw) (AGI), économiste [Anton Korinek](https://w.wiki/UqeK) (55:00)
+    -   Accès conditionnel (01:09:00)
+    -   L’alignement (01:23:00)
+    -   Qu’est-ce qui selon vous est connu de peu de personnes et qui mériterait d’être connu de tous ?
+        Livre : The rise and fall of the artificial state, Jill Lepore.
 
 [^1]: [Le Temps — FATI MANSOUR — 04 Septembre 2026 — La Suisse doit-elle bannir l’intelligence artificielle des décisions de justice ?](https://pressreader.com/article/281629607141839)
 
