@@ -41,7 +41,8 @@ twitter_card: "summary_large_image"
 
 {{< /comment >}}
 
-> Les IA ne sont pas de simples outils neutres.
+> Les IA ne sont pas de simples outils neutres, ni de simples “perroquets stochastiques”[^74].
+>
 > Leur déploiement rapide transforme déjà nos manières de travailler, de créer, de décider et de nous informer.
 >
 > Voici une liste non exhaustive et évolutive des dangers qu’elles font peser sur les individus, la société et l’environnement.
@@ -471,3 +472,5 @@ twitter_card: "summary_large_image"
 [^71]: [YouTube — Micode — Comment retrouver n’importe qui sur Internet ?](https://www.youtube.com/watch?v=4daO2QM12WY)
 
 [^73]: [YouTube — France Inter — OpenAI résout l’équation de Navier-Stokes — Nos vies numériques, Stéphane Jourdain](https://www.youtube.com/watch?v=3sykITn6CYE)
+
+[^74]: [YouTube — Patrick Baud | Continue tu m’intéresses — Akim Omiri | Crochet du gauche](https://www.youtube.com/watch?v=SQ29P22mjfk&t=1128s)
