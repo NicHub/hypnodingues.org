@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-09-26T09:58:14+02:00
+lastmod: 2026-09-27T17:54:04+02:00
 title: "Les dangers des IA"
 date: 2026-04-10T11:12:00+02:00
 categories: [IA]
@@ -116,6 +116,7 @@ twitter_card: "summary_large_image"
        _PressReader — Le Temps — Saura-t-on rappeler à l’IA qu’elle nous est redevable ?_[^24]
     -   _YouTube — Monsieur Phi — Pourquoi les mathématiciens s’inquiètent de l’avenir de leur discipline_[^20]
     -   _YouTube — France Inter — OpenAI résout l’équation de Navier-Stokes — Nos vies numériques, Stéphane Jourdain_[^73]
+    -   _YouTube — EEVblog 1776 — Get paid $175/hr to eliminate your own PCB Design job!_[^75]
 
 13. **Elles sont utilisées pour évaluer le travail des humains**
     -   Le travail fourni par les humains, qu’il soit assisté ou non par des agents, est de plus en plus souvent évalué par des IA, elles-mêmes assistées ou non par des humains.
@@ -475,3 +476,5 @@ twitter_card: "summary_large_image"
 [^73]: [YouTube — France Inter — OpenAI résout l’équation de Navier-Stokes — Nos vies numériques, Stéphane Jourdain](https://www.youtube.com/watch?v=3sykITn6CYE)
 
 [^74]: [YouTube — Patrick Baud | Continue tu m’intéresses — Akim Omiri | Crochet du gauche](https://www.youtube.com/watch?v=SQ29P22mjfk&t=1128s)
+
+[^75]: [YouTube — EEVblog 1776 — Get paid $175/hr to eliminate your own PCB Design job!](https://www.youtube.com/watch?v=dgVYNaHekgs)
