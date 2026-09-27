@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-04T13:28:50+02:00
 title: "Dans le ventre d’une mère, deux bébés discutent."
 date: 2013-11-28T16:28:49+01:00
 categories: [Histoire et conte]

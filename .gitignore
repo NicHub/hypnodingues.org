@@ -2,7 +2,6 @@
 /public/
 /resources/
 /.hugo*
-/data/localPostDates.json
 
 # ---- OS ----
 .DS_Store

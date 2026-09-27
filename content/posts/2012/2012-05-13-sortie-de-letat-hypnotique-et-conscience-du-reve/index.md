@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Sortie de l’état hypnotique et conscience du rêve"
 date: 2012-05-13T13:57:27+02:00
 categories: [Hypnose, Textes]

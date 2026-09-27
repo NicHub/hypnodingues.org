@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Kevin Finel — Ca donnerait quoi si on prenait des cours de cerveau ?"
 date: 2016-06-08T18:44:00+02:00
 categories: [Hypnose]

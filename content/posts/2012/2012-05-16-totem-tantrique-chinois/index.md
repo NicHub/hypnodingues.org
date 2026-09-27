@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Totem tantrique chinois"
 date: 2012-05-16T00:20:06+02:00
 categories: [Divers]

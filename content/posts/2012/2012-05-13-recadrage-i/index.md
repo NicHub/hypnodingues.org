@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Recadrage I"
 date: 2012-05-13T15:13:11+02:00
 categories: [Hypnose, Textes]

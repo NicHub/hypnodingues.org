@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-04T23:26:00+02:00
 title: "Le deuil d'une relation"
 date: 2019-06-03T15:03:00+02:00
 categories: [Développement personnel]

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Devenir enseignant-e en hypnose"
 date: 2013-01-09T09:35:56+01:00
 categories: [Hypnose]

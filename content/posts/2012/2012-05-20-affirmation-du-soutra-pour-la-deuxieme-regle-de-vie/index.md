@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Affirmation du soutra pour la deuxième règle de vie"
 date: 2012-05-20T16:10:06+02:00
 categories: [Hypnose, Textes]

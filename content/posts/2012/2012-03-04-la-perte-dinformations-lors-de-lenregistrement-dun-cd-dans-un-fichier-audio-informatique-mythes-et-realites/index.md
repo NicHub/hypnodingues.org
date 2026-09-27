@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "La perte d’informations lors de l’enregistrement d’un CD dans un fichier audio informatique, mythes et réalités."
 date: 2012-03-04T20:34:05+01:00
 categories: [Divers]

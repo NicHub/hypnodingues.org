@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Marche sur le feu, 15 juin 2013"
 date: 2013-06-17T18:53:46+02:00
 categories: [Conférences, Évènements]

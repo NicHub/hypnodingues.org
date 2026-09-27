@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Comment le narcissique se voit lui-même"
 date: 2017-01-30T10:42:00+01:00
 categories: [À classer]

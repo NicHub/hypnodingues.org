@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Les pubs que vous ne verrez plus jamais"
 date: 2012-10-24T12:22:55+02:00
 categories: [Images]

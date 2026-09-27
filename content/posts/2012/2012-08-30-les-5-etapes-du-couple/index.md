@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "les 5 étapes du couple"
 date: 2012-08-30T15:27:18+02:00
 categories: [Divers]

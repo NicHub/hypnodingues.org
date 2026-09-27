@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-06T14:20:10+02:00
 title: "PoC BOSS — Y a pas l’feu au lac"
 date: 2026-09-06T12:28:00+02:00
 categories: [Politique]

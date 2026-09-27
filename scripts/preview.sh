@@ -14,7 +14,6 @@
 #
 # # DEPENDENCIES
 #   Hugo
-#   Python 3
 #   qrencode
 #
 # # INSTALLATION — macOS
@@ -99,7 +98,7 @@ start_hugo_server() {
     )
 
     cd "$PROJECT_DIR"
-    python3 "$SCRIPT_DIR/preview_dates.py" hugo server "${options[@]}"
+    hugo server "${options[@]}"
 }
 
 main() {

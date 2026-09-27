@@ -2,12 +2,14 @@ locale: fr-CH
 title: Hypnodingues
 theme: hypnodingues
 enableRobotsTXT: true
-enableGitInfo: true
 publishDir: .hugo_nokdrive/public
 resourceDir: .hugo_nokdrive/resources
 
 pagination:
     pagerSize: 10000
+
+frontmatter:
+    lastmod: [lastmod, date]
 
 permalinks:
     posts: /posts/:contentbasename/
@@ -36,18 +38,12 @@ params:
         # sur /posts/ ; recentlyModifiedCount règle le nombre de vignettes.
         # Ces articles restent également dans la liste complète.
         #
-        # Le classement utilise la date du dernier commit de chaque fichier.
-        # En prévisualisation avec bash scripts/preview.sh (Python 3 requis),
-        # cette date est remplacée par la date de modification sur disque
-        # uniquement si Git signale des changements locaux, indexés ou non.
-        # Les nouveaux articles non suivis utilisent également leur date
-        # de modification sur disque. L’état est actualisé chaque seconde.
-        #
-        # Les dates locales sont générées dans data/localPostDates.json,
-        # ignoré par Git. Les compilations de production, dont GitHub Actions,
-        # utilisent uniquement les dates de commit. Un lancement direct de
-        # hugo server n’actualise pas ces données locales : utiliser le script
-        # de prévisualisation pour ce classement.
+        # Le classement utilise le champ YAML natif lastmod de chaque article,
+        # initialisé avec la date de son dernier commit Git lors de la migration.
+        # Mettre à jour lastmod manuellement lors des prochaines modifications.
+        # Aucun script additionnel n’est nécessaire, en local comme sur GitHub.
+        # Si lastmod manque, Hugo émet un warning sans bloquer la compilation
+        # et utilise la date de publication (voir frontmatter.lastmod ci-dessus).
         showRecentlyModified: true
         recentlyModifiedCount: 4
     description: Hypnodingues, archives de textes, d’hypnose, de conscience et de traversées intérieures.

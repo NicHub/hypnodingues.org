@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Casque Sennheiser HD 25-1 II"
 date: 2012-09-17T17:24:43+02:00
 categories: [Divers]

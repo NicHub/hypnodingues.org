@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-13T17:02:03+02:00
 title: "La disposition loufoque des touches de nos claviers"
 date: 2026-09-13T12:10:00+02:00
 categories: [Technique]

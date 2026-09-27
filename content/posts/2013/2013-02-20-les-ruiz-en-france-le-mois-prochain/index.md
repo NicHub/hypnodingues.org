@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Les Ruiz en France le mois prochain"
 date: 2013-02-20T12:27:33+01:00
 categories: [Conférences, Évènements]

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Med-Nat des Hypnodingues"
 date: 2013-02-13T12:33:30+01:00
 categories: [Évènements]

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "La puissante introspection de Jill Bolte Taylor"
 date: 2012-06-04T21:38:35+02:00
 categories: [Conférences, Hypnose]

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Réunion"
 date: 2012-09-17T11:13:46+02:00
 categories: [Évènements]

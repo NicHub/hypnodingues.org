@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Steve Jobs: Stanford Commencement"
 date: 2018-08-12T19:39:00+02:00
 categories: [À classer]

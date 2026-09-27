@@ -1,0 +1,12 @@
+{{ range where .RegularPages "Section" "posts" }}
+  {{/* Hugo also populates Params.lastmod from fallback dates. Read the YAML
+       to distinguish an explicit lastmod field from that inferred value. */}}
+  {{ $fields := dict }}
+  {{ with findRE `(?s)^---\r?\n.*?\r?\n---(?:\r?\n|$)` (os.ReadFile .File.Filename) 1 }}
+    {{ $yaml := replaceRE `(?m)^---\r?$` "" (index . 0) }}
+    {{ $fields = transform.Unmarshal (dict "format" "yaml") $yaml }}
+  {{ end }}
+  {{ if not (isset $fields "lastmod") }}
+    {{ warnf "Article sans champ lastmod : %s ; la date de publication est utilisée." .File.Path }}
+  {{ end }}
+{{ end }}

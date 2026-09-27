@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Présentation Laetitia Stucki"
 date: 2012-03-07T12:53:51+01:00
 categories: [Membres]

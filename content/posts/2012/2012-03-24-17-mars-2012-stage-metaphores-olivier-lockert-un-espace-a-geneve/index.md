@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "17 mars 2012 – Stage métaphores – Olivier Lockert – Un espace à Genève"
 date: 2012-03-24T15:16:11+01:00
 categories: [Divers]

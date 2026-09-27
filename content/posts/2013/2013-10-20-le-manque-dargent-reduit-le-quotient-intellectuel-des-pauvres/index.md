@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Le manque d’argent réduit le quotient intellectuel des pauvres"
 date: 2013-10-20T14:17:34+02:00
 categories: [Articles]

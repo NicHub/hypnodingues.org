@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Hypnoël du 22 décembre 2013"
 date: 2013-11-26T13:44:18+01:00
 categories: [Divers, Évènements]

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-04T13:28:50+02:00
 title: "Le mendiant"
 date: 2013-06-05T18:03:00+02:00
 categories: [Histoire et conte]

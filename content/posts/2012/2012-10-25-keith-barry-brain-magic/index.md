@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Keith Barry: Brain magic"
 date: 2012-10-25T00:40:07+02:00
 categories: [Conférences]

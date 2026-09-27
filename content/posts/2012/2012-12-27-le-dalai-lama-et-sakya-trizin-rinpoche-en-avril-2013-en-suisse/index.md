@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Le Dalaï Lama et Sakya Trizin Rinpoche en avril 2013 en Suisse"
 date: 2012-12-27T13:48:57+01:00
 categories: [Évènements]

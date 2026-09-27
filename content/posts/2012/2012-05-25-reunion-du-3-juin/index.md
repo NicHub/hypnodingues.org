@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Réunion du 3 juin"
 date: 2012-05-25T11:44:54+02:00
 categories: [Évènements]

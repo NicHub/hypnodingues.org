@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Les guérisseurs de la foi - Chirurgie psychique"
 date: 2013-08-09T07:54:52+02:00
 categories: [Articles]

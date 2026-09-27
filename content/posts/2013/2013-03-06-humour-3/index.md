@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Humour"
 date: 2013-03-06T14:01:39+01:00
 categories: [Histoires drôles]

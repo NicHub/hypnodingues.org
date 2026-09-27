@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Le témoignage de mon parcours et de mon retour à la santé – Ségolène Quenin"
 date: 2014-08-11T21:59:46+02:00
 categories: [Nutrition]

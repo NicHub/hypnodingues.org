@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Démonstration de médiumnité par Janet Parker et Silvana Hertz, les 23 et 24 mai 2013"
 date: 2013-05-14T20:08:07+02:00
 categories: [Évènements]

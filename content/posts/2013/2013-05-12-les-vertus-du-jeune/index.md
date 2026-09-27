@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Les vertus du jeûne."
 date: 2013-05-12T18:13:30+02:00
 categories: [Liens]

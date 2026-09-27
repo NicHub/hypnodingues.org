@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Blague"
 date: 2012-10-04T16:36:48+02:00
 categories: [Histoires drôles]

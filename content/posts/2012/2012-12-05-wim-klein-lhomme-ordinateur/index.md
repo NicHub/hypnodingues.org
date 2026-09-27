@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Wim Klein : L’homme ordinateur"
 date: 2012-12-05T17:12:31+01:00
 categories: [Divers]

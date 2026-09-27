@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Talks at Google: Eckhart Tolle in Conversation with Bradley Horowitz"
 date: 2013-06-18T12:31:19+02:00
 categories: [Conférences]

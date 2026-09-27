@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Votre meilleure astuce pour gagner du temps"
 date: 2013-06-06T08:05:05+02:00
 categories: [Articles]

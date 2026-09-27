@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Voir Clair"
 date: 2013-09-16T16:35:03+02:00
 categories: [Audios, Exercices, Hypnose]

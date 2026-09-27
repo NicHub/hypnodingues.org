@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-26T09:58:14+02:00
 title: "Les dangers des IA"
 date: 2026-04-10T11:12:00+02:00
 categories: [IA]

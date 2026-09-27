@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Hypnose vie réussie"
 date: 2013-01-03T14:19:19+01:00
 categories: [Audios, Hypnose]

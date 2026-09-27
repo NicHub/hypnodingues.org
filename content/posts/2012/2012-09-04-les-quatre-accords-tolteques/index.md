@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Les Quatre Accords Toltèques"
 date: 2012-09-04T15:55:39+02:00
 categories: [Citations]

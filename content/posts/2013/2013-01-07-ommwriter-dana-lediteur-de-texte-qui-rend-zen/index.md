@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Ommwriter Dana, l’éditeur de texte qui rend zen"
 date: 2013-01-07T18:57:26+01:00
 categories: [Divers]

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Citation"
 date: 2013-02-01T17:58:46+01:00
 categories: [Citations]

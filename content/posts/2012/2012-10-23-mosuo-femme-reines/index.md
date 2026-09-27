@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Mosuo femme reines!"
 date: 2012-10-23T20:19:52+02:00
 categories: [Divers]

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Healing vacation in Greece with Martin Brofman"
 date: 2012-04-06T12:24:13+02:00
 categories: [Évènements]

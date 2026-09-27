@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Tout est pour le mieux dans le meilleur des mondes – Anthony de Mello"
 date: 2012-11-20T14:46:05+01:00
 categories: [Textes]

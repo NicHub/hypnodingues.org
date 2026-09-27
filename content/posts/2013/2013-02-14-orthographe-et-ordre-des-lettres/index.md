@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Orthographe et ordre des lettres"
 date: 2013-02-14T12:22:21+01:00
 categories: [Divers, Histoires drôles]

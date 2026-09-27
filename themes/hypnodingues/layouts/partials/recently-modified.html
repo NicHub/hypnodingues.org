@@ -1,34 +1,11 @@
-{{ $articles := slice }}
-{{ $localDates := dict }}
-{{ $committedDates := dict }}
-{{ if hugo.IsServer }}
-  {{ with hugo.Data.localPostDates }}
-    {{ $localDates = .dates }}
-    {{ $committedDates = .committed }}
-  {{ end }}
-{{ end }}
-{{ range .RegularPages }}
-  {{ $modified := false }}
-  {{ with .GitInfo }}
-    {{ $modified = .CommitDate }}
-  {{ end }}
-  {{ with index $committedDates .File.Path }}
-    {{ $modified = time.AsTime . }}
-  {{ end }}
-  {{ with index $localDates .File.Path }}
-    {{ $modified = time.AsTime . }}
-  {{ end }}
-  {{ if $modified }}
-    {{ $articles = $articles | append (dict "page" . "modified" $modified) }}
-  {{ end }}
-{{ end }}
+{{ $articles := .RegularPages.ByLastmod.Reverse }}
 {{ $count := int site.Params.posts.recentlyModifiedCount }}
 {{ if and (gt $count 0) (gt (len $articles) 0) }}
   <section class="recently-modified" aria-labelledby="recently-modified-title">
     <h2 id="recently-modified-title">Dernières mises à jour</h2>
     <div class="post-grid">
-      {{ range first $count (sort $articles "modified" "desc") }}
-        {{ partial "post-card.html" (dict "page" .page "modified" .modified) }}
+      {{ range first $count $articles }}
+        {{ partial "post-card.html" (dict "page" . "modified" .Lastmod) }}
       {{ end }}
     </div>
   </section>

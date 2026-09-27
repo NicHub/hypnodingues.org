@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Le cerveau et l’inconscient, émission d’ARTE"
 date: 2012-10-18T13:07:41+02:00
 categories: [Articles]

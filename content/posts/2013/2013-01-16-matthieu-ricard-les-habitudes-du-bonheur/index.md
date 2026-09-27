@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Matthieu Ricard : les habitudes du bonheur"
 date: 2013-01-16T00:05:40+01:00
 categories: [Conférences]

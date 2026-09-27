@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Ils murmurent à l’oreille des patients"
 date: 2014-04-03T20:52:02+02:00
 categories: [Articles]

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Dynamic spread of happiness in a large social network: longitudinal analysis over 20 years in the Framingham Heart Study"
 date: 2013-02-12T18:20:37+01:00
 categories: [Divers]

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Live simply so other people can simply live"
 date: 2013-03-21T23:04:54+01:00
 categories: [Divers]

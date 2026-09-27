@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Brene Brown : le pouvoir de la vulnérabilité."
 date: 2013-09-07T18:17:35+02:00
 categories: [Conférences]

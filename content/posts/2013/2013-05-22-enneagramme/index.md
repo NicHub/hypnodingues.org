@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Ennéagramme"
 date: 2013-05-22T10:31:12+02:00
 categories: [Articles]

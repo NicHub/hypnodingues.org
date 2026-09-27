@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Braver le monstre pour désamorcer la bombe"
 date: 2014-10-21T12:59:25+02:00
 categories: [Citations]

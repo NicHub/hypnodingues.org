@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Blagues"
 date: 2013-05-09T10:43:26+02:00
 categories: [Histoires drôles]

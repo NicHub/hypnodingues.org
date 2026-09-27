@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Guérison et pleine santé avec Irène Grosjean"
 date: 2017-08-27T11:43:00+02:00
 categories: [Nutrition]

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Séminaire Martin Brofman à Champex du 6 au 10 février 2013"
 date: 2013-01-14T10:30:20+01:00
 categories: [Évènements]

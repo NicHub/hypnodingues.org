@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Le danger potentiel des champs électromagnétiques et leur effet sur l’environnement"
 date: 2013-03-12T16:43:39+01:00
 categories: [Santé]

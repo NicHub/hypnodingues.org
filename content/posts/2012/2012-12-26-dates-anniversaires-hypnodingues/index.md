@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Dates anniversaires hypnodingues"
 date: 2012-12-26T13:04:52+01:00
 categories: [Anniversaires]

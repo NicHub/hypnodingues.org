@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "The Pomodoro Technique"
 date: 2013-10-01T11:53:00+02:00
 categories: [Divers]

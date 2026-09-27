@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Carillons Koshi"
 date: 2014-07-01T16:13:03+02:00
 categories: [Divers]

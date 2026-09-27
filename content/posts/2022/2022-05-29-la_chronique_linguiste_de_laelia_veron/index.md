@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-04T12:54:43+02:00
 title: "La chronique linguistique de Laélia Véron"
 date: 2022-05-29T19:50:00+01:00
 categories: [Linguistique]

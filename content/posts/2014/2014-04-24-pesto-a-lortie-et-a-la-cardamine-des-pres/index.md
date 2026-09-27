@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Pesto à l’Ortie et à la Cardamine des prés"
 date: 2014-04-24T19:45:53+02:00
 categories: [Recette]

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Découvrir vos archétypes"
 date: 2012-05-19T18:39:16+02:00
 categories: [Hypnose, Textes]

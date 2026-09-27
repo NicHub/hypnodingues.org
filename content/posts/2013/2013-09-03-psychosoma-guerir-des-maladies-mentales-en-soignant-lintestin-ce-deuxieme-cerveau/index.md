@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "PSYCHOSOMA – Guérir des maladies mentales en soignant l’intestin, ce « deuxième cerveau » ?"
 date: 2013-09-03T07:54:11+02:00
 categories: [Liens, Santé]

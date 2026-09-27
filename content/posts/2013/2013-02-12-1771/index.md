@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Attention! Générosité contagieuse"
 date: 2013-02-12T18:15:40+01:00
 categories: [Articles]

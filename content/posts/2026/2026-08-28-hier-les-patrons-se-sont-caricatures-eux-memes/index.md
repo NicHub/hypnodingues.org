@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-01T05:06:33+02:00
 title: "Hier, les patrons se sont caricaturés eux-mêmes !"
 date: 2026-08-28T12:00:00+02:00
 categories: [Citations]

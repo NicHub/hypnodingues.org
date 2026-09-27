@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Influence de la largeur du cul des chevaux sur la navette spatiale états-unienne"
 date: 2018-03-18T17:32:00+01:00
 categories: [À classer]

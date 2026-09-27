@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Coué vs Freud"
 date: 2013-05-20T11:06:07+02:00
 categories: [Divers]

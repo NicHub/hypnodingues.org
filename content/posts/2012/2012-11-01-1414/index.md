@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Psychogénéalogie"
 date: 2012-11-01T11:23:40+01:00
 categories: [Divers, Santé]

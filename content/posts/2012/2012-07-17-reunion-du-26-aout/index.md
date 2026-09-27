@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Réunion du 26 août"
 date: 2012-07-17T10:24:14+02:00
 categories: [Évènements]

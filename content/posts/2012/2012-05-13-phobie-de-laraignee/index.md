@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Phobie de l’araignée"
 date: 2012-05-13T14:19:18+02:00
 categories: [Hypnose, Textes]

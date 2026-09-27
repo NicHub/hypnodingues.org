@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Eckhart Tolle, La transformation de la conscience"
 date: 2012-03-13T20:37:34+01:00
 categories: [Conférences]

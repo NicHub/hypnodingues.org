@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "La Suisse reste leader dans la course à l’innovation"
 date: 2012-05-22T08:00:26+02:00
 categories: [Divers]

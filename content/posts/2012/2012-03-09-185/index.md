@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Victor Hugo — Le suicide"
 date: 2012-03-09T22:02:50+01:00
 categories: [Citations]

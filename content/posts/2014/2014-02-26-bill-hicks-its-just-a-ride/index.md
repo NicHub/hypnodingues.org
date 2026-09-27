@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Bill Hicks - It’s just a ride"
 date: 2014-02-26T11:59:40+01:00
 categories: [Divers]

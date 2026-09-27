@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Formation en psychogénéalogie – 2013-2014"
 date: 2013-09-16T08:20:41+02:00
 categories: [Divers]

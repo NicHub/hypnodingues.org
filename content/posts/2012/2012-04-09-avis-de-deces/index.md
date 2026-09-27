@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Avis de décès"
 date: 2012-04-09T07:15:05+02:00
 categories: [Divers]

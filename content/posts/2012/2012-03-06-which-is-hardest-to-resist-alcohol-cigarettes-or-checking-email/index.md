@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Which is hardest to resist: alcohol, cigarettes or checking email?"
 date: 2012-03-06T08:08:43+01:00
 categories: [Divers, En anglais]

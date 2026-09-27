@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Réunion Hypnodingues"
 date: 2013-04-08T08:58:31+02:00
 categories: [Évènements]

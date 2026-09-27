@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-04T23:26:00+02:00
 title: "Combien faut-il de lacs Léman pour faire tenir la population mondiale de 2026 serrée côte à côte ?"
 date: 2026-05-22T00:00:00+02:00
 categories: [Société]

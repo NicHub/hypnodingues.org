@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Suggestion positive de vie réussie"
 date: 2013-01-15T14:25:16+01:00
 categories: [Hypnose, Textes]

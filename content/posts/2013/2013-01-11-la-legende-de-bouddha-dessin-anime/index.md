@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "La légende de Bouddha (Dessin animé)"
 date: 2013-01-11T11:06:47+01:00
 categories: [Divers]

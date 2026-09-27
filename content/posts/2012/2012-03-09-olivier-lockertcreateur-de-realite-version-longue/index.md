@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Olivier Lockert, Créateur de Réalité, version longue"
 date: 2012-03-09T20:33:54+01:00
 categories: [Hypnose, Textes]

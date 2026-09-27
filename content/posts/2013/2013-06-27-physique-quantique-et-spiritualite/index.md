@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Physique Quantique et Spiritualité"
 date: 2013-06-27T20:41:30+02:00
 categories: [Liens]

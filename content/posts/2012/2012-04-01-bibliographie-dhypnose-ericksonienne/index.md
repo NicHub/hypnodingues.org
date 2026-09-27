@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Bibliographie d’hypnose ericksonienne"
 date: 2012-04-01T18:25:18+02:00
 categories: [Liens]

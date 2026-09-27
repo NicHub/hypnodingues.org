@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-04T13:28:50+02:00
 title: "Les 7 Merveilles du Monde"
 date: 2013-04-05T21:12:29+02:00
 categories: [Histoire et conte]

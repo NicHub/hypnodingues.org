@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Détermination d’objectif."
 date: 2013-05-13T13:35:51+02:00
 categories: [Exercices, Hypnose, Textes]

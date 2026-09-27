@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Exercez-vous à la synchronisation avec un véritable défi"
 date: 2013-09-18T10:42:48+02:00
 categories: [Hypnose]

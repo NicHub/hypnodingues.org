@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Tenir debout – Fred Pellerin"
 date: 2014-09-16T13:17:45+02:00
 categories: [Divers]

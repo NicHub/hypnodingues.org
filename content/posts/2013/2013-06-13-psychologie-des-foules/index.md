@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Psychologie des foules"
 date: 2013-06-13T13:57:15+02:00
 categories: [Divers]

@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Être responsable de notre bonheur"
 date: 2017-12-30T14:46:00+01:00
 categories: [À classer]

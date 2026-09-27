@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-04T13:28:50+02:00
 title: "Les deux cailloux"
 date: 2013-03-07T14:59:24+01:00
 categories: [Histoire et conte]

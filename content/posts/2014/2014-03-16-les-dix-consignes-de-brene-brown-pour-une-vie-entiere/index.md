@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Les dix « consignes » de Brené Brown pour une Vie entière"
 date: 2014-03-16T22:54:47+01:00
 categories: [Divers]

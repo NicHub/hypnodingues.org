@@ -1,4 +1,5 @@
 ---
+lastmod: 2026-09-03T21:50:37+02:00
 title: "Reflex magazine, décembre 2009, L’hypnose s’installe à l’hôpital"
 date: 2013-07-12T12:30:49+02:00
 categories: [Articles]
