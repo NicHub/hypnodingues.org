@@ -8,7 +8,14 @@
       {{ end }}
     </header>
 
+    {{ if and .IsSection (eq .Section "posts") site.Params.posts.showRecentlyModified }}
+      {{ partial "recently-modified.html" . }}
+    {{ end }}
+
     <div class="post-feed">
+      {{ if and .IsSection (eq .Section "posts") }}
+        <h2>Tous les articles — par date de publication</h2>
+      {{ end }}
       <div class="post-grid">
         {{ range .Paginator.Pages }}
           {{ partial "post-card.html" . }}

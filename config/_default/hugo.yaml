@@ -2,6 +2,7 @@ locale: fr-CH
 title: Hypnodingues
 theme: hypnodingues
 enableRobotsTXT: true
+enableGitInfo: true
 publishDir: .hugo_nokdrive/public
 resourceDir: .hugo_nokdrive/resources
 
@@ -30,6 +31,25 @@ menu:
           weight: 40
 
 params:
+    posts:
+        # Articles récemment modifiés : showRecentlyModified active l’exergue
+        # sur /posts/ ; recentlyModifiedCount règle le nombre de vignettes.
+        # Ces articles restent également dans la liste complète.
+        #
+        # Le classement utilise la date du dernier commit de chaque fichier.
+        # En prévisualisation avec bash scripts/preview.sh (Python 3 requis),
+        # cette date est remplacée par la date de modification sur disque
+        # uniquement si Git signale des changements locaux, indexés ou non.
+        # Les nouveaux articles non suivis utilisent également leur date
+        # de modification sur disque. L’état est actualisé chaque seconde.
+        #
+        # Les dates locales sont générées dans data/localPostDates.json,
+        # ignoré par Git. Les compilations de production, dont GitHub Actions,
+        # utilisent uniquement les dates de commit. Un lancement direct de
+        # hugo server n’actualise pas ces données locales : utiliser le script
+        # de prévisualisation pour ce classement.
+        showRecentlyModified: true
+        recentlyModifiedCount: 4
     description: Hypnodingues, archives de textes, d’hypnose, de conscience et de traversées intérieures.
     theme:
         variant: poetic-dark

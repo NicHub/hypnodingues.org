@@ -546,7 +546,17 @@ p.home-hero-button a:focus-visible {
     padding: 1.25rem;
 }
 
-.post-card h2 {
+.recently-modified {
+    margin-bottom: 3rem;
+}
+
+.recently-modified + .post-feed {
+    border-top: 1px solid var(--line);
+    padding-top: 2rem;
+}
+
+.post-card h2,
+.post-card h3 {
     font-size: 1.4rem;
     line-height: 1.15;
     margin: 0.35rem 0 0.8rem;
@@ -554,7 +564,8 @@ p.home-hero-button a:focus-visible {
     word-break: break-word;
 }
 
-.post-card h2 a {
+.post-card h2 a,
+.post-card h3 a {
     color: var(--text);
     text-decoration: none;
 }

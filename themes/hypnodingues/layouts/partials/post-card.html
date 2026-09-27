@@ -1,8 +1,23 @@
+{{ $page := . }}
+{{ $modified := false }}
+{{ if reflect.IsMap . }}
+  {{ $page = .page }}
+  {{ $modified = .modified }}
+{{ end }}
+{{ with $page }}
 <article class="post-card">
   <p class="post-card-date">
+    {{ if $modified }}
+    Modifié le <time datetime="{{ $modified.Format `2006-01-02T15:04:05Z07:00` }}">{{ $modified.Format "02.01.2006" }}</time>
+    {{ else }}
     <time datetime="{{ .Date.Format `2006-01-02` }}">{{ .Date.Format "02.01.2006" }}</time>
+    {{ end }}
   </p>
+  {{ if $modified }}
+  <h3><a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a></h3>
+  {{ else }}
   <h2><a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a></h2>
+  {{ end }}
   {{ with .Params.categories }}
     <p class="post-card-taxonomy">{{ delimit . " · " }}</p>
   {{ end }}
@@ -15,3 +30,4 @@
   </div>
   <a class="post-card-link" href="{{ .RelPermalink }}">Continuer</a>
 </article>
+{{ end }}
