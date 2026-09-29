@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-08-04T12:29:52+02:00
 title: "Olivier CLERC nous explique l’hygiène émotionnelle"
+lastmod: 2026-08-04T12:29:52+02:00
 date: 2026-05-24T11:00:00+02:00
 categories: [Citations]
 author: Nico

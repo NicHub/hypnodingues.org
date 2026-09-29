@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "VS Ramachandran: Les neurones qui ont formé la civilisation"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-12-11T21:33:41+01:00
 categories: [Conférences]
 author: Nico

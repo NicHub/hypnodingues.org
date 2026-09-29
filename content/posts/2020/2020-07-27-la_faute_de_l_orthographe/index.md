@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-04T12:54:43+02:00
 title: "La faute de l’orthographe | Arnaud Hoedt Jérôme Piron | TEDxRennes"
+lastmod: 2026-09-04T12:54:43+02:00
 date: 2020-07-27T20:24:00+02:00
 categories: [Linguistique]
 author: Nico

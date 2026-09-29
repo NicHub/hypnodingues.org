@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Thérapie avec le cheval pour les HypnoDingues"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-10-07T18:08:08+02:00
 categories: [Évènements]
 author: Nico

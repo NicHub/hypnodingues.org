@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Obtenir le numéro de téléphone d’un.e inconnu.e (2 jours)"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-08-31T15:07:20+02:00
 categories: [Exercices]
 author: Nico

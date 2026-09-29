@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Séminaire Brofman du 6 au 10 février 2013 à l’hôtel Sunways, à Champex, près de Martigny"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-01-04T14:02:35+01:00
 categories: [Évènements]
 author: Nico

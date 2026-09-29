@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "rencontre hypnodingues"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-03-12T19:52:33+01:00
 categories: [Évènements]
 author: Geneviève

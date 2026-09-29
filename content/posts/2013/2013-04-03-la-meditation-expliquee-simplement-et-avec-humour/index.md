@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "La méditation expliquée simplement et avec humour"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-04-03T01:18:48+02:00
 categories: [Santé]
 author: Nico

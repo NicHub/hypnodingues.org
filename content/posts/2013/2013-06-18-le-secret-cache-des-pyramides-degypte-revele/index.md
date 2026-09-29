@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Le secret caché des pyramides d’Égypte révélé"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-06-18T10:21:22+02:00
 categories: [Divers]
 author: Nico

@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Trouver Yoda (3 jours)"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-08-31T15:07:48+02:00
 categories: [Exercices]
 author: Nico

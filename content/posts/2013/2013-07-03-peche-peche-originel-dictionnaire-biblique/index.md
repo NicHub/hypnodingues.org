@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Péché – péché originel (dictionnaire biblique)"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-07-03T11:05:25+02:00
 categories: [Divers]
 author: Nico

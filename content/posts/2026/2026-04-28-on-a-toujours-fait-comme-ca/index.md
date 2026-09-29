@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-08-02T15:55:50+02:00
 title: "On a toujours fait comme ça"
+lastmod: 2026-08-02T15:55:50+02:00
 date: 2026-04-28T00:00:00+02:00
 categories: [Société]
 author: Nico

@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Kumbha mela"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-11-27T10:45:41+01:00
 categories: [Divers]
 author: Laeti

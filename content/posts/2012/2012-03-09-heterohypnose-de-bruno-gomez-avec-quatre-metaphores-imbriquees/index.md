@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Bruno Gomez, Hétérohypnose avec quatre métaphores imbriquées"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-03-09T21:25:02+01:00
 categories: [Hypnose, Textes]
 author: Nico

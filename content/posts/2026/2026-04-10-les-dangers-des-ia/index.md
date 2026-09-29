@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-29T09:34:38+02:00
 title: "Les dangers des IA"
+lastmod: 2026-09-29T09:34:38+02:00
 date: 2026-04-10T11:12:00+02:00
 categories: [IA]
 author: Nico

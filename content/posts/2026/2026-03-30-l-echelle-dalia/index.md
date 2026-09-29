@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-08-10T20:13:14+02:00
 title: "L’échelle Dalia"
+lastmod: 2026-08-10T20:13:14+02:00
 date: 2026-03-30T09:40:00+02:00
 categories: [IA]
 author: Nico

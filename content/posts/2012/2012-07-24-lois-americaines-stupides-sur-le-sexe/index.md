@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Lois stupides!"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-07-24T17:40:36+02:00
 categories: [Liens]
 author: Laeti

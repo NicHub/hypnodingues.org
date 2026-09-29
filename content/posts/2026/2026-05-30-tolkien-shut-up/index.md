@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-08-13T17:04:36+02:00
 title: "Tolkien : “Shut up!”"
+lastmod: 2026-08-13T17:04:36+02:00
 date: 2026-05-30T09:30:00+02:00
 categories: [Citations]
 author: Nico

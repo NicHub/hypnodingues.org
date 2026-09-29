@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Byron Katie – Aimer ce qui est"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-05-28T15:49:22+02:00
 categories: [Liens, Textes]
 author: Nico

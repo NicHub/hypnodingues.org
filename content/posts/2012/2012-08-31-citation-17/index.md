@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Citation"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-08-31T15:47:11+02:00
 categories: [Citations]
 author: Nico

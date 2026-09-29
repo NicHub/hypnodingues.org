@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "5 Blessures qui nous empêche d’être-nous même – Lise Bourbeau"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-04-06T16:39:23+02:00
 categories: [Liens]
 author: Laeti

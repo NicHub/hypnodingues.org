@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-08-02T15:55:50+02:00
 title: "Trois livres remarquables"
+lastmod: 2026-08-02T15:55:50+02:00
 date: 2026-06-25T15:00:00+02:00
 categories: [Livres]
 author: Nico

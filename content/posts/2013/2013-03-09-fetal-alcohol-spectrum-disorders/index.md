@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Fetal Alcohol Spectrum Disorders"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-03-09T16:17:05+01:00
 categories: [Articles]
 author: Nico

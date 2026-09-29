@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Pensée sur l’arrêt du tabagisme"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-03-13T21:49:10+01:00
 categories: [Santé]
 author: Nico

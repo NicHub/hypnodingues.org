@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Peur des premiers patients en hypnose ?"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2014-08-15T15:07:57+02:00
 categories: [Hypnose]
 author: Laeti

@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "The Ghost in Your Genes - BBC Horizon"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-10-30T18:12:02+01:00
 categories: [Articles, En anglais]
 author: Nico

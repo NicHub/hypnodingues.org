@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Zen attitude : Séance d’hypnose pour trouver l’harmonie"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-11-22T09:58:50+01:00
 categories: [Hypnose]
 author: Nico

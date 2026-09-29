@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Citation du Dalaï Lama"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2016-04-24T09:33:00+02:00
 categories: [À classer]
 author: Nico

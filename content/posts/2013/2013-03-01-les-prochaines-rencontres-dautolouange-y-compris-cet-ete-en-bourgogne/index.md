@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Les prochaines rencontres d’autolouange y compris cet été en Bourgogne"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-03-01T10:42:46+01:00
 categories: [Évènements]
 author: Nico

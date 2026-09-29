@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Métaphore - Manuel de communication métaphorique"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-09-28T17:48:43+02:00
 categories: [Bibliographie]
 author: Nico

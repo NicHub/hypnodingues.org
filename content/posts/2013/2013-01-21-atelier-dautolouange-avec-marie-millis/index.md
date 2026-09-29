@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Atelier d’autolouange avec Marie Milis"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-01-21T20:56:18+01:00
 categories: [Évènements]
 author: Nico

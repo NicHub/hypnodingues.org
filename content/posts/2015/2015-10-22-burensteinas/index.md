@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Conférence de l’alchimiste Patrick Burensteinas"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2015-11-03T12:00:00+01:00
 categories: [Divers]
 author: Nico

@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Findhorn, le village de l’utopie écologique"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-04-16T21:34:21+02:00
 categories: [Divers]
 author: Nico

@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Réunion octobre 2013"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-09-26T19:27:23+02:00
 categories: [Évènements]
 author: Nico

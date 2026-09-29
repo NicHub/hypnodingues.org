@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Le verre d’eau"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-05-27T11:04:22+02:00
 categories: [Textes]
 author: Nico

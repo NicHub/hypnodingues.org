@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Anagrammes"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-11-30T12:05:47+01:00
 categories: [Citations]
 author: Nico

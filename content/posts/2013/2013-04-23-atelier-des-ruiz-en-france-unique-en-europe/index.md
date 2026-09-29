@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Atelier des Ruiz en France : unique en Europe"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-04-23T10:06:07+02:00
 categories: [Conférences]
 author: Nico

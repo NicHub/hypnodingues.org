@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Chade-Meng Tan: “Search Inside Yourself”, Authors at Google"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-04-18T09:42:20+02:00
 categories: [Conférences]
 author: Nico

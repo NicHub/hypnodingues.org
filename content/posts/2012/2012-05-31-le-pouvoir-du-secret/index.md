@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Le pouvoir du secret"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-05-31T13:33:30+02:00
 categories: [Citations, Hypnose]
 author: Nico

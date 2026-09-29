@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Fête Hypnodingues"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-08-06T11:38:24+02:00
 categories: [Évènements]
 author: Laeti

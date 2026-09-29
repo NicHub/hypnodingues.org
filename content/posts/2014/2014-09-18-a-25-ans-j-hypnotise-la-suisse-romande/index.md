@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "À 25 ans, j’hypnotise la Suisse romande"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2014-09-18T08:49:15+02:00
 categories: [Articles]
 author: Nico

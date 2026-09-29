@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "J’ai découvert que j’étais synesthète ! C’est grave Docteur ?"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2016-02-17T13:04:00+01:00
 categories: [À classer]
 author: Nico

@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Méditer pour être heureux"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-12-05T18:47:06+01:00
 categories: [Divers]
 author: Nico

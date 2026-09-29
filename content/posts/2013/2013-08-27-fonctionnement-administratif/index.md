@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Fonctionnement administratif"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-08-27T14:09:10+02:00
 categories: [Divers]
 author: Laeti

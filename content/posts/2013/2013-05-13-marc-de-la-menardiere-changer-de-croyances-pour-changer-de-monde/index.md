@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Marc de la Menardière : Changer de croyances pour changer de monde"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-05-13T22:05:37+02:00
 categories: [Conférences]
 author: Nico

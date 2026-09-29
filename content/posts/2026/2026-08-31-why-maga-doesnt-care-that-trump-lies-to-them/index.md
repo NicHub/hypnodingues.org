@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-05T16:41:00+02:00
 title: "Why MAGA Doesn’t Care That Trump Lies To Them"
+lastmod: 2026-09-05T16:41:00+02:00
 date: 2026-08-31T12:00:00+02:00
 categories: [Société]
 author: Nico

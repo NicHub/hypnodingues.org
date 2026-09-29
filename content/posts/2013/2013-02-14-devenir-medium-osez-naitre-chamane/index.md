@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Devenir médium - osez naître chamane"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-02-14T10:23:00+01:00
 categories: [Évènements]
 author: Catherine

@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Domino Pizza Hypnotica"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-10-04T12:28:54+02:00
 categories: [Divers]
 author: Nico

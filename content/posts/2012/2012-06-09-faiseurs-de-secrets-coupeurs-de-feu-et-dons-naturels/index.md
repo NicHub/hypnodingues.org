@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Faiseurs de secrets, coupeurs de feu, et dons naturels"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-06-09T10:27:01+02:00
 categories: [Santé]
 author: Nico

@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Ho’oponopono"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-12-07T13:20:41+01:00
 categories: [Articles]
 author: Nico

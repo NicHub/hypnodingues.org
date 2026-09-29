@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-08-13T17:04:36+02:00
 title: "Je ne me bats pas parce que je suis sûr de gagner, je me bats parce que cela fait sens"
+lastmod: 2026-08-13T17:04:36+02:00
 date: 2026-08-04T10:00:00+02:00
 categories: [Citations]
 author: Nico

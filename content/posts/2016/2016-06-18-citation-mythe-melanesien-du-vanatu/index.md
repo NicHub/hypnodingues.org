@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Mythe mélanésien du Vanuatu"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2016-06-18T12:06:00+02:00
 categories: [À classer]
 author: Nico

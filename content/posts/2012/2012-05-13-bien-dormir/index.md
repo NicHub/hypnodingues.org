@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Bien dormir"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-05-13T13:49:50+02:00
 categories: [Hypnose, Textes]
 author: Audrey

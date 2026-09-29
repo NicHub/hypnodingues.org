@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Imagine de John Lennon en BD"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-09-21T17:50:54+02:00
 categories: [Divers]
 author: Nico

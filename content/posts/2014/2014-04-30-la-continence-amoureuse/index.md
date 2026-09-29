@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "La continence amoureuse"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2014-04-30T23:09:16+02:00
 categories: [Divers]
 author: Laeti

@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Affirmation du soutra pour la première règle de vie"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-05-20T16:02:19+02:00
 categories: [Hypnose, Textes]
 author: Nico

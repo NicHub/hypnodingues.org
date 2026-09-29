@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-08-02T15:55:50+02:00
 title: "Naomi Brockwell — Introduction à la protection de la vie privée pour débutants"
+lastmod: 2026-08-02T15:55:50+02:00
 date: 2026-06-26T16:00:00+02:00
 categories: [OSINT]
 author: Nico

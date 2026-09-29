@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Ritaline, enquête sur une pilule miracle"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2013-04-11T12:08:50+02:00
 categories: [Santé]
 author: Nico

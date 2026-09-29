@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Comment avoir une idée géniale - Specimen 26.12.2012"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-12-30T16:27:23+01:00
 categories: [Articles]
 author: Nico

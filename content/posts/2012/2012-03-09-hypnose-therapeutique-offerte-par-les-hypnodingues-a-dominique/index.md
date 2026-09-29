@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Hypnose thérapeutique offerte à Dominique par les hypnodingues"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-03-09T21:31:38+01:00
 categories: [Hypnose, Textes]
 author: Nico

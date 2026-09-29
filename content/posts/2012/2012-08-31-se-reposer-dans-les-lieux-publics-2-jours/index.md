@@ -1,6 +1,6 @@
 ---
-lastmod: 2026-09-03T21:50:37+02:00
 title: "Se reposer dans les lieux publics (2 jours)"
+lastmod: 2026-09-03T21:50:37+02:00
 date: 2012-08-31T15:40:40+02:00
 categories: [Exercices]
 author: Nico
