@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-09-27T17:54:04+02:00
+lastmod: 2026-09-29T09:34:38+02:00
 title: "Les dangers des IA"
 date: 2026-04-10T11:12:00+02:00
 categories: [IA]
@@ -29,7 +29,7 @@ twitter_card: "summary_large_image"
 
     -   Cet article utilise sa propre feuille de style CSS, `style.css`, qui surcharge les styles par défaut.
 
-    ## !!! ORDRE D’APPARITION DES LIENS EN PIED DE PAGE !!!
+    ## !!! ORDRE D’APPARITION DES LIENS EN PIED DE PAGE !!!
 
         L’ordre d’apparition des liens est différent dans les pieds de page du document Markdown et du document HTML.
         Ceci est dû au fait que Hugo classe les liens en pied de page du HTML par ordre d’apparition dans le texte.
@@ -130,7 +130,8 @@ twitter_card: "summary_large_image"
         -   Réduction de la confiance entre humains.
         -   Dégradation des compétences d’évaluation humaines.
         -   Confusion entre conformité statistique et qualité réelle.
-        -   Mise sous surveillance permanente du travail.
+        -   Mise sous surveillance permanente du travail et des œuvres en général.
+            -   _YouTube — Culture & IA — Thélyson Orélien a utilisé l’IA ? Tous les tests et la réponse définitive !_[^76]
         -   Effet de boucle : des IA produisent, d’autres IA évaluent, puis ces évaluations servent à entrainer de nouvelles IA.
 
 14. **Elles sont énergivores**
@@ -463,7 +464,7 @@ twitter_card: "summary_large_image"
     >
     > un flatteur servile et égoïste : quelqu’un qui fait l’éloge des personnes au pouvoir afin de s’attirer leurs faveurs
     >
-    > Dans la Grèce antique, le terme « sykophantēs » signifiait « calomniateur ». Il dérive de deux autres mots grecs : « sykon » (qui signifie « figue ») et « phainein » (qui signifie « montrer ou révéler »). Comment ceux qui « révélaient » les figues sont-ils devenus des calomniateurs ? Une théorie fait référence aux taxes que les agriculteurs grecs devaient payer sur les figues qu’ils apportaient au marché. Apparemment, les agriculteurs tentaient parfois d’échapper à ces paiements, mais des mouchards — ceux qui « révélaient » les figues — les dénonçaient, et ils étaient alors contraints de payer. Une autre origine possible tient à l’un des sens du mot « figue », qui désigne « un geste ou un signe de mépris » (comme le fait de glisser le pouce entre deux doigts). Quoi qu’il en soit, le latin a conservé le sens de « calomniateur » lorsqu’il a emprunté une variante de sykophantēs, mais au moment où les anglophones l’ont emprunté au XVIe siècle sous la forme sycophant, les « dénonciateurs » étaient devenus des « flatteurs ».
+    > Dans la Grèce antique, le terme « sykophantēs » signifiait « calomniateur ». Il dérive de deux autres mots grecs : « sykon » (qui signifie « figue ») et « phainein » (qui signifie « montrer ou révéler »). Comment ceux qui « révélaient » les figues sont-ils devenus des calomniateurs ? Une théorie fait référence aux taxes que les agriculteurs grecs devaient payer sur les figues qu’ils apportaient au marché. Apparemment, les agriculteurs tentaient parfois d’échapper à ces paiements, mais des mouchards — ceux qui « révélaient » les figues — les dénonçaient, et ils étaient alors contraints de payer. Une autre origine possible tient à l’un des sens du mot « figue », qui désigne « un geste ou un signe de mépris » (comme le fait de glisser le pouce entre deux doigts). Quoi qu’il en soit, le latin a conservé le sens de « calomniateur » lorsqu’il a emprunté une variante de sykophantēs, mais au moment où les anglophones l’ont emprunté au XVIe siècle sous la forme sycophant, les « dénonciateurs » étaient devenus des « flatteurs ».
     >
     > #### ChatGPT
     >
@@ -478,3 +479,5 @@ twitter_card: "summary_large_image"
 [^74]: [YouTube — Patrick Baud | Continue tu m’intéresses — Akim Omiri | Crochet du gauche](https://www.youtube.com/watch?v=SQ29P22mjfk&t=1128s)
 
 [^75]: [YouTube — EEVblog 1776 — Get paid $175/hr to eliminate your own PCB Design job!](https://www.youtube.com/watch?v=dgVYNaHekgs)
+
+[^76]: [YouTube — Culture & IA — Thélyson Orélien a utilisé l’IA ? Tous les tests et la réponse définitive !](https://www.youtube.com/watch?v=9iiGaHCJTT4&lc=UgyyHZq2GD0DJ_Fxdtx4AaABAg)
