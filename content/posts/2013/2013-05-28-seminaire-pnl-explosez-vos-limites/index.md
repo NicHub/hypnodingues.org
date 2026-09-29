@@ -1,7 +1,7 @@
 ---
 title: "Séminaire PNL explosez vos limites"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-05-28T17:18:25+02:00
+date:    2013-05-28T17:18:25+02:00
 categories: [Évènements]
 author: Nico
 draft: false

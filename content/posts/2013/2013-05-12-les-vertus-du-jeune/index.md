@@ -1,7 +1,7 @@
 ---
 title: "Les vertus du jeûne."
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-05-12T18:13:30+02:00
+date:    2013-05-12T18:13:30+02:00
 categories: [Liens]
 author: Laeti
 draft: false

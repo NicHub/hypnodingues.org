@@ -1,7 +1,7 @@
 ---
 title: "Napoleon Hill — Réfléchissez et devenez riche (livre audio)"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2015-01-05T19:54:18+01:00
+date:    2015-01-05T19:54:18+01:00
 categories: [Divers]
 author: Nico
 draft: true

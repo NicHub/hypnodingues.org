@@ -1,7 +1,7 @@
 ---
 title: "Texte du livre “Hypnose” de Olivier Lockert"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2014-06-28T21:14:48+02:00
+date:    2014-06-28T21:14:48+02:00
 categories: [Hypnose, Textes]
 author: Laeti
 draft: false

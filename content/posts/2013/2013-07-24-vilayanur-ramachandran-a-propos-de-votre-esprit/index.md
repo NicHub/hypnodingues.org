@@ -1,7 +1,7 @@
 ---
 title: "Vilayanur Ramachandran - à propos de votre esprit"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-07-24T16:19:47+02:00
+date:    2013-07-24T16:19:47+02:00
 categories: [Conférences]
 author: Nico
 draft: false

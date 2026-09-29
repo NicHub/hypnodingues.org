@@ -1,7 +1,7 @@
 ---
 title: "Il se réveille en parlant une autre langue"
 lastmod: 2026-09-04T12:54:43+02:00
-date: 2016-10-27T12:21:00+01:00
+date:    2016-10-27T12:21:00+01:00
 categories: [Actu, Linguistique]
 author: Nico
 draft: false

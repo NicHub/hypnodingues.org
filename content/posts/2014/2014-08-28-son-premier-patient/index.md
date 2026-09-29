@@ -1,7 +1,7 @@
 ---
 title: "Son premier patient !!!"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2014-08-28T12:45:43+02:00
+date:    2014-08-28T12:45:43+02:00
 categories: [Articles, Hypnose]
 author: Laeti
 draft: false

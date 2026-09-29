@@ -1,7 +1,7 @@
 ---
 title: "Quelle sera votre rime ?"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2014-03-31T21:58:16+02:00
+date:    2014-03-31T21:58:16+02:00
 categories: [Divers]
 author: Nico
 draft: false

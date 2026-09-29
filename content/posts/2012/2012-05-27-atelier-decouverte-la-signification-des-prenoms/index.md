@@ -1,7 +1,7 @@
 ---
 title: "Atelier découverte : La signification des prénoms"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-05-27T20:53:20+02:00
+date:    2012-05-27T20:53:20+02:00
 categories: [Conférences, Évènements]
 author: Nico
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "Citations de Joseph Campbell"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2016-06-16T16:32:00+02:00
+date:    2016-06-16T16:32:00+02:00
 categories: [À classer]
 author: Nico
 draft: false

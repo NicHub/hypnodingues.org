@@ -1,7 +1,7 @@
 ---
 title: "Totem tantrique chinois"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-05-16T00:20:06+02:00
+date:    2012-05-16T00:20:06+02:00
 categories: [Divers]
 author: Nico
 draft: false

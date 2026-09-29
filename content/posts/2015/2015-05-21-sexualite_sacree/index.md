@@ -1,7 +1,7 @@
 ---
 title: "Sexualité sacrée"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2015-05-21T13:31:00+02:00
+date:    2015-05-21T13:31:00+02:00
 categories: [Sexualite]
 author: Laeti
 draft: false

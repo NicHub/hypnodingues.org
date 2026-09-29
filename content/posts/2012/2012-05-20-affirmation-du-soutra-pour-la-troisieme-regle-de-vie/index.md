@@ -1,7 +1,7 @@
 ---
 title: "Affirmation du soutra pour la troisième règle de vie"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-05-20T16:26:08+02:00
+date:    2012-05-20T16:26:08+02:00
 categories: [Hypnose, Textes]
 author: Nico
 draft: false

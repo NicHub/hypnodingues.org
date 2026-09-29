@@ -1,7 +1,7 @@
 ---
 title: "Atelier Le Don du Pardon avec Olivier Clerc"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-10-03T16:19:29+02:00
+date:    2012-10-03T16:19:29+02:00
 categories: [Évènements]
 author: Nico
 draft: false

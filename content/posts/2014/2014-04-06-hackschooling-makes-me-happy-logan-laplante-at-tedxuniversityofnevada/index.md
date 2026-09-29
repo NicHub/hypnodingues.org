@@ -1,7 +1,7 @@
 ---
 title: "Hackschooling makes me happy: Logan LaPlante at TEDxUniversityofNevada"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2014-04-06T16:52:24+02:00
+date:    2014-04-06T16:52:24+02:00
 categories: [Divers]
 author: Nico
 draft: false

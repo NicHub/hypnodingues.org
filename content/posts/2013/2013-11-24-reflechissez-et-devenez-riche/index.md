@@ -1,7 +1,7 @@
 ---
 title: "réfléchissez et devenez riche"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-11-24T16:46:39+01:00
+date:    2013-11-24T16:46:39+01:00
 categories: [Divers]
 author: Geneviève
 draft: false

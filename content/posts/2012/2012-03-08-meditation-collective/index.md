@@ -1,7 +1,7 @@
 ---
 title: "méditation collective"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-03-08T12:15:57+01:00
+date:    2012-03-08T12:15:57+01:00
 categories: [Évènements]
 author: Geneviève
 draft: false

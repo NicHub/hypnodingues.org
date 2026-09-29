@@ -1,7 +1,7 @@
 ---
 title: "Citation"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-05-31T13:43:03+02:00
+date:    2012-05-31T13:43:03+02:00
 categories: [Citations, Hypnose]
 author: Nico
 draft: false

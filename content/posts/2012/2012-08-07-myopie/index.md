@@ -1,7 +1,7 @@
 ---
 title: "Myopie"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-08-07T13:02:06+02:00
+date:    2012-08-07T13:02:06+02:00
 categories: [Divers]
 author: Laeti
 draft: false

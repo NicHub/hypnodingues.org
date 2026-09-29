@@ -1,7 +1,7 @@
 ---
 title: "Histoire du vibromasseur"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2014-01-03T19:29:22+01:00
+date:    2014-01-03T19:29:22+01:00
 categories: [Articles]
 author: Nico
 draft: false

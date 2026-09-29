@@ -1,7 +1,7 @@
 ---
 title: "10 Reasons English is Ridiculously Hard"
 lastmod: 2026-09-21T21:38:25+02:00
-date: 2026-07-19T19:36:00+02:00
+date:    2026-07-19T19:36:00+02:00
 categories: [Linguistique]
 author: Nico
 draft: false

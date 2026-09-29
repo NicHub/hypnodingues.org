@@ -1,7 +1,7 @@
 ---
 title: "Le secret de Pyramides d’Egypte"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-08-31T19:03:53+02:00
+date:    2013-08-31T19:03:53+02:00
 categories: [Liens]
 author: Laeti
 draft: false

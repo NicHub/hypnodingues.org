@@ -1,7 +1,7 @@
 ---
 title: "Pleine Lune de Wesak 2012"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-05-04T10:13:50+02:00
+date:    2012-05-04T10:13:50+02:00
 categories: [Liens]
 author: Laeti
 draft: false

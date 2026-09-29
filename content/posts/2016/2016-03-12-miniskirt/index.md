@@ -1,7 +1,7 @@
 ---
 title: "Citation"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2016-03-12T19:42:00+01:00
+date:    2016-03-12T19:42:00+01:00
 categories: [À classer]
 author: Nico
 draft: false

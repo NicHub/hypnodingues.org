@@ -1,7 +1,7 @@
 ---
 title: "Garatin : Egopode, berce et patate..."
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2014-04-25T12:24:46+02:00
+date:    2014-04-25T12:24:46+02:00
 categories: [Recette]
 author: Laeti
 draft: false

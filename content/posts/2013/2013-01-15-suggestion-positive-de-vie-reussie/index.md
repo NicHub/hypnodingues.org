@@ -1,7 +1,7 @@
 ---
 title: "Suggestion positive de vie réussie"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-01-15T14:25:16+01:00
+date:    2013-01-15T14:25:16+01:00
 categories: [Hypnose, Textes]
 author: Nico
 draft: true

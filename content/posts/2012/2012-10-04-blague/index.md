@@ -1,7 +1,7 @@
 ---
 title: "Blague"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-10-04T16:36:48+02:00
+date:    2012-10-04T16:36:48+02:00
 categories: [Histoires drôles]
 author: Nico
 draft: false

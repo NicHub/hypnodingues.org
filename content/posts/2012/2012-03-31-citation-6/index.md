@@ -1,7 +1,7 @@
 ---
 title: "Citation"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-03-31T17:03:56+02:00
+date:    2012-03-31T17:03:56+02:00
 categories: [Citations]
 author: Nico
 draft: false

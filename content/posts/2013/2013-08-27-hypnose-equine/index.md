@@ -1,7 +1,7 @@
 ---
 title: "Hypnose équine"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-08-27T11:59:13+02:00
+date:    2013-08-27T11:59:13+02:00
 categories: [Évènements]
 author: Nico
 draft: false

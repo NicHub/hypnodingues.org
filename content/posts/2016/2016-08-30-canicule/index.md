@@ -1,7 +1,7 @@
 ---
 title: "Canicule"
 lastmod: 2026-09-04T12:54:43+02:00
-date: 2016-08-30T09:04:00+02:00
+date:    2016-08-30T09:04:00+02:00
 categories: [Définitions, Linguistique]
 author: Nico
 draft: false

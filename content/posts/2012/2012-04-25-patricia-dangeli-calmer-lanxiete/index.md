@@ -1,7 +1,7 @@
 ---
 title: "Patricia d’Angeli,  Calmer l’anxiété."
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-04-25T10:58:15+02:00
+date:    2012-04-25T10:58:15+02:00
 categories: [Textes]
 author: Nico
 draft: true

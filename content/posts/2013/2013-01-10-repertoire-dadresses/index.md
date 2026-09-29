@@ -1,7 +1,7 @@
 ---
 title: "Répertoire d’adresses"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-01-10T15:34:46+01:00
+date:    2013-01-10T15:34:46+01:00
 categories: [Hypnose]
 author: Nico
 draft: true

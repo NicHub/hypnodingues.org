@@ -1,7 +1,7 @@
 ---
 title: "Réunion Hypnodingues"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-02-14T11:14:08+01:00
+date:    2013-02-14T11:14:08+01:00
 categories: [Évènements]
 author: Nico
 draft: true

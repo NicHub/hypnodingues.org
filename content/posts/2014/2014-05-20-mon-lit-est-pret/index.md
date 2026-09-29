@@ -1,7 +1,7 @@
 ---
 title: "Mon lit est prêt ;-)!!!"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2014-05-20T20:08:15+02:00
+date:    2014-05-20T20:08:15+02:00
 categories: [Divers]
 author: Laeti
 draft: false

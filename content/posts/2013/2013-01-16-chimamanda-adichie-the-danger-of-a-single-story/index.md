@@ -1,7 +1,7 @@
 ---
 title: "Chimamanda Adichie: The danger of a single story"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-01-16T01:27:23+01:00
+date:    2013-01-16T01:27:23+01:00
 categories: [Conférences]
 author: Nico
 draft: false

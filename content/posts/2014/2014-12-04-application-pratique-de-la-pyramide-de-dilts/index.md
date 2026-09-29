@@ -1,7 +1,7 @@
 ---
 title: "Application pratique de la pyramide de Dilts"
 lastmod: 2026-09-03T17:47:00+02:00
-date: 2014-12-04T23:58:11+01:00
+date:    2014-12-04T23:58:11+01:00
 categories: [Divers]
 author: Nico
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "Psychogénéalogie"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-11-01T11:23:40+01:00
+date:    2012-11-01T11:23:40+01:00
 categories: [Divers, Santé]
 author: Nico
 draft: false

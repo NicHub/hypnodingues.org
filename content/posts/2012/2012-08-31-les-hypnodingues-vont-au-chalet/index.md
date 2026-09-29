@@ -1,7 +1,7 @@
 ---
 title: "Les hypnodingues vont au chalet"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-08-31T11:58:54+02:00
+date:    2012-08-31T11:58:54+02:00
 categories: [Évènements]
 author: Nico
 draft: true

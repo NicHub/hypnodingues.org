@@ -1,7 +1,7 @@
 ---
 title: "Tony Robbins: Pourquoi nous faisons ce que nous faisons"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-12-12T11:13:06+01:00
+date:    2012-12-12T11:13:06+01:00
 categories: [Conférences]
 author: Nico
 draft: false

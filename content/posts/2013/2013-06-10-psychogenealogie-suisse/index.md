@@ -1,7 +1,7 @@
 ---
 title: "Psycho­généalogie suisse"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-06-10T11:28:28+02:00
+date:    2013-06-10T11:28:28+02:00
 categories: [Conférences, Évènements]
 author: Nico
 draft: false

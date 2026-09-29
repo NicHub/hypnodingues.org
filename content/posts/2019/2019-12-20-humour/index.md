@@ -1,7 +1,7 @@
 ---
 title: "Humour"
 lastmod: 2026-09-04T23:26:00+02:00
-date: 2019-12-20T14:14:00+01:00
+date:    2019-12-20T14:14:00+01:00
 categories: [À classer]
 author: Nico
 draft: false

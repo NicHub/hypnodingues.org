@@ -1,7 +1,7 @@
 ---
 title: "Aidez Hang Massive à financer leur prochain album"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2015-01-05T18:33:59+01:00
+date:    2015-01-05T18:33:59+01:00
 categories: [Divers]
 author: Nico
 draft: false

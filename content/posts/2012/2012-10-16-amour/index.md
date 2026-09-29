@@ -1,7 +1,7 @@
 ---
 title: "AMOUR"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-10-16T00:20:10+02:00
+date:    2012-10-16T00:20:10+02:00
 categories: [Divers]
 author: Laeti
 draft: false

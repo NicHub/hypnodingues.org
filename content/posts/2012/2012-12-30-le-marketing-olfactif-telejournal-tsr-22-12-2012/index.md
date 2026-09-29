@@ -1,7 +1,7 @@
 ---
 title: "Le marketing olfactif - Téléjournal TSR 22.12.2012"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-12-30T16:24:53+01:00
+date:    2012-12-30T16:24:53+01:00
 categories: [Articles, Hypnose]
 author: Nico
 draft: false

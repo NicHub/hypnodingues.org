@@ -1,7 +1,7 @@
 ---
 title: "The Secret Psychology of People Who Hate Being Told What To Do"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2026-01-04T16:15:00+01:00
+date:    2026-01-04T16:15:00+01:00
 categories: [À classer]
 author: Nico
 draft: false

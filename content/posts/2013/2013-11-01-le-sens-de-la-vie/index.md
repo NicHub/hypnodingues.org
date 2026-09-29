@@ -1,7 +1,7 @@
 ---
 title: "Le sens de la vie"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-11-01T19:53:35+01:00
+date:    2013-11-01T19:53:35+01:00
 categories: [Citations]
 author: Nico
 draft: false

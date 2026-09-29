@@ -1,7 +1,7 @@
 ---
 title: "Méditer jour après jour"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-09-27T17:20:29+02:00
+date:    2012-09-27T17:20:29+02:00
 categories: [Bibliographie]
 author: Nico
 draft: false

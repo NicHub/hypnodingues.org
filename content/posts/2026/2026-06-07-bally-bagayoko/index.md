@@ -1,7 +1,7 @@
 ---
 title: "Le coup de pression de Macron à Bally Bagayoko"
 lastmod: 2026-08-02T15:55:50+02:00
-date: 2026-06-07T00:00:00+02:00
+date:    2026-06-07T00:00:00+02:00
 categories: [Société]
 author: Nico
 draft: false

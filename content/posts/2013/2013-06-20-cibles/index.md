@@ -1,7 +1,7 @@
 ---
 title: "Cibles"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-06-20T17:34:48+02:00
+date:    2013-06-20T17:34:48+02:00
 categories: [Hypnose]
 author: Nico
 draft: false

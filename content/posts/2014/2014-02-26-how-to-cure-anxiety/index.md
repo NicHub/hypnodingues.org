@@ -1,7 +1,7 @@
 ---
 title: "How to Cure Anxiety"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2014-02-26T12:03:11+01:00
+date:    2014-02-26T12:03:11+01:00
 categories: [En anglais]
 author: Nico
 draft: false

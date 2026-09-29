@@ -1,7 +1,7 @@
 ---
 title: "Rejeter les premières offres et tourner les talons (3 jours)"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-08-31T15:28:42+02:00
+date:    2012-08-31T15:28:42+02:00
 categories: [Exercices]
 author: Nico
 draft: true

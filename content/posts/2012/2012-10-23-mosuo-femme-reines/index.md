@@ -1,7 +1,7 @@
 ---
 title: "Mosuo femme reines!"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-10-23T20:19:52+02:00
+date:    2012-10-23T20:19:52+02:00
 categories: [Divers]
 author: Laeti
 draft: false

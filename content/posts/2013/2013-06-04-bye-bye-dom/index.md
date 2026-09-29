@@ -1,7 +1,7 @@
 ---
 title: "Bye bye Dom"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2013-06-04T09:16:55+02:00
+date:    2013-06-04T09:16:55+02:00
 categories: [Membres]
 author: Nico
 draft: false

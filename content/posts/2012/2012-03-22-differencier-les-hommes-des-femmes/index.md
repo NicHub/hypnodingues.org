@@ -1,7 +1,7 @@
 ---
 title: "Différencier les hommes des femmes"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-03-22T18:17:24+01:00
+date:    2012-03-22T18:17:24+01:00
 categories: [Divers]
 author: Nico
 draft: false

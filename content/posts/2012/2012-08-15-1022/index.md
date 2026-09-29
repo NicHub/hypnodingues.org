@@ -1,7 +1,7 @@
 ---
 title: "Le palais des illusions"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-08-15T17:37:51+02:00
+date:    2012-08-15T17:37:51+02:00
 categories: [Bibliographie]
 author: Nico
 draft: false

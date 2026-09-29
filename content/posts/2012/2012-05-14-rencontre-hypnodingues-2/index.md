@@ -1,7 +1,7 @@
 ---
 title: "Rencontre Hypnodingues"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-05-14T10:13:14+02:00
+date:    2012-05-14T10:13:14+02:00
 categories: [Évènements]
 author: Laeti
 draft: true

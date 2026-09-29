@@ -1,7 +1,7 @@
 ---
 title: "6 mars 2011, Hypnose collective chez Dominique"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-03-09T21:18:14+01:00
+date:    2012-03-09T21:18:14+01:00
 categories: [Hypnose, Textes]
 author: Nico
 draft: true

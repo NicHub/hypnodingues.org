@@ -1,7 +1,7 @@
 ---
 title: "Illusions d’optique"
 lastmod: 2026-09-04T23:26:00+02:00
-date: 2019-12-24T12:05:00+01:00
+date:    2019-12-24T12:05:00+01:00
 categories: [À classer]
 author: Nico
 draft: false

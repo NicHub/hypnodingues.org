@@ -1,7 +1,7 @@
 ---
 title: "Les Trois Maîtrises"
 lastmod: 2026-09-03T21:50:37+02:00
-date: 2012-09-04T16:01:15+02:00
+date:    2012-09-04T16:01:15+02:00
 categories: [Citations]
 author: Nico
 draft: false

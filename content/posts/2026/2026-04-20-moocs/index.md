@@ -1,7 +1,7 @@
 ---
 title: "Meta moteur de recherche de MOOC"
 lastmod: 2026-09-27T16:35:49+02:00
-date: 2026-04-20T00:00:00+02:00
+date:    2026-04-20T00:00:00+02:00
 categories: [Technique]
 author: Nico
 draft: false
