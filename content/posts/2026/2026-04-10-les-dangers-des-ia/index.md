@@ -46,7 +46,7 @@ twitter_card:          "summary_large_image"
 >
 > Leur déploiement rapide transforme déjà nos manières de travailler, de créer, de décider et de nous informer.
 >
-> Voici une liste non exhaustive et évolutive des dangers qu’elles font peser sur les individus, la société et l’environnement.
+> En attendant l’_IApocalypse_[^77], voici une liste non exhaustive et évolutive des dangers qu’elles font peser sur les individus, la société et l’environnement.
 
 ![Calvin and Hobbes: Leave Math to the Machines](./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp)
 
@@ -481,3 +481,5 @@ twitter_card:          "summary_large_image"
 [^75]: [YouTube — EEVblog 1776 — Get paid $175/hr to eliminate your own PCB Design job!](https://www.youtube.com/watch?v=dgVYNaHekgs)
 
 [^76]: [YouTube — Culture & IA — Thélyson Orélien a utilisé l’IA ? Tous les tests et la réponse définitive !](https://www.youtube.com/watch?v=9iiGaHCJTT4&lc=UgyyHZq2GD0DJ_Fxdtx4AaABAg)
+
+[^77]: [YouTube — Les Echos — Pourquoi les géants de l’IA tirent la sonnette d’alarme ? Clarisse t’explique](https://www.youtube.com/watch?v=-lly_C676fw)
