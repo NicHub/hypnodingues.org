@@ -1,10 +1,10 @@
 ---
-title: "Kseniya Simonova – Animation de sable"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-03-06T12:14:31+01:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Kseniya Simonova – Animation de sable"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-03-06T12:14:31+01:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/kseniya-simonova-animation-de-sable/
 ---

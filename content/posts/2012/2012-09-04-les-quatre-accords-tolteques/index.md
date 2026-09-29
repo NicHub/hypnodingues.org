@@ -1,10 +1,10 @@
 ---
-title: "Les Quatre Accords Toltèques"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-09-04T15:55:39+02:00
-categories: [Citations]
-author: Nico
-draft: false
+title:         "Les Quatre Accords Toltèques"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-09-04T15:55:39+02:00
+categories:    [Citations]
+author:        Nico
+draft:         false
 aliases:
   - /citations/les-quatre-accords-tolteques/
 ---

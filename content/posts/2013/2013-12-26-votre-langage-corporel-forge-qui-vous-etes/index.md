@@ -1,10 +1,10 @@
 ---
-title: "Votre langage corporel forge qui vous êtes"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-12-26T11:45:19+01:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Votre langage corporel forge qui vous êtes"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-12-26T11:45:19+01:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/votre-langage-corporel-forge-qui-vous-etes/
 ---

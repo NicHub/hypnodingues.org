@@ -1,10 +1,10 @@
 ---
-title: "Réunion du 25 mai"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-05-07T10:56:32+02:00
-categories: [Évènements]
-author: Laeti
-draft: true
+title:         "Réunion du 25 mai"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-05-07T10:56:32+02:00
+categories:    [Évènements]
+author:        Laeti
+draft:         true
 aliases:
   - /évènements/reunion-du-25-mai/
 ---

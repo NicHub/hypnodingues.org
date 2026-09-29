@@ -1,10 +1,10 @@
 ---
-title: "Tenir debout – Fred Pellerin"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-09-16T13:17:45+02:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Tenir debout – Fred Pellerin"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-09-16T13:17:45+02:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/tenir-debout-fred-pellerin/
 ---

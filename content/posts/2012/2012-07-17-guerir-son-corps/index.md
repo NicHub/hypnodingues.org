@@ -1,10 +1,10 @@
 ---
-title: "Guérir son corps"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-07-17T19:57:49+02:00
-categories: [Santé]
-author: Nico
-draft: true
+title:         "Guérir son corps"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-07-17T19:57:49+02:00
+categories:    [Santé]
+author:        Nico
+draft:         true
 aliases:
   - /santé/guerir-son-corps/
 ---

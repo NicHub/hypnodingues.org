@@ -1,10 +1,10 @@
 ---
-title: "Additifs alimentaires : décoder les E-numéros courants"
-lastmod: 2026-08-13T17:04:36+02:00
-date:    2026-04-22T00:00:00+02:00
-categories: [Santé]
-author: Nico
-draft: false
+title:         "Additifs alimentaires : décoder les E-numéros courants"
+lastmod:       2026-08-13T17:04:36+02:00
+date:          2026-04-22T00:00:00+02:00
+categories:    [Santé]
+author:        Nico
+draft:         false
 ---
 
 

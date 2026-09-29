@@ -1,10 +1,10 @@
 ---
-title: "Comment notre intuition nous trompe-t-elle ?"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-02-22T12:43:29+01:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Comment notre intuition nous trompe-t-elle ?"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-02-22T12:43:29+01:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/comment-notre-intuition-nous-trompe-t-elle/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Librairie C’Est Ecrit - Dédicace & Balade - Joëlle Chautems et Mathieu Bressoud"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-05-26T12:06:20+02:00
-categories: [Évènements]
-author: Nico
-draft: false
+title:         "Librairie C’Est Ecrit - Dédicace & Balade - Joëlle Chautems et Mathieu Bressoud"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-05-26T12:06:20+02:00
+categories:    [Évènements]
+author:        Nico
+draft:         false
 aliases:
   - /évènements/librairie-cest-ecrit-dedicace-balade-joelle-chautems-et-mathieu-bressoud/
 ---

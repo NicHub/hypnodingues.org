@@ -1,10 +1,10 @@
 ---
-title: "Hier, les patrons se sont caricaturés eux-mêmes !"
-lastmod: 2026-09-01T05:06:33+02:00
-date:    2026-08-28T12:00:00+02:00
-categories: [Citations]
-author: Nico
-draft: false
+title:         "Hier, les patrons se sont caricaturés eux-mêmes !"
+lastmod:       2026-09-01T05:06:33+02:00
+date:          2026-08-28T12:00:00+02:00
+categories:    [Citations]
+author:        Nico
+draft:         false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xny-myFyGro?si=c6dKgQU0x0zG8SUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

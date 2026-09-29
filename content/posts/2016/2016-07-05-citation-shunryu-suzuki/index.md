@@ -1,10 +1,10 @@
 ---
-title: "Citation de Shunryu Suzuki"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2016-07-05T11:29:00+02:00
-categories: [À classer]
-author: Nico
-draft: false
+title:         "Citation de Shunryu Suzuki"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2016-07-05T11:29:00+02:00
+categories:    [À classer]
+author:        Nico
+draft:         false
 aliases:
   - /citation-shunryu-suzuki/
 ---

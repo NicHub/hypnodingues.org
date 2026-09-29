@@ -1,10 +1,10 @@
 ---
-title: "News is bad for you – and giving up reading it will make you happier"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-02-26T09:32:22+01:00
-categories: [En anglais]
-author: Nico
-draft: false
+title:         "News is bad for you – and giving up reading it will make you happier"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-02-26T09:32:22+01:00
+categories:    [En anglais]
+author:        Nico
+draft:         false
 aliases:
   - /en-anglais/news-is-bad-for-you-and-giving-up-reading-it-will-make-you-happier/
 ---

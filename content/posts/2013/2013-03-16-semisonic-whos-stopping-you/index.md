@@ -1,10 +1,10 @@
 ---
-title: "Semisonic – Who’s stopping you ?"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-03-16T14:34:56+01:00
-categories: [Divers]
-author: Nico
-draft: true
+title:         "Semisonic – Who’s stopping you ?"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-03-16T14:34:56+01:00
+categories:    [Divers]
+author:        Nico
+draft:         true
 aliases:
   - /divers/semisonic-whos-stopping-you/
 ---

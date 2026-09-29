@@ -1,10 +1,10 @@
 ---
-title: "« Lettre à mon père »<br>Adan Jodorowsky"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2015-04-11T10:53:14+02:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "« Lettre à mon père »<br>Adan Jodorowsky"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2015-04-11T10:53:14+02:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/lettre-a-mon-pere-adan-jodorowsky/
 ---

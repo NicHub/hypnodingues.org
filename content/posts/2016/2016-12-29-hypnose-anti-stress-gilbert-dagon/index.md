@@ -1,10 +1,10 @@
 ---
-title: "Hypnose anti-stress Gilbert Dagon"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2016-12-29T20:43:00+01:00
-categories: [À classer]
-author: Nico
-draft: false
+title:         "Hypnose anti-stress Gilbert Dagon"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2016-12-29T20:43:00+01:00
+categories:    [À classer]
+author:        Nico
+draft:         false
 aliases:
   - /hypnose-anti-stress-gilbert-dagon/
 ---

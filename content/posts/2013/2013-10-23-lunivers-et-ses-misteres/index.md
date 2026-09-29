@@ -1,10 +1,10 @@
 ---
-title: "L’univers et ses mystères..."
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-10-23T22:27:15+02:00
-categories: [Liens]
-author: Laeti
-draft: false
+title:         "L’univers et ses mystères..."
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-10-23T22:27:15+02:00
+categories:    [Liens]
+author:        Laeti
+draft:         false
 aliases:
   - /liens/lunivers-et-ses-misteres/
 ---

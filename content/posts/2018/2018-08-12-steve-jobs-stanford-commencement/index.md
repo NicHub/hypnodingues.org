@@ -1,10 +1,10 @@
 ---
-title: "Steve Jobs: Stanford Commencement"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2018-08-12T19:39:00+02:00
-categories: [À classer]
-author: Nico
-draft: false
+title:         "Steve Jobs: Stanford Commencement"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2018-08-12T19:39:00+02:00
+categories:    [À classer]
+author:        Nico
+draft:         false
 aliases:
   - /steve-jobs-stanford-commencement/
 ---

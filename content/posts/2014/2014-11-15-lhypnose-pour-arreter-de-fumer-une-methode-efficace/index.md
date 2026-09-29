@@ -1,10 +1,10 @@
 ---
-title: "L’hypnose pour arrêter de fumer : une méthode efficace ?"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-11-15T11:06:01+01:00
-categories: [Santé]
-author: Nico
-draft: false
+title:         "L’hypnose pour arrêter de fumer : une méthode efficace ?"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-11-15T11:06:01+01:00
+categories:    [Santé]
+author:        Nico
+draft:         false
 aliases:
   - /santé/lhypnose-pour-arreter-de-fumer-une-methode-efficace/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Guérison et pleine santé avec Irène Grosjean"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2017-08-27T11:43:00+02:00
-categories: [Nutrition]
-author: Nico
-draft: true
+title:         "Guérison et pleine santé avec Irène Grosjean"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2017-08-27T11:43:00+02:00
+categories:    [Nutrition]
+author:        Nico
+draft:         true
 aliases:
   - /nutrition/guerison-et-pleine-sante-avec-irene-grosjean/
 ---

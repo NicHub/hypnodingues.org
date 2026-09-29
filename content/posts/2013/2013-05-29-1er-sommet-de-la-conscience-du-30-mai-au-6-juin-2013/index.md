@@ -1,10 +1,10 @@
 ---
-title: "1er sommet de la conscience du 30 mai au 6 juin 2013"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-05-29T12:42:35+02:00
-categories: [Conférences, Évènements]
-author: Nico
-draft: false
+title:         "1er sommet de la conscience du 30 mai au 6 juin 2013"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-05-29T12:42:35+02:00
+categories:    [Conférences, Évènements]
+author:        Nico
+draft:         false
 aliases:
   - /conferences/évènements/1er-sommet-de-la-conscience-du-30-mai-au-6-juin-2013/
 ---

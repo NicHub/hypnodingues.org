@@ -1,10 +1,10 @@
 ---
-title: "Joyeux anniversaire, Lætitia !!!"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-03-15T09:09:30+01:00
-categories: [Anniversaires]
-author: Nico
-draft: true
+title:         "Joyeux anniversaire, Lætitia !!!"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-03-15T09:09:30+01:00
+categories:    [Anniversaires]
+author:        Nico
+draft:         true
 aliases:
   - /anniversaires/joyeux-anniversaire-laetitia/
 ---

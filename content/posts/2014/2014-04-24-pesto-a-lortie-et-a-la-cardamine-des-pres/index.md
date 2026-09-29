@@ -1,10 +1,10 @@
 ---
-title: "Pesto à l’Ortie et à la Cardamine des prés"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-04-24T19:45:53+02:00
-categories: [Recette]
-author: Laeti
-draft: false
+title:         "Pesto à l’Ortie et à la Cardamine des prés"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-04-24T19:45:53+02:00
+categories:    [Recette]
+author:        Laeti
+draft:         false
 aliases:
   - /recette/pesto-a-lortie-et-a-la-cardamine-des-pres/
 ---

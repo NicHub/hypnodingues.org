@@ -1,10 +1,10 @@
 ---
-title: "Kevin Finel — Ca donnerait quoi si on prenait des cours de cerveau ?"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2016-06-08T18:44:00+02:00
-categories: [Hypnose]
-author: Nico
-draft: false
+title:         "Kevin Finel — Ca donnerait quoi si on prenait des cours de cerveau ?"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2016-06-08T18:44:00+02:00
+categories:    [Hypnose]
+author:        Nico
+draft:         false
 aliases:
   - /kevin-finel-ted/
 ---

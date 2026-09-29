@@ -1,10 +1,10 @@
 ---
-title: "La Formation d’Abondance Financière est OUVERTE!"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-03-08T21:30:18+01:00
-categories: [Évènements]
-author: Nico
-draft: false
+title:         "La Formation d’Abondance Financière est OUVERTE!"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-03-08T21:30:18+01:00
+categories:    [Évènements]
+author:        Nico
+draft:         false
 aliases:
   - /évènements/la-formation-dabondance-financiere-est-ouverte/
 ---

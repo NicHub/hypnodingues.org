@@ -1,10 +1,10 @@
 ---
-title: "Dynamic spread of happiness in a large social network: longitudinal analysis over 20 years in the Framingham Heart Study"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-02-12T18:20:37+01:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Dynamic spread of happiness in a large social network: longitudinal analysis over 20 years in the Framingham Heart Study"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-02-12T18:20:37+01:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/dynamic-spread-of-happiness-in-a-large-social-network-longitudinal-analysis-over-20-years-in-the-framingham-heart-study/
 ---

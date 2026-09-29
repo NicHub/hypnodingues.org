@@ -1,16 +1,16 @@
 ---
-title: "Naomi Brockwell — Beginner’s Introduction to Privacy"
-lastmod: 2026-08-02T15:55:50+02:00
-date:    2026-06-26T16:00:00+02:00
-categories: [OSINT]
-author: Nico
-draft: true
-description: ""
-social_title: ""
-social_description: ""
-social_image: ""
-social_type: "article"
-twitter_card: "summary_large_image"
+title:                 "Naomi Brockwell — Beginner’s Introduction to Privacy"
+lastmod:               2026-08-02T15:55:50+02:00
+date:                  2026-06-26T16:00:00+02:00
+categories:            [OSINT]
+author:                Nico
+draft:                 true
+description:           ""
+social_title:          ""
+social_description:    ""
+social_image:          ""
+social_type:           "article"
+twitter_card:          "summary_large_image"
 ---
 
 ## Introduction To Privacy In The Digital Age

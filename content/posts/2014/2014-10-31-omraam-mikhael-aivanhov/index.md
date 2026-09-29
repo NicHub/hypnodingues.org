@@ -1,10 +1,10 @@
 ---
-title: "Omraam Mikhaël Aïvanhov"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-10-31T13:42:57+01:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Omraam Mikhaël Aïvanhov"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-10-31T13:42:57+01:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/omraam-mikhael-aivanhov/
 ---

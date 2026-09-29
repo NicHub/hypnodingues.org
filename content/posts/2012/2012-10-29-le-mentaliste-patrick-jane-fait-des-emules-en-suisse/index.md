@@ -1,10 +1,10 @@
 ---
-title: "Le mentaliste Patrick Jane fait des émules en Suisse"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-10-29T12:05:10+01:00
-categories: [Articles]
-author: Nico
-draft: true
+title:         "Le mentaliste Patrick Jane fait des émules en Suisse"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-10-29T12:05:10+01:00
+categories:    [Articles]
+author:        Nico
+draft:         true
 aliases:
   - /articles/le-mentaliste-patrick-jane-fait-des-emules-en-suisse/
 ---

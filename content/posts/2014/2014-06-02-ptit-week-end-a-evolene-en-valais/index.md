@@ -1,10 +1,10 @@
 ---
-title: "P’tit week-end à Evolène en Valais!"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-06-02T12:28:29+02:00
-categories: [Divers]
-author: Laeti
-draft: false
+title:         "P’tit week-end à Evolène en Valais!"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-06-02T12:28:29+02:00
+categories:    [Divers]
+author:        Laeti
+draft:         false
 aliases:
   - /divers/ptit-week-end-a-evolene-en-valais/
 ---

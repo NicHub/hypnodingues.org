@@ -1,16 +1,16 @@
 ---
-title: "Les dangers des IA"
-lastmod: 2026-09-29T09:34:38+02:00
-date:    2026-04-10T11:12:00+02:00
-categories: [IA]
-author: Nico
-draft: false
-description: "Une liste non exhaustive des dangers des IA, entre erreurs, biais, intrusions, dépendance et impacts environnementaux."
-social_title: "Les dangers des IA"
-social_description: "Une liste non exhaustive des dangers des IA, entre erreurs, biais, intrusions, dépendance et impacts environnementaux."
-social_image: "./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp"
-social_type: "article"
-twitter_card: "summary_large_image"
+title:                 "Les dangers des IA"
+lastmod:               2026-09-29T09:34:38+02:00
+date:                  2026-04-10T11:12:00+02:00
+categories:            [IA]
+author:                Nico
+draft:                 false
+description:           "Une liste non exhaustive des dangers des IA, entre erreurs, biais, intrusions, dépendance et impacts environnementaux."
+social_title:          "Les dangers des IA"
+social_description:    "Une liste non exhaustive des dangers des IA, entre erreurs, biais, intrusions, dépendance et impacts environnementaux."
+social_image:          "./images/calvin-and-hobbes-leave-math-to-the-machines-halo.webp"
+social_type:           "article"
+twitter_card:          "summary_large_image"
 ---
 
 {{< comment >}}

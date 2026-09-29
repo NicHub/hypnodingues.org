@@ -1,10 +1,10 @@
 ---
-title: "La modélisation"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-05-13T15:19:01+02:00
-categories: [Hypnose, Textes]
-author: Audrey
-draft: true
+title:         "La modélisation"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-05-13T15:19:01+02:00
+categories:    [Hypnose, Textes]
+author:        Audrey
+draft:         true
 aliases:
   - /hypnose/textes/la-modelisation/
 ---

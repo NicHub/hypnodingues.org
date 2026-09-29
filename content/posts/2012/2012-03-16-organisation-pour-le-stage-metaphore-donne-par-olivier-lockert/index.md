@@ -1,10 +1,10 @@
 ---
-title: "Organisation pour le stage Métaphore donné par Olivier Lockert"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-03-16T10:39:34+01:00
-categories: [Évènements]
-author: Nico
-draft: true
+title:         "Organisation pour le stage Métaphore donné par Olivier Lockert"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-03-16T10:39:34+01:00
+categories:    [Évènements]
+author:        Nico
+draft:         true
 aliases:
   - /évènements/organisation-pour-le-stage-metaphore-donne-par-olivier-lockert/
 ---

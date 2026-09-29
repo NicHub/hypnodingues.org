@@ -1,10 +1,10 @@
 ---
-title: "Sagesse socratique"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-09-17T20:55:20+02:00
-categories: [Citations]
-author: Nico
-draft: false
+title:         "Sagesse socratique"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-09-17T20:55:20+02:00
+categories:    [Citations]
+author:        Nico
+draft:         false
 aliases:
   - /citations/sagesse-socratique/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Quelques bizarreries de la langue française"
-lastmod: 2026-09-04T23:26:00+02:00
-date:    2016-12-15T17:18:00+01:00
-categories: [Linguistique]
-author: Nico
-draft: false
+title:         "Quelques bizarreries de la langue française"
+lastmod:       2026-09-04T23:26:00+02:00
+date:          2016-12-15T17:18:00+01:00
+categories:    [Linguistique]
+author:        Nico
+draft:         false
 aliases:
   - /quelques_bizarreries_de_la_langue_francaise/
 ---

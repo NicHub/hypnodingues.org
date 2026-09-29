@@ -1,10 +1,10 @@
 ---
-title: "Sexualité et spiritualité"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-10-23T16:20:38+02:00
-categories: [Articles]
-author: Nico
-draft: true
+title:         "Sexualité et spiritualité"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-10-23T16:20:38+02:00
+categories:    [Articles]
+author:        Nico
+draft:         true
 aliases:
   - /articles/sexualite-et-spiritualite/
 ---

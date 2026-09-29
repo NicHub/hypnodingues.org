@@ -1,10 +1,10 @@
 ---
-title: "Rendez-vous extraordinaire"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-05-13T21:41:56+02:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Rendez-vous extraordinaire"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-05-13T21:41:56+02:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/rendez-vous-extraordinaire/
 ---

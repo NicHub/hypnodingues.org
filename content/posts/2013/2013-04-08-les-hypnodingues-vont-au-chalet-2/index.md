@@ -1,10 +1,10 @@
 ---
-title: "Les Hypnodingues vont au chalet"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-04-08T09:44:35+02:00
-categories: [Évènements]
-author: Nico
-draft: false
+title:         "Les Hypnodingues vont au chalet"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-04-08T09:44:35+02:00
+categories:    [Évènements]
+author:        Nico
+draft:         false
 aliases:
   - /évènements/les-hypnodingues-vont-au-chalet-2/
 ---

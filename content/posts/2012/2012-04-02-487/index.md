@@ -1,10 +1,10 @@
 ---
-title: "Dentistes pratiquant sous hypnose dans le canton de Vaud"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-04-02T12:28:14+02:00
-categories: [Liens]
-author: Nico
-draft: false
+title:         "Dentistes pratiquant sous hypnose dans le canton de Vaud"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-04-02T12:28:14+02:00
+categories:    [Liens]
+author:        Nico
+draft:         false
 aliases:
   - /liens/487/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Citation"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-05-20T17:40:44+02:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Citation"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-05-20T17:40:44+02:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/citation-42/
 ---

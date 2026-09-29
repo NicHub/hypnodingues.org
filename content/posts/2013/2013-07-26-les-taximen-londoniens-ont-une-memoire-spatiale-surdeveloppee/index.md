@@ -1,10 +1,10 @@
 ---
-title: "Les taximen londoniens ont une mémoire spatiale surdéveloppée"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-07-26T08:37:21+02:00
-categories: [Articles]
-author: Nico
-draft: true
+title:         "Les taximen londoniens ont une mémoire spatiale surdéveloppée"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-07-26T08:37:21+02:00
+categories:    [Articles]
+author:        Nico
+draft:         true
 aliases:
   - /articles/les-taximen-londoniens-ont-une-memoire-spatiale-surdeveloppee/
 ---

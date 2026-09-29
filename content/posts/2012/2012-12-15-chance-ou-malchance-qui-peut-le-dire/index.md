@@ -1,10 +1,10 @@
 ---
-title: "Chance ou malchance, qui peut le dire ?"
-lastmod: 2026-09-04T13:28:50+02:00
-date:    2012-12-15T13:02:20+01:00
-categories: [Histoire et conte]
-author: Nico
-draft: false
+title:         "Chance ou malchance, qui peut le dire ?"
+lastmod:       2026-09-04T13:28:50+02:00
+date:          2012-12-15T13:02:20+01:00
+categories:    [Histoire et conte]
+author:        Nico
+draft:         false
 aliases:
   - /histoires-et-contes/chance-ou-malchance-qui-peut-le-dire/
 ---

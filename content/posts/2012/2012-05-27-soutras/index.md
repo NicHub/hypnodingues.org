@@ -1,10 +1,10 @@
 ---
-title: "Soutras"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-05-27T21:50:36+02:00
-categories: [Hypnose, Textes]
-author: Nico
-draft: false
+title:         "Soutras"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-05-27T21:50:36+02:00
+categories:    [Hypnose, Textes]
+author:        Nico
+draft:         false
 aliases:
   - /hypnose/textes/soutras/
 ---

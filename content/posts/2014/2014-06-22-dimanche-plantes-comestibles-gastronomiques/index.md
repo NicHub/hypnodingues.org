@@ -1,10 +1,10 @@
 ---
-title: "Dimanche plantes comestibles gastronomiques"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-06-22T20:04:44+02:00
-categories: [Divers]
-author: Laeti
-draft: false
+title:         "Dimanche plantes comestibles gastronomiques"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-06-22T20:04:44+02:00
+categories:    [Divers]
+author:        Laeti
+draft:         false
 aliases:
   - /divers/dimanche-plantes-comestibles-gastronomiques/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Physique Quantique et Spiritualité"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-06-27T20:41:30+02:00
-categories: [Liens]
-author: Laeti
-draft: false
+title:         "Physique Quantique et Spiritualité"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-06-27T20:41:30+02:00
+categories:    [Liens]
+author:        Laeti
+draft:         false
 aliases:
   - /liens/physique-quantique-et-spiritualite/
 ---

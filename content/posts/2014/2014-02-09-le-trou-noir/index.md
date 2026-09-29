@@ -1,10 +1,10 @@
 ---
-title: "Le trou noir"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-02-09T00:22:53+01:00
-categories: [Divers]
-author: Nico
-draft: true
+title:         "Le trou noir"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-02-09T00:22:53+01:00
+categories:    [Divers]
+author:        Nico
+draft:         true
 aliases:
   - /divers/le-trou-noir/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Olivier Lockert,Aider son système immunitaire"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-03-09T20:10:32+01:00
-categories: [Hypnose, Textes]
-author: Nico
-draft: true
+title:         "Olivier Lockert,Aider son système immunitaire"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-03-09T20:10:32+01:00
+categories:    [Hypnose, Textes]
+author:        Nico
+draft:         true
 aliases:
   - /hypnose/textes/olivier-lockert-aider-son-systeme-immunitaire/
 ---

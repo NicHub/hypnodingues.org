@@ -1,10 +1,10 @@
 ---
-title: "Illusions d’optique par e-penser"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2016-03-23T16:44:00+01:00
-categories: [À classer]
-author: Nico
-draft: false
+title:         "Illusions d’optique par e-penser"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2016-03-23T16:44:00+01:00
+categories:    [À classer]
+author:        Nico
+draft:         false
 aliases:
   - /illusion-optique/
 ---

@@ -1,16 +1,16 @@
 ---
-title: "Naomi Brockwell — Introduction à la protection de la vie privée pour débutants"
-lastmod: 2026-08-02T15:55:50+02:00
-date:    2026-06-26T16:00:00+02:00
-categories: [OSINT]
-author: Nico
-draft: false
-description: ""
-social_title: ""
-social_description: ""
-social_image: ""
-social_type: "article"
-twitter_card: "summary_large_image"
+title:                 "Naomi Brockwell — Introduction à la protection de la vie privée pour débutants"
+lastmod:               2026-08-02T15:55:50+02:00
+date:                  2026-06-26T16:00:00+02:00
+categories:            [OSINT]
+author:                Nico
+draft:                 false
+description:           ""
+social_title:          ""
+social_description:    ""
+social_image:          ""
+social_type:           "article"
+twitter_card:          "summary_large_image"
 ---
 
 <a href="https://www.amazon.fr/dp/B0BQHS8MFS/">

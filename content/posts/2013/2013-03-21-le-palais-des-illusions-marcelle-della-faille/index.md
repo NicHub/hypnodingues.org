@@ -1,10 +1,10 @@
 ---
-title: "Le palais des illusions – Marcelle della Faille"
-lastmod: 2026-09-04T13:28:50+02:00
-date:    2013-03-21T14:07:42+01:00
-categories: [Audios, Histoire et conte]
-author: Nico
-draft: true
+title:         "Le palais des illusions – Marcelle della Faille"
+lastmod:       2026-09-04T13:28:50+02:00
+date:          2013-03-21T14:07:42+01:00
+categories:    [Audios, Histoire et conte]
+author:        Nico
+draft:         true
 aliases:
   - /audios/histoires-et-contes/le-palais-des-illusions-marcelle-della-faille/
 ---

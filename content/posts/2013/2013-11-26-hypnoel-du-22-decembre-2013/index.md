@@ -1,10 +1,10 @@
 ---
-title: "Hypnoël du 22 décembre 2013"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-11-26T13:44:18+01:00
-categories: [Divers, Évènements]
-author: Laeti
-draft: true
+title:         "Hypnoël du 22 décembre 2013"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-11-26T13:44:18+01:00
+categories:    [Divers, Évènements]
+author:        Laeti
+draft:         true
 aliases:
   - /divers/évènements/hypnoel-du-22-decembre-2013/
 ---

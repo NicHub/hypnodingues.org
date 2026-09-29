@@ -1,10 +1,10 @@
 ---
-title: "Affirmation du soutra pour la sixième règle de vie"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-05-22T07:55:28+02:00
-categories: [Hypnose, Textes]
-author: Nico
-draft: false
+title:         "Affirmation du soutra pour la sixième règle de vie"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-05-22T07:55:28+02:00
+categories:    [Hypnose, Textes]
+author:        Nico
+draft:         false
 aliases:
   - /hypnose/textes/soutra-pour-la-sixieme-regle-de-vie/
 ---

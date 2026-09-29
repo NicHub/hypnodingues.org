@@ -1,10 +1,10 @@
 ---
-title: "Hypnose de rue"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-08-30T12:12:44+02:00
-categories: [Liens]
-author: Nico
-draft: false
+title:         "Hypnose de rue"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-08-30T12:12:44+02:00
+categories:    [Liens]
+author:        Nico
+draft:         false
 aliases:
   - /liens/hypnose-de-rue/
 ---

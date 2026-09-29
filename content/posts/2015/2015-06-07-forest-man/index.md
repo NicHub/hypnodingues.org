@@ -1,10 +1,10 @@
 ---
-title: "Forest Man"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2015-06-17T16:48:00+01:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Forest Man"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2015-06-17T16:48:00+01:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/forest-man/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Citation"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-06-12T17:32:00+02:00
-categories: [Citations]
-author: Nico
-draft: false
+title:         "Citation"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-06-12T17:32:00+02:00
+categories:    [Citations]
+author:        Nico
+draft:         false
 aliases:
   - /citations/citation-48/
 ---

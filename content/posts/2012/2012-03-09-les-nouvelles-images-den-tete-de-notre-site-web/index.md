@@ -1,10 +1,10 @@
 ---
-title: "Les nouvelles images d’entête de notre site web"
-lastmod: 2026-09-04T13:28:50+02:00
-date:    2012-03-09T16:20:50+01:00
-categories: [Notre site web]
-author: Nico
-draft: true
+title:         "Les nouvelles images d’entête de notre site web"
+lastmod:       2026-09-04T13:28:50+02:00
+date:          2012-03-09T16:20:50+01:00
+categories:    [Notre site web]
+author:        Nico
+draft:         true
 aliases:
   - /notre-site-web/les-nouvelles-images-den-tete-de-notre-site-web/
 ---

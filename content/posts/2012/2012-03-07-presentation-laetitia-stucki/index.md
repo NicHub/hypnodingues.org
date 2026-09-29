@@ -1,10 +1,10 @@
 ---
-title: "Présentation Laetitia Stucki"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-03-07T12:53:51+01:00
-categories: [Membres]
-author: Laeti
-draft: true
+title:         "Présentation Laetitia Stucki"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-03-07T12:53:51+01:00
+categories:    [Membres]
+author:        Laeti
+draft:         true
 aliases:
   - /membres/presentation-laetitia-stucki/
 ---

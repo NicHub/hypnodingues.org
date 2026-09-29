@@ -1,10 +1,10 @@
 ---
-title: "Le mendiant"
-lastmod: 2026-09-04T13:28:50+02:00
-date:    2013-06-05T18:03:00+02:00
-categories: [Histoire et conte]
-author: Nico
-draft: false
+title:         "Le mendiant"
+lastmod:       2026-09-04T13:28:50+02:00
+date:          2013-06-05T18:03:00+02:00
+categories:    [Histoire et conte]
+author:        Nico
+draft:         false
 aliases:
   - /histoires-et-contes/le-mendiant/
 ---

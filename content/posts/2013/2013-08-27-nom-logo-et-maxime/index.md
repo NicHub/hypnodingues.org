@@ -1,10 +1,10 @@
 ---
-title: "Nom, logo et maxime"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-08-27T14:03:06+02:00
-categories: [Divers]
-author: Laeti
-draft: true
+title:         "Nom, logo et maxime"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-08-27T14:03:06+02:00
+categories:    [Divers]
+author:        Laeti
+draft:         true
 aliases:
   - /divers/nom-logo-et-maxime/
 ---

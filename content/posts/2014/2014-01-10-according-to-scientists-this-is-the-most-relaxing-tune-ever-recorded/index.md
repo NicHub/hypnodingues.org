@@ -1,10 +1,10 @@
 ---
-title: "According to Scientists, This is The Most Relaxing Tune Ever Recorded"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-01-10T23:08:38+01:00
-categories: [En anglais]
-author: Nico
-draft: true
+title:         "According to Scientists, This is The Most Relaxing Tune Ever Recorded"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-01-10T23:08:38+01:00
+categories:    [En anglais]
+author:        Nico
+draft:         true
 aliases:
   - /en-anglais/according-to-scientists-this-is-the-most-relaxing-tune-ever-recorded/
 ---

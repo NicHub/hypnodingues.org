@@ -1,10 +1,10 @@
 ---
-title: "Décalogue de la maitrise de la pensée"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-03-26T18:52:24+02:00
-categories: [Divers]
-author: Nico
-draft: true
+title:         "Décalogue de la maitrise de la pensée"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-03-26T18:52:24+02:00
+categories:    [Divers]
+author:        Nico
+draft:         true
 aliases:
   - /divers/decalogue-de-la-maitrise-de-la-pensee/
 ---

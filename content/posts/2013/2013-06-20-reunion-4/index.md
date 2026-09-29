@@ -1,10 +1,10 @@
 ---
-title: "Réunion du 28 juillet"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-06-20T07:45:18+02:00
-categories: [Évènements]
-author: Nico
-draft: true
+title:         "Réunion du 28 juillet"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-06-20T07:45:18+02:00
+categories:    [Évènements]
+author:        Nico
+draft:         true
 aliases:
   - /évènements/reunion-4/
 ---

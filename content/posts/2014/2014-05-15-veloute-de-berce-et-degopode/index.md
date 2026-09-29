@@ -1,10 +1,10 @@
 ---
-title: "Velouté de berce et d’égopode :"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-05-15T20:29:43+02:00
-categories: [Recette]
-author: Laeti
-draft: false
+title:         "Velouté de berce et d’égopode :"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-05-15T20:29:43+02:00
+categories:    [Recette]
+author:        Laeti
+draft:         false
 aliases:
   - /recette/veloute-de-berce-et-degopode/
 ---

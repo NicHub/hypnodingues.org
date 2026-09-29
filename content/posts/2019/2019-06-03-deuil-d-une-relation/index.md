@@ -1,10 +1,10 @@
 ---
-title: "Le deuil d'une relation"
-lastmod: 2026-09-04T23:26:00+02:00
-date:    2019-06-03T15:03:00+02:00
-categories: [Développement personnel]
-author: Nico
-draft: false
+title:         "Le deuil d'une relation"
+lastmod:       2026-09-04T23:26:00+02:00
+date:          2019-06-03T15:03:00+02:00
+categories:    [Développement personnel]
+author:        Nico
+draft:         false
 aliases:
   - /deuil-d-une-relation/
 ---

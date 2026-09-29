@@ -1,10 +1,10 @@
 ---
-title: "Ommwriter Dana, l’éditeur de texte qui rend zen"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-01-07T18:57:26+01:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Ommwriter Dana, l’éditeur de texte qui rend zen"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-01-07T18:57:26+01:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/ommwriter-dana-lediteur-de-texte-qui-rend-zen/
 ---

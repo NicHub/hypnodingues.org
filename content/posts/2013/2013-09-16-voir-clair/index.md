@@ -1,10 +1,10 @@
 ---
-title: "Voir Clair"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-09-16T16:35:03+02:00
-categories: [Audios, Exercices, Hypnose]
-author: Nico
-draft: false
+title:         "Voir Clair"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-09-16T16:35:03+02:00
+categories:    [Audios, Exercices, Hypnose]
+author:        Nico
+draft:         false
 aliases:
   - /audios/exercices/hypnose/voir-clair/
 ---

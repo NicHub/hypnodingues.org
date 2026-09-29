@@ -1,8 +1,8 @@
 ---
-title: "Hypnodingues"
-description: "Un carnet nocturne d’hypnose, de conscience, de récits, de citations, d’humour et de traversées intérieures."
-aliases: [/index.html]
-draft: false
+title:          "Hypnodingues"
+description:    "Un carnet nocturne d’hypnose, de conscience, de récits, de citations, d’humour et de traversées intérieures."
+aliases:        [/index.html]
+draft:          false
 ---
 
 <p class="home-hero-lead">Un cabinet de curiosités intérieur où se déposent des textes, des voix, des hypothèses, des liens, des fulgurances et des signes de passage.</p>

@@ -1,10 +1,10 @@
 ---
-title: "Orthographe et ordre des lettres"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-02-14T12:22:21+01:00
-categories: [Divers, Histoires drôles]
-author: Nico
-draft: false
+title:         "Orthographe et ordre des lettres"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-02-14T12:22:21+01:00
+categories:    [Divers, Histoires drôles]
+author:        Nico
+draft:         false
 aliases:
   - /divers/histoires-drôles/orthographe-et-ordre-des-lettres/
 ---

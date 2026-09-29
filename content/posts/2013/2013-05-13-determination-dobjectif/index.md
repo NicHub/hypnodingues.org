@@ -1,10 +1,10 @@
 ---
-title: "Détermination d’objectif."
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-05-13T13:35:51+02:00
-categories: [Exercices, Hypnose, Textes]
-author: Laeti
-draft: true
+title:         "Détermination d’objectif."
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-05-13T13:35:51+02:00
+categories:    [Exercices, Hypnose, Textes]
+author:        Laeti
+draft:         true
 aliases:
   - /exercices/hypnose/textes/determination-dobjectif/
 ---

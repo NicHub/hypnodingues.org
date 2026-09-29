@@ -1,10 +1,10 @@
 ---
-title: "Shawn Achor : l’heureux secret d’un meilleur travail"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-04-01T18:39:51+02:00
-categories: [Liens]
-author: Nico
-draft: false
+title:         "Shawn Achor : l’heureux secret d’un meilleur travail"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-04-01T18:39:51+02:00
+categories:    [Liens]
+author:        Nico
+draft:         false
 aliases:
   - /liens/shawn-achor-lheureux-secret-dun-meilleur-travail/
 ---

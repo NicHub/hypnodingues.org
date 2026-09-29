@@ -1,10 +1,10 @@
 ---
-title: "salon du mieux-vivre à Saignelégier, du 20 au 22 avril 2012"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-04-12T15:02:59+02:00
-categories: [Divers]
-author: Catherine
-draft: false
+title:         "salon du mieux-vivre à Saignelégier, du 20 au 22 avril 2012"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-04-12T15:02:59+02:00
+categories:    [Divers]
+author:        Catherine
+draft:         false
 aliases:
   - /divers/salon-du-mieux-vivre-a-saignelegier-du-20-au-22-avril-2012/
 ---

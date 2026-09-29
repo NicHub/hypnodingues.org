@@ -1,10 +1,10 @@
 ---
-title: "Devenir enseignant-e en hypnose"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-01-09T09:35:56+01:00
-categories: [Hypnose]
-author: Nico
-draft: false
+title:         "Devenir enseignant-e en hypnose"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-01-09T09:35:56+01:00
+categories:    [Hypnose]
+author:        Nico
+draft:         false
 aliases:
   - /hypnose/devenir-enseignant-e-en-hypnose/
 ---

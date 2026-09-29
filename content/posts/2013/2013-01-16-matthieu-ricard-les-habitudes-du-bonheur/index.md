@@ -1,10 +1,10 @@
 ---
-title: "Matthieu Ricard : les habitudes du bonheur"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-01-16T00:05:40+01:00
-categories: [Conférences]
-author: Nico
-draft: false
+title:         "Matthieu Ricard : les habitudes du bonheur"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-01-16T00:05:40+01:00
+categories:    [Conférences]
+author:        Nico
+draft:         false
 aliases:
   - /conferences/matthieu-ricard-les-habitudes-du-bonheur/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "L’Oracle Della Luna"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2016-08-28T21:23:00+02:00
-categories: [Citations]
-author: Nico
-draft: false
+title:         "L’Oracle Della Luna"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2016-08-28T21:23:00+02:00
+categories:    [Citations]
+author:        Nico
+draft:         false
 aliases:
   - /citations/l-oracle-della-luna/
 ---

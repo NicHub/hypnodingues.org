@@ -1,10 +1,10 @@
 ---
-title: "Sortie de l’état hypnotique et conscience du rêve"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-05-13T13:57:27+02:00
-categories: [Hypnose, Textes]
-author: Audrey
-draft: true
+title:         "Sortie de l’état hypnotique et conscience du rêve"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-05-13T13:57:27+02:00
+categories:    [Hypnose, Textes]
+author:        Audrey
+draft:         true
 aliases:
   - /hypnose/textes/sortie-de-letat-hypnotique-et-conscience-du-reve/
 ---

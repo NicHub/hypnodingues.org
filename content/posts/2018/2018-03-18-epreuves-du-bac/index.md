@@ -1,10 +1,10 @@
 ---
-title: "Épreuves du bac"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2018-03-18T17:53:00+01:00
-categories: [À classer]
-author: Nico
-draft: false
+title:         "Épreuves du bac"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2018-03-18T17:53:00+01:00
+categories:    [À classer]
+author:        Nico
+draft:         false
 aliases:
   - /epreuves-du-bac/
 ---

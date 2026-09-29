@@ -1,10 +1,10 @@
 ---
-title: "Si un enfant..."
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-03-26T19:15:00+02:00
-categories: [Divers]
-author: Nico
-draft: true
+title:         "Si un enfant..."
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-03-26T19:15:00+02:00
+categories:    [Divers]
+author:        Nico
+draft:         true
 aliases:
   - /divers/si-un-enfant/
 ---

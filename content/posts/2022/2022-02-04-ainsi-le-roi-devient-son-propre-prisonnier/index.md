@@ -1,10 +1,10 @@
 ---
-title: "Ainsi le roi devient son propre prisonnier"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2022-02-04T00:00:00+01:00
-categories: [À classer]
-author: Nico
-draft: false
+title:         "Ainsi le roi devient son propre prisonnier"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2022-02-04T00:00:00+01:00
+categories:    [À classer]
+author:        Nico
+draft:         false
 aliases:
   - /ainsi-le-roi-devient-son-propre-prisonnier/
 ---

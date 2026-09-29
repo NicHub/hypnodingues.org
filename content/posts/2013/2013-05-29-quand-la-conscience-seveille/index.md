@@ -1,10 +1,10 @@
 ---
-title: "Quand la conscience s’éveille"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-05-29T18:31:28+02:00
-categories: [Audios]
-author: Nico
-draft: true
+title:         "Quand la conscience s’éveille"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-05-29T18:31:28+02:00
+categories:    [Audios]
+author:        Nico
+draft:         true
 aliases:
   - /audios/quand-la-conscience-seveille/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "raisonnablementfollesetfollementcurieuses.biz"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-04-06T12:04:45+02:00
-categories: [Liens]
-author: Nico
-draft: false
+title:         "raisonnablementfollesetfollementcurieuses.biz"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-04-06T12:04:45+02:00
+categories:    [Liens]
+author:        Nico
+draft:         false
 aliases:
   - /liens/493/
 ---

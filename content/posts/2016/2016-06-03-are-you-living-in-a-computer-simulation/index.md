@@ -1,10 +1,10 @@
 ---
-title: "ARE YOU LIVING IN A COMPUTER SIMULATION?"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2016-06-03T09:24:00+02:00
-categories: [À classer]
-author: Nico
-draft: false
+title:         "ARE YOU LIVING IN A COMPUTER SIMULATION?"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2016-06-03T09:24:00+02:00
+categories:    [À classer]
+author:        Nico
+draft:         false
 aliases:
   - /are-you-living-in-a-computer-simulation/
 ---

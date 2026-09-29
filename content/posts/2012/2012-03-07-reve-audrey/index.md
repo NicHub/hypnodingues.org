@@ -1,10 +1,10 @@
 ---
-title: "Rêve d’Audrey"
-lastmod: 2026-09-04T13:28:50+02:00
-date:    2012-03-07T13:43:26+01:00
-categories: [Histoire et conte]
-author: Audrey
-draft: false
+title:         "Rêve d’Audrey"
+lastmod:       2026-09-04T13:28:50+02:00
+date:          2012-03-07T13:43:26+01:00
+categories:    [Histoire et conte]
+author:        Audrey
+draft:         false
 aliases:
   - /histoires-et-contes/reve-audrey/
 ---

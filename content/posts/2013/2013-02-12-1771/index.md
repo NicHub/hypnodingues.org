@@ -1,10 +1,10 @@
 ---
-title: "Attention! Générosité contagieuse"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-02-12T18:15:40+01:00
-categories: [Articles]
-author: Nico
-draft: true
+title:         "Attention! Générosité contagieuse"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-02-12T18:15:40+01:00
+categories:    [Articles]
+author:        Nico
+draft:         true
 aliases:
   - /articles/1771/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Interview de sa sainteté le Dalaï Lama par Darius Rochebin"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-04-16T19:37:02+02:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Interview de sa sainteté le Dalaï Lama par Darius Rochebin"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-04-16T19:37:02+02:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/interview-de-sa-saintete-le-dalai-lama-par-darius-rochebin/
 ---

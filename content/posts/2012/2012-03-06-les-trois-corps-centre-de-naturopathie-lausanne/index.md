@@ -1,10 +1,10 @@
 ---
-title: "Le coin philosophique du Centre de Naturopathie Lausanne"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-03-06T20:55:38+01:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Le coin philosophique du Centre de Naturopathie Lausanne"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-03-06T20:55:38+01:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/les-trois-corps-centre-de-naturopathie-lausanne/
 ---

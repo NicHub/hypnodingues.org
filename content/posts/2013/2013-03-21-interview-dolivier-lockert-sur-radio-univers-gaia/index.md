@@ -1,10 +1,10 @@
 ---
-title: "Interview d’Olivier Lockert sur Radio Univers Gaia"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-03-21T22:31:20+01:00
-categories: [Audios, Hypnose]
-author: Nico
-draft: false
+title:         "Interview d’Olivier Lockert sur Radio Univers Gaia"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-03-21T22:31:20+01:00
+categories:    [Audios, Hypnose]
+author:        Nico
+draft:         false
 aliases:
   - /audios/hypnose/interview-dolivier-lockert-sur-radio-univers-gaia/
 ---

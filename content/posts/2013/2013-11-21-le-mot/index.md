@@ -1,10 +1,10 @@
 ---
-title: "Victor Hugo — Le Mot"
-lastmod: 2026-09-04T23:26:00+02:00
-date:    2013-11-21T17:52:20+01:00
-categories: [Citations, Textes]
-author: Nico
-draft: false
+title:         "Victor Hugo — Le Mot"
+lastmod:       2026-09-04T23:26:00+02:00
+date:          2013-11-21T17:52:20+01:00
+categories:    [Citations, Textes]
+author:        Nico
+draft:         false
 aliases:
   - /textes/le-mot/
 ---

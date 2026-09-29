@@ -1,10 +1,10 @@
 ---
-title: "Olivier Lockert, Créateur de Réalité, version longue"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-03-09T20:33:54+01:00
-categories: [Hypnose, Textes]
-author: Audrey
-draft: true
+title:         "Olivier Lockert, Créateur de Réalité, version longue"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-03-09T20:33:54+01:00
+categories:    [Hypnose, Textes]
+author:        Audrey
+draft:         true
 aliases:
   - /hypnose/textes/olivier-lockertcreateur-de-realite-version-longue/
 ---

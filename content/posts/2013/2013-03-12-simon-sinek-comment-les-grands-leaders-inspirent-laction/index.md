@@ -1,10 +1,10 @@
 ---
-title: "Simon Sinek : Comment les grands leaders inspirent l’action"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-03-12T18:23:06+01:00
-categories: [Conférences]
-author: Nico
-draft: false
+title:         "Simon Sinek : Comment les grands leaders inspirent l’action"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-03-12T18:23:06+01:00
+categories:    [Conférences]
+author:        Nico
+draft:         false
 aliases:
   - /conferences/simon-sinek-comment-les-grands-leaders-inspirent-laction/
 ---

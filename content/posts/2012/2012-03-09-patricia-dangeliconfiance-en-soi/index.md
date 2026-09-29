@@ -1,10 +1,10 @@
 ---
-title: "Patricia d’Angeli, Confiance en soi"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-03-09T20:31:37+01:00
-categories: [Hypnose, Textes]
-author: Nico
-draft: true
+title:         "Patricia d’Angeli, Confiance en soi"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-03-09T20:31:37+01:00
+categories:    [Hypnose, Textes]
+author:        Nico
+draft:         true
 aliases:
   - /hypnose/textes/patricia-dangeliconfiance-en-soi/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Le fondeur ivre"
-lastmod: 2026-08-02T15:55:50+02:00
-date:    2026-03-30T09:11:00+02:00
-categories: [Société]
-author: Nico
-draft: false
+title:         "Le fondeur ivre"
+lastmod:       2026-08-02T15:55:50+02:00
+date:          2026-03-30T09:11:00+02:00
+categories:    [Société]
+author:        Nico
+draft:         false
 ---
 
 Gabriel Gledhill le fondeur ivre.

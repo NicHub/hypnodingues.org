@@ -1,10 +1,10 @@
 ---
-title: "« Pourquoi sommes-nous heureux ? » demande Dan Gilbert."
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-01-16T00:35:31+01:00
-categories: [Conférences]
-author: Nico
-draft: false
+title:         "« Pourquoi sommes-nous heureux ? » demande Dan Gilbert."
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-01-16T00:35:31+01:00
+categories:    [Conférences]
+author:        Nico
+draft:         false
 aliases:
   - /conferences/pourquoi-sommes-nous-heureux-demande-dan-gilbert/
 ---

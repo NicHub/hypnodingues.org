@@ -1,10 +1,10 @@
 ---
-title: "Plan d’action de l’association"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-07-22T12:34:16+02:00
-categories: [Divers]
-author: Laeti
-draft: true
+title:         "Plan d’action de l’association"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-07-22T12:34:16+02:00
+categories:    [Divers]
+author:        Laeti
+draft:         true
 aliases:
   - /divers/pland-daction-entreprise/
 ---

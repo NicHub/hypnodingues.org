@@ -1,10 +1,10 @@
 ---
-title: "Énergie, cicatrisation, enveloppe externe, interne"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-05-13T14:25:18+02:00
-categories: [Hypnose, Textes]
-author: Audrey
-draft: true
+title:         "Énergie, cicatrisation, enveloppe externe, interne"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-05-13T14:25:18+02:00
+categories:    [Hypnose, Textes]
+author:        Audrey
+draft:         true
 aliases:
   - /hypnose/textes/energie-cicatrisation-enveloppe-externe-interne/
 ---

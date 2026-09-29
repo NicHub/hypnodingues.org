@@ -1,10 +1,10 @@
 ---
-title: "PSYCHOSOMA – Guérir des maladies mentales en soignant l’intestin, ce « deuxième cerveau » ?"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-09-03T07:54:11+02:00
-categories: [Liens, Santé]
-author: Nico
-draft: false
+title:         "PSYCHOSOMA – Guérir des maladies mentales en soignant l’intestin, ce « deuxième cerveau » ?"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-09-03T07:54:11+02:00
+categories:    [Liens, Santé]
+author:        Nico
+draft:         false
 aliases:
   - /liens/santé/psychosoma-guerir-des-maladies-mentales-en-soignant-lintestin-ce-deuxieme-cerveau/
 ---

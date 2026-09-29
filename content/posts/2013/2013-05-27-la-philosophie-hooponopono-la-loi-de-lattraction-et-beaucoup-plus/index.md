@@ -1,10 +1,10 @@
 ---
-title: "La philosophie Ho’oponopono la loi de l’attraction et beaucoup plus…"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-05-27T07:43:18+02:00
-categories: [Conférences]
-author: Nico
-draft: false
+title:         "La philosophie Ho’oponopono la loi de l’attraction et beaucoup plus…"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-05-27T07:43:18+02:00
+categories:    [Conférences]
+author:        Nico
+draft:         false
 aliases:
   - /conferences/la-philosophie-hooponopono-la-loi-de-lattraction-et-beaucoup-plus/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Découvrir vos archétypes"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-05-19T18:39:16+02:00
-categories: [Hypnose, Textes]
-author: Nico
-draft: true
+title:         "Découvrir vos archétypes"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-05-19T18:39:16+02:00
+categories:    [Hypnose, Textes]
+author:        Nico
+draft:         true
 aliases:
   - /hypnose/textes/decouvrir-vos-archetypes/
 ---

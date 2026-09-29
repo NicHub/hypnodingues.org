@@ -1,10 +1,10 @@
 ---
-title: "Morphopsycho canine"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-10-04T13:28:23+02:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Morphopsycho canine"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-10-04T13:28:23+02:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/morphopsycho-canine/
 ---

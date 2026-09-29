@@ -1,10 +1,10 @@
 ---
-title: "Keith Barry: Brain magic"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-10-25T00:40:07+02:00
-categories: [Conférences]
-author: Nico
-draft: false
+title:         "Keith Barry: Brain magic"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-10-25T00:40:07+02:00
+categories:    [Conférences]
+author:        Nico
+draft:         false
 aliases:
   - /conferences/keith-barry-brain-magic/
 ---

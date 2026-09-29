@@ -1,10 +1,10 @@
 ---
-title: "Braver le monstre pour désamorcer la bombe"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-10-21T12:59:25+02:00
-categories: [Citations]
-author: Nico
-draft: false
+title:         "Braver le monstre pour désamorcer la bombe"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-10-21T12:59:25+02:00
+categories:    [Citations]
+author:        Nico
+draft:         false
 aliases:
   - /citations/braver-le-monstre/
 ---

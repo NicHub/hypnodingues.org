@@ -1,10 +1,10 @@
 ---
-title: "Le temps de danser"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-08-31T16:01:02+02:00
-categories: [Textes]
-author: Nico
-draft: true
+title:         "Le temps de danser"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-08-31T16:01:02+02:00
+categories:    [Textes]
+author:        Nico
+draft:         true
 aliases:
   - /textes/le-temps-de-danser/
 ---

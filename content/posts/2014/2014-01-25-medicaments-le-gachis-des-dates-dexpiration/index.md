@@ -1,10 +1,10 @@
 ---
-title: "Médicaments : le gâchis des dates d’expiration"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-01-25T01:11:19+01:00
-categories: [Santé]
-author: Nico
-draft: false
+title:         "Médicaments : le gâchis des dates d’expiration"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-01-25T01:11:19+01:00
+categories:    [Santé]
+author:        Nico
+draft:         false
 aliases:
   - /santé/medicaments-le-gachis-des-dates-dexpiration/
 ---

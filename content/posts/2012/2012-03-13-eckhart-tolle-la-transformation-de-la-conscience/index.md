@@ -1,10 +1,10 @@
 ---
-title: "Eckhart Tolle, La transformation de la conscience"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-03-13T20:37:34+01:00
-categories: [Conférences]
-author: Nico
-draft: true
+title:         "Eckhart Tolle, La transformation de la conscience"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-03-13T20:37:34+01:00
+categories:    [Conférences]
+author:        Nico
+draft:         true
 aliases:
   - /conferences/eckhart-tolle-la-transformation-de-la-conscience/
 ---

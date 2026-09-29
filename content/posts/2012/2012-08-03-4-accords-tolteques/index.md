@@ -1,10 +1,10 @@
 ---
-title: "4 Accords Toltèques"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-08-03T11:56:43+02:00
-categories: [Évènements]
-author: Laeti
-draft: false
+title:         "4 Accords Toltèques"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-08-03T11:56:43+02:00
+categories:    [Évènements]
+author:        Laeti
+draft:         false
 aliases:
   - /évènements/4-accords-tolteques/
 ---

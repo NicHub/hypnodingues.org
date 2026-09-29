@@ -1,10 +1,10 @@
 ---
-title: "http://hypno-paris.blogspot.fr"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-02-01T16:44:27+01:00
-categories: [Articles, Hypnose]
-author: Nico
-draft: false
+title:         "http://hypno-paris.blogspot.fr"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-02-01T16:44:27+01:00
+categories:    [Articles, Hypnose]
+author:        Nico
+draft:         false
 aliases:
   - /articles/hypnose/httphypno-paris-blogspot-fr/
 ---

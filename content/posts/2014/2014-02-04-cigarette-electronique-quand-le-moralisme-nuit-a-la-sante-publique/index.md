@@ -1,10 +1,10 @@
 ---
-title: "Cigarette électronique: quand le moralisme nuit à la santé publique"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-02-04T19:27:46+01:00
-categories: [Articles]
-author: Nico
-draft: false
+title:         "Cigarette électronique: quand le moralisme nuit à la santé publique"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-02-04T19:27:46+01:00
+categories:    [Articles]
+author:        Nico
+draft:         false
 aliases:
   - /articles/cigarette-electronique-quand-le-moralisme-nuit-a-la-sante-publique/
 ---

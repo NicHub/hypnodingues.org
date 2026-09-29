@@ -1,10 +1,10 @@
 ---
-title: "Casque Sennheiser HD 25-1 II"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-09-17T17:24:43+02:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Casque Sennheiser HD 25-1 II"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-09-17T17:24:43+02:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/casque-sennheiser-hd-25-1-ii/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Les dix « consignes » de Brené Brown pour une Vie entière"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-03-16T22:54:47+01:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Les dix « consignes » de Brené Brown pour une Vie entière"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-03-16T22:54:47+01:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/les-dix-consignes-de-brene-brown-pour-une-vie-entiere/
 ---

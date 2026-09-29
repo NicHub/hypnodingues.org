@@ -1,10 +1,10 @@
 ---
-title: "Êtes-vous une sardine ?"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-03-10T23:40:18+01:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Êtes-vous une sardine ?"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-03-10T23:40:18+01:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/etes-vous-une-sardine/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Milton Erickson était-il une sorte de guérisseur ou de chaman ?"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-03-12T23:00:10+01:00
-categories: [Liens]
-author: Nico
-draft: false
+title:         "Milton Erickson était-il une sorte de guérisseur ou de chaman ?"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-03-12T23:00:10+01:00
+categories:    [Liens]
+author:        Nico
+draft:         false
 aliases:
   - /liens/milton-erickson-etait-il-une-sorte-de-guerisseur-ou-de-chaman/
 ---

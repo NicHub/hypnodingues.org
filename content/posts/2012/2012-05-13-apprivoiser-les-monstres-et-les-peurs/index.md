@@ -1,10 +1,10 @@
 ---
-title: "Apprivoiser les monstres et les peurs"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-05-13T15:26:04+02:00
-categories: [Hypnose, Textes]
-author: Audrey
-draft: true
+title:         "Apprivoiser les monstres et les peurs"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-05-13T15:26:04+02:00
+categories:    [Hypnose, Textes]
+author:        Audrey
+draft:         true
 aliases:
   - /hypnose/textes/apprivoiser-les-monstres-et-les-peurs/
 ---

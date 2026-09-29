@@ -1,10 +1,10 @@
 ---
-title: "Balade au Mont-Tendre volume 1"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-05-18T19:34:10+02:00
-categories: [Divers]
-author: Laeti
-draft: false
+title:         "Balade au Mont-Tendre volume 1"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-05-18T19:34:10+02:00
+categories:    [Divers]
+author:        Laeti
+draft:         false
 aliases:
   - /divers/balade-au-mont-tendre-volume-1/
 ---

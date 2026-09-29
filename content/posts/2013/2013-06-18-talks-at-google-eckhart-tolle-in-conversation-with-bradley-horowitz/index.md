@@ -1,10 +1,10 @@
 ---
-title: "Talks at Google: Eckhart Tolle in Conversation with Bradley Horowitz"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-06-18T12:31:19+02:00
-categories: [Conférences]
-author: Nico
-draft: false
+title:         "Talks at Google: Eckhart Tolle in Conversation with Bradley Horowitz"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-06-18T12:31:19+02:00
+categories:    [Conférences]
+author:        Nico
+draft:         false
 aliases:
   - /conferences/talks-at-google-eckhart-tolle-in-conversation-with-bradley-horowitz/
 ---

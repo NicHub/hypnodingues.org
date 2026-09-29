@@ -1,10 +1,10 @@
 ---
-title: "P’tite balade au sommet de la Dent de Vaulion!"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-06-07T10:13:48+02:00
-categories: [Divers]
-author: Laeti
-draft: false
+title:         "P’tite balade au sommet de la Dent de Vaulion!"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-06-07T10:13:48+02:00
+categories:    [Divers]
+author:        Laeti
+draft:         false
 aliases:
   - /divers/ptite-balade-au-sommet-de-la-dent-de-vaulion/
 ---

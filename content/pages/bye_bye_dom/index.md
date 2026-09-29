@@ -1,9 +1,9 @@
 ---
-title: "Bye bye Dom"
-layout: bare
-url: /bye-bye-dom/
-author: Nico
-draft: false
+title:     "Bye bye Dom"
+layout:    bare
+url:       /bye-bye-dom/
+author:    Nico
+draft:     false
 ---
 
 <!DOCTYPE html>

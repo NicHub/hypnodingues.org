@@ -1,10 +1,10 @@
 ---
-title: "Vie en nature!"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-05-07T12:31:03+02:00
-categories: [Évènements]
-author: Laeti
-draft: false
+title:         "Vie en nature!"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-05-07T12:31:03+02:00
+categories:    [Évènements]
+author:        Laeti
+draft:         false
 aliases:
   - /évènements/vie-en-nature/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Olivier Lockert"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-05-10T08:20:42+02:00
-categories: [Audios, Hypnose, Textes]
-author: Nico
-draft: false
+title:         "Olivier Lockert"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-05-10T08:20:42+02:00
+categories:    [Audios, Hypnose, Textes]
+author:        Nico
+draft:         false
 aliases:
   - /audios/hypnose/textes/olivier-lockert/
 ---

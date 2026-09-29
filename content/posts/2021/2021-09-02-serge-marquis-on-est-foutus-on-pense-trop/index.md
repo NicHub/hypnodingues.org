@@ -1,10 +1,10 @@
 ---
-title: "Serge Marquis — On est foutus, on pense trop"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2021-09-02T00:00:00+02:00
-categories: [À classer]
-author: Nico
-draft: false
+title:         "Serge Marquis — On est foutus, on pense trop"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2021-09-02T00:00:00+02:00
+categories:    [À classer]
+author:        Nico
+draft:         false
 aliases:
   - /serge-marquis-on-est-foutus-on-pense-trop/
 ---

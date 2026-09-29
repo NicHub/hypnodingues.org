@@ -1,10 +1,10 @@
 ---
-title: "Playing B-Ball with Obama: 6 Steps to Crossing Anything Off Your Bucket List"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-04-08T20:21:32+02:00
-categories: [Liens]
-author: Nico
-draft: false
+title:         "Playing B-Ball with Obama: 6 Steps to Crossing Anything Off Your Bucket List"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-04-08T20:21:32+02:00
+categories:    [Liens]
+author:        Nico
+draft:         false
 aliases:
   - /liens/playing-b-ball-with-obama-6-steps-to-crossing-anything-off-your-bucket-list/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Microbiote ces bacteries qui nous gouvernent"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-09-03T08:16:24+02:00
-categories: [Liens, Santé]
-author: Laeti
-draft: false
+title:         "Microbiote ces bacteries qui nous gouvernent"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-09-03T08:16:24+02:00
+categories:    [Liens, Santé]
+author:        Laeti
+draft:         false
 aliases:
   - /liens/santé/microbiote-ces-bacteries-qui-nous-gouvernent/
 ---

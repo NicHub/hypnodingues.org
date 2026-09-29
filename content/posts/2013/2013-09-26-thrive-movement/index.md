@@ -1,10 +1,10 @@
 ---
-title: "Thrive movement"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-09-26T14:22:06+02:00
-categories: [Divers]
-author: Nico
-draft: false
+title:         "Thrive movement"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-09-26T14:22:06+02:00
+categories:    [Divers]
+author:        Nico
+draft:         false
 aliases:
   - /divers/thrive-movement/
 ---

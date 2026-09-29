@@ -1,10 +1,10 @@
 ---
-title: "Suggestion de renforcement du moi"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-01-15T15:47:50+01:00
-categories: [Hypnose, Textes]
-author: Laeti
-draft: true
+title:         "Suggestion de renforcement du moi"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-01-15T15:47:50+01:00
+categories:    [Hypnose, Textes]
+author:        Laeti
+draft:         true
 aliases:
   - /hypnose/textes/suggestion-de-renforcement-du-moi/
 ---

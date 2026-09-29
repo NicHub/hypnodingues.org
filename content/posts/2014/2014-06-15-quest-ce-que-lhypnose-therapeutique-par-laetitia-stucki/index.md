@@ -1,10 +1,10 @@
 ---
-title: "Vidéo « Qu’est-ce que l’hypnose thérapeutique ? » par Lætitia Stucki"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2014-06-15T14:26:51+02:00
-categories: [Liens]
-author: Laeti
-draft: true
+title:         "Vidéo « Qu’est-ce que l’hypnose thérapeutique ? » par Lætitia Stucki"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2014-06-15T14:26:51+02:00
+categories:    [Liens]
+author:        Laeti
+draft:         true
 aliases:
   - /liens/quest-ce-que-lhypnose-therapeutique-par-laetitia-stucki/
 ---

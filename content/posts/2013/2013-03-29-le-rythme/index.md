@@ -1,10 +1,10 @@
 ---
-title: "Le Rythme de la vie!!!"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-03-29T13:13:53+01:00
-categories: [Liens]
-author: Laeti
-draft: false
+title:         "Le Rythme de la vie!!!"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-03-29T13:13:53+01:00
+categories:    [Liens]
+author:        Laeti
+draft:         false
 aliases:
   - /liens/le-rythme/
 ---

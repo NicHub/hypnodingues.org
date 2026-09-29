@@ -1,10 +1,10 @@
 ---
-title: "Les règles pour être humain"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-07-31T12:36:36+02:00
-categories: [Textes]
-author: Nico
-draft: false
+title:         "Les règles pour être humain"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-07-31T12:36:36+02:00
+categories:    [Textes]
+author:        Nico
+draft:         false
 aliases:
   - /textes/les-regles-pour-etre-humain/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "La puissante introspection de Jill Bolte Taylor"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-06-04T21:38:35+02:00
-categories: [Conférences, Hypnose]
-author: Nico
-draft: false
+title:         "La puissante introspection de Jill Bolte Taylor"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-06-04T21:38:35+02:00
+categories:    [Conférences, Hypnose]
+author:        Nico
+draft:         false
 aliases:
   - /conferences/hypnose/la-puissante-introspection-de-jill-bolte-taylor/
 ---

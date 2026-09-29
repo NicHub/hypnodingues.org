@@ -1,10 +1,10 @@
 ---
-title: "elle est belle n’est-ce pas?"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2012-03-07T14:23:26+01:00
-categories: [Images]
-author: Geneviève
-draft: true
+title:         "elle est belle n’est-ce pas?"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2012-03-07T14:23:26+01:00
+categories:    [Images]
+author:        Geneviève
+draft:         true
 aliases:
   - /images/elle-est-belle-nest-ce-pas/
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Ritaline, enquête sur une pilule miracle"
-lastmod: 2026-09-03T21:50:37+02:00
-date:    2013-04-11T12:08:50+02:00
-categories: [Santé]
-author: Nico
-draft: false
+title:         "Ritaline, enquête sur une pilule miracle"
+lastmod:       2026-09-03T21:50:37+02:00
+date:          2013-04-11T12:08:50+02:00
+categories:    [Santé]
+author:        Nico
+draft:         false
 aliases:
   - /santé/ritaline-enquete-sur-une-pilule-miracle/
 ---
