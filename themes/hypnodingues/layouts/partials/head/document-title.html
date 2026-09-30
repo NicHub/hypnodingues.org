@@ -1,0 +1,7 @@
+{{- $pageTitle := .Params.titleShort | default .Title | plainify -}}
+{{- if and .IsSection (eq .Section "posts") -}}
+    {{- $pageTitle = printf "%d Articles" (len .RegularPages) -}}
+{{- end -}}
+{{- $title := site.Title -}}
+{{- if not .IsHome }}{{ $title = printf "%s | %s" $pageTitle site.Title }}{{ end -}}
+{{- return $title -}}

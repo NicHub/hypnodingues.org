@@ -22,7 +22,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.166.0
+      HUGO_VERSION: 0.167.0
       TZ: Europe/Zurich
     steps:
       - name: Checkout
@@ -35,13 +35,10 @@ jobs:
         id: pages
         uses: actions/configure-pages@v6
 
-      - name: Create local tools directory
-        run: mkdir -p "${HOME}/.local"
-
       - name: Install Hugo
         run: |
           curl -sfL --output-dir "${{ runner.temp }}" -O "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
-          mkdir "${HOME}/.local/hugo"
+          mkdir -p "${HOME}/.local/hugo"
           tar -C "${HOME}/.local/hugo" -xf "${{ runner.temp }}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
           echo "${HOME}/.local/hugo" >> "${GITHUB_PATH}"
 
@@ -53,9 +50,9 @@ jobs:
           key: hugo-${{ github.run_id }}
           restore-keys: hugo-
 
-      - name: Build
+      - name: Build site
         run: |
-          hugo build \
+          hugo build --environment production \
             --gc \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/.cache/hugo"
@@ -64,9 +61,6 @@ jobs:
         run: |
           test -d .hugo_nokdrive/public
           test -f .hugo_nokdrive/public/index.html
-          if [[ -f static/CNAME ]]; then
-            cmp -s static/CNAME .hugo_nokdrive/public/CNAME
-          fi
 
       - name: Save Hugo cache
         uses: actions/cache/save@v6

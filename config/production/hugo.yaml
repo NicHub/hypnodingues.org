@@ -1,1 +1,4 @@
 baseURL: https://hypnodingues.org/
+params:
+    # Jeton public Cloudflare Web Analytics. Une valeur vide désactive le beacon.
+    cloudflareWebAnalyticsToken: 18a4d9731b0b4834b7b74fe41eb86018

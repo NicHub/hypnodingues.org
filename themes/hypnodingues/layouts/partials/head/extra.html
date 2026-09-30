@@ -1,0 +1,16 @@
+{{- with .OutputFormats.Get "rss" }}
+<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">
+{{- end }}
+<script>
+  if (sessionStorage.getItem('hd-nav')) {
+    sessionStorage.removeItem('hd-nav');
+    document.documentElement.classList.add('no-entry-motion');
+  }
+</script>
+{{- with resources.Get "js/main.js" | minify | fingerprint }}
+<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
+{{- end }}
+{{- if .IsHome }}
+<script src="{{ "assets/js/TweenLite.min.js" | relURL }}" defer></script>
+<script src="{{ "assets/js/spiders.js" | relURL }}" defer></script>
+{{- end }}

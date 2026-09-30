@@ -1,66 +1,7 @@
-{{ partialCached "validate-post-dates.html" site }}
+{{- $dateValidation := partialCached "validate-post-dates.html" site -}}
 <!DOCTYPE html>
-<html lang="{{ site.Language.Locale | default `fr-CH` }}">
-  {{ $pageTitle := .Title | plainify }}
-  {{ if and .IsSection (eq .Section "posts") }}
-    {{ $pageTitle = printf "%d Articles" (len .RegularPages) }}
-  {{ end }}
-  {{ $title := site.Title }}
-  {{ if not .IsHome }}{{ $title = printf "%s | %s" $pageTitle site.Title }}{{ end }}
-  {{ $description := or .Params.social_description .Description .Params.description site.Params.description }}
-  {{ $socialTitle := $title }}
-  {{ with .Params.social_title }}{{ $socialTitle = . | plainify }}{{ end }}
-  {{ $socialType := or .Params.social_type (cond .IsPage "article" "website") }}
-  {{ $socialCard := or .Params.twitter_card "summary_large_image" }}
-  {{ $socialImage := "" }}
-  {{ with .Params.social_image }}
-    {{ $socialImage = . }}
-  {{ end }}
-  {{ if and (eq $socialImage "") .Params.images }}
-    {{ $socialImage = index .Params.images 0 }}
-  {{ end }}
-  {{ if eq $socialImage "" }}
-    {{ $socialImage = site.Params.social.image | default site.Params.home.bgImage | default "/assets/Hypnose.jpg" }}
-  {{ end }}
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="generator-date" content="{{ now.UTC.Format `2006-01-02T15:04:05Z` }}">
-    <title>{{ $title }}</title>
-    {{ with $description }}<meta name="description" content="{{ . }}">{{ end }}
-    <link rel="canonical" href="{{ .Permalink }}">
-    <meta property="og:title" content="{{ $socialTitle }}">
-    <meta property="og:description" content="{{ $description }}">
-    <meta property="og:url" content="{{ .Permalink }}">
-    <meta property="og:type" content="{{ $socialType }}">
-    <meta property="og:image" content="{{ $socialImage | absURL }}">
-    <meta property="og:site_name" content="{{ site.Title }}">
-    <meta property="og:locale" content="fr_CH">
-    <meta name="twitter:card" content="{{ $socialCard }}">
-    <meta name="twitter:title" content="{{ $socialTitle }}">
-    <meta name="twitter:description" content="{{ $description }}">
-    <meta name="twitter:image" content="{{ $socialImage | absURL }}">
-    <link rel="icon" href="/assets/favicon.ico">
-    <script>
-      if (sessionStorage.getItem('hd-nav')) {
-        sessionStorage.removeItem('hd-nav');
-        document.documentElement.classList.add('no-entry-motion');
-      }
-    </script>
-    {{ with resources.Get "css/main.css" | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}">
-    {{ end }}
-    {{ with resources.Get "js/main.js" | minify | fingerprint }}
-      <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
-    {{ end }}
-    {{ if .IsHome }}
-      <script src="/assets/js/TweenLite.min.js" defer></script>
-      <script src="/assets/js/spiders.js" defer></script>
-    {{ end }}
-    {{ with .OutputFormats.Get "rss" }}
-      <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">
-    {{ end }}
-  </head>
+<html lang="{{ site.Language.Lang | default `fr` }}">
+{{ partial "head.html" . }}
   {{ $siteHost := site.BaseURL | strings.TrimPrefix "https://" | strings.TrimPrefix "http://" | strings.TrimSuffix "/" }}
   <body class="{{ if .IsHome }}is-home{{ else if .IsSection }}is-section{{ else }}is-page{{ end }} theme-{{ site.Params.theme.variant | default `poetic-light` }}" data-site-host="{{ $siteHost }}">
     <div class="site-shell">
@@ -88,8 +29,6 @@
         </a>
       </footer>
     </div>
-    {{ if templates.Exists "partials/cloudflare-analytics.html" }}
-      {{ partial "cloudflare-analytics.html" . }}
-    {{ end }}
+    {{ partial "cloudflare-analytics.html" . }}
   </body>
 </html>

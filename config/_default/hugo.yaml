@@ -1,4 +1,5 @@
 locale: fr-CH
+defaultContentLanguage: fr
 title: Hypnodingues
 theme: hypnodingues
 enableRobotsTXT: true
@@ -33,6 +34,15 @@ menu:
           weight: 40
 
 params:
+    author: Nicolas Jeanmonod
+    favicon: assets/favicon.ico
+    faviconType: image/x-icon
+    openGraphLocale: fr_CH
+    productionBaseURL: https://hypnodingues.org
+    socialImage: assets/nuweiba.jpg
+    socialImageAlt: Hypnodingues
+    articleTypes:
+        - posts
     posts:
         # Articles récemment modifiés : showRecentlyModified active l’exergue
         # sur /posts/ ; recentlyModifiedCount règle le nombre de vignettes.
