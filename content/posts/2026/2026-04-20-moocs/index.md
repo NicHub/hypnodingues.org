@@ -170,3 +170,7 @@ draft:         false
     : tuteur de mathématiques pour enfants, qui adapte les exercices selon les micro-évaluations réalisées au fil de l’interaction.
 -   [OpenLearn — The Open University](https://www.open.edu/openlearn/)
     : [Présentation d’OpenLearn sur YouTube](https://www.youtube.com/watch?v=lTqFEzzxyKM)
+
+## Idées en vrac
+
+-   [Scratchpad](scratchpad.txt)
