@@ -230,6 +230,8 @@ twitter_card:          "summary_large_image"
 27. **Elles sont élitistes**<!-- Éventuellement déplacer après “Elles fragilisent les démocraties” -->
     -   Pour les détenteurs·rices : Elles concentrent un pouvoir d’analyse, d’automatisation et d’influence entre les mains de celles et ceux qui les possèdent.
     -   Pour les utilisateurs·rices : Plus on dispose de moyens financiers, de temps et de compétences, plus les IA sont utiles et profitables.
+    -   Les résultats, avancées et progrès techniques et scientifiques pourraient être réservés aux détenteurs·ices d’IA :
+        _YouTube — Stream Theory — en précisant que je fais de la théorie et pas des expériences_[^78]
 
 28. **Elles uniformisent le langage**
     -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
@@ -483,3 +485,5 @@ twitter_card:          "summary_large_image"
 [^76]: [YouTube — Culture & IA — Thélyson Orélien a utilisé l’IA ? Tous les tests et la réponse définitive !](https://www.youtube.com/watch?v=9iiGaHCJTT4&lc=UgyyHZq2GD0DJ_Fxdtx4AaABAg)
 
 [^77]: [YouTube — Les Echos — Pourquoi les géants de l’IA tirent la sonnette d’alarme ? Clarisse t’explique](https://www.youtube.com/watch?v=-lly_C676fw)
+
+[^78]: [YouTube — Stream Theory — en précisant que je fais de la théorie et pas des expériences](https://www.youtube.com/watch?v=Q51yx7-oCrU)
