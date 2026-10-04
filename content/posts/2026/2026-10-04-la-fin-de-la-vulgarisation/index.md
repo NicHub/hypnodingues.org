@@ -1,5 +1,6 @@
 ---
 title:         "La fin de la vulgarisation"
+lastmod:       2026-10-04T14:44:17+02:00
 date:          2026-10-04T12:00:00+02:00
 categories:    [Science, Technique]
 author:        Nico
