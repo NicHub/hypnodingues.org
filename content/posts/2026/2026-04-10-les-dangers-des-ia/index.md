@@ -199,6 +199,7 @@ twitter_card:          "summary_large_image"
         -   _YouTube — Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
             -   `==INTERFACE MANUELWITH STEPS INSTEAD SENTENCES :)ISH`
     -   Prompts cachés : texte de la même couleur que le fond, invisible aux humains, mais pas aux IA.
+    -   Infection des corpus pour biaiser les apprentissages (_data poisoning_)[^79]
 
 23. **Elles polluent les corpus de connaissances**<!-- polluer, dégrader, altérer, contaminer -->
     -   Elles ajoutent leurs erreurs à celles des humains et les réinjectent dans les corpus existants.
@@ -487,3 +488,5 @@ twitter_card:          "summary_large_image"
 [^77]: [YouTube — Les Echos — Pourquoi les géants de l’IA tirent la sonnette d’alarme ? Clarisse t’explique](https://www.youtube.com/watch?v=-lly_C676fw)
 
 [^78]: [YouTube — Stream Theory — en précisant que je fais de la théorie et pas des expériences](https://www.youtube.com/watch?v=Q51yx7-oCrU)
+
+[^79]: [YouTube - Underscore — Il empoisonne ses données pour prouver qu’on les lui vole](https://www.youtube.com/watch?v=D3yZCYjgqy4)
