@@ -53,7 +53,7 @@ draft:         false
 :   Je ne sais pas quoi en penser. C’est encore très à chaud. C’était hier soir, on était dedans et pas
 
 **Apolline de Malherbe**
-:     que spontanément. Quand un homme politique vous dit « faut augmenter les salaires », la salle des patrons ricane. Honnêtement. Est-ce que vous trouvez que...
+:   que spontanément. Quand un homme politique vous dit « faut augmenter les salaires », la salle des patrons ricane. Honnêtement. Est-ce que vous trouvez que...
 
 **Julie Neuville**
 :   augmenter les salaires, qu’est-ce que ça veut dire ? Quel est le niveau de charge qu’il y a derrière ? Et aujourd’hui, en tout cas, ce que moi je peux vous retranscrire comme message, c’est que en tant que cheffe d’entreprise, je ne suis pas contre mes salariés, contre mes collaborateurs,
