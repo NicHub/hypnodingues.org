@@ -50,3 +50,26 @@ Ces dangers justifient la demande de Mahaim : créer des dispositions légales 
 [^7]: [YouTube — DirtyBiology — La fin de la vulgarisation](https://www.youtube.com/watch?v=jYRU7BYKpaw)
 
 [^8]: [Wikipedia — Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
+
+
+-   AGI Artificial general intelligence
+
+    -   https://en.wikipedia.org/wiki/Artificial_general_intelligence
+    -   https://fr.wikipedia.org/wiki/Intelligence_artificielle_g%C3%A9n%C3%A9rale
+
+    **L'AGI** (Intelligence Artificielle Générale) et l'**Agentic AI** (IA Agentique) représentent deux paradigmes distincts du développement de l'IA, différant principalement par leur portée, leur maturité et leur autonomie.
+
+    **L'IA Agentique** est une technologie émergente et pratique qui permet à des systèmes autonomes d'atteindre des objectifs spécifiques avec une supervision humaine minimale. Ces systèmes sont **proactifs**, capables de planifier des étapes multi-sauts, d'utiliser des outils externes (comme des API ou des bases de données) et de s'adapter dynamiquement à leur environnement pour accomplir des tâches complexes dans des domaines définis.
+
+    En revanche, l'**AGI** reste un concept **théorique** visant à créer une intelligence capable de raisonner, d'apprendre et de s'adapter à **n'importe quelle tâche intellectuelle** qu'un humain peut effectuer, sans limites de domaine. Contrairement à l'IA agentique qui excute des workflows prédéfinis, l'AGI impliquerait une flexibilité cognitive générale, une conscience potentielle et une capacité d'auto-amélioration illimitée, ce qui la place loin dans le futur de la recherche.
+
+    ### Comparaison Clé
+
+    | Caractéristique | IA Agentique | AGI (Intelligence Artificielle Générale) |
+    | :--- | :--- | :--- |
+    | **Statut actuel** | Déployable aujourd'hui (émergent) | Théorique (recherche) |
+    | **Portée** | Tâches spécifiques, domaines définis | Toutes les tâches intellectuelles humaines |
+    | **Autonomie** | Limitée au périmètre de la tâche | Potentiellement totale et générale |
+    | **Apprentissage** | Optimisation dans des paramètres connus | Généralisation et adaptation universelle |
+
+    L'IA agentique est souvent considérée comme une **étape intermédiaire** ou un précurseur vers l'AGI, car elle développe des compétences fondamentales comme la planification, l'utilisation d'outils et la prise de décision autonome, qui sont essentielles pour atteindre une intelligence plus générale à l'avenir.
