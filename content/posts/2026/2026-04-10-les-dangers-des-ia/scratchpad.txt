@@ -51,7 +51,6 @@ Ces dangers justifient la demande de Mahaim : créer des dispositions légales 
 
 [^8]: [Wikipedia — Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
 
-
 -   AGI Artificial general intelligence
 
     -   https://en.wikipedia.org/wiki/Artificial_general_intelligence
@@ -73,3 +72,5 @@ Ces dangers justifient la demande de Mahaim : créer des dispositions légales 
     | **Apprentissage** | Optimisation dans des paramètres connus | Généralisation et adaptation universelle |
 
     L'IA agentique est souvent considérée comme une **étape intermédiaire** ou un précurseur vers l'AGI, car elle développe des compétences fondamentales comme la planification, l'utilisation d'outils et la prise de décision autonome, qui sont essentielles pour atteindre une intelligence plus générale à l'avenir.
+
+[^9]: [Youtube — Yannick Dalbin — Ce que 1 an à laisser l'IA coder m'a appris sur le métier de développeur](https://www.youtube.com/watch?v=7qlk9MQgafU&)
