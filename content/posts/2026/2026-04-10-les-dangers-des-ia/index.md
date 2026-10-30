@@ -106,7 +106,12 @@ twitter_card:          "summary_large_image"
     -   Elles donnent du travail qualifié à des employés dont ce n’est pas la qualification.
     -   _YouTube — Micode — La fabrique à idiots_[^9]
 
-12. **Elles remplacent les humains**
+12. **Elles enferment les utilisateurs dans leur écosystème**
+    -   Les assistants personnels accumulent au fil des échanges des informations, des préférences et du contexte qui leur permettent de mieux répondre aux besoins de leurs utilisateurs.
+    -   Ces connaissances peuvent toutefois rester enfermées dans une « boite noire » : elles ne sont pas toujours faciles à consulter, à corriger ou à transférer vers un autre service.
+    -   Changer de fournisseur peut alors signifier perdre une partie du contexte accumulé et devoir le reconstituer, ce qui renforce la dépendance au service initial.
+
+13. **Elles remplacent les humains**
     -   Plusieurs métiers disparaissent, vont disparaitre ou être profondément transformés.
     -   L’objectif affiché de certaines entreprises est même de remplacer une part majoritaire de l’activité économique humaine.[^39]
     -   Les humains qui ne maitriseront pas l’usage de l’IA seront très impactés.
@@ -119,7 +124,7 @@ twitter_card:          "summary_large_image"
     -   _YouTube — France Inter — OpenAI résout l’équation de Navier-Stokes — Nos vies numériques, Stéphane Jourdain_[^73]
     -   _YouTube — EEVblog 1776 — Get paid $175/hr to eliminate your own PCB Design job!_[^75]
 
-13. **Elles sont utilisées pour évaluer le travail des humains**
+14. **Elles sont utilisées pour évaluer le travail des humains**
     -   Le travail fourni par les humains, qu’il soit assisté ou non par des agents, est de plus en plus souvent évalué par des IA, elles-mêmes assistées ou non par des humains.
     -   Conséquences délétères possibles :
         -   Lassitude et sentiment d’inutilité chez les humains : à quoi bon s’investir si une IA peut contrôler, corriger ou invalider le résultat ?
@@ -135,7 +140,7 @@ twitter_card:          "summary_large_image"
             -   _YouTube — Culture & IA — Thélyson Orélien a utilisé l’IA ? Tous les tests et la réponse définitive !_[^76]
         -   Effet de boucle : des IA produisent, d’autres IA évaluent, puis ces évaluations servent à entrainer de nouvelles IA.
 
-14. **Elles sont énergivores**
+15. **Elles sont énergivores**
     -   Une requête ChatGPT consomme vingt fois plus d’énergie qu’une requête sur un moteur de recherche standard.
     -   En conséquence, les fournisseurs d’IA sont en train de s’équiper de moyens de production d’énergie comme des centrales nucléaires, ce qui pose le problème connexe de la souveraineté énergétique des États.
     -   Le déploiement massif de centres de données pour l’IA crée aussi un nouvel appel d’air pour les énergies fossiles.[^39]
@@ -143,7 +148,7 @@ twitter_card:          "summary_large_image"
     -   _The Shift Project — Intelligence artificielle, données, calculs : quelles infrastructures dans un monde décarboné ?_[^31]
     -   On pourrait imaginer qu’elles consomment tellement qu’on en arrive à une situation de krach énergétique.
 
-15. **Elles ont un impact environnemental conséquent**
+16. **Elles ont un impact environnemental conséquent**
     -   Mitage
     -   Pollution
     -   Bruit
@@ -151,35 +156,35 @@ twitter_card:          "summary_large_image"
         -   _YouTube — Numerama — Tout le monde se trompe sur l’eau consommée par l’IA_[^64]
     -   Greenwashing[^39]
 
-16. **Elles sont vulnérables**
+17. **Elles sont vulnérables**
     -   Car elles dépendent de composants logiciels et matériels nombreux et complexes.
     -   _YouTube — Le HuffPost — À San Francisco, cette panne d’électricité n’a pas été sans conséquences pour la ville de la tech_[^2]
     -   _YouTube — Le Parisien — Un taxi autonome incendié en pleine rue à San Francisco_[^59]
 
-17. **Elles fragilisent les démocraties**<!-- Probablement à fusionner avec “Elles ne respectent pas les régulations” -->
+18. **Elles fragilisent les démocraties**<!-- Probablement à fusionner avec “Elles ne respectent pas les régulations” -->
     -   Elles sont détenues par des intérêts privés et se développent bien plus vite que les institutions démocratiques publiques ne peuvent réagir.[^46]
     -   Concentration de pouvoirs[^32].
     -   Elles favorisent la convergence des intérêts des grandes entreprises technologiques, des industries des énergies fossiles et des pouvoirs publics, au détriment des régulations démocratiques.[^39]
 
-18. **Elles coutent très cher**
+19. **Elles coutent très cher**
     -   Pourtant les fournisseurs d’IA ne reportent qu’une fraction de leurs couts sur les tarifs de leurs abonnements.
         Ce sont donc les informations partagées par les utilisateurs qui sont monétisées.
     -   Les fournisseurs peuvent aussi chercher à faire acheter leurs technologies par les États, y compris lorsque les bénéfices promis ne sont pas démontrés.[^39]
     -   _Le Temps — « On sort de l’ère du repas gratuit »_[^27]
 
-19. **Elles orientent les choix**
+20. **Elles orientent les choix**
     -   Les utilisateurs perdent en partie ou en totalité la possibilité de faire leurs propres choix dans leur vie numérique.
     -   _Sci+ (Scilabus) — Attention : Votre assistant d’écriture change votre façon de penser_[^3]
     -   Elles sont sycophantes[^69][^55][^5][^62].
     -   _Le biais cognitif que tout le monde a (sans le savoir)_[^4]
     -   Elles donnent l’illusion d’être compris (thérapie psychiatrique au rabais).<!-- Ça pourrait être une catégorie de danger de premier niveau, pas une sous-catégorie. -->
 
-20. **Elles déstabilisent le tissu social**
+21. **Elles déstabilisent le tissu social**
     -   Anthropomorphisme : le risque à terme est que les humains préfèrent parler à des IA plutôt qu’à leurs semblables.
     -   _YouTube — Philippe Meirieu — Ne parlez PLUS à l’IA comme à un humain (Meirieu alerte)_[^6]
     -   _PressReader — Le Temps — L’intelligence artificielle crée l’illusion de s’occuper de nous_[^7]
 
-21. **Elles sont intrusives**[^29][^30][^33]
+22. **Elles sont intrusives**[^29][^30][^33]
     -   Elles sont utilisées à des fins de surveillance sans possibilité d’opposition (sans possibilité d’exprimer le non-consentement, la désapprobation).[^44][^45]
     -   Elles favorisent un développement non éthique de l’_OSINT_[^17] et de l’_ingénierie sociale_[^18].
     -   Système de reconnaissance vocale.
@@ -191,10 +196,11 @@ twitter_card:          "summary_large_image"
         -   assurances (maladie, immobilières…)
         -   prestataires financiers (banques, créanciers, crédit…)
     -   Obligation de répondre à des demandes d’informations sensibles détenues par des IA : un tiers pourrait exiger un bilan établi par des IA qui ont accès à des données pertinentes et potentiellement sensibles. Par exemple une assurance pourrait exiger un bilan de santé par ce biais pour compléter une analyse réalisée par un·e médecin.
+    -   Leurs fournisseurs pourraient communiquer ou exploiter les informations confiées par leurs utilisateurs à des fins de renseignement, soit dans le cadre de services proposés à des tiers, soit en réponse à de futures obligations légales. Ces informations pourraient intéresser, par exemple, les autorités fiscales ou les assurances. Dans le prolongement de dispositifs intrusifs tels que l’OSCPT en Suisse ou le _CLOUD Act_ aux États-Unis, on pourrait imaginer que des États imposent un jour aux fournisseurs d’IA de divulguer certaines informations sur leurs utilisateurs.
     -   _YouTube — Fransosiche — Comment retrouver n’importe qui sur Internet ? (Sensibilisation OSINT)_[^70]
     -   _YouTube — Micode — Comment retrouver n’importe qui sur Internet ?_[^71]
 
-22. **Elles sont hackées**
+23. **Elles sont hackées**
     -   Requêtes DAN (Do Anything Now).
     -   Requêtes UTS (Universal Transferable Suffix).
         -   _YouTube — Christophe Pauly — Le MOT interdit qui fait dérailler les IA_[^8]
@@ -202,12 +208,12 @@ twitter_card:          "summary_large_image"
     -   Prompts cachés : texte de la même couleur que le fond, invisible aux humains, mais pas aux IA.
     -   Infection des corpus pour biaiser les apprentissages (_data poisoning_)[^79]
 
-23. **Elles polluent les corpus de connaissances**<!-- polluer, dégrader, altérer, contaminer -->
+24. **Elles polluent les corpus de connaissances**<!-- polluer, dégrader, altérer, contaminer -->
     -   Elles ajoutent leurs erreurs à celles des humains et les réinjectent dans les corpus existants.
         Autrement dit, elles mangent en boucle leur caca et le nôtre.
     -   Elles augmentent massivement la quantité de contenus médiocres ou erronés en circulation.[^39]
 
-24. **Elles assèchent les sources dont elles dépendent elles-mêmes**
+25. **Elles assèchent les sources dont elles dépendent elles-mêmes**
     -   Elles détournent les internautes des sites d’information, des plateformes et des médias spécialisés en leur fournissant des réponses directes grâce à des UX “zéro clic”[^41].
     -   En privant ces sources de trafic et de revenus, elles menacent leur capacité à produire et à maintenir les contenus qui les alimentent elles-mêmes.[^42]
     -   À long terme, ce cercle vicieux menace la diversité des nouveaux contenus.[^12]
@@ -215,10 +221,10 @@ twitter_card:          "summary_large_image"
         -   `#autodafés`
         -   `#Fahrenheit451`
 
-25. **Elles ne respectent pas le droit à l’oubli**
+26. **Elles ne respectent pas le droit à l’oubli**
     -   …<!-- Cryptomnésie ou pas ? Je ne me souviens plus d’où m’est venue cette idée du droit à l’oubli 🤔 -->
 
-26. **Elles saturent les capacités cognitives**
+27. **Elles saturent les capacités cognitives**
     -   En créant un appel d’air de tâches à exécuter.
         -   Source de l’idée originale : newsletter par mail de Marc Menson “Why your to-do list will never end”.
         -   En réduisant considérablement le temps et le cout de réalisation, les IA rendent possibles de nombreux projets auparavant abandonnés ou reportés : les idées et les tâches se multiplient, tandis que le goulet d’étranglement se déplace de la réalisation technique vers la capacité humaine à sélectionner, coordonner et interrompre les projets. Ce passage incessant d’un projet à l’autre peut entrainer une surcharge mentale, effacer le temps personnel et conduire au burnout.[^43]
@@ -229,23 +235,23 @@ twitter_card:          "summary_large_image"
         -   _YouTube — Damien Maya — Pourquoi choisir est devenu une torture psychologique_[^11]
             -   Certaines études montreraient que les algorithmes sont capables de prédire nos désirs avant qu’ils n’arrivent à notre conscience, ce qui activerait les circuits de la récompense avant même l’effort et réduirait ainsi la motivation.
 
-27. **Elles sont élitistes**<!-- Éventuellement déplacer après “Elles fragilisent les démocraties” -->
+28. **Elles sont élitistes**<!-- Éventuellement déplacer après “Elles fragilisent les démocraties” -->
     -   Pour les détenteurs·rices : Elles concentrent un pouvoir d’analyse, d’automatisation et d’influence entre les mains de celles et ceux qui les possèdent.
     -   Pour les utilisateurs·rices : Plus on dispose de moyens financiers, de temps et de compétences, plus les IA sont utiles et profitables.
     -   Les résultats, avancées et progrès techniques et scientifiques pourraient être réservés aux détenteurs·ices d’IA :
         _YouTube — Stream Theory — en précisant que je fais de la théorie et pas des expériences_[^78]
 
-28. **Elles uniformisent le langage**
+29. **Elles uniformisent le langage**
     -   Les IA produisent une langue homogène. En privilégiant les usages majoritaires, elles effacent les particularités linguistiques.
         -   _YouTube — France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   _PressReader — Le Temps — L’IA punit les Romands pour leur langage_[^28]
 
-29. **Elles marginalisent les langues à faibles ressources**
+30. **Elles marginalisent les langues à faibles ressources**
     -   Les IA apprennent à partir des langues à hautes ressources, c’est-à-dire de langues qui disposent de grandes quantités de textes, de traductions, de dictionnaires. Les langues moins parlées ou moins documentées sont donc sous-représentées et marginalisées.
         -   _YouTube — France Culture — Arnaud Hoedt — Un autre effet des IA génératives : l’uniformisation du langage_[^21]
     -   Contre-exemple : _MINOR-IA, L’IA au service de la santé mentale en langues minoritaires_[^26]
 
-30. **On ne connait pas de moyen pour déterminer si elles sont conscientes**
+31. **On ne connait pas de moyen pour déterminer si elles sont conscientes**
     -   _YouTube — Robert Miles AI Safety — The AI Consciousness Question is So Annoying_[^34]
     -   _YouTube — Fabien Olicard — L’expérience de la chambre chinoise_[^40]
     -   _YouTube — Kevin Finel — Personne ne sait pourquoi tu es conscient_[^67]
@@ -256,21 +262,21 @@ twitter_card:          "summary_large_image"
         -   Computationnalisme : La conscience est un calcul
         -   Mystérianisme : Colin Mc Ginn
 
-31. **Elles présentent des enjeux éthiques nombreux**
+32. **Elles présentent des enjeux éthiques nombreux**
     -   _Wikipédia — Éthique de l’intelligence artificielle_[^38]
 
-32. **Elles changent notre rapport à la réalité**
+33. **Elles changent notre rapport à la réalité**
     -   Leurs réalisations numériques sont considérées aussi réelles que des réalisations physiques.[^49]
 
-33. **Elles choisissent nos vies à notre place**
+34. **Elles choisissent nos vies à notre place**
     -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
     -   _YouTube — ARTE — Bientôt, les enfants des riches auront un ADN “supérieur” ?_[^52]
 
-34. **Elles peuvent exfiltrer des données sensibles, privées ou confidentielles**
+35. **Elles peuvent exfiltrer des données sensibles, privées ou confidentielles**
     -   Quand on les invite directement sur nos appareils.
     -   Quand on partage des conversations existantes.[^53][^54]
 
-35. **Elles pourraient provoquer une singularité technologique**
+36. **Elles pourraient provoquer une singularité technologique**
     -   Une intelligence artificielle dépassant les capacités humaines pourrait contribuer à améliorer ses propres successeurs et provoquer une accélération technologique devenue imprévisible ou incontrôlable.[^56]
 
     > _“The Singularity”, […] [is] the future point at which artificial intelligence exceeds human intelligence_[^57]
@@ -280,7 +286,7 @@ twitter_card:          "summary_large_image"
     -   Cette singularité reste une hypothèse controversée, et non une étape dont la possibilité ou la proximité seraient établies.[^57]
     -   _Yuval Noah Harari on AI, Human Stupidity, and the Future of Civilization_[^49]
 
-36. **Elles pourraient devenir autonomes puis autosuffisantes**
+37. **Elles pourraient devenir autonomes puis autosuffisantes**
     -   Elles pourraient atteindre une autonomie opérationnelle leur permettant de planifier et d’agir sans intervention humaine immédiate.
     -   Elles pourraient ensuite devenir autosuffisantes en assurant les ressources, la maintenance et les infrastructures nécessaires à leur fonctionnement.
     -   Ces seuils ne supposent pas nécessairement une intelligence supérieure à celle des humains, mais pourraient rendre leur interruption ou leur contrôle beaucoup plus difficiles.[^49]
