@@ -39,4 +39,18 @@ Dans la même veine, la “label upgrade strategy” de Dolly Parton :
 >
 > [ *Dolly Parton* ]
 
-<https://www.youtube.com/watch?v=LdsqEn4W0_8>
+---
+
+-   The Dolly Parton trick to handle people who talk down to you. Credit: Dorie Clark
+    Baste Records
+    <https://www.youtube.com/watch?v=LdsqEn4W0_8>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdsqEn4W0_8?si=kdFwaNGkZ9st6_i9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+-   Pourquoi tout le monde aime Dolly Parton ? - Culture Prime
+    France tv culture
+    <https://www.youtube.com/watch?v=xP4ZML__RTI>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xP4ZML__RTI?si=0QIWjLoBvownLNj2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
