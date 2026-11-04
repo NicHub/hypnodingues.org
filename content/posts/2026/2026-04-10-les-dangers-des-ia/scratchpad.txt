@@ -43,18 +43,9 @@ Ces dangers justifient la demande de Mahaim : créer des dispositions légales 
 
 [^4]: [YouTube — Élucid — L’IA MENACE DÉJÀ LE TRAVAIL ET LES DIPLÔMES : vers une « génération perdue » ? - Axelle Arquié](https://www.youtube.com/watch?v=R66fhcoBdXs)
 
-[^5]: [YouTube — France Inter — “L’utilisation de l’IA dans l’écriture est prévue par l’histoire de la littérature”](https://www.youtube.com/watch?v=YJst4Yoj4rM)
-
-[^6]: [YouTube — France Info — “Peut-on vraiment détecter des romans écrits par l'IA ?”](https://www.youtube.com/watch?v=CUPewjpoJt8)
-
-[^7]: [YouTube — DirtyBiology — La fin de la vulgarisation](https://www.youtube.com/watch?v=jYRU7BYKpaw)
-
-[^8]: [Wikipedia — Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
-
 -   AGI Artificial general intelligence
-
-    -   https://en.wikipedia.org/wiki/Artificial_general_intelligence
-    -   https://fr.wikipedia.org/wiki/Intelligence_artificielle_g%C3%A9n%C3%A9rale
+    -   <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
+    -   <https://fr.wikipedia.org/wiki/Intelligence_artificielle_g%C3%A9n%C3%A9rale>
 
     **L'AGI** (Intelligence Artificielle Générale) et l'**Agentic AI** (IA Agentique) représentent deux paradigmes distincts du développement de l'IA, différant principalement par leur portée, leur maturité et leur autonomie.
 
@@ -62,15 +53,13 @@ Ces dangers justifient la demande de Mahaim : créer des dispositions légales 
 
     En revanche, l'**AGI** reste un concept **théorique** visant à créer une intelligence capable de raisonner, d'apprendre et de s'adapter à **n'importe quelle tâche intellectuelle** qu'un humain peut effectuer, sans limites de domaine. Contrairement à l'IA agentique qui excute des workflows prédéfinis, l'AGI impliquerait une flexibilité cognitive générale, une conscience potentielle et une capacité d'auto-amélioration illimitée, ce qui la place loin dans le futur de la recherche.
 
-    ### Comparaison Clé
+## Comparaison Clé
 
-    | Caractéristique | IA Agentique | AGI (Intelligence Artificielle Générale) |
-    | :--- | :--- | :--- |
-    | **Statut actuel** | Déployable aujourd'hui (émergent) | Théorique (recherche) |
-    | **Portée** | Tâches spécifiques, domaines définis | Toutes les tâches intellectuelles humaines |
-    | **Autonomie** | Limitée au périmètre de la tâche | Potentiellement totale et générale |
-    | **Apprentissage** | Optimisation dans des paramètres connus | Généralisation et adaptation universelle |
+    | Caractéristique   | IA Agentique                            | AGI (Intelligence Artificielle Générale)   |
+    | :---------------- | :-------------------------------------- | :----------------------------------------- |
+    | **Statut actuel** | Déployable aujourd'hui (émergent)       | Théorique (recherche)                      |
+    | **Portée**        | Tâches spécifiques, domaines définis    | Toutes les tâches intellectuelles humaines |
+    | **Autonomie**     | Limitée au périmètre de la tâche        | Potentiellement totale et générale         |
+    | **Apprentissage** | Optimisation dans des paramètres connus | Généralisation et adaptation universelle   |
 
     L'IA agentique est souvent considérée comme une **étape intermédiaire** ou un précurseur vers l'AGI, car elle développe des compétences fondamentales comme la planification, l'utilisation d'outils et la prise de décision autonome, qui sont essentielles pour atteindre une intelligence plus générale à l'avenir.
-
-[^9]: [Youtube — Yannick Dalbin — Ce que 1 an à laisser l'IA coder m'a appris sur le métier de développeur](https://www.youtube.com/watch?v=7qlk9MQgafU&)
