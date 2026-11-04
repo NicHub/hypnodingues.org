@@ -54,7 +54,7 @@ twitter_card:          "summary_large_image"
     -   L’accès à leurs services est révocable unilatéralement et subitement par leurs fournisseurs ou leur régulateur.
     -   Le 13 juin 2026, Washington a ordonné à Anthropic de couper l’accès à ses modèles de pointe – Mythos et Fable – à toute personne de nationalité étrangère. Y compris ses propres employés. Du jour au lendemain, des centaines de millions d’utilisateurs ont perdu un outil de travail, sans avoir pris part à aucun débat. « Ressortissant étranger » est devenu une catégorie de conformité pour accéder à une machine à penser.
         _PressReader — Le Temps — Est-ce le bruit des bottes ou celui de l’éveil que nous entendons ?_[^25]
-    -   _The threat of AI imperialism | Yuval Noah Harari_[^80]
+    -   _YouTube — Yuval Noah Harari — The threat of AI imperialism_[^80]
 
 2. **Elles peuvent changer de propriétaire**
     -   Comme pour tout service _cloud_, lorsqu’un fournisseur d’IA change de propriétaire, les données de ses utilisateurs peuvent être transférées à l’acquéreur.
@@ -261,6 +261,8 @@ twitter_card:          "summary_large_image"
         -   Panpsychisme
         -   Computationnalisme : La conscience est un calcul
         -   Mystérianisme : Colin Mc Ginn
+    -   _YouTube — cocadmin — Comment ChatGPT à HACKÉ sans faire exprès ?_[^81]
+    -   _YouTube — Cyrus North — Ces IA se sont sacrifiées les unes pour les autres. Sont-elles conscientes ?_[^82]
 
 32. **Elles présentent des enjeux éthiques nombreux**
     -   _Wikipédia — Éthique de l’intelligence artificielle_[^38]
@@ -496,6 +498,10 @@ twitter_card:          "summary_large_image"
 
 [^78]: [YouTube — Stream Theory — en précisant que je fais de la théorie et pas des expériences](https://www.youtube.com/watch?v=Q51yx7-oCrU)
 
-[^79]: [YouTube - Underscore — Il empoisonne ses données pour prouver qu’on les lui vole](https://www.youtube.com/watch?v=D3yZCYjgqy4)
+[^79]: [YouTube — Underscore — Il empoisonne ses données pour prouver qu’on les lui vole](https://www.youtube.com/watch?v=D3yZCYjgqy4)
 
-[^80]: [The threat of AI imperialism | Yuval Noah Harari](https://www.youtube.com/watch?v=1LT1f23pIZ0)
+[^80]: [YouTube — Yuval Noah Harari — The threat of AI imperialism](https://www.youtube.com/watch?v=1LT1f23pIZ0)
+
+[^81]: [YouTube — cocadmin — Comment ChatGPT à HACKÉ sans faire exprès ?](https://www.youtube.com/watch?v=V6QoHjpODsI)
+
+[^82]: [YouTube — Cyrus North — Ces IA se sont sacrifiées les unes pour les autres. Sont-elles conscientes ?](https://www.youtube.com/watch?v=ueiVvqsFZ3k)
