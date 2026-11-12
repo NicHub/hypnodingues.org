@@ -63,3 +63,5 @@ Ces dangers justifient la demande de Mahaim : créer des dispositions légales 
     | **Apprentissage** | Optimisation dans des paramètres connus | Généralisation et adaptation universelle   |
 
     L'IA agentique est souvent considérée comme une **étape intermédiaire** ou un précurseur vers l'AGI, car elle développe des compétences fondamentales comme la planification, l'utilisation d'outils et la prise de décision autonome, qui sont essentielles pour atteindre une intelligence plus générale à l'avenir.
+
+[^5]: [Wikimedia — L’avenir du savoir libre à l’âge de l’IA](https://wikimedia.ch/fr/news/the-future-of-free-knowledge-in-the-age-of-ai/)
